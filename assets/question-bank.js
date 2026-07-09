@@ -1214,9 +1214,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 说明：速度配准失效（SPEED TRIM FAIL）灯亮（琥珀色）指示速度配准系统失效；主注意灯重现时，表明飞行操纵计算机（FCC）单通道失效，主注意系统复位时该灯熄灭。本题中机组按压系统信号牌后灯亮、复位主警告灯后熄灭，对应第二种情况——FCC 单通道失效时速度配准功能由另一通道继续工作，因此并非速度配准系统完全失效，而是 FCC 单通道失效，系统仍可正常工作。故正确答案为 B。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（表示飞行控制计算机单通道已经失效，但是速度配平系统仍然可以正常工作）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2349,10 +2349,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "运行手册",
+        "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2406,10 +2406,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "运行手册",
+        "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2463,10 +2463,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "运行手册",
+        "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2520,10 +2520,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "运行手册",
+        "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2634,10 +2634,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "运行手册",
+        "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2691,10 +2691,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "运行手册",
+        "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4115,7 +4115,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：MCP 速度窗显示用马赫/空速选择旋钮所选的速度，在特定条件下显示限制速度。正确答案以原题库为准。请查阅该章节确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（高度层改变方式接通）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4167,7 +4167,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：自动油门预位电门在 ARM 位时，当 LVL CHG、ALT ACQ、V/S 等俯仰方式接通时自动油门自动接通 N1 方式。VNAV 方式爬升时自动油门保持 FMC 推力限制（N1 方式）。正确答案为 B。请查阅该章节确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（接通VNAV方式爬升）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4219,7 +4219,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：VNAV PATH 下降过程中自动油门保持慢车推力，但当速度低于目标速度且差值达到临界值时转变为 FMC SPD 方式。正确答案为 C（保持慢车推力，但当地速低得难以维持 FMC 垂直航径时转变为 FMC SPD 方式）。请查阅该章节确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（保持慢车推力，但当地速低得难以维持FMC垂直航径时，则转变为FMCSPD方式）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4333,7 +4333,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：ALT HOLD 接通时自动油门自动接通 MCP SPD 方式以保持 MCP 速度。正确答案为 A。请查阅该章节确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（高度保持方式接通时，自动油门保持MCP速度）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4390,7 +4390,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：ALT INTV 电门用于在 VNAV 爬升期间人工删除下一个 FMC 高度限制。正确答案为 A（MCP 高度之下的最低 FMC 高度限制被删除）。请查阅该章节确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（MCP高度之下的最低FMC高度限制被删除）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4442,7 +4442,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：VOR 或 LOC 方式接通时，副驾驶 F/D 使用副驾驶航道选钮和 2 号甚高频导航接收机的数据。正确答案为 B（第二部甚高频导航接收机）。请查阅该章节确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（第二部甚高频导航接收机）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4499,7 +4499,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：副驾驶的航道窗数据仅向本侧 FCC 和显示系统提供。正确答案以原题库为准。请查阅该章节确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（第一部飞行控制计算机（FCCA））。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4613,7 +4613,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：航向道和下滑道截获后，进近方式可通过选择不同俯仰或横滚方式等方式退出。正确答案以原题库为准。请查阅该章节确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（按压APP电门）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4670,7 +4670,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：起飞后在指引仪方式下接通自动驾驶 A 在 CMD 位，此时 AFDS 俯仰接通在 TO/GA 方式。但根据 FCOM 描述——起飞方式为仅飞行指引方式，接通自动驾驶后俯仰方式取决于所选方式。正确答案以原题库（D）为准。请查阅该章节确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（高度层改变）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4727,7 +4727,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：接近 MCP 所选高度时，ALT ACQ（高度截获）方式自动接通。正确答案为 B（俯仰显示高度截获 ALT ACQ）。请查阅该章节确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（俯仰显示高度截获(ALTACQ)）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4784,7 +4784,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：人工超控俯仰使飞机偏离所选高度后松手，AFDS 先显示 ALT ACQ，回到选择的高度后显示 ALT HOLD。正确答案为 B。请查阅该章节确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（先显示ALTACQ，回到选择的高度后显示ALTHOLD）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4955,7 +4955,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：按压驾驶盘上的 A/P 脱开电门会导致自动驾驶脱开，A/P 脱开灯红色闪亮，警告声响至少维持两秒钟。正确答案为 A（按压驾驶盘上的 A/P 脱开电门脱开自动驾驶时）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（按压驾驶盘上的A/P脱开电门脱开自动驾驶时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5012,7 +5012,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：飞行指引独立工作方式在 APP 方式接通并截获航道和下滑道、GA 方式接通 400 英尺 RA 以下、或 TO 方式接通 400 英尺 RA 以下时出现。正确答案为 D（复飞方式接通，无线电高度 400 英尺以下）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（复飞方式接通，无线电高度400英尺以下）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5069,7 +5069,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：自动油门方式包括 N1、GA、RETARD、FMC SPD、MCP SPD、THR HLD、ARM。起飞方式（TO/GA）属于俯仰方式，不是自动油门方式。正确答案为 A（起飞方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（起飞方式）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5126,7 +5126,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：AFDS 俯仰方式包括 TO/GA、LVL CHG、VNAV、ALT ACQ、ALT HOLD、V/S、CWS P 等。进近方式属于横滚/进近方式，不属于俯仰方式。正确答案为 D（进近方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（进近方式）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5178,7 +5178,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：水平导航（LNAV）在距有效航段一定范围内可截获。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（在任何航向上并且距有效航段3海里以内）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5235,7 +5235,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：THR HLD（推力保持）方式下油门杆自动油门伺服机构受抑制，飞行员可人工调置油门杆。正确答案为 A（推力保持）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（推力保持）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5292,7 +5292,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：接地后 2 秒钟自动油门自动脱开。正确答案为 B（接地后两秒）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（接地后两秒）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5349,7 +5349,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：速度 80 海里/小时后并且离地 150 秒内按压 TO/GA 可接通起飞方式。正确答案为 D。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（速度80海里/小时后，并且离地150秒内）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5406,7 +5406,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：起飞过程中 60 海里/小时前 FMA 俯仰方式为 TO/GA。正确答案为 B（起飞/复飞）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（起飞/复飞）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5463,7 +5463,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：起飞过程中 84 海里/小时后自动油门方式为 THR HLD（推力保持）。正确答案为 C（推力保持）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（推力保持）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5520,7 +5520,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：无线电高度 800 英尺时自动油门从推力保持变为预位。正确答案为 B（800 英尺）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（800英尺）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5577,7 +5577,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：双通道进近时第二部自动驾驶在 800 英尺 RA 前必须接通。正确答案为 B（800 英尺）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（800英尺）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5629,7 +5629,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：航向道和下滑道截获后进近电门灯灭。正确答案为 C（航向道和下滑道截获后）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（航向道和下滑道截获后）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5686,7 +5686,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：航向道截获点与切入角和接近率有关。正确答案为 D。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（切入角和接近率）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9491,7 +9491,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（当飞行操纵A和B电门都在备用方向舵（STBYRUD）位时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（当飞行操纵A和B电门都在备用方向舵（STBYRUD）位时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9548,7 +9548,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['C']（当备用襟翼主电门放到“预位”位时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（当备用襟翼主电门放到“预位”位时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9605,7 +9605,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（电动收上后缘襟翼）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（电动收上后缘襟翼）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9662,7 +9662,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。原文说明：预位时作用。 UP－ ·电动收起后缘襟翼 ·前缘装置保持在放出位置，且备用襟翼系统不能将其收上。 OFF－正常工作位置。 DOWN（弹簧保持在OFF 位）－ ·（瞬时）用备用液压将前缘装置完全放出 ·（保持）电动放出后缘襟翼直到松开电门。 感觉压差（FEEL DIFF PRESS）灯 后缘襟翼全收上或放下时预位。 亮（琥珀色）－ ·表明升降舵感觉计算机感觉到压差过大。 注：错误接通升降舵感觉偏移组。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['B']（用备用液压将前缘装置完全放出）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9719,7 +9719,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['C']（将安定面配平超控电门扳到“超控”位）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（将安定面配平超控电门扳到“超控”位）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9776,7 +9776,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['B']（左右7度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['B']（左右7度）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9833,7 +9833,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。原文说明：板减载系统输入测试信号，或 ·在着陆期间，指示轮速已下降至低于60 节，并且减速板手柄不在下 卡位。 减速板放出（SPEEDBRAKES EXTENDED）灯 亮（琥珀色）－ ·飞行中－ ·减速板手柄超出预位卡位，且 ·后缘襟翼放出大于襟翼10，或 ·无线电高度小于800 英尺 ·在地面－ ·减速板手柄在下卡位，且 ·地面扰流板未收回。 注：在地面，液压系统A 压力低于750 psi 时，减速板放。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（无线电高度低于800英尺或后缘襟翼大于10时，减速板手柄超出预位卡位）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9890,7 +9890,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（后缘襟翼不对称）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（后缘襟翼不对称）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9947,7 +9947,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（副翼和升降舵）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（副翼和升降舵）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10005,7 +10005,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（通这转换机构连接）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（通这转换机构连接）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10062,7 +10062,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（增加飞机的下降率或配合副翼进行横滚操纵）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（增加飞机的下降率或配合副翼进行横滚操纵）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10114,7 +10114,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['C']（由副驾驶的驾驶盘通过扰流板控制）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（由副驾驶的驾驶盘通过扰流板控制）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10171,7 +10171,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['C']（扰流板发生卡阻，机长通过副翼控制横滚）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（扰流板发生卡阻，机长通过副翼控制横滚）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10228,7 +10228,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（副翼感觉和定中组件）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（副翼感觉和定中组件）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10285,7 +10285,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['C']（10度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（10度）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10342,7 +10342,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。原文说明：81Q/-83N/-8K5/-86J/-86N FCOM 飞行操纵 9.20.8 D6-27370-81B-GUN September 26, 2013 马赫配平系统 马赫配平系统提供高马赫数时的速度稳定性。马赫数大于0.615 时，随 着速度的增加，升降舵根据安定面位置而调整，从而自动完成马赫配 平。飞行操纵计算机（FCC）使用大气数据惯性基准组件的马赫数， 计算马赫配平作动筒的位置。马赫配平作。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（高马赫数时的速度稳定性）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10399,7 +10399,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（0.615，安定面位置）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（0.615，安定面位置）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10456,7 +10456,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['C']（减小）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（减小）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10513,7 +10513,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。原文说明：入连杆上。 速度大于135 节时，液压系统A 和B 每一个将减小主动力控制组件压 力约25%。这样就在起飞后和着陆前的飞行过程中限制满舵操作。在 空中和在地面工作方式相同。 主方向舵动力控制组件（PCU）包含一个反向压力监控器（FFM）用 来探测A 和B 动作筒之间的反向压力。若任一A 或B 系统的输入卡阻 或断开。反向压力监控器自动打开备用液压泵向备用动力控制组件供 压且备用方向舵接通（STBY。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（通过减小液压A系统向方向舵PCU的供压）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10570,7 +10570,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。原文说明：方向舵动力控制组件连接。主动力控制组件包括两个独立的输入连 杆，两个单独的控制活门和两个分离的动作筒。一套供液压系统A、 一套供液压系统B。备用方向舵的动力控制组件由单独的输入连杆和 控制活门控制，由备用液压系统供压。所有三套输入连杆均有单独的 阻尼超控机构，若一套输入连杆或下游的硬件受阻，则允许输入指令 继续转换到剩余自由运动的输入连杆上。 速度大于135 节时，液压系统A 和B 每一个将减小主。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（备用液压系统）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10628,7 +10628,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['B']（防止荷兰滚和阵风阻尼，并协调转变）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['B']（防止荷兰滚和阵风阻尼，并协调转变）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10685,7 +10685,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（A系统）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（A系统）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10742,7 +10742,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（两个；任一；60）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（两个；任一；60）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10799,7 +10799,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（起飞、爬升和复飞期间。）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（起飞、爬升和复飞期间。）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20421,7 +20421,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。FCOM 说明：燃油流量电门弹簧保持在 RATE 位，扳到 USED 位显示已用燃油量后松手回位即回到正常流量显示。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（松手10秒后自动回到流量显示）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23092,7 +23092,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》差错标准名词解释。损坏一词表示不影响航空器正常放行。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23135,7 +23135,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》旅客行李管理程序。旅客自行离机未申明时必须进行清舱。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23178,7 +23178,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》安保程序。经空警确认事实真相的不需要清舱。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23221,7 +23221,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》旅客行李管理程序。旅客已办登机手续未登机或中途中止旅行时必须将其行李卸下飞机。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23307,7 +23307,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》液态物品运输规定。盛放液态物品的容器应放在最大容积不超过1升的透明塑料袋中。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23350,7 +23350,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》MEL 管理规定。A 类项目要求1个日历日(24小时)或按备注栏内规定的时间修复。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23393,7 +23393,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》MEL 管理规定。MEL 修复时间从发生故障的第二天子夜零时开始计算。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23436,7 +23436,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》飞行关键阶段定义。包括涉及滑行、起飞和着陆的所有地面操作阶段以及除巡航以外的 10000 英尺以下飞行阶段。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23565,7 +23565,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》备降场最低天气标准。对于只有一套进近设施与程序的机场，MDH/DH 增加 120 米，能见度增加。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23737,7 +23737,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》应急程序。迫降时机组在 500 英尺广播通知客舱做好防冲撞姿势。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23780,7 +23780,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》标准操作程序。发现指示异常时首先检查系统控制电门或手柄位置是否正确。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23823,7 +23823,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》机组职责。机长对所有行动的指令和执行有最后决定权。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23866,7 +23866,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》程序。将旅客氧气电门扳到 ON 位会导致旅客氧气面罩放出。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24039,7 +24039,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：着陆灯通常在起飞后收起起落架后关断，或按公司程序执行。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（达到或高于10000英尺MSL。）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24258,7 +24258,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：GPWS 根据机长最低高度选钮设定发出 DH/MDA 高度喊话。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（机长EFIS面板上MINS旋钮设定的高度）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24301,7 +24301,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：PSEU（起落架位置/状态电子组件）灯指示起落架位置/状态电子组件故障。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（该灯从起飞到落地后30内受到抑制）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24344,7 +24344,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：WINDSHEAR AHEAD 警告表示气象雷达探测到飞机正前方附近有风切变。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（表示飞机在起飞时，无线电高度1200英尺以下，气象雷达探测到正前方附近有风切变存在）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24387,7 +24387,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》氧气系统说明。氧气流量指示器里出现黄色十字表明氧气正在流动。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24430,7 +24430,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：可收放的着陆灯安装在机翼/机身特定位置，照射方向为前方，在起落架放下时可以放出。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（机身下部; 飞机水线方向; 任何速度）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24473,7 +24473,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》氧气使用程序。座舱高度 14000 英尺以下且存在烟雾或不正常热源时不要使用旅客氧气。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24516,7 +24516,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》驾驶舱准备程序。目光沿遮光板上表面可见机头结构且沿操纵杆上方可见外侧 DU 底部边缘。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25081,7 +25081,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（需要前推操纵杆以保持所需的俯仰姿态）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（需要前推操纵杆以保持所需的俯仰姿态）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25602,7 +25602,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（用备用液压将前缘装置完全放出,并电动放后缘襟翼直到松开电门;）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（用备用液压将前缘装置完全放出,并电动放后缘襟翼直到松开电门;）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25645,7 +25645,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（当飞行操纵A和B2个电门都在备用方向舵位且将偏航阻尼器电门接通时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（当飞行操纵A和B2个电门都在备用方向舵位且将偏航阻尼器电门接通时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25688,7 +25688,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（两个推力手柄都在慢车位、任一起落架减震支柱压缩且主轮的转速达到60海里以上时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（两个推力手柄都在慢车位、任一起落架减震支柱压缩且主轮的转速达到60海里以上时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26165,7 +26165,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：速度基准选钮在游标 5 或 SET 位且所选值大于 60 节时，PFD 速度带上显示白色游标 5。正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（发动机方式控制面板上的速度基准电门在游标5位时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26208,7 +26208,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：垂直速率指示器显示惯性基准系统（IRS）计算的垂直速度。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（大气数据惯性基准系统）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26253,7 +26253,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：PFD 上出现航向故障（HDG）旗表示航向数据失效。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（航向数据失效）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26296,7 +26296,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。DISPLAY CONTROL PANEL 信息出现表示相应 EFIS 控制面板失效。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26339,7 +26339,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：计划（PLAN）方式以真北向上显示，不显示当前航向。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（MAP）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26382,7 +26382,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。主面板显示组件选择开关放 OUTBD PFD 位时内侧 DU 显示空白。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26469,7 +26469,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。主面板显示组件电门在正常位时内侧 DU 失效导航显示不会自动显示。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26776,7 +26776,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：指点标符号在飞越外指点标（OM，青绿色）、中指点标（MM，琥珀色）、内指点标（IM，白色）时闪亮。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（在主飞行显示器上显示）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27209,7 +27209,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：地图（MAP）方式以航迹向上显示，显示 TRK 而非 HDG。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（显示警戒并且在该发动机非显示位置显示琥珀色实心框; 三个框闪亮10秒钟, 然后警戒保持稳定亮且实心框消失）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27774,7 +27774,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（襟翼放出时禁止在结冰条件下等待）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（襟翼放出时禁止在结冰条件下等待）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27817,7 +27817,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（不可以）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（不可以）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27948,7 +27948,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》限制。带小翼飞机侧风着陆时使用只带侧滑法着陆侧风标准减小 2 节。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28722,7 +28722,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》饮酒限制。计划飞行前 10 小时内不得饮酒；上午九点前起飞航班的前一天晚餐严禁饮酒。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28765,7 +28765,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》安保程序。匿名电话声称有爆炸物且旅客已登机时需要清舱。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28851,7 +28851,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》特殊旅客运输规定。病残旅客和无人陪伴儿童限制数量应减半。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28894,7 +28894,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》特殊旅客运输规定。特殊老年旅客参照无人陪伴儿童程序承运并与无人陪伴儿童合并计数。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28980,7 +28980,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》安保程序。佩带枪弹乘机的警卫人员信息由机场安检通知机组后机组无需检查证件。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29023,7 +29023,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》安保程序。押解女性犯罪嫌疑人至少需要一名女性民警。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29066,7 +29066,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》安保程序。须采取强制措施押解登机的同机承运不得超过 2 人。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29195,7 +29195,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》管理规定。登机门关闭后发现旅客显示醉态由机长决定是否责令其下机。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29238,7 +29238,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》MEL 管理规定。出现原签派放行单上没有的 MEL/CDL 项目需要重新签发或更改放行单。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29281,7 +29281,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》签派放行程序。起飞机场天气低于着陆标准时必须指定起飞机场备降场。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29324,7 +29324,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》CDFA 程序。CDFA 决断高在 MDA/H 标准上增加至少 50 英尺，该裕度不作为签派放行标准。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29454,7 +29454,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》应急程序。发生火警时机长必须决断在飞行时间最短的机场着陆。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29758,7 +29758,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（1000英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（1000英尺）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30015,7 +30015,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：在计划方式（PLAN）以真北向上显示，不显示气象雷达和 TCAS 信息。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（CDU飞行前程序。）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30321,7 +30321,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：中心进近方式不显示气象雷达、TCAS 和 TERRAIN 信息。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（60英尺）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30451,7 +30451,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（表示飞行控制计算机单通道已经失效，但是速度配平系统仍然可以正常工作）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（表示飞行控制计算机单通道已经失效，但是速度配平系统仍然可以正常工作）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30538,7 +30538,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：DSPLY SOURCE（显示源）信号表示一部 DEU 已失效，显示已转换到单 DEU 源。正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（当飞机飞进风切变区域后，预警式风切变系统仍然能够提供风切变警戒）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30581,7 +30581,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：EFIS 控制面板 BOTH ON 2 位时，右 EFIS 控制面板控制两位飞行员的显示。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（表示飞机在进近时，无线电高度1200英尺以下，气象雷达探测到飞机正前方1.5海里内有风切变）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30624,7 +30624,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：外侧 DU 失效时 PFD 自动显示在内侧 DU 上，外侧 DU 空白。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（近地警告系统）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30710,7 +30710,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》氧气系统说明。紧急/测试旋钮在任何座舱高度都以正压力提供 100% 氧气。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31059,7 +31059,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：ISFD 显示姿态、空速、高度、航道/下滑道偏离和磁航向。姿态根据内部惯性传感器计算。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（说明冲压空气系统有故障）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31706,7 +31706,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：ISFD 姿态复位约需 10 秒，起始程序约 90 秒。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（空白）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32184,7 +32184,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。使用发电机驱动脱开电门脱开发电机后该发电机无法再使用。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32402,7 +32402,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（说明速度配平系统单通道失效;）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（说明速度配平系统单通道失效;）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32488,7 +32488,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（安定面位置、推力手柄位置、垂直速率和空速）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（安定面位置、推力手柄位置、垂直速率和空速）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32531,7 +32531,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（液压B系统失效且飞行操纵B电门在关位或备用方向舵位时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（液压B系统失效且飞行操纵B电门在关位或备用方向舵位时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33050,7 +33050,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。显示控制面板选择电门 BOTH ON 2 位时副驾驶 EFIS 控制面板控制双发显示。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33093,7 +33093,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：ISFD 起始过程中飞机出现明显移动时起始将终止。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（电子飞行仪表系统控制面板所选范围与气象雷达显示范围不一致）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33136,7 +33136,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：最低气压高度指针通过 EFIS 控制面板上的 BARO 选钮设置。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（遮光板上）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33179,7 +33179,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：大多数飞行阶段建议使用地图方式。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（FMC数据库高高度导航设备）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33309,7 +33309,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：显示源控制面板位于机长前顶板 P5 上方。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（头顶板）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33439,7 +33439,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：地图方式的位置趋势线第二段末端代表一定时间后飞机预达位置。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（20海里）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33482,7 +33482,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：飞行计划中存在程序转弯时，选择范围大于一定距离时只显示一个固定大小的程序转弯。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（80海里）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33525,7 +33525,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：侧滑指示由偏航阻尼器或侧滑传感器提供，指示飞机是否协调飞行。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（如果飞机坡度角大于或等于35度，即使侧滑指针没有全刻度偏转，侧滑指针外框也会变为琥珀色）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34344,7 +34344,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）。FCOM 说明：起飞基准 1/2 页底部在完成所需飞行前输入后显示相关信息。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（INDEX索引提示符）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34602,7 +34602,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）及第10章（飞行仪表与显示）。FCOM 说明：N1 转速表上出现琥珀色 TAI 指示表示整流罩防冰活门不在相应发动机防冰电门所指示的位置。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（整流罩防冰活门不在相应的发动机防冰电门所指令的位置）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34776,7 +34776,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 说明：APU 超速灯亮表示 APU 转速超出限制。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（超过APU转速限制或正常关车时超速保护功能自检失败）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -35082,7 +35082,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（1,000英尺RA）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（1,000英尺RA）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -35168,7 +35168,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（20）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（20）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -35300,7 +35300,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：发动机限制显示中的注意限制以琥珀色标识。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（琥珀色）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36119,7 +36119,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》安保程序。经公司批准的载运特许人员进入驾驶舱必须征得机长同意。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36162,7 +36162,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》特殊旅客程序。病残旅客撤离原则由乘务长确定撤离出口位置和次序。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36205,7 +36205,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》特殊旅客程序。每个航班可同机承运 3 名以下精神病人。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36291,7 +36291,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》安保程序。旅客登机时显示醉态干扰工作或危及安全时应劝其下机。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36377,7 +36377,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》机长运行限制。新机长运行未满 100 小时的着陆最低标准增加 30 米和 800 米。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36420,7 +36420,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》机长运行限制。公布 RVR 着陆标准为 550 米时新机长标准为 1400 米。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36725,7 +36725,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（15）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（15）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37161,7 +37161,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：PSEU 指示灯亮指示起落架位置/状态电子组件探测到系统故障。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（从前推推力手柄起飞到落地后30秒之间）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37204,7 +37204,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：通过按压低于下滑道指示灯可以在特定高度以下抑制该警告。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（只有在低于无线电高度表1000英尺，且低于下滑道警告生效，使该灯亮后）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37247,7 +37247,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：起飞形态警告喇叭发出间歇性声响的条件包括起落架未放下锁定等构型不正确情况。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（减速板手柄不在下卡位，或虽在下卡位但扰流板没有收好）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37291,7 +37291,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。起落架收上锁好的指示为手柄在收上位或中立位且所有起落架指示灯熄灭。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37334,7 +37334,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：坡度音响警告在坡度角超过特定角度时触发。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（坡度超过35、40和45 度时都会出现警告）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37377,7 +37377,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：MONITOR RADAR DISPLAY 警告指示气象雷达探测到可能的危险天气，要求机组监控雷达显示。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（表示飞机在起飞或进近时，无线电高度1200英尺以下，气象雷达探测到飞机正前方3海里内有风切变）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37420,7 +37420,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：TCAS 系统提供交通咨询（TA）和决断咨询（RA），RA 提供航径引导及机动指引。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（TCAS能够为飞机提供横侧的机动指引）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37463,7 +37463,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：警戒级别中，注意级（Caution）级别最低，警告级（Warning）级别最高。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（MONITOR RADAR DISPLAY）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37506,7 +37506,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第1章（飞机概况）。FCOM 说明：驾驶舱门在按压 CAB DOOR UNLOCKED 后视飞行阶段和空速条件决定上锁逻辑。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（有直流电源时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37549,7 +37549,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》氧气系统说明。正常/100% 电门在正常位提供空气/氧气混合气。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38587,7 +38587,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：在飞行指引起飞或复飞阶段遭遇风切变，垂直速率低于 +600 英尺/分钟时飞行指引俯仰指令 15 度上仰姿态。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（15度）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39232,7 +39232,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（当备用襟翼主电门放到”预位”位时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（当备用襟翼主电门放到”预位”位时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39275,7 +39275,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（将安定面配平超控电门扳到”超控”位）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（将安定面配平超控电门扳到”超控”位）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39318,7 +39318,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（副翼向上时, 扰流板按比例打开; 副翼向下时, 扰流板不动）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（副翼向上时, 扰流板按比例打开; 副翼向下时, 扰流板不动）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39361,7 +39361,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（襟翼收上: 3.95-14.5; 襟翼放下:0.05-14.5）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（襟翼收上: 3.95-14.5; 襟翼放下:0.05-14.5）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39449,7 +39449,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（将飞行操纵A和B电门都放到备用方向舵位时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（将飞行操纵A和B电门都放到备用方向舵位时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39492,7 +39492,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（导致飞机抖动）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（导致飞机抖动）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39535,7 +39535,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（当两个推力手柄都在慢车位、主轮转速达到60海里以上且任意一个反推手柄拉起来时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（当两个推力手柄都在慢车位、主轮转速达到60海里以上且任意一个反推手柄拉起来时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39796,7 +39796,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：速度带上琥珀色最大机动速度在起飞后第一次收襟翼或输入有效 VREF 时显示。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（高高度，飞机总重较大且襟翼收上时，或襟翼放出时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39840,7 +39840,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：低于 1000 英尺 AGL 且 LNAV 接通、LOC 预位但未截获航道时，航道刻度变琥珀色且指针闪亮。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（离地1000英尺以下）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39927,7 +39927,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：高度带的绿色阴影指示起落架放下时的安全高度范围。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（QFE工作时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39971,7 +39971,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：备用姿态指示器（ISFD）由电瓶汇流条供电。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（起飞与目的地机场的距离为500海里，当飞机已飞行了260海里时，显示起飞机场的跑道或起飞机场的着陆高度）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40014,7 +40014,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。俯仰角显示相差 5 度以上时显示 PITCH 故障旗并闪亮 10 秒。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40057,7 +40057,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 说明：红色上方起落架指示灯亮表示起落架未放下锁定且低高度/慢车条件满足，或起落架位置与手柄位置不一致。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（附近飞机）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40100,7 +40100,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 说明：ANTISKID INOP 灯亮表示防滞监控系统探测到系统故障。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（80NM）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40187,7 +40187,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。主面板显示组件选择开关放 INBD PFD 位时内侧 DU 显示 PFD。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40274,7 +40274,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）。FCOM 说明：FMC 警戒灯琥珀色亮表示两部 CDU 都有警戒信息，或测试电门在位，或草稿行显示 INSUFFICIENT FUEL。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（3 6）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40360,7 +40360,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：ENG FAIL 警告保持直到发动机恢复推力、起动手柄移到 CUTOFF 位或发动机火警电门提起。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（60秒）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40489,7 +40489,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：DU（显示组件）全称为 Display Unit。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（通过位于驾驶舱内后顶板上的起落架指示绿灯来确定）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40576,7 +40576,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。前轮转弯手轮输入超控脚蹬输入。机长向左转手轮 10 度时前轮偏转 10 度。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40662,7 +40662,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（允许进入跑道起飞后，必须使用方向舵脚凳来对正跑道）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（允许进入跑道起飞后，必须使用方向舵脚凳来对正跑道）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -42267,7 +42267,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》RVSM 运行程序。RVSM 运行中机长和副驾驶高度显示最大允许差别为 200 英尺。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -42697,7 +42697,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》法规规定。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -42740,7 +42740,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》飞行操作程序。高于机场标高 2500-1000 英尺下降率限制 1500 英尺/分钟；1000 英尺以下限制 1000 英尺/分钟。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -42955,7 +42955,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》机组分工。起飞前与着陆后按左座与右座分工，飞行中按 PF/PM 分工。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -42998,7 +42998,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（与襟翼位置指示一致的位置）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（与襟翼位置指示一致的位置）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43649,7 +43649,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。起动活门打开指示属于注意级(CAUTION)而非警告级(WARNING)。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43694,7 +43694,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（任一推力手柄位于慢车位与大约20度油门杆之间，但是此时飞机的无线电高度必须小于800英尺，此时警告可以被人工切断）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（任一推力手柄位于慢车位与大约20度油门杆之间，但是此时飞机的无线电高度必须小于800英尺，此时警告可以被人工切断）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43909,7 +43909,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》氧气系统说明。旅客面罩呼吸空气/氧气混合气。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43952,7 +43952,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》氧气系统说明。旅客氧气系统可持续 12 或 22 分钟，不能人工关断。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45909,7 +45909,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（该电门仅供机务使用，任何时候，机组都不会使用该电门；）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（该电门仅供机务使用，任何时候，机组都不会使用该电门；）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45952,7 +45952,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（偏航阻尼器系统有故障或将飞行操纵电门B置于关或备用方向舵位）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（偏航阻尼器系统有故障或将飞行操纵电门B置于关或备用方向舵位）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45995,7 +45995,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（当飞行操纵A和B电门都在备用方向舵(STBY RUD)位时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（当飞行操纵A和B电门都在备用方向舵(STBY RUD)位时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46038,7 +46038,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（电门无法保持在接通位,无法启动备用偏航阻尼器;）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（电门无法保持在接通位,无法启动备用偏航阻尼器;）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46081,7 +46081,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（关闭后缘襟翼旁通活门且启动备用液压泵工作并预位备用襟翼位置电门）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（关闭后缘襟翼旁通活门且启动备用液压泵工作并预位备用襟翼位置电门）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46124,7 +46124,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（减速板手柄在下卡位, 且地面扰流板未收回）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（减速板手柄在下卡位, 且地面扰流板未收回）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46167,7 +46167,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（使用安定面配平或用力操纵卡阻的升降舵, 通过超控机构可以使左右驾驶杆分离; 分离后可自由移动的驾驶杆可提供足够的升降舵操）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（使用安定面配平或用力操纵卡阻的升降舵, 通过超控机构可以使左右驾驶杆分离; 分离后可自由移动的驾驶杆可提供足够的升降舵操）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46210,7 +46210,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（大于恢复人工控制的操纵力）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（大于恢复人工控制的操纵力）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46253,7 +46253,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（0.615, 安定面位置）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（0.615, 安定面位置）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46296,7 +46296,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（回到配平速度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（回到配平速度）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46559,7 +46559,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（备用方向舵关断活门打开使相关液压系统的备用泵工作）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（备用方向舵关断活门打开使相关液压系统的备用泵工作）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46602,7 +46602,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（预位备用襟翼位置电门，关闭后缘襟翼的旁通活门，起动液压系统的备用泵）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（预位备用襟翼位置电门，关闭后缘襟翼的旁通活门，起动液压系统的备用泵）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46819,7 +46819,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（预位备用襟翼位置电门，关闭后缘襟翼的旁通活门，起动液压系统的备用泵）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（预位备用襟翼位置电门，关闭后缘襟翼的旁通活门，起动液压系统的备用泵）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46862,7 +46862,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（A和B液压系统都失去时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（A和B液压系统都失去时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47256,7 +47256,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。DSPLY SOURCE 信息表示已自动转换到一部 DEU 显示源。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47516,7 +47516,7 @@ window.B737_QUESTION_BANK = {
         "manual": "公司运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。前起落架指示绿灯不亮但后顶板主起落架指示可辅助判断。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》相关内容。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -49474,7 +49474,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（20,000英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（20,000英尺）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
