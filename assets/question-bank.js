@@ -12829,9 +12829,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰与防雨 partial 核准批次 1",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》防冰与防雨 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 原文说明：风挡加温 ON 灯亮（绿色）表示正对所选的风挡加温。ON 灯灭表示风挡加温电门在 OFF 位、风挡达到工作温度后加温自动调节导致灯灭，或系统故障。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -12886,9 +12886,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰与防雨 partial 核准批次 1",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》防冰与防雨 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：风挡雨刷电门 INT 位使雨刷以 7 秒间隔间断工作。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -12943,9 +12943,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰与防雨 partial 核准批次 1",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》防冰与防雨 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 原文说明：整流罩防冰（COWL ANTI-ICE）灯亮（琥珀色）指示发动机整流罩防冰活门的管道下游超压。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13000,9 +13000,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰与防雨 partial 核准批次 1",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》防冰与防雨 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）及第7章（发动机与 APU）。FCOM 说明：N1 指示上出现琥珀色 TAI 字样表示发动机整流罩防冰活门位置与发动机防冰电门指示位置不一致。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13057,9 +13057,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰与防雨 partial 核准批次 1",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》防冰与防雨 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：机翼防冰控制活门在管道内温度低于热耦电门接通温度时打开。在地面当左大翼管道温度高于接通温度时该侧活门关闭。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13114,9 +13114,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰与防雨 partial 核准批次 1",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》防冰与防雨 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：在地面打开大翼防冰电门后，空/地传感器在地面方式时无论控制活门在何位置活门关。飞机离地时自动跳到 OFF 位。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13171,9 +13171,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰与防雨 partial 核准批次 1",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》防冰与防雨 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：1 号和 2 号风挡由温度控制器控制加温，4 号和 5 号风挡通过侧风挡加温电门控制。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13228,9 +13228,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰与防雨 partial 核准批次 1",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》防冰与防雨 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：正常电源失效时备用电源不向备用空速皮托探头加温供电，故该探头加温不工作。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13285,9 +13285,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰与防雨 partial 核准批次 1",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》防冰与防雨 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 原文说明：每个整流罩防冰活门由电动控制和压力驱动。故正确答案为 A（电动，压力）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13337,9 +13337,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰与防雨 partial 核准批次 1",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》防冰与防雨 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）及第3章（防冰排雨）。FCOM 说明：右发引气活门失效在关位时若隔离活门关闭该侧无引气供应，右侧机翼防冰受影响。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13389,9 +13389,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰与防雨 partial 核准批次 1",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》防冰与防雨 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：发动机防冰活门位于发动机引气活门上游，故发动机引气活门失效不影响发动机防冰。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23882,7 +23882,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。风挡加温电门打开时机属于正常程序操作步骤，FCOM 第3章未单独说明开关时机。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。FCOM 说明：风挡加温电门在驾驶舱准备期间按正常程序步骤打开。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32756,7 +32756,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。大翼防冰的定义内容在 FCOM 第3章未以单一选择题形式呈现。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 原文说明：机翼防冰系统用引气向三个内侧前缘缝翼提供防护。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -42993,7 +42993,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 限制章节规定：全温（TAT）高于 10°C 时不应使用发动机或机翼防冰。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。L章（限制）。FCOM 限制章节规定：全温（TAT）高于 10°C 时不应使用发动机或机翼防冰。故正确答案为 A（10°C）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -49056,7 +49056,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 限制章节规定：除在静温 -40°C 以下巡航外，存在结冰条件或预计会结冰时，必须接通发动机热防冰。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。L章（限制）。FCOM 限制章节原文：除在静温 -40°C 以下巡航外，存在结冰条件或预计会结冰时必须接通发动机热防冰。故正确答案为 A（爬升和巡航）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
