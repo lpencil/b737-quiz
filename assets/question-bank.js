@@ -92,7 +92,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 partial 核准批次",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 partial 核准批次。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['C']（那些一经忽略将会对正常操纵有直接不利影响的关键性程序项目）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -149,7 +149,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 / 机组职责",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 / 机组职责。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（飞行航径、飞机形态、空速、导航）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -206,7 +206,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 / 机组职责",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 / 机组职责。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（读检查单、通讯、操纵飞行员（PM）指令的动作任务）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -263,7 +263,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 / 详细程序 / 初始飞行前程序",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 / 详细程序 / 初始飞行前程序。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['D']（符合放行要求）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -320,7 +320,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 / 详细程序 / 飞行前程序",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 / 详细程序 / 飞行前程序。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['C']（操纵飞行员PF一侧）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -377,7 +377,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 / 详细程序 / 关车程序",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 / 详细程序 / 关车程序。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（关断A系统液压泵）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -434,7 +434,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 / 详细程序 / 复飞和终止进近程序",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 / 详细程序 / 复飞和终止进近程序。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['C']（15）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -491,7 +491,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 partial 核准批次",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 partial 核准批次。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['C']（飞机建立稳定爬升后）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -548,7 +548,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 / 详细程序 / 初始飞行前程序",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 / 详细程序 / 初始飞行前程序。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（航前最初准备程序）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -605,7 +605,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 / 详细程序 / 起飞收襟翼速度计划",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 / 详细程序 / 起飞收襟翼速度计划。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['B']（15度）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -658,7 +658,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序仅答案题核准批次",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序仅答案题核准批次。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['B']（特殊情况下，在需要时才执行）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -715,7 +715,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "非正常程序与 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》非正常程序与 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['D']（由机长决定完成的方式）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -772,7 +772,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "非正常程序与 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》非正常程序与 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['D']（6000英尺）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -829,7 +829,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "非正常程序与 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》非正常程序与 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['C']（起飞前）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -886,7 +886,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "非正常程序与 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》非正常程序与 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（当风挡加温电门在ON位且相应的任一个风挡加温(ON)灯灭）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -943,7 +943,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "/ 冲突题清零批次",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》/ 冲突题清零批次。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['B']（双发正常工作，到达1500英尺或越障高度）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1000,7 +1000,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "非正常程序与 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》非正常程序与 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['B']（A环路有故障）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1057,7 +1057,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "非正常程序与 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》非正常程序与 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['D']（不需交流电或直流电也可加油）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2354,7 +2354,7 @@ window.B737_QUESTION_BANK = {
         "manual": "运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》运行手册。正确答案为['D']（相应的翼上出口未关闭锁定或指令锁定时，相应的飞行锁却无法接通）。请查阅该章节原文确认。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2411,7 +2411,7 @@ window.B737_QUESTION_BANK = {
         "manual": "运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》运行手册。正确答案为['D']（进行氧气面罩是否破损的测试或收起“OXYON”白色指示）。请查阅该章节原文确认。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2468,7 +2468,7 @@ window.B737_QUESTION_BANK = {
         "manual": "运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》运行手册。正确答案为['A']（100%纯氧）。请查阅该章节原文确认。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2525,7 +2525,7 @@ window.B737_QUESTION_BANK = {
         "manual": "运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》运行手册。正确答案为['B']（在任何座舱高度都以正压力提供100%氧气）。请查阅该章节原文确认。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2639,7 +2639,7 @@ window.B737_QUESTION_BANK = {
         "manual": "运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》运行手册。正确答案为['C']（罗盘灯，圆顶灯，仪表泛光灯，选择的系统信息和警告灯）。请查阅该章节原文确认。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2696,7 +2696,7 @@ window.B737_QUESTION_BANK = {
         "manual": "运行手册",
         "section": "运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》运行手册。正确答案为['C']（仅F/O的2号风挡）。请查阅该章节原文确认。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23082,7 +23082,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23124,7 +23124,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23166,7 +23166,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23208,7 +23208,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23292,7 +23292,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23334,7 +23334,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23376,7 +23376,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23418,7 +23418,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23544,7 +23544,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23712,7 +23712,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23754,7 +23754,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23796,7 +23796,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23838,7 +23838,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24353,7 +24353,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24438,7 +24438,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24480,7 +24480,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25379,7 +25379,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。APU 向交流转换汇流条供电及起飞后 APU 故障的处置属于供电逻辑和 QRH 程序。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（发动机发电机自动与相应的转换汇流条连接且两个”SOURCE OFF”灯都不会亮, 该自动连接在一次飞行中只能出现一次）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26239,7 +26239,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26324,7 +26324,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26409,7 +26409,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26498,7 +26498,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "补充程序 / 介绍 / 概述",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序 / 介绍 / 概述。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（设置起飞重量时，一定要输入飞机全重，而不能输入无燃油重量）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27861,7 +27861,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28618,7 +28618,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28660,7 +28660,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28744,7 +28744,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28786,7 +28786,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28870,7 +28870,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28912,7 +28912,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28954,7 +28954,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29080,7 +29080,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29122,7 +29122,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29164,7 +29164,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29206,7 +29206,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29333,7 +29333,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29505,7 +29505,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "补充程序 / 介绍 / 概述",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序 / 介绍 / 概述。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（发动机起动后）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30529,7 +30529,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。紧急出口灯的控制逻辑涉及客舱安全系统，FCOM 第1章或 CCOM 章节可参考。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（即使机上有正常的电源，所有的应急灯也会亮）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30571,7 +30571,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30614,7 +30614,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。应急灯光操作属于客舱应急设备程序。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（驾驶舱的”紧急灯光”电门和后乘务员面板上的”紧急灯光”电门都可以）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31684,7 +31684,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。单发飞行指引仪复飞的目标速度属于性能程序。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（MCP速度）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32023,7 +32023,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32882,7 +32882,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34921,7 +34921,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。空中非正常情况下口头证实的项目属于 QRH 程序执行的机组配合内容。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（发动机油门杆 发动机起动手柄 发动机、APU或货舱火警电门 发电机驱动脱开电门 当仅一部IRS失效时的IRS方式选钮 飞）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -35894,7 +35894,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35936,7 +35936,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35978,7 +35978,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36062,7 +36062,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36146,7 +36146,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36188,7 +36188,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36319,7 +36319,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 partial 核准批次",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 partial 核准批次。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（非正常检查单，偏离放行程序指南（DDG），最低设备放行清单（MEL））。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37044,7 +37044,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37301,7 +37301,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39729,7 +39729,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39900,7 +39900,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40283,7 +40283,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41809,7 +41809,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。反推收回后指示灯的故障判断时间属于反推系统说明。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（12秒）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41937,7 +41937,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42357,7 +42357,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42399,7 +42399,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42568,7 +42568,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 partial 核准批次",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 partial 核准批次。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（确保飞机适航的情况下，核实驾驶舱的形态正确）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -42610,7 +42610,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42907,7 +42907,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "正常程序 partial 核准批次",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序 partial 核准批次。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（6000英尺）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43291,7 +43291,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43462,7 +43462,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。紧急出口灯自动点亮的条件涉及应急电源逻辑。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（1#直流汇流条没电或交流电源关断时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43546,7 +43546,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43588,7 +43588,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44019,7 +44019,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。增压系统自动失效灯的触发条件在第2章（空气系统）有说明，需进一步确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（座舱高度15500英尺）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46839,7 +46839,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47095,7 +47095,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "公司运行手册",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47140,7 +47140,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。A 液压系统失效后人工放起落架的程序在 QRH 中。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（三个位置都可以）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48372,7 +48372,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。显示组件故障后的显示转换逻辑在第10章（飞行仪表与显示）中有说明。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（根据显示选择面板的电门位置，显示在上或内侧显示组件）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
