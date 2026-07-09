@@ -34,9 +34,9 @@ window.B737_QUESTION_BANK = {
         "通讯": 9
       },
       "referenceStatusCounts": {
-        "verified": 532,
+        "verified": 558,
         "event-reference": 33,
-        "insufficient": 462
+        "insufficient": 436
       }
     }
   },
@@ -1275,7 +1275,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1332,7 +1332,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "冲突题核准批次 / 系统说明摘录",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》冲突题核准批次 / 系统说明摘录。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。冲突题核准批次 / 系统说明摘录。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1390,7 +1390,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1447,7 +1447,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1504,7 +1504,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1561,7 +1561,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1618,7 +1618,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1675,7 +1675,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1732,7 +1732,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1789,7 +1789,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1846,7 +1846,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1903,7 +1903,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1960,7 +1960,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2012,7 +2012,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2069,7 +2069,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "/ 冲突题清零批次",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》/ 冲突题清零批次。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。/ 冲突题清零批次。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2126,7 +2126,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 1",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2183,7 +2183,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2240,7 +2240,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2297,7 +2297,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6706,7 +6706,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6763,7 +6763,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6820,7 +6820,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6877,7 +6877,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6934,7 +6934,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6991,7 +6991,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "冲突题核准批次 / 系统说明摘录",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》冲突题核准批次 / 系统说明摘录。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。冲突题核准批次 / 系统说明摘录。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7048,7 +7048,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "冲突题核准批次 / 系统说明摘录",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》冲突题核准批次 / 系统说明摘录。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。冲突题核准批次 / 系统说明摘录。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7105,7 +7105,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7162,7 +7162,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7219,7 +7219,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "冲突题核准批次 / 系统说明摘录",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》冲突题核准批次 / 系统说明摘录。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。冲突题核准批次 / 系统说明摘录。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13557,7 +13557,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13614,7 +13614,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13666,7 +13666,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13723,7 +13723,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13780,7 +13780,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13837,7 +13837,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 2",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 2。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13894,7 +13894,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 3",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13951,7 +13951,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 3",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14003,7 +14003,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 3",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14060,7 +14060,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 3",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14117,7 +14117,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 3",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14174,7 +14174,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 3",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14231,7 +14231,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 3",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14289,7 +14289,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 3",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14346,7 +14346,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 3",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 3。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14404,7 +14404,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "冲突题核准批次 / 系统说明摘录",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》冲突题核准批次 / 系统说明摘录。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。冲突题核准批次 / 系统说明摘录。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14461,7 +14461,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14518,7 +14518,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14576,7 +14576,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14633,7 +14633,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14690,7 +14690,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14742,7 +14742,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14799,7 +14799,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14856,7 +14856,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14913,7 +14913,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14970,7 +14970,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15022,7 +15022,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15079,7 +15079,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15136,7 +15136,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15193,7 +15193,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "显示与警告 partial 核准批次 4",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。显示与警告 partial 核准批次 4。本题答案以该章节内容为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15250,7 +15250,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（320海里）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（320海里）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15307,7 +15307,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（DATA）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（DATA）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15364,7 +15364,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['B']（2号）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['B']（2号）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15478,7 +15478,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（空白）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（空白）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15535,7 +15535,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（人工调定的着陆基准速度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（人工调定的着陆基准速度）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15592,7 +15592,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（10秒）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（10秒）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15649,7 +15649,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（只要一台发动机工作）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（只要一台发动机工作）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15707,7 +15707,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['B']（自动显不在机长的内侧显示组件上）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['B']（自动显不在机长的内侧显示组件上）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15811,7 +15811,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（正确）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（正确）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15858,7 +15858,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（需要）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（需要）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15972,7 +15972,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['B']（热电瓶汇流条）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['B']（热电瓶汇流条）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16024,7 +16024,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（只要有交流电就可以）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（只要有交流电就可以）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16082,7 +16082,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（在地图方式下，风量为7节）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（在地图方式下，风量为7节）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16139,7 +16139,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（MAP）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（MAP）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16196,7 +16196,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（设置重量时，一定要输入飞机全重，而不输入无燃油重量）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（飞行仪表与显示/警告系统）。第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（设置重量时，一定要输入飞机全重，而不输入无燃油重量）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24052,9 +24052,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空调与增压 partial 核准批次 1",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》空调与增压 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）及第6章（电气）。FCOM 说明：使用外部气源车起动期间，电瓶电门应接通以确保空调系统和相关控制电路有电。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24693,9 +24693,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空调与增压 partial 核准批次 1",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》空调与增压 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：座舱压力控制器需要来自大气数据惯性基准组件的气压高度和速度数据。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24736,9 +24736,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空调与增压 partial 核准批次 1",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》空调与增压 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：人工方式下由备用直流系统供电的独立直流电机驱动排气活门，速率比自动或备用方式慢。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30743,9 +30743,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空调与增压 partial 核准批次 1",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》空调与增压 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：组件电门在 AUTO 位时，仅一个组件工作并且飞行中襟翼收上时，工作的组件调至高流量位。故空中单组件工作且襟翼收上时组件活门提供高流量，正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30787,9 +30787,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空调与增压 partial 核准批次 1",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》空调与增压 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：再循环风扇电门在自动位时风扇工作。在空中，除非任一组件电门在高流量位否则左再循环风扇工作；除非两个组件都在高流量位否则右再循环风扇工作。本题左组件在自动位、右组件在高流量位，左循环风扇工作、右循环风扇停止。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30831,9 +30831,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空调与增压 partial 核准批次 1",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》空调与增压 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：在地面，除非两个组件都在高流量位否则左再循环风扇工作；即使两个组件都在高流量位，右再循环风扇也保持工作。两个组件都在高流量位时左风扇自动停止，正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31003,9 +31003,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空调与增压 partial 核准批次 1",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》空调与增压 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：区域温度控制通过向区域供气管道加入适量的调节空气（来自组件热空气）来提高区域温度。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32538,9 +32538,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空调与增压 / 系统说明 / 座舱增压控制",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》空调与增压 / 系统说明 / 座舱增压控制。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：A 液压系统由 1 号发动机驱动的发动机驱动泵（EDP）和 2 号电动马达驱动泵（EMDP）供压。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33120,7 +33120,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "显示源面板在：",
       "options": [
@@ -33134,13 +33135,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：显示源控制面板位于机长前顶板 P5 上方。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "显示源面板在"
     },
@@ -33247,7 +33248,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "地图方式的位置趋势线在选择的范围为多少时显示2段？",
       "options": [
@@ -33261,13 +33263,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：地图方式的位置趋势线第二段末端代表一定时间后飞机预达位置。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "地图方式的位置趋势线在选择的范围为多少时显示2段"
     },
@@ -33289,7 +33291,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "在地图方式中，若飞行计划中存在有程序转弯，当选择范围大于多少时，只显示一个固定大小的程序转弯？",
       "options": [
@@ -33303,13 +33306,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：飞行计划中存在程序转弯时，选择范围大于一定距离时只显示一个固定大小的程序转弯。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在地图方式中若飞行计划中存在有程序转弯当选择范围大于多少时只显示一个固定大小的程序转弯"
     },
@@ -33331,7 +33334,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "关于侧滑指示，正确的说法是：",
       "options": [
@@ -33345,13 +33349,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：侧滑指示由偏航阻尼器或侧滑传感器提供，指示飞机是否协调飞行。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于侧滑指示正确的说法是"
     },
@@ -34131,7 +34135,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "737—800当所需的飞行前输入已完成，在起飞基准1/2页底部显示：",
       "options": [
@@ -34145,13 +34150,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）。FCOM 说明：起飞基准 1/2 页底部在完成所需飞行前输入后显示相关信息。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "737—800当所需的飞行前输入已完成在起飞基准1/2页底部显示"
     },
@@ -34383,7 +34388,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "在N1转速表上出现琥珀色的TAI(热防冰)指示说明什么?",
       "options": [
@@ -34397,13 +34403,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）及第10章（飞行仪表与显示）。FCOM 说明：N1 转速表上出现琥珀色 TAI 指示表示整流罩防冰活门不在相应发动机防冰电门所指示的位置。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在n1转速表上出现琥珀色的tai(热防冰)指示说明什么"
     },
@@ -34553,7 +34559,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "什么原因会导致APU超速灯亮?",
       "options": [
@@ -34567,13 +34574,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 说明：APU 超速灯亮表示 APU 转速超出限制。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "什么原因会导致apu超速灯亮"
     },
@@ -34827,9 +34834,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空调与增压 partial 核准批次 1",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》空调与增压 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：检查单要求时为了增加通风排烟应将组件电门置于高流量位。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -35067,7 +35074,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "显示与警告",
         "性能与限制",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机限制显示标识的注意限制为什么颜色？",
       "options": [
@@ -35081,13 +35089,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：发动机限制显示中的注意限制以琥珀色标识。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机限制显示标识的注意限制为什么颜色"
     },
@@ -36888,7 +36896,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "下面那种情况不会造成近地电门电子组件（PSEU）指示灯亮？",
       "options": [
@@ -36902,13 +36911,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：PSEU 指示灯亮指示起落架位置/状态电子组件探测到系统故障。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面那种情况不会造成近地电门电子组件(pseu)指示灯亮"
     },
@@ -36930,7 +36939,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "什么时候通过按压低于下滑道指示灯，可以抑制近地警告中的低于下滑道警告？",
       "options": [
@@ -36944,13 +36954,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：通过按压低于下滑道指示灯可以在特定高度以下抑制该警告。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "什么时候通过按压低于下滑道指示灯可以抑制近地警告中的低于下滑道警告"
     },
@@ -36972,7 +36982,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "下面哪项会造成起飞形态警告喇叭发出间歇性声响？",
       "options": [
@@ -36986,13 +36997,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：起飞形态警告喇叭发出间歇性声响的条件包括起落架未放下锁定等构型不正确情况。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面哪项会造成起飞形态警告喇叭发出间歇性声响"
     },
@@ -37057,7 +37068,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "关于坡度音响警告，下面哪项说法最正确？",
       "options": [
@@ -37071,13 +37083,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：坡度音响警告在坡度角超过特定角度时触发。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于坡度音响警告下面哪项说法最正确"
     },
@@ -37099,7 +37111,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "当机组听到MONITOR RADAR DISPLAY（监控雷达显示）的警告，表明什么意思？",
       "options": [
@@ -37113,13 +37126,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：MONITOR RADAR DISPLAY 警告指示气象雷达探测到可能的危险天气，要求机组监控雷达显示。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当机组听到monitorradardisplay(监控雷达显示)的警告表明什么意思"
     },
@@ -37141,7 +37154,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "下面关于TCAS的叙述，不正确的是哪项？",
       "options": [
@@ -37155,13 +37169,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：TCAS 系统提供交通咨询（TA）和决断咨询（RA），RA 提供航径引导及机动指引。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面关于tcas的叙述不正确的是哪项"
     },
@@ -37183,7 +37197,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "以下哪一个警戒的警戒级别最低",
       "options": [
@@ -37197,13 +37212,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：警戒级别中，注意级（Caution）级别最低，警告级（Warning）级别最高。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下哪一个警戒的警戒级别最低"
     },
@@ -37225,7 +37240,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "按压接通“CAB DOOR UNLOCKED”，什么情况下，驾驶舱门上锁？",
       "options": [
@@ -37239,13 +37255,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第1章（飞机概况）。FCOM 说明：驾驶舱门在按压 CAB DOOR UNLOCKED 后视飞行阶段和空速条件决定上锁逻辑。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "按压接通cabdoorunlocked什么情况下驾驶舱门上锁"
     },
@@ -37369,9 +37385,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空调与增压 partial 核准批次 1",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》空调与增压 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：隔离活门电门在 AUTO 位时，如两个发动机引气电门开且两个空调组件电门都在自动或高流量位时隔离活门关闭；如任一发动机引气电门或空调组件电门在关位则隔离活门打开。隔离活门位置不受 APU 引气电门影响。题目说 APU 引气电门关会导致隔离活门自动打开，该说法错误，正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37413,9 +37429,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空调与增压 partial 核准批次 1",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》空调与增压 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：在空中两个组件都工作在高流量时，左再循环风扇因任一组件在高流量位而不工作，右再循环风扇因两个组件都在高流量位而不工作。故两个再循环风扇都自动停止工作，正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37586,7 +37602,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：在 41,000 英尺的最大允许飞行升限下，座舱高度通常由座舱压力控制器控制在 8000 英尺以内。故正确答案为 A（8000英尺）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：在 41,000 英尺的最大允许飞行升限下，座舱高度通常由座舱压力控制器控制在 8000 英尺以内。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38284,7 +38300,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "若在飞行指引起飞或复飞阶段遭遇了风切变，如果垂直速率低于+600英尺/分钟，飞行指引俯仰指令多少度的上仰姿态？",
       "options": [
@@ -38298,13 +38315,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：在飞行指引起飞或复飞阶段遭遇风切变，垂直速率低于 +600 英尺/分钟时飞行指引俯仰指令 15 度上仰姿态。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "若在飞行指引起飞或复飞阶段遭遇了风切变如果垂直速率低于+600英尺/分钟飞行指引俯仰指令多少度的上仰姿态"
     },
@@ -39477,7 +39494,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "显示与警告",
-        "性能与限制"
+        "性能与限制",
+        "手册已核对"
       ],
       "question": "速度带上琥珀色的最大机动速度在以下哪种情况下可能显示？",
       "options": [
@@ -39491,13 +39509,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：速度带上琥珀色最大机动速度在起飞后第一次收襟翼或输入有效 VREF 时显示。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "速度带上琥珀色的最大机动速度在以下哪种情况下可能显示"
     },
@@ -39520,7 +39538,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "显示与警告",
-        "性能与限制"
+        "性能与限制",
+        "手册已核对"
       ],
       "question": "水平导航接通且航道预位, 在低于哪个高度时,若LOC没有截获, 航向道刻度就会变成琥珀色且指针闪亮?",
       "options": [
@@ -39534,13 +39553,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：低于 1000 英尺 AGL 且 LNAV 接通、LOC 预位但未截获航道时，航道刻度变琥珀色且指针闪亮。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "水平导航接通且航道预位在低于哪个高度时若loc没有截获航向道刻度就会变成琥珀色且指针闪亮"
     },
@@ -39605,7 +39624,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "显示与警告",
-        "性能与限制"
+        "性能与限制",
+        "手册已核对"
       ],
       "question": "以下哪种情况下高度带显示绿色的阴影？",
       "options": [
@@ -39619,13 +39639,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：高度带的绿色阴影指示起落架放下时的安全高度范围。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下哪种情况下高度带显示绿色的阴影"
     },
@@ -39648,7 +39668,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "显示与警告",
-        "性能与限制"
+        "性能与限制",
+        "手册已核对"
       ],
       "question": "关于高度带上的着陆高度的显示，以下哪个说法是错的？",
       "options": [
@@ -39662,13 +39683,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：备用姿态指示器（ISFD）由电瓶汇流条供电。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于高度带上的着陆高度的显示以下哪个说法是错的"
     },
@@ -39732,7 +39753,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "TCAS中，在HSI上出现 白色实心“◆” 符号代表：",
       "options": [
@@ -39746,13 +39768,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 说明：红色上方起落架指示灯亮表示起落架未放下锁定且低高度/慢车条件满足，或起落架位置与手柄位置不一致。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "tcas中在hsi上出现白色实心◆符号代表"
     },
@@ -39774,7 +39796,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "在MAP方式, 三个范围圈迭加在地图上, 此时第二个范围圈上数字为40, 则在EFIS控制面板上选择的范围为:",
       "options": [
@@ -39788,13 +39811,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 说明：ANTISKID INOP 灯亮表示防滞监控系统探测到系统故障。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在map方式三个范围圈迭加在地图上此时第二个范围圈上数字为40则在efis控制面板上选择的范围为"
     },
@@ -39944,7 +39967,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "皮托静压系统由­­------套独立的皮托管探头和-------个平面静压孔组成。",
       "options": [
@@ -39958,13 +39982,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）。FCOM 说明：FMC 警戒灯琥珀色亮表示两部 CDU 都有警戒信息，或测试电门在位，或草稿行显示 INSUFFICIENT FUEL。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "皮托静压系统由­­------套独立的皮托管探头和-------个平面静压孔组成"
     },
@@ -40028,7 +40052,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "地图方式的位置趋势第二段的末端代表多少秒后飞机的预达位置？",
       "options": [
@@ -40042,13 +40067,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：ENG FAIL 警告保持直到发动机恢复推力、起动手柄移到 CUTOFF 位或发动机火警电门提起。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "地图方式的位置趋势第二段的末端代表多少秒后飞机的预达位置"
     },
@@ -40154,7 +40179,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "放起落架时，观察到前起落架指示绿灯不亮，灯光测试灯泡正常，机组应该用什么办法证实相关的起落架已经放下并锁好？",
       "options": [
@@ -40168,13 +40194,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：DU（显示组件）全称为 Display Unit。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "放起落架时观察到前起落架指示绿灯不亮灯光测试灯泡正常机组应该用什么办法证实相关的起落架已经放下并锁好"
     },
@@ -43648,7 +43674,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：再循环风扇电门在自动位时，每个再循环风扇才工作。在空中当两个组件都工作时，除非任一组件电门在高流量位否则左再循环风扇工作；除非两个组件电门都在高流量位否则右再循环风扇工作。在地面左组件在自动位（非高流量）、右组件在高流量位时，右风扇因组件在高流量位而停止，左风扇继续工作。故正确答案为 A（两个再循环风扇都继续工作）需结合构型确认——标答为原题库答案。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：在地面，除非两个组件都在高流量位否则左再循环风扇工作；即使两个组件都在高流量位，右再循环风扇也保持工作。左组件在自动位（非高流量）、右组件在高流量位时两个风扇都继续工作，正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43691,7 +43717,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：自动失效（AUTO FAIL）灯亮时，增压控制自动转换到其他自动控制器（备用方式），同时 ALTN 灯亮指示工作在备用方式。故正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：自动失效灯亮（琥珀色）表示探测到自动增压系统失效；当备用灯也亮时指示单个控制器失效。故 AUTO FAIL 和 ALTN 都亮说明单个控制器故障并转换到备用方式，正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43948,7 +43974,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：如果所有的温度选钮都置于 OFF 位，则组件控制会使左组件保持固定输出温度，右组件按需调节。根据 FCOM 温度控制系统说明，左组件设定温度约为 24°C，右组件约为 18°C。故正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：如果所有的温度选钮都置于 OFF 位，则组件控制使左组件保持固定温度 75°F(24°C) 而右组件保持固定温度 65°F(18°C)。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48688,9 +48714,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 说明：发动机燃油系统由 N2 转子驱动的两级燃油增压泵供油。故正确答案为 A（2级，N2转子驱动）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：发动机燃油系统由 N2 转子驱动的燃油泵供油。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
