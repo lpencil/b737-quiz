@@ -21320,7 +21320,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（将推力手柄收到慢车位或按压电门人工选择备用方式时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：反推装置仅用于地面，接地后降低飞机速度减少停机距离和轮胎损耗。空气禁止故意使用反推。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21377,7 +21377,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（N1和N2红色工作极限）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：N1 指示在反推使用时 N1 最大值游标消失。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21434,7 +21434,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（3种）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：发动机起动电门在 GRD 位时打开发动机引气活门并预位点火器以在起动手柄移向慢车位时点火。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21491,7 +21491,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（襟翼在着陆形态或任一发动机防冰打开时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：EEC 自动选择地面最小慢车、空中最小慢车和进近慢车。进近慢车在 19000 英尺以下且襟翼≥15 时选择且 N1/N2 更高以改进复飞加速。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21548,7 +21548,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（平均海平面高度15000英尺以下）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：EEC 在备用方式下提供额定或更大推力。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21605,7 +21605,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（流经发动机燃油关断活门后的）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：每台发动机有两个点火电咀。左点火电咀由相应交流转换汇流条供电，右点火电咀由备用交流汇流条供电。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21663,7 +21663,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（N2达到25%或最大冷转时N2转速20%以）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：APU 起动电源由 1 号转换汇流条或飞机电瓶提供。交流电源可用时用交流电起动，不可用时用电瓶电源起动。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21720,7 +21720,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（N2达到大约56%时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：EGT 超过最大起飞限制或起动限制时数字显示红色。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21777,7 +21777,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（热起动、起动超温和湿起动保护）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：EEC 在正常方式下根据飞行状态和引气要求计算 N1，比较指令 N1 和实际 N1 后调整燃油流量使实际 N1 等于指令 N1。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21834,7 +21834,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（EGT数字读数方框闪亮）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：反推手柄控制反推，除非油门杆在慢车位否则不能选择反推。收回反推时锁爪收起油门杆才可前移。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
