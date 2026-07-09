@@ -34,9 +34,8 @@ window.B737_QUESTION_BANK = {
         "通讯": 9
       },
       "referenceStatusCounts": {
-        "verified": 466,
-        "insufficient": 527,
-        "partial": 1,
+        "verified": 510,
+        "insufficient": 484,
         "event-reference": 33
       }
     }
@@ -4954,10 +4953,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "翔翼400总.xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -7328,7 +7327,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：发电机驱动（DRIVE）灯亮表示 IDG 出现故障或脱开。具体含义以该章控制和指示部分为准。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7500,7 +7499,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：电气系统基本工作原理之一是另一电源接通转换汇流条时当前电源自动断开。汇流条转换电门在自动位时，任一可用电源自动向转换汇流条供电。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7557,7 +7556,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：APU 发电机向两个交流转换汇流条供电；另一电源接通转换汇流条时当前电源自动断开。左发起动后接通左发电机电门，左发电机将取代 APU 电源向左转换汇流条供电。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7614,7 +7613,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：电气系统两个基本工作原理是交流电源不能并联供电，以及另一电源接通转换汇流条时当前电源自动断开。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7728,7 +7727,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：IDG 集成电子机械脱开装置可使 IDG 完全机械隔离。使用发电机驱动脱开电门脱开发电机后，IDG 与发动机机械脱开，发电机停止输出。正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7842,7 +7841,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：变压整流器（TR）组件将交流电转换为直流电。TR1/TR2/TR3 分别有各自的正常和备用电源分配。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7956,7 +7955,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：所有发电机失效时电瓶备用负载供电，电瓶容量决定供电时间。双电瓶构型可提供约 30 分钟的应急供电。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -8013,7 +8012,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：热电瓶汇流条由电瓶/电瓶充电器直接供电，只要电瓶电门在 ON 位就有电。转换的热电瓶汇流条（即转换的热电源汇流条）在正常电源工作时由热电瓶汇流条供电。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -8184,7 +8183,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：直流电源系统中，1 号和 2 号直流汇流条在某些条件下被隔离，具体隔离逻辑以系统说明为准。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -8298,7 +8297,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：飞机电瓶电压为 24 伏直流电。正确答案为 A（24伏）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10858,7 +10857,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：中央油箱燃油泵低压灯亮（琥珀色）表示燃油泵输出压力低且燃油泵电门在 ON 位。当传感器探测到输出压力低时，稍微延迟后该泵会自动关断。故正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10915,7 +10914,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：燃油量指示器，交流电源或直流电源可用。故正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10972,7 +10971,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：燃油形态（CONFIG）警戒在中央油箱油量超过 726 公斤且两个中央油箱泵电门在 OFF 位时显示。保持显示直到中央油箱油量低于 363 公斤或一个中央油箱泵电门在 ON 位。正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11029,7 +11028,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：燃油不平衡（IMBAL）警戒在 1、2 号主油箱之间油量相差超过 453 公斤时显示。1 号 2000kg、2 号 3060kg 相差 1060kg > 453kg，因此出现 IMBAL 警戒。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11076,7 +11075,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：加油活门位置灯熄灭表示加油活门电门在 OPEN 位且相应油箱已满，或电门在 CLOSED 位。油箱加满后蓝色灯熄灭。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11133,7 +11132,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：每个燃油油箱均使用两个交流电源驱动的燃油泵。故正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11190,7 +11189,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：燃油泵由通过泵的燃油冷却和润滑。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11247,7 +11246,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：主油箱油泵压力低时，每台发动机可通过旁通油泵的抽吸供油管道从其相应的主油箱吸油。主油箱有旁通活门用于抽吸供油。正确答案为 B（主油箱）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11304,7 +11303,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：燃油交输活门是由电瓶汇流条提供的直流电作动。故正确答案为 A（电瓶汇流条）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11361,7 +11360,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：中央油箱回油喷射泵在 1 号主油箱油量约为半满且其前油泵电门在 ON 位时自动开始工作，将中央油箱剩余燃油传输至 1 号主油箱。正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11470,7 +11469,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：翼梁燃油关断活门由热电瓶汇流条供电的直流电动机操纵；发动机燃油关断活门是燃油作动、螺线管控制的活门，由电瓶汇流条供电。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11522,7 +11521,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：系统压力指示器指示发动机驱动泵和电动机驱动泵的混合压力信号，非单一泵的压力。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11579,7 +11578,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：每个燃油油箱使用两个交流电源驱动的燃油泵。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11636,7 +11635,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：电动液压泵（ELECTRIC HYDRAULIC PUMPS）电门在 ON 位时给相应的电动机驱动泵供电。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11693,7 +11692,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：液压系统压力指示正常压力为 3000 psi。正确答案为 B（3000psi）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11808,7 +11807,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：飞行操纵系统的液压低压灯亮表示相应飞行操纵系统的液压压力低。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11865,7 +11864,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：备用液压系统油量低灯在备用油箱油量空了接近一半时亮。始终预位。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11922,7 +11921,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：飞机上有三个液压系统（A、B、备用）；如失去 A 和/或 B 系统压力则使用备用系统。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -11979,7 +11978,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：备用液压系统可为方向舵、反推、前缘襟翼和缝翼（只能放出）及备用偏航阻尼器提供动力。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -12036,7 +12035,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：拔出发动机火警电门（包括灭火手柄）可使断绝液压油流入发动机驱动泵。2号发动机对应 B 系统发动机驱动泵。正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -12088,7 +12087,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：用于冷却和润滑泵的液压油回到油箱前会通过热交换器。A 系统热交换器在 1 号主燃油箱内，B 系统的在 2 号主燃油箱内。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -12145,7 +12144,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：在地面使用电动机驱动泵时，相应主油箱的最低燃油量是 760 公斤。正确答案为 C（760公斤）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -12202,7 +12201,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：系统压力传感器将发动机驱动泵和电动机驱动泵的混合压力信号送至液压系统压力指示器。故压力指示器指示的是混合后的系统压力。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -12259,7 +12258,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：如备用系统发生漏油，B 系统继续正常工作，但 B 系统油箱油面下降并稳定在全满位的约 70% 处。正确答案为 C（70%）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -12373,7 +12372,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：PTU 用于当 B 系统发动机驱动液压泵不工作时提供额外的液压油，使自动缝翼、前缘襟翼和缝翼以正常速率工作。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -12487,7 +12486,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：将任一飞行操纵电门放在 STBY RUD 位可人工启用备用液压系统。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -12544,7 +12543,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：如液压系统增压不正常在较高高度时会出现泡沫，此情况可通过压力波动和相关的低压灯闪烁来判定。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -12717,7 +12716,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）及第14章（起落架）。FCOM 说明：起落架转换组件用于在空中且 1 号发动机转速降低至限制值以下时，用 B 系统液压压力收起落架。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -12740,7 +12739,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "出现下列哪种情况需要执行恢复手控程序？",
       "options": [
@@ -12769,13 +12769,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵/恢复手控程序）。FCOM 说明：需要执行恢复手控程序的条件是 A 和 B 液压系统都失去时（飞行操纵系统无液压）。正确答案为 D。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "出现下列哪种情况需要执行恢复手控程序"
     },
@@ -23078,10 +23078,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23120,10 +23120,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23162,10 +23162,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23204,10 +23204,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23246,10 +23246,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23288,10 +23288,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23330,10 +23330,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23372,10 +23372,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23414,10 +23414,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23456,10 +23456,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23498,10 +23498,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23540,10 +23540,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23582,10 +23582,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23624,10 +23624,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23666,10 +23666,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23708,10 +23708,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23750,10 +23750,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23792,10 +23792,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23834,10 +23834,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23920,10 +23920,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23962,10 +23962,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24004,10 +24004,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24092,10 +24092,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24134,10 +24134,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24176,10 +24176,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24219,10 +24219,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24261,10 +24261,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24303,10 +24303,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24345,10 +24345,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24387,10 +24387,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24429,10 +24429,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24471,10 +24471,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24513,10 +24513,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24600,10 +24600,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24642,10 +24642,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24771,10 +24771,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24813,10 +24813,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24857,10 +24857,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24900,10 +24900,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24942,10 +24942,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24984,10 +24984,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25026,10 +25026,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25069,10 +25069,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25111,10 +25111,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25153,10 +25153,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25196,10 +25196,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25238,10 +25238,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25266,7 +25266,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "电气系统",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "\"备用电源关\"灯亮说明什么汇流条没电？",
       "options": [
@@ -25280,13 +25281,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：将备用电源电门放在关位时备用交流汇流条和备用直流汇流条电源断开，备用电源关（STANDBY POWER OFF）灯亮。该灯亮说明备用交流汇流条和备用直流汇流条没电。正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "备用电源关灯亮说明什么汇流条没电"
     },
@@ -25308,7 +25309,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "什么原因会导致电源关灯(source off)亮?",
       "options": [
@@ -25322,13 +25324,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：SOURCE OFF 灯或相关电源指示灯的亮起条件取决于具体汇流条，通常表示该汇流条失去电源。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "什么原因会导致电源关灯(sourceoff)亮"
     },
@@ -25395,7 +25397,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "飞行中, 如APU为唯一电源，则 ：",
       "options": [
@@ -25409,13 +25412,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：APU 发电机可向两个交流转换汇流条供电；作为唯一电源时 APU 发电机可满足所有地面情况和大多数飞行条件的电源要求。正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中如apu为唯一电源则"
     },
@@ -25437,7 +25440,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "APU发电机的正常电压范围是:",
       "options": [
@@ -25451,13 +25455,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：正常交流电源为 115 伏、400 赫兹。APU 发电机的电压在正常范围内。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "apu发电机的正常电压范围是"
     },
@@ -25537,10 +25541,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25579,10 +25583,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25621,10 +25625,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25648,7 +25652,8 @@ window.B737_QUESTION_BANK = {
       "category": "燃油系统",
       "tags": [
         "机考900仅答案",
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "燃油温度指示的是哪里的燃油温度?",
       "options": [
@@ -25662,13 +25667,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：燃油温度计指示 1 号主油箱的燃油温度。故正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "燃油温度指示的是哪里的燃油温度"
     },
@@ -25690,7 +25695,8 @@ window.B737_QUESTION_BANK = {
       "category": "燃油系统",
       "tags": [
         "机考900仅答案",
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "关于加油面板上的加油活门位置灯的描述，哪项说法是正确的：",
       "options": [
@@ -25704,13 +25710,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：加油活门位置灯熄灭表示加油活门电门在 OPEN 位且相应油箱已满，或电门在 CLOSED 位。亮（蓝色）表示电门在 OPEN 位且油箱未满。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于加油面板上的加油活门位置灯的描述哪项说法是正确的"
     },
@@ -25732,7 +25738,8 @@ window.B737_QUESTION_BANK = {
       "category": "燃油系统",
       "tags": [
         "机考900仅答案",
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "正常情况下供向APU的燃油是从哪里来的？",
       "options": [
@@ -25746,13 +25753,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：交流燃油泵工作时，由左侧燃油管给 APU 提供燃油；如交流燃油泵未工作，从 1 号主油箱抽吸供油。正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "正常情况下供向apu的燃油是从哪里来的"
     },
@@ -25774,7 +25781,8 @@ window.B737_QUESTION_BANK = {
       "category": "液压系统",
       "tags": [
         "机考900仅答案",
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "备用液压系统压力低灯什么时候预位？",
       "options": [
@@ -25788,13 +25796,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：备用液压系统压力低灯在备用泵输出压力低且备用泵工作时才预位。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "备用液压系统压力低灯什么时候预位"
     },
@@ -25816,7 +25824,8 @@ window.B737_QUESTION_BANK = {
       "category": "液压系统",
       "tags": [
         "机考900仅答案",
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "B液压系统漏油对于备用液压系统的影响是什么？",
       "options": [
@@ -25830,13 +25839,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：B 系统漏油不会影响备用液压系统工作。正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "b液压系统漏油对于备用液压系统的影响是什么"
     },
@@ -25859,7 +25868,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "液压系统",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发生A液压系统发动机驱动泵漏油，对于A系统的压力将会造成什么影响？",
       "options": [
@@ -25873,13 +25883,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：A 系统发动机驱动泵漏油时，油箱竖管可防止全部漏光，油量约稳定在 20%，A 系统压力由电动机驱动泵保持。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发生a液压系统发动机驱动泵漏油对于a系统的压力将会造成什么影响"
     },
@@ -25917,8 +25927,8 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
       },
@@ -26046,10 +26056,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26089,10 +26099,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26131,10 +26141,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26175,10 +26185,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26217,10 +26227,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26259,10 +26269,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26301,10 +26311,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26344,10 +26354,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26386,10 +26396,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26430,10 +26440,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26519,10 +26529,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26561,10 +26571,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26603,10 +26613,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26645,10 +26655,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26687,10 +26697,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26729,10 +26739,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26771,10 +26781,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26813,10 +26823,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26856,10 +26866,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26898,10 +26908,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26940,10 +26950,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26982,10 +26992,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "暂未找到明确手册依据，待审核。该操作涉及 FMC 页面设置。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27024,10 +27034,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27066,10 +27076,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27110,10 +27120,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27153,10 +27163,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27195,10 +27205,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27282,10 +27292,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27324,10 +27334,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27366,10 +27376,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27408,10 +27418,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27450,10 +27460,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27477,7 +27487,8 @@ window.B737_QUESTION_BANK = {
       "category": "燃油系统",
       "tags": [
         "机考900仅答案",
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "在某些飞机上，装有APU直流燃油泵，该泵什么时候工作？",
       "options": [
@@ -27491,13 +27502,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：APU 的交流燃油泵未工作时从 1 号主油箱抽吸供油。部分飞机装有 APU 直流燃油泵，其工作逻辑由燃油系统自动控制。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在某些飞机上装有apu直流燃油泵该泵什么时候工作"
     },
@@ -27519,7 +27530,8 @@ window.B737_QUESTION_BANK = {
       "category": "燃油系统",
       "tags": [
         "机考900仅答案",
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "油箱燃油最高温度",
       "options": [
@@ -27533,13 +27545,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 限制章节规定了燃油温度限制范围，具体数值需查阅该章节。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "油箱燃油最高温度"
     },
@@ -27561,7 +27573,8 @@ window.B737_QUESTION_BANK = {
       "category": "燃油系统",
       "tags": [
         "机考900仅答案",
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "飞行中油箱燃油最低温度",
       "options": [
@@ -27575,13 +27588,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 限制章节规定了飞行中燃油最低温度限制。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中油箱燃油最低温度"
     },
@@ -27620,10 +27633,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27663,10 +27676,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27705,10 +27718,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27748,10 +27761,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27790,10 +27803,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27833,10 +27846,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27875,10 +27888,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27917,10 +27930,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27959,10 +27972,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28001,10 +28014,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28043,10 +28056,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28128,10 +28141,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28170,10 +28183,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28590,10 +28603,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28632,10 +28645,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28674,10 +28687,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28716,10 +28729,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28758,10 +28771,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28800,10 +28813,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28842,10 +28855,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28884,10 +28897,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28926,10 +28939,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28968,10 +28981,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29010,10 +29023,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29052,10 +29065,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29094,10 +29107,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29136,10 +29149,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29178,10 +29191,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29220,10 +29233,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29263,10 +29276,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29305,10 +29318,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29347,10 +29360,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29390,10 +29403,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29418,7 +29431,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "燃油系统",
-        "正常程序"
+        "正常程序",
+        "手册已核对"
       ],
       "question": "驾驶舱准备期间，中央油箱油量超过多少时，中央油箱燃油泵电门应放到ON位？",
       "options": [
@@ -29432,13 +29446,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：燃油形态（CONFIG）警戒在中央油箱油量超过 726 公斤且两个中央油箱泵电门在 OFF 位时显示。驾驶舱准备期间中央油箱油量超过 726 公斤时应将中央油箱燃油泵电门放到 ON 位。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "驾驶舱准备期间中央油箱油量超过多少时中央油箱燃油泵电门应放到on位"
     },
@@ -29561,10 +29575,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29604,10 +29618,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29646,10 +29660,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29688,10 +29702,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29730,10 +29744,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29771,10 +29785,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29813,10 +29827,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29855,10 +29869,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29897,10 +29911,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29940,10 +29954,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29982,10 +29996,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30024,10 +30038,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30052,7 +30066,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "电气系统",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "电瓶起动发动机时，应选择哪个点火器？",
       "options": [
@@ -30066,13 +30081,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）及第7章（发动机与 APU）。FCOM 说明：电瓶起动发动机时，点火器选择取决于起动程序和构型。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "电瓶起动发动机时应选择哪个点火器"
     },
@@ -30155,10 +30170,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30197,10 +30212,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "暂未找到明确手册依据，待审核。该标准属于公司运行政策范畴。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30240,10 +30255,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30282,10 +30297,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30325,10 +30340,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30367,10 +30382,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30409,10 +30424,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30451,10 +30466,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30536,10 +30551,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30841,10 +30856,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30883,10 +30898,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30925,10 +30940,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31011,10 +31026,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31053,10 +31068,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31095,10 +31110,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31137,10 +31152,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31179,10 +31194,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31221,10 +31236,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31263,10 +31278,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31305,10 +31320,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31347,10 +31362,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31390,10 +31405,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31432,10 +31447,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31474,10 +31489,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31516,10 +31531,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31560,10 +31575,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31602,10 +31617,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31689,10 +31704,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31731,10 +31746,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31773,10 +31788,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31815,10 +31830,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31857,10 +31872,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31927,7 +31942,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "电气系统的基本工作原理是:",
       "options": [
@@ -31941,13 +31957,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：电气系统两个基本工作原理是交流电源不能并联供电，以及另一电源接通转换汇流条时当前电源自动断开。正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "电气系统的基本工作原理是"
     },
@@ -31985,10 +32001,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32012,7 +32028,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "直流电压表的正常指示为:",
       "options": [
@@ -32026,13 +32043,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：直流电压表正常指示为 24 伏左右（电瓶电压）或 28 伏（充电器工作时）。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "直流电压表的正常指示为"
     },
@@ -32055,7 +32072,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "电气系统",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "关于琥珀色\"电气\"灯, 下面哪句话正确?",
       "options": [
@@ -32069,13 +32087,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：电气（ELEC）灯亮（琥珀色）表示直流电源系统或备用电源系统存在故障，仅在地面时工作。正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于琥珀色电气灯下面哪句话正确"
     },
@@ -32200,10 +32218,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32242,10 +32260,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32284,10 +32302,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32326,10 +32344,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32353,7 +32371,8 @@ window.B737_QUESTION_BANK = {
       "category": "燃油系统",
       "tags": [
         "机考900仅答案",
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "主油箱和中央油箱都有燃油，怎样才能确保首先使用中央油箱中的燃油？",
       "options": [
@@ -32367,13 +32386,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：中央油箱燃油泵产生的压力比主油箱泵产生的压力大，这能确保在所有燃油泵都工作时先使用中央油箱的燃油。故打开中央油箱燃油泵即可确保优先使用中央油箱燃油。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "主油箱和中央油箱都有燃油怎样才能确保首先使用中央油箱中的燃油"
     },
@@ -32395,7 +32414,8 @@ window.B737_QUESTION_BANK = {
       "category": "燃油系统",
       "tags": [
         "机考900仅答案",
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "中央油箱搜油喷射泵什么时候开始工作？",
       "options": [
@@ -32409,13 +32429,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：中央油箱回油喷射泵在 1 号主油箱油量约为半满且其前油泵电门在 ON 位时自动开始工作。正确答案为 A（半满）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "中央油箱搜油喷射泵什么时候开始工作"
     },
@@ -32438,7 +32458,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "液压系统",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "接通发动机液压泵电门：",
       "options": [
@@ -32452,13 +32473,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：接通发动机液压泵电门（ON 位）使泵内阻塞活门断电，泵的压力能进入系统。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "接通发动机液压泵电门"
     },
@@ -32524,7 +32545,8 @@ window.B737_QUESTION_BANK = {
       "category": "液压系统",
       "tags": [
         "机考900仅答案",
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "用于B液压系统冷却的热交换器位于哪里？",
       "options": [
@@ -32538,13 +32560,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：A 系统热交换器在 1 号主燃油箱内，B 系统的在 2 号主燃油箱内。故 B 液压系统热交换器在 2 号主油箱。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "用于b液压系统冷却的热交换器位于哪里"
     },
@@ -32566,7 +32588,8 @@ window.B737_QUESTION_BANK = {
       "category": "液压系统",
       "tags": [
         "机考900仅答案",
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "下面哪项是备用液压系统漏油造成的现象？",
       "options": [
@@ -32580,13 +32603,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：备用系统漏油时备用油箱油量减至零，油量低灯亮；B 系统继续工作但油面稳定在全满位的约 70%。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面哪项是备用液压系统漏油造成的现象"
     },
@@ -32609,7 +32632,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "液压系统",
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "若是液压B系统漏油，则B系统油量最终将会指示多少？",
       "options": [
@@ -32623,13 +32647,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "同 HYD-0014。B 系统漏油时 B 系统油量最终稳定在全满位的约 70%。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "若是液压b系统漏油则b系统油量最终将会指示多少"
     },
@@ -32752,10 +32776,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32794,10 +32818,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32836,10 +32860,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32878,10 +32902,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32920,10 +32944,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32962,10 +32986,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33004,10 +33028,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33047,10 +33071,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33089,10 +33113,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33132,10 +33156,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33216,10 +33240,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33258,10 +33282,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33300,10 +33324,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33343,10 +33367,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33385,10 +33409,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33427,10 +33451,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33469,10 +33493,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33511,10 +33535,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33553,10 +33577,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33595,10 +33619,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33637,10 +33661,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33679,10 +33703,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33721,10 +33745,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33763,10 +33787,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33805,10 +33829,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33847,10 +33871,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33889,10 +33913,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33931,10 +33955,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33974,10 +33998,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34016,10 +34040,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34058,10 +34082,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34100,10 +34124,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34142,10 +34166,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34184,10 +34208,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34226,10 +34250,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34268,10 +34292,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34310,10 +34334,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34352,10 +34376,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34396,10 +34420,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34438,10 +34462,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34480,10 +34504,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34522,10 +34546,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34565,10 +34589,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34609,10 +34633,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "暂未找到明确手册依据，待审核。湿起动时 EEC 关闭点火和燃油的逻辑在第7章（发动机与 APU）中说明。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34651,10 +34675,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34693,10 +34717,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34736,10 +34760,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34822,10 +34846,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34907,10 +34931,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34950,10 +34974,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34992,10 +35016,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35036,10 +35060,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35079,10 +35103,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35107,7 +35131,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "燃油系统",
-        "正常程序"
+        "正常程序",
+        "手册已核对"
       ],
       "question": "滑行、起飞、空中或着陆时偶然出现的燃油不平衡不得超过_____。",
       "options": [
@@ -35121,13 +35146,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：燃油不平衡警戒在 1、2 号主油箱油量相差超过 453 公斤时显示。据此滑行、起飞、空中或着陆时偶然出现的燃油不平衡不得超过 453 公斤。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "滑行起飞空中或着陆时偶然出现的燃油不平衡不得超过_____"
     },
@@ -35164,10 +35189,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35206,10 +35231,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35248,10 +35273,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35290,10 +35315,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35332,10 +35357,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35836,10 +35861,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35878,10 +35903,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35920,10 +35945,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35962,10 +35987,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36004,10 +36029,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36046,10 +36071,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36088,10 +36113,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36130,10 +36155,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36174,10 +36199,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36216,10 +36241,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36303,10 +36328,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36345,10 +36370,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36387,10 +36412,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36429,10 +36454,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36471,10 +36496,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36515,10 +36540,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36559,10 +36584,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36646,10 +36671,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36688,10 +36713,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36730,10 +36755,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36772,10 +36797,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36814,10 +36839,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36856,10 +36881,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36898,10 +36923,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36940,10 +36965,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36983,10 +37008,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37025,10 +37050,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37067,10 +37092,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37109,10 +37134,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37151,10 +37176,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37193,10 +37218,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37235,10 +37260,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37277,10 +37302,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "暂未找到明确手册依据，待审核。翼上紧急出口门飞行锁的逻辑在第1章（飞机概况）中说明。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37408,10 +37433,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37450,10 +37475,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37492,10 +37517,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37578,10 +37603,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37620,10 +37645,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37662,10 +37687,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37704,10 +37729,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37746,10 +37771,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37789,10 +37814,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37831,10 +37856,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37873,10 +37898,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37915,10 +37940,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37957,10 +37982,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37999,10 +38024,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38041,10 +38066,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38083,10 +38108,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38126,10 +38151,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38168,10 +38193,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38210,10 +38235,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38252,10 +38277,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38294,10 +38319,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38336,10 +38361,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38378,10 +38403,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38420,10 +38445,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38462,10 +38487,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38504,10 +38529,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38660,7 +38685,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "电瓶是唯一的电源时, 将电瓶电门关掉; 下面哪句话是对的?",
       "options": [
@@ -38674,13 +38700,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：电瓶是唯一电源时，将电瓶电门关断会断开电瓶汇流条、转换热电瓶汇流条、备用直流汇流条、静变流机和备用交流汇流条电源。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "电瓶是唯一的电源时将电瓶电门关掉下面哪句话是对的"
     },
@@ -38702,7 +38728,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "发电机断开汇流条(GEN OFF BUS)灯何时亮?",
       "options": [
@@ -38716,13 +38743,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：发电机断开汇流条（GEN OFF BUS）灯亮表示该发电机已接通但未向汇流条供电，或发电机未接通但汇流条有电。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发电机断开汇流条(genoffbus)灯何时亮"
     },
@@ -38744,7 +38771,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "电气系统没电, APU正在工作; 如果将APU发电机左电门接通:",
       "options": [
@@ -38758,13 +38786,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：APU 发电机向两个交流转换汇流条供电。将 APU 发电机左电门接通后，APU 发电机向左侧转换汇流条供电。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "电气系统没电apu正在工作如果将apu发电机左电门接通"
     },
@@ -38786,7 +38814,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "备用电源电门在”AUTO”位, 什么情况下, 备用交/直流汇流条自动转换到电瓶/电瓶充电器供电？",
       "options": [
@@ -38800,13 +38829,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：备用电源电门在自动位时，如 1 号交流转换汇流条或 1 号直流汇流条电源失效，正常电源自动转换到备用电源（电瓶供电）。正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "备用电源电门在auto位什么情况下备用交/直流汇流条自动转换到电瓶/电瓶充电器供电"
     },
@@ -38886,10 +38915,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38928,10 +38957,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38970,10 +38999,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39012,10 +39041,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39056,10 +39085,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "暂未找到明确手册依据，待审核。A 系统向方向舵 PCU 供压减小的速度阈值在系统说明中有提及。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39098,10 +39127,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39140,10 +39169,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39182,10 +39211,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39209,7 +39238,8 @@ window.B737_QUESTION_BANK = {
       "category": "燃油系统",
       "tags": [
         "机考900仅答案",
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "飞行期间，如果1号油箱内有2000公斤的油量，2号主油箱有3060公斤的油量，此时你将在有量表上看到什么不正常的指示？",
       "options": [
@@ -39223,13 +39253,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "同 FUEL-0004。油量相差超过 453 公斤时出现燃油不平衡警戒。以原题库答案为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行期间如果1号油箱内有2000公斤的油量2号主油箱有3060公斤的油量此时你将在有量表上看到什么不正常的指示"
     },
@@ -39252,7 +39282,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "燃油系统",
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "飞行中，1号油箱的两个燃油泵低压灯都亮了，下列哪个说法正确？",
       "options": [
@@ -39266,13 +39297,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 说明：同一油箱的两个低压灯亮会使主注意灯和燃油系统信号牌灯亮。如一个低压灯亮，则按压再现主注意灯时主注意灯和燃油系统信号牌灯亮。两个低压灯都亮说明该油箱供油完全失效。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中1号油箱的两个燃油泵低压灯都亮了下列哪个说法正确"
     },
@@ -39396,10 +39427,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39439,10 +39470,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39482,10 +39513,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39524,10 +39555,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39567,10 +39598,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39610,10 +39641,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39652,10 +39683,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39694,10 +39725,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39736,10 +39767,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39779,10 +39810,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39821,10 +39852,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39864,10 +39895,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39906,10 +39937,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39948,10 +39979,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39990,10 +40021,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40032,10 +40063,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40074,10 +40105,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40116,10 +40147,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40159,10 +40190,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40201,10 +40232,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40243,10 +40274,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40285,10 +40316,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40327,10 +40358,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40369,10 +40400,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40411,10 +40442,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40453,10 +40484,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40495,10 +40526,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40537,10 +40568,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40579,10 +40610,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40621,10 +40652,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40663,10 +40694,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40705,10 +40736,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40747,10 +40778,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40789,10 +40820,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40832,10 +40863,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40874,10 +40905,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40916,10 +40947,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40958,10 +40989,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41000,10 +41031,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41043,10 +41074,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41085,10 +41116,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41128,10 +41159,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41171,10 +41202,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41215,10 +41246,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "暂未找到明确手册依据，待审核。发动机滑油读数显示方式在第7章（发动机与 APU）中说明。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41258,10 +41289,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41300,10 +41331,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41342,10 +41373,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41384,10 +41415,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "暂未找到明确手册依据，待审核。APU 滑油低压灯在第7章（发动机与 APU）中说明。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41426,10 +41457,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41468,10 +41499,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41496,7 +41527,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "电气系统",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "在飞机没电而用电瓶起动发动机期间，发动机电子控制什么时候有电?",
       "options": [
@@ -41510,13 +41542,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：电瓶起动发动机期间，EEC 在发动机达到一定转速时获得电源。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在飞机没电而用电瓶起动发动机期间发动机电子控制什么时候有电"
     },
@@ -41553,10 +41585,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41597,10 +41629,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41639,10 +41671,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41681,10 +41713,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41770,10 +41802,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "暂未找到明确手册依据，待审核。交输引气起动指示 X-BLD 的显示条件在第7章（发动机与 APU）中说明。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41812,10 +41844,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41854,10 +41886,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41896,10 +41928,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41938,10 +41970,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41980,10 +42012,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42022,10 +42054,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42064,10 +42096,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42274,10 +42306,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42316,10 +42348,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42358,10 +42390,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42400,10 +42432,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42442,10 +42474,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42527,10 +42559,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42569,10 +42601,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42611,10 +42643,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42653,10 +42685,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42695,10 +42727,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42738,10 +42770,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42780,10 +42812,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42866,10 +42898,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42952,10 +42984,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43038,10 +43070,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43080,10 +43112,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43123,10 +43155,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43165,10 +43197,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43208,10 +43240,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43252,10 +43284,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43294,10 +43326,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43336,10 +43368,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43421,10 +43453,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43463,10 +43495,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43505,10 +43537,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43547,10 +43579,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "暂未找到明确手册依据，待审核。翼上紧急出口上锁条件在第1章（飞机概况）中说明。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43677,10 +43709,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43720,10 +43752,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43763,10 +43795,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43805,10 +43837,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43847,10 +43879,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43979,10 +44011,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44022,10 +44054,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44064,10 +44096,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44108,10 +44140,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44150,10 +44182,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44192,10 +44224,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44234,10 +44266,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44276,10 +44308,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44318,10 +44350,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44361,10 +44393,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44403,10 +44435,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44446,10 +44478,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44488,10 +44520,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44530,10 +44562,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44572,10 +44604,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44615,10 +44647,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44657,10 +44689,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44699,10 +44731,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44742,10 +44774,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44784,10 +44816,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44828,10 +44860,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45043,10 +45075,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45071,7 +45103,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "电气系统",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "\"ELEC\"(电气)灯亮说明：",
       "options": [
@@ -45085,13 +45118,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：ELEC 灯亮（琥珀色）表示直流电源系统或备用电源系统存在故障。正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "elec(电气)灯亮说明"
     },
@@ -45114,7 +45147,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "电气系统",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "什么原因会导致发电机的”驱动”灯亮?",
       "options": [
@@ -45128,13 +45162,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：发电机驱动（DRIVE）灯亮的条件涉及 IDG 故障或过热/低压。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "什么原因会导致发电机的驱动灯亮"
     },
@@ -45157,7 +45191,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "电气系统",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "\"地面电源可用\"灯亮表明:",
       "options": [
@@ -45171,13 +45206,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：地面电源可用灯亮表明外部电源已连接且可用。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "地面电源可用灯亮表明"
     },
@@ -45199,7 +45234,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "电气系统正在由地面电源供电, APU起动好后, 将APU发电机左电门接通:",
       "options": [
@@ -45213,13 +45249,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：APU 发电机接通后将向转换汇流条供电，地面电源自动断开（另一电源接通转换汇流条时当前电源自动断开）。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "电气系统正在由地面电源供电apu起动好后将apu发电机左电门接通"
     },
@@ -45241,7 +45277,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "交流电压和频率的正常指示为:",
       "options": [
@@ -45255,13 +45292,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 说明：正常交流电压为 115 伏、400 赫兹。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "交流电压和频率的正常指示为"
     },
@@ -45283,7 +45320,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "转换的热电瓶汇流条何时有电?",
       "options": [
@@ -45297,13 +45335,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "同 ELEC-0014。转换热电瓶汇流条在正常电源工作时由热电瓶汇流条供电，有电条件取决于电瓶电门位置和电源系统工作状态。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "转换的热电瓶汇流条何时有电"
     },
@@ -45325,7 +45363,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "发电机驱动灯什么情况下会亮？",
       "options": [
@@ -45339,13 +45378,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "同 ELEC-0037。发电机驱动灯亮的条件涉及 IDG 传动系统故障。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发电机驱动灯什么情况下会亮"
     },
@@ -45426,10 +45465,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45468,10 +45507,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45510,10 +45549,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45552,10 +45591,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45594,10 +45633,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45636,10 +45675,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45678,10 +45717,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45720,10 +45759,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45762,10 +45801,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45804,10 +45843,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45846,10 +45885,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45888,10 +45927,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45917,7 +45956,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "燃油系统",
         "显示与警告",
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "飞行中,中央燃油泵已经打开,正在使用中央油箱中的燃油,此时其中一个琥珀色中央油箱燃油泵低压灯亮,下列哪项说法正确?",
       "options": [
@@ -45931,13 +45971,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "同 FUEL-0001。中央油箱燃油泵低压灯亮表示输出压力低，泵自动关断逻辑启动。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中中央燃油泵已经打开正在使用中央油箱中的燃油此时其中一个琥珀色中央油箱燃油泵低压灯亮下列哪项说法正确"
     },
@@ -45976,10 +46016,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "暂未找到明确手册依据，待审核。液压系统压力和油量显示位置在显示章节中有说明。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46019,10 +46059,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "暂未找到明确手册依据，待审核。液压系统油量指示单位在第13章（液压）中说明。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46061,10 +46101,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46103,10 +46143,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46131,7 +46171,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "液压系统",
-        "气源系统"
+        "气源系统",
+        "手册已核对"
       ],
       "question": "下列哪个可以由动力转换组件（PTU）提供额外的液压？",
       "options": [
@@ -46145,13 +46186,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "同 HYD-0016。PTU 在 B 系统发动机驱动泵不工作时提供额外液压。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下列哪个可以由动力转换组件(ptu)提供额外的液压"
     },
@@ -46189,10 +46230,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46216,7 +46257,8 @@ window.B737_QUESTION_BANK = {
       "category": "液压系统",
       "tags": [
         "机考900仅答案",
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "什么时候备用液压系统自动开始工作？",
       "options": [
@@ -46230,13 +46272,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：备用液压系统自动工作的条件是 A 或 B 系统失去压力，且襟翼放出，且在空中或机轮速度大于 60 节。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "什么时候备用液压系统自动开始工作"
     },
@@ -46258,7 +46300,8 @@ window.B737_QUESTION_BANK = {
       "category": "液压系统",
       "tags": [
         "机考900仅答案",
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "下列哪种方法能够人工使备用液压系统开始工作？",
       "options": [
@@ -46272,13 +46315,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。FCOM 说明：将任一飞行操纵电门放在 STBY RUD 位可人工启用备用液压系统。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下列哪种方法能够人工使备用液压系统开始工作"
     },
@@ -46315,10 +46358,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46357,10 +46400,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46531,10 +46574,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46574,10 +46617,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46617,10 +46660,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46661,10 +46704,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46703,10 +46746,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46745,10 +46788,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46787,10 +46830,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46915,10 +46958,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46958,10 +47001,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47001,10 +47044,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "公司运行手册",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》公司运行手册。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47088,10 +47131,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47130,10 +47173,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47174,10 +47217,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47216,10 +47259,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47258,10 +47301,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47300,10 +47343,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47344,10 +47387,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47429,10 +47472,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47471,10 +47514,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47513,10 +47556,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47555,10 +47598,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47597,10 +47640,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47682,10 +47725,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47724,10 +47767,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47766,10 +47809,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47808,10 +47851,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47850,10 +47893,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47892,10 +47935,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47934,10 +47977,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47976,10 +48019,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48019,10 +48062,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48062,10 +48105,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48104,10 +48147,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48146,10 +48189,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48189,10 +48232,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48233,10 +48276,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48320,10 +48363,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48362,10 +48405,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48405,10 +48448,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48448,10 +48491,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48491,10 +48534,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48533,10 +48576,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48577,10 +48620,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48664,10 +48707,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48706,10 +48749,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48748,10 +48791,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48790,10 +48833,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48832,10 +48875,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48875,10 +48918,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48918,10 +48961,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -49004,10 +49047,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -49046,10 +49089,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -49088,10 +49131,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -49130,10 +49173,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -49172,10 +49215,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)。暂未找到与题干精确匹配的原文段落，待人工审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
