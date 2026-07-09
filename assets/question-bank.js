@@ -10343,7 +10343,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（高马赫数时的速度稳定性）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：马赫配平系统提供高马赫数时的速度稳定性。马赫数大于 0.615 时随着速度的增加升降舵根据安定面位置而调整自动完成马赫配平。FCC 使用 ADIRS 的马赫数计算马赫配平作动筒位置。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10400,7 +10400,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（0.615，安定面位置）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）9.20.8。FCOM 原文说明：马赫配平系统——马赫数大于 0.615 时随着速度的增加升降舵根据安定面位置而调整自动完成马赫配平。故马赫配平在 M0.615 以上由安定面位置决定调整量，正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10457,7 +10457,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（减小）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）9.20.12-9.20.13。FCOM 原文说明：大迎角飞行时失速管理/偏航阻尼计算机（SMYD）可减少偏航阻尼器指令的方向舵移动量以防止过度偏航。故大迎角时偏航阻尼器指令的方向舵偏转量减小，正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10514,7 +10514,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（通过减小液压A系统向方向舵PCU的供压）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）9.20.13。FCOM 原文说明：速度大于 135 节时液压系统 A 和 B 各将减小主方向舵 PCU 压力约 25%，限制起飞后和着陆前的飞行过程中满舵操作。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10571,7 +10571,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（备用液压系统）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）9.10.1。FCOM 原文说明：飞行操纵电门 STBY RUD 位——启动备用液压系统泵并打开备用方向舵关断活门给备用方向舵 PCU 增压。OFF 位关闭飞行操纵关断活门隔离副翼升降舵和方向舵的相应液压。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10686,7 +10686,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（A系统）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：地面扰流板（又称减速板）由 A 系统液压供压。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10743,7 +10743,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（两个；任一；60）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：着陆期间减速板手柄预位且预位灯亮时当无线电高度低于 10 英尺后两个推力手柄都在慢车位、任一起落架减震支柱压缩且主轮转速达到 60 节以上时减速板手柄自动移向 UP 位。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10800,7 +10800,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（起飞、爬升和复飞期间。）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）及第4章（自动飞行）。FCOM 原文说明：速度配平系统通过 FCC 在起飞爬升和复飞期间监控空速调整安定面配平。故速度配平系统一般在起飞爬升和复飞期间工作，正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25603,7 +25603,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（用备用液压将前缘装置完全放出,并电动放后缘襟翼直到松开电门;）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）9.10.3。FCOM 原文说明：备用襟翼位置电门 DOWN 位瞬时用备用液压将前缘装置完全放出，保持位电动放出后缘襟翼直到松开电门。所以按压并保持 DOWN 位先用备用液压放前缘装置再电动放后缘襟翼。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25646,7 +25646,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（当飞行操纵A和B2个电门都在备用方向舵位且将偏航阻尼器电门接通时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）9.20.15。FCOM 原文说明：恢复人工飞行时两个飞行操纵电门置于备用方向舵位后偏航阻尼器电门可复位至开位，由备用液压系统向备用偏航阻尼器供压。故需 A 和 B 两个电门都在 STBY RUD 位时才能向备用偏航阻尼器供压，正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
