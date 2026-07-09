@@ -34,10 +34,9 @@ window.B737_QUESTION_BANK = {
         "通讯": 9
       },
       "referenceStatusCounts": {
-        "verified": 226,
-        "insufficient": 662,
-        "partial": 134,
-        "conflict": 5
+        "partial": 372,
+        "conflict": 27,
+        "insufficient": 628
       }
     }
   },
@@ -59,8 +58,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "正常程序",
       "tags": [
-        "正常程序",
-        "手册已核对"
+        "正常程序"
       ],
       "question": "正常检查单用于核实哪些项目已完成",
       "options": [
@@ -89,13 +87,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_QRH.pdf",
-        "section": "检查单介绍 / 正常检查单 / CI.1.1-CI.1.2",
-        "page": "PDF 第 1029-1030 页，手册页 CI.1.1-CI.1.2",
-        "summary": "答案参考说明：依据《B737_NG_QRH.pdf》检查单介绍“正常检查单”（PDF 第 1029-1030 页，手册页 CI.1.1-CI.1.2），QRH 说明正常检查单用于核实关键项目已经完成，且检查单包含安全操纵飞机所需要的最低项目。因此本题正确答案为 C“那些一经忽略将会对正常操纵有直接不利影响的关键性程序项目”。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第NP章(正常程序)第2.1节",
+        "page": "原题库参考编号 NP.2.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）2.1节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "正常检查单用于核实哪些项目已完成"
     },
@@ -116,8 +114,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "正常程序",
       "tags": [
-        "正常程序",
-        "手册已核对"
+        "正常程序"
       ],
       "question": "操纵飞行员（PF）负责：",
       "options": [
@@ -146,13 +143,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 机组职责 / NP.11.2",
-        "page": "PDF 第 163 页，手册页 NP.11.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》正常程序“机组职责”（PDF 第 163 页，手册页 NP.11.2），FCOM 说明 PF 在飞行阶段总的责任包括滑行、飞行航径和空速控制、飞机构型、导航。本题选项 A 对应“飞行航径、飞机形态、空速、导航”，与 FCOM 的 PF 职责一致，因此正确答案为 A。"
+        "section": "第NP章(正常程序)第1.2节",
+        "page": "原题库参考编号 NP.1.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）1.2节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "操纵飞行员(pf)负责"
     },
@@ -173,8 +170,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "正常程序",
       "tags": [
-        "正常程序",
-        "手册已核对"
+        "正常程序"
       ],
       "question": "监控飞机飞行员（PM）负责：",
       "options": [
@@ -203,13 +199,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 机组职责 / NP.11.2-NP.11.3",
-        "page": "PDF 第 163-164 页，手册页 NP.11.2-NP.11.3",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》正常程序“机组职责”（PDF 第 163-164 页，手册页 NP.11.2-NP.11.3），FCOM 说明 PM 在飞行阶段总的责任包括读检查单、通讯、完成 PF 指令的任务，并监控滑行、飞行航径、空速、飞机构型和导航。本题选项 A 对应“读检查单、通讯、完成 PF 指令的动作任务”，因此正确答案为 A。"
+        "section": "第NP章(正常程序)第1.2节",
+        "page": "原题库参考编号 NP.1.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）1.2节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "监控飞机飞行员(pm)负责"
     },
@@ -230,8 +226,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "正常程序",
       "tags": [
-        "正常程序",
-        "手册已核对"
+        "正常程序"
       ],
       "question": "驾驶舱预先准备期间，应检查机组氧气压力：",
       "options": [
@@ -260,13 +255,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 初始飞行前程序 / NP.21.2-NP.21.3",
-        "page": "PDF 第 171-172 页，手册页 NP.21.2-NP.21.3",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》正常程序“初始飞行前程序”（PDF 第 171-172 页，手册页 NP.21.2-NP.21.3），机组氧气压力检查项目要求核实压力满足放行要求；不同构型的氧气压力检查均以放行要求为准。本题问驾驶舱预先准备期间机组氧气压力应检查为何项，因此正确答案为 D“符合放行要求”。"
+        "section": "第NP章(正常程序)第14.8节",
+        "page": "原题库参考编号 NP.14.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）14.8节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "驾驶舱预先准备期间应检查机组氧气压力"
     },
@@ -287,8 +282,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "正常程序",
       "tags": [
-        "正常程序",
-        "手册已核对"
+        "正常程序"
       ],
       "question": "驾驶舱准备期间，应首先接通哪一侧的飞行指引仪？",
       "options": [
@@ -317,13 +311,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 飞行前程序 / NP.21.19 与 NP.21.25",
-        "page": "PDF 第 188 页和第 194 页，手册页 NP.21.19 与 NP.21.25",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》正常程序“飞行前程序”（PDF 第 188 页，手册页 NP.21.19；另见 PDF 第 194 页，手册页 NP.21.25），方式控制面板调置中，FLIGHT DIRECTOR 飞行指引仪电门置 ON，并注明先打开操纵飞行员 PF 一侧的飞行指引仪电门。因此正确答案为 C“操纵飞行员 PF 一侧”。"
+        "section": "第NP章(正常程序)第14.7节",
+        "page": "原题库参考编号 NP.14.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）14.7节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "驾驶舱准备期间应首先接通哪一侧的飞行指引仪"
     },
@@ -344,8 +338,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "正常程序",
       "tags": [
-        "正常程序",
-        "手册已核对"
+        "正常程序"
       ],
       "question": "牵引飞机时，如果没有插前轮转向锁销，则必须：",
       "options": [
@@ -374,13 +367,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 关车程序 / NP.21.61",
-        "page": "PDF 第 230 页，手册页 NP.21.61",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》正常程序“关车程序”（PDF 第 230 页，手册页 NP.21.61），如果需要拖飞机，FCOM 警告未安装前轮转弯锁销且液压 A 系统增压时可能引起不必要拖把移动；若没有使用前轮转弯锁销，A 系统液压泵电门应置 OFF，并核实 A 系统液压泵 LOW PRESSURE 灯亮。因此正确答案为 A“关断 A 系统液压泵”。"
+        "section": "第NP章(正常程序)第15.2节",
+        "page": "原题库参考编号 NP.15.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）15.2节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "牵引飞机时如果没有插前轮转向锁销则必须"
     },
@@ -401,8 +394,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "正常程序",
       "tags": [
-        "正常程序",
-        "手册已核对"
+        "正常程序"
       ],
       "question": "双发复飞时，使用襟翼。",
       "options": [
@@ -431,13 +423,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 复飞和终止进近程序 / NP.21.56",
-        "page": "PDF 第 225 页，手册页 NP.21.56",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》正常程序“复飞和终止进近程序”（PDF 第 225 页，手册页 NP.21.56），复飞时 PF 在同一时间喊话“复飞”、推油门杆至复飞推力并按压 TO/GA、抬机头到复飞姿态、喊话“襟翼 15”；PM 将襟翼手柄放到 15 并监控收襟翼。因此本题问双发复飞使用襟翼位置，正确答案为 C“15”。"
+        "section": "第NP章(正常程序)第28.4节",
+        "page": "原题库参考编号 NP.28.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）28.4节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "双发复飞时使用襟翼"
     },
@@ -458,8 +450,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "正常程序",
       "tags": [
-        "正常程序",
-        "手册已核对"
+        "正常程序"
       ],
       "question": "航线飞行，起飞后，何时开始执行起飞后程序动作？",
       "options": [
@@ -488,13 +479,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 起飞程序与爬升和巡航程序 / NP.21.42-NP.21.44",
-        "page": "PDF 第 211-213 页，手册页 NP.21.42-NP.21.44",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》正常程序“起飞程序”（PDF 第 211 页，手册页 NP.21.42），完成收襟翼后完成发动机引气/空调、发动机起动电门、自动刹车、起落架手柄等项目并执行起飞后检查单；“爬升和巡航程序”（PDF 第 213 页，手册页 NP.21.44）说明完成起飞后检查单之后再开始爬升和巡航程序。因此本题所述航线飞行起飞后程序动作应在飞机进入稳定爬升并完成起飞后构型整理后开始，正确答案为 C。"
+        "section": "第NP章(正常程序)第2.5节",
+        "page": "原题库参考编号 NP.2.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）2.5节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "航线飞行起飞后何时开始执行起飞后程序动作"
     },
@@ -515,8 +506,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "正常程序",
       "tags": [
-        "正常程序",
-        "手册已核对"
+        "正常程序"
       ],
       "question": "飞行前，在什么程序中进行惯导守全校准？",
       "options": [
@@ -545,13 +535,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 初始飞行前程序 / NP.21.1",
-        "page": "PDF 第 170 页，手册页 NP.21.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》正常程序“初始飞行前程序 – 左座或右座”（PDF 第 170 页，手册页 NP.21.1），FCOM 说明建议每次飞行前进行 IRS 的完整校准，若时间不允许则执行快速重新校准补充程序。本题问飞行前在哪个程序中进行惯导完整校准，对应“初始飞行前程序”，因此正确答案为 A。"
+        "section": "第NP章(正常程序)第1.2节",
+        "page": "原题库参考编号 NP.1.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）1.2节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行前在什么程序中进行惯导守全校准"
     },
@@ -572,8 +562,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "正常程序",
       "tags": [
-        "正常程序",
-        "手册已核对"
+        "正常程序"
       ],
       "question": "起飞后，在达到V2+15速度前，坡度限制多少度以内？",
       "options": [
@@ -602,13 +591,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 起飞收襟翼速度计划 / NP.21.43",
-        "page": "PDF 第 212 页，手册页 NP.21.43",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》正常程序“起飞收襟翼速度计划”（PDF 第 212 页，手册页 NP.21.43），FCOM 明确说明速度达到 V2+15 前，坡度角限制在 15°以内。因此正确答案为 B“15 度”。"
+        "section": "第NP章(正常程序)第21.6节",
+        "page": "原题库参考编号 NP.21.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）21.6节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "起飞后在达到v2+15速度前坡度限制多少度以内"
     },
@@ -630,8 +619,7 @@ window.B737_QUESTION_BANK = {
       "category": "非正常程序与 QRH",
       "tags": [
         "补充正常程序",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "什么情况下需要使用补充正常程序？",
       "options": [
@@ -655,13 +643,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "飞机概述 / 驾驶舱灯光 / 1.40.5；电气 / 备用电源 / 6.20.17",
-        "page": "PDF 第 450、716 页，手册页 1.40.5、6.20.17",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞机概述“驾驶舱灯光”（PDF 第 450 页，手册页 1.40.5），正常电源失效时，备用电源可自动向备用罗盘灯、圆顶灯、仪表泛光灯、选择的系统信息和警告灯提供电源；电气系统备用电源章节（PDF 第 716 页，手册页 6.20.17）也列有备用罗盘灯、白色圆顶灯、紧急仪表泛光灯等备用电源负载。因此正确答案为 C。"
+        "status": "conflict",
+        "manual": "",
+        "section": "NP.05.1",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "什么情况下需要使用补充正常程序"
     },
@@ -682,8 +670,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "非正常程序与 QRH",
       "tags": [
-        "补充正常程序",
-        "手册已核对"
+        "补充正常程序"
       ],
       "question": "如何完成补充正常程序？",
       "options": [
@@ -712,13 +699,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 空调系统说明 / 引气流量控制 / 2.30.1",
-        "page": "PDF 第 546 页，手册页 2.30.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“引气流量控制”（PDF 第 546 页，手册页 2.30.1），当飞机不在地面且襟翼收上、两个组件 AUTO、两个发动机工作且两个发动机引气 ON 时，如一个组件失效、一个发动机失效或一个组件电门 OFF，剩下的组件会自动转为高引气流量。巡航期间通常满足“不在地面且襟翼收上”，因此正确答案为 A。"
+        "section": "第NP章(正常程序)第05.1节",
+        "page": "原题库参考编号 NP.05.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）05.1节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "如何完成补充正常程序"
     },
@@ -739,8 +726,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "非正常程序与 QRH",
       "tags": [
-        "补充正常程序",
-        "手册已核对"
+        "补充正常程序"
       ],
       "question": "北京飞往昆明长水机场（标高6901英尺），为了提高旅客舒适度，起飞前着陆高度指示器中应调为：",
       "options": [
@@ -769,13 +755,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 空调系统说明 / 引气流量控制 / 2.30.1",
-        "page": "PDF 第 547 页，手册页 2.30.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“引气流量控制”（PDF 第 547 页，手册页 2.30.1），当飞机在地面或襟翼放出、两个组件 AUTO、两个发动机工作且两个发动机引气 ON 时，如一个组件失效、一个发动机失效或一个组件电门 OFF，剩下的组件不会自动转为高引气流量；该抑制是为了保证单发工作所需的发动机功率。着陆期间襟翼通常放出，因此正确答案为 B。"
+        "section": "第NP章(正常程序)第2.4节",
+        "page": "原题库参考编号 NP.2.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）2.4节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "北京飞往昆明长水机场(标高6901英尺)为了提高旅客舒适度起飞前着陆高度指示器中应调为"
     },
@@ -796,8 +782,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "非正常程序与 QRH",
       "tags": [
-        "补充正常程序",
-        "手册已核对"
+        "补充正常程序"
       ],
       "question": "使用无发动机引气中飞前，如果地面滑行时需要防冰，应在什么时候执行“无发动机引气起飞”程序？",
       "options": [
@@ -826,13 +811,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 备用组件平均温度 / 2.31.6",
-        "page": "PDF 第 558 页，手册页 2.31.6",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“备用组件平均温度”（PDF 第 558 页，手册页 2.31.6），如果所有区域控制和组件主控制都失效，备用组件控制会指令组件产生满足两个客舱区域平均温度需求的空气温度，调节空气调制活门关闭，驾驶舱区域温度选钮对备用组件控制不起作用。因此题目选项中最符合的是 C“三个舱的温度都是前后客舱温度选钮调置的平均值”。"
+        "section": "第NP章(正常程序)第2.5节",
+        "page": "原题库参考编号 NP.2.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）2.5节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "使用无发动机引气中飞前如果地面滑行时需要防冰应在什么时候执行无发动机引气起飞程序"
     },
@@ -853,8 +838,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "非正常程序与 QRH",
       "tags": [
-        "补充正常程序",
-        "手册已核对"
+        "补充正常程序"
       ],
       "question": "在什么情况下考虑进行对风挡加温进行电源测试？",
       "options": [
@@ -883,13 +867,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防火 / 发动机防火 / 发动机火警电门影响；另见空气系统 / 2.20.1",
-        "page": "PDF 第 793 页，手册页 8.20；另见 PDF 第 536 页，手册页 2.20.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》防火“发动机火警电门”影响（PDF 第 793 页，手册页 8.20），关闭发动机引气活门会导致相应的机翼防冰失效、引气驱动的组件活门关闭；空气系统说明（PDF 第 536 页，手册页 2.20.1）也说明机翼防冰依靠引气系统工作。因此右发引气活门失效在关位会影响右侧机翼防冰，若隔离活门关闭，该侧不能由另一侧引气供给，正确答案为 C。"
+        "section": "第NP章(正常程序)第3.5节",
+        "page": "原题库参考编号 NP.3.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）3.5节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在什么情况下考虑进行对风挡加温进行电源测试"
     },
@@ -910,8 +894,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "非正常程序与 QRH",
       "tags": [
-        "补充正常程序",
-        "手册已核对"
+        "补充正常程序"
       ],
       "question": "起飞前执行无发机引气起飞程序（C程序），什么时候可以恢复正常空调面板设置？",
       "options": [
@@ -940,13 +923,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / DU 失效自动转换 / 10.21.5",
-        "page": "PDF 第 976 页，手册页 10.21.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“DU 失效自动转换”（PDF 第 976 页，手册页 10.21.5），FCOM 说明如一部外侧 DU 失效，则 PFD 自动显示在内侧 DU 上，外侧 DU 空白。因此本题正确答案为 B“自动显示在机长的内侧显示组件上”。"
+        "section": "第SP章(补充程序)第2.5节",
+        "page": "原题库参考编号 SP.2.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）2.5节。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "起飞前执行无发机引气起飞程序(c程序)什么时候可以恢复正常空调面板设置"
     },
@@ -967,8 +950,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "非正常程序与 QRH",
       "tags": [
-        "补充正常程序",
-        "手册已核对"
+        "补充正常程序"
       ],
       "question": "对发动机的火警探测环路进行测试时，如果测试电门放在A位，将测试电门放在过热/火警位后，故障灯亮且一个发动机过热灯和相应的发动机火警电门灯仍不亮，表明：",
       "options": [
@@ -997,13 +979,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 液压刹车压力指示器与刹车蓄压器 / 14.10.7、14.20.3",
-        "page": "PDF 第 1502、1513 页，手册页 14.10.7、14.20.3",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“液压刹车压力指示器”（PDF 第 1502 页，手册页 14.10.7），该指示器指示刹车蓄压器压力，正常压力 3000 psi、最大压力 3500 psi、正常预充压值 1000 psi；刹车蓄压器说明（PDF 第 1513 页，手册页 14.20.3）说明正常和备用刹车压力都失去时，蓄压器内保留的液压可用于几次刹车或停留刹车。若 A/B 液压均失效后指示只有 1000 psi，则仅为预充压力而非可用刹车液压，因此正确答案为 A。"
+        "section": "第SP章(补充程序)第8.1节",
+        "page": "原题库参考编号 SP.8.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）8.1节。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "对发动机的火警探测环路进行测试时如果测试电门放在a位将测试电门放在过热/火警位后故障灯亮且一个发动机过热灯和相应的发动机火警电门灯仍不亮表明"
     },
@@ -1024,8 +1006,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "非正常程序与 QRH",
       "tags": [
-        "补充正常程序",
-        "手册已核对"
+        "补充正常程序"
       ],
       "question": "关于压力加油所需电源的说法哪个正确：",
       "options": [
@@ -1054,13 +1035,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 发动机面板 / ENGINE CONTROL 灯 / 7.15.5",
-        "page": "PDF 第 751 页，手册页 7.15.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“发动机控制（ENGINE CONTROL）灯”（PDF 第 751 页，手册页 7.15.5），该灯亮表示由于系统故障发动机控制系统不可放行；亮灯条件包括发动机在工作、飞机在地面，且起飞前速度小于 80 节，或接地后约 30 秒。因此正确答案为 A。"
+        "section": "第SP章(补充程序)第12.4节",
+        "page": "原题库参考编号 SP.12.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）12.4节。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "关于压力加油所需电源的说法哪个正确"
     },
@@ -1110,13 +1091,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：MEL",
-        "page": "Sheet1 第 18 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MEL」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第SP章(补充程序)第16.12节",
+        "page": "原题库参考编号 SP.16.12",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）16.12节。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "如外界温度低于-35°c起动后至少应让发动机在慢车状态工作多长时间后再改变油门杆位置"
     },
@@ -1156,13 +1137,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：汇流条",
-        "page": "Sheet1 第 87 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「汇流条」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第SP章(补充程序)第16.32节",
+        "page": "原题库参考编号 SP.16.32",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）16.32节。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "遇到轻度或中度颠簸时如果性能允许自动架驶/自动油门应保持在"
     },
@@ -1183,8 +1164,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "飞机中机组通过按压系统信号牌后，发现前顶板上的速度配平失效灯亮了，复位主警告灯后，该灯又熄灭了，这种现象说明什么？",
       "options": [
@@ -1213,13 +1193,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行操纵 / 控制和指示 / 飞行操纵面板 / 9.10.3",
-        "page": "PDF 第 806 页，手册页 9.10.3",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行操纵“飞行操纵面板”（PDF 第 806 页，手册页 9.10.3），SPEED TRIM FAIL 灯亮表示速度配平系统失效；但在主注意灯重现时，该灯表明 FCC 单通道失效，主注意系统复位时该灯熄灭。因此本题所述现象对应飞行操纵计算机单通道失效而非速度配平完全失效，正确答案为 B。"
+        "section": "第15章(警告系统)第10.2节",
+        "page": "原题库参考编号 15.10.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）10.2节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞机中机组通过按压系统信号牌后发现前顶板上的速度配平失效灯亮了复位主警告灯后该灯又熄灭了这种现象说明什么"
     },
@@ -1240,8 +1220,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "关于高度警戒系统的描述哪项正确？",
       "options": [
@@ -1270,13 +1249,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / GPWS 控制 / 15.10.11；飞行仪表、显示 / EFIS 控制面板 / 10.16.3",
-        "page": "PDF 第 1528 页，手册页 15.10.11；另见 PDF 第 938 页，手册页 10.16.3",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》GPWS 控制（PDF 第 1528 页，手册页 15.10.11），按压 TERR 电门会在扩展地图、中心地图、扩展 VOR 和扩展进近方式显示地形数据，在计划、中心 VOR 和中心进近方式则预位地形数据；EFIS 控制面板说明（PDF 第 938 页，手册页 10.16.3）也说明中心进近方式不显示 TERRAIN 信息。因此在中心进近方式看不到地形数据时，切换到支持显示的扩展地图方式即可显示，正确答案为 A。"
+        "section": "第15章(警告系统)第10.7节",
+        "page": "原题库参考编号 15.10.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）10.7节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "关于高度警戒系统的描述哪项正确"
     },
@@ -1297,8 +1276,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "飞行中机组想察看地形，此时ND显示在中心进近方式，按压EFIS控制面板上地形电门后，发现看不到地形数据，关于这种现象下面哪种说法正确？",
       "options": [
@@ -1327,13 +1305,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / 增强型近地警告 / 15.10.30",
-        "page": "PDF 第 1547 页，手册页 15.10.30",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》警告系统“增强型近地警告”（PDF 第 1547 页，手册页 15.10.30），FCOM 说明地形与气象雷达无法共同显示；如一名飞行员选择地形显示而另一名飞行员选择气象雷达显示，系统通过交替刷新更新显示。因此本题正确答案为 C“天气数据和地形数据不可能在同一时间在同一个 DU 上显示出来”。"
+        "section": "第15章(警告系统)第10.11节",
+        "page": "原题库参考编号 15.10.11",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）10.11节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行中机组想察看地形此时nd显示在中心进近方式按压efis控制面板上地形电门后发现看不到地形数据关于这种现象下面哪种说法正确"
     },
@@ -1355,8 +1333,7 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "警告系统",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "关于增强型近地警告系统和气象雷达显示的说法，哪项说法正确？",
       "options": [
@@ -1385,13 +1362,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / 系统说明 / 主注意灯 / 15.20.2",
-        "page": "PDF 第 1537 页，手册页 15.20.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》警告系统“主注意灯”（PDF 第 1537 页，手册页 15.20.2），FCOM 说明如在飞行机组正常视线以外出现任何需要注意的情况，两个主注意灯会亮。因此本题正确答案为 C“在机组正常视线范围外出现注意级警告时”。"
+        "status": "conflict",
+        "manual": "",
+        "section": "15.10.11",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "关于增强型近地警告系统和气象雷达显示的说法哪项说法正确"
     },
@@ -1412,8 +1389,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "出现发动机火警警告，机组按压任一主火警警告灯的作用是什么？",
       "options": [
@@ -1442,13 +1418,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / 系统说明 / 近地警戒 / 15.20.11",
-        "page": "PDF 第 1546 页，手册页 15.20.11",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》警告系统“近地警戒”（PDF 第 1546 页，手册页 15.20.11），GPWS 根据无线电高度和气压高度、空速、下滑道偏离和飞机形态等综合信息提供警戒。因此本题正确答案为 D。"
+        "section": "第15章(警告系统)第20.2节",
+        "page": "原题库参考编号 15.20.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.2节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "出现发动机火警警告机组按压任一主火警警告灯的作用是什么"
     },
@@ -1469,8 +1445,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "什么情况会导致主注意(MASTERCAUTION)灯亮？",
       "options": [
@@ -1499,13 +1474,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / 系统说明 / 预测式地形警戒 / 15.20.12",
-        "page": "PDF 第 1547 页，手册页 15.20.12",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》警告系统“预测式地形警戒”（PDF 第 1547 页，手册页 15.20.12），FCOM 说明地形与气象雷达无法共同显示；如果一名飞行员选择地形显示而另一名飞行员选择气象雷达显示，系统交替刷新更新显示。因此本题正确答案为 B。"
+        "section": "第15章(警告系统)第20.2节",
+        "page": "原题库参考编号 15.20.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.2节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么情况会导致主注意(mastercaution)灯亮"
     },
@@ -1526,8 +1501,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "近地警告系统根据什么的组合来提供警戒？",
       "options": [
@@ -1556,13 +1530,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / 系统说明 / 预测式地形警戒信息 / 15.20.12",
-        "page": "PDF 第 1547 页，手册页 15.20.12",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》警告系统“预测式地形警戒信息”（PDF 第 1547 页，手册页 15.20.12），CAUTION TERRAIN 对应离可能性触地 40 到 60 秒，ND 上出现琥珀色块状地形。因此题干所述琥珀色点状变为实心/块状，正确答案为 D“预计 40 到 60 秒后将撞到地形”。"
+        "section": "第15章(警告系统)第20.11节",
+        "page": "原题库参考编号 15.20.11",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.11节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "近地警告系统根据什么的组合来提供警戒"
     },
@@ -1583,8 +1557,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "起落架警告喇叭发出警告需要哪些系统的信息输入？",
       "options": [
@@ -1613,13 +1586,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / 系统说明 / 预测式风切变警戒 / 15.20.21",
-        "page": "PDF 第 1556 页，手册页 15.20.21",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》警告系统“预测式风切变警戒”（PDF 第 1556 页，手册页 15.20.21），WINDSHEAR AHEAD 表示气象雷达探测到飞机正前方附近有风切变，起飞期间低于 1200 英尺 RA 时可用，并以红色 WINDSHEAR 信息和风切变符号显示。因此本题正确答案为 A。"
+        "section": "第15章(警告系统)第20.7节",
+        "page": "原题库参考编号 15.20.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.7节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "起落架警告喇叭发出警告需要哪些系统的信息输入"
     },
@@ -1640,8 +1613,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "以下不属于近地电门电子组件(PSEU)监控的系统是哪项？",
       "options": [
@@ -1670,13 +1642,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / 系统说明 / 风切变预警信息抑制 / 15.20.25",
-        "page": "PDF 第 1560 页，手册页 15.20.25",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》警告系统“风切变预警信息抑制”（PDF 第 1560 页，手册页 15.20.25），起飞和着陆期间，速度 80 节到 400 英尺 RA 之间新的风切变预警注意级警戒受抑制；速度 100 节到 50 英尺 RA 之间新的预警警告级警戒信息受抑制。因此本题正确答案为 A。"
+        "section": "第15章(警告系统)第20.8节",
+        "page": "原题库参考编号 15.20.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.8节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "以下不属于近地电门电子组件(pseu)监控的系统是哪项"
     },
@@ -1697,8 +1669,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "近地电门电子组件(PSEU)指示灯在什么情况下受到抑制？",
       "options": [
@@ -1727,13 +1698,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / 系统说明 / 决断高度 DH / 最低下降高度 MDA 喊话 / 15.20.31",
-        "page": "PDF 第 1566 页，手册页 15.20.31",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》警告系统“决断高度/最低下降高度喊话”（PDF 第 1566 页，手册页 15.20.31），GPWS 根据机长最低高度选钮设定的高度发出高度喊话；MINS 选钮在 RADIO 位时根据无线电高度喊话，在 BARO 位时根据气压高度喊话。因此本题正确答案为 A“机长 EFIS 面板上最低标准选择电门设定的高度”。"
+        "section": "第15章(警告系统)第20.8节",
+        "page": "原题库参考编号 15.20.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.8节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "近地电门电子组件(pseu)指示灯在什么情况下受到抑制"
     },
@@ -1754,8 +1725,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "高度警戒系统被抑制的条件是什么？",
       "options": [
@@ -1784,13 +1754,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / 系统说明 / TCAS 抑制 / 15.20.33",
-        "page": "PDF 第 1568 页，手册页 15.20.33",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》警告系统“TCAS 抑制”（PDF 第 1568 页，手册页 15.20.33），约低于 1500 英尺 RA 抑制 INCREASE DESCENT RA，约低于 1100 英尺 RA 抑制 DESCEND RA，约低于 1000 英尺 RA 才抑制 RA，约低于 500 英尺 RA 抑制所有 TCAS 语音提示；GPWS 和风切变警告抑制所有 TCAS 警戒。因此题目问错误说法，正确答案为 B“在无线电 1100 英尺以下，所有 RA 警告将被抑制”。"
+        "section": "第15章(警告系统)第20.10节",
+        "page": "原题库参考编号 15.20.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.10节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "高度警戒系统被抑制的条件是什么"
     },
@@ -1811,8 +1781,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "关于增强型近地警告的描述，下面哪项正确？",
       "options": [
@@ -1841,13 +1810,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞机概述 / 控制和指示 / 舱门信号显示 / 1.30.18",
-        "page": "PDF 第 433 页，手册页 1.30.18",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞机概述“舱门信号显示”（PDF 第 433 页，手册页 1.30.18），翼上出口信号显示亮表示相应翼上出口未关闭锁定，或指令锁定时相应飞行锁无法接通。因此本题正确答案为 D。"
+        "section": "第15章(警告系统)第20.9节",
+        "page": "原题库参考编号 15.20.9",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.9节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "关于增强型近地警告的描述下面哪项正确"
     },
@@ -1868,8 +1837,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "EGPWS地形显示的颜色从点状的琥珀色变为实心的琥珀色（琥珀色块状）表明？",
       "options": [
@@ -1898,13 +1866,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 控制和指示 / 引气控制和指示 / 2.10.1",
-        "page": "PDF 第 522 页，手册页 2.10.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“引气控制和指示”（PDF 第 522 页，手册页 2.10.1），右 WING-BODY OVERHEAT 灯亮表示右发吊架、右翼内侧前缘或右空调设备舱由于引气管道泄漏而过热；APU 引气管道列在左灯说明内。因此题干条件下右翼身过热灯亮对应右侧气源管道漏气，正确答案为 A。"
+        "section": "第15章(警告系统)第20.15节",
+        "page": "原题库参考编号 15.20.15",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.15节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "egpws地形显示的颜色从点状的琥珀色变为实心的琥珀色(琥珀色块状)表明"
     },
@@ -1925,8 +1893,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "机组听到“WINDSHEARAHEAD”警告，表明飞机在时，无线电高度英尺以下，气象雷达探测到前方有风切变存在",
       "options": [
@@ -1955,13 +1922,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 控制和指示 / 设备冷却面板 / 2.10.11",
-        "page": "PDF 第 530 页，手册页 2.10.11",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“设备冷却面板”（PDF 第 530 页，手册页 2.10.11），设备冷却供气或排气 OFF 灯亮表示所选冷却风扇无气流。因此本题正确答案为 C“相应的冷却风扇下游无气流”。"
+        "section": "第15章(警告系统)第20.22节",
+        "page": "原题库参考编号 15.20.22",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.22节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "机组听到windshearahead警告表明飞机在时无线电高度英尺以下气象雷达探测到前方有风切变存在"
     },
@@ -1982,8 +1949,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "当机组听到“MONITORRADARDISPLAY”警告，表明什么意思？",
       "options": [
@@ -2007,13 +1973,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 系统说明 / 空调组件 / 冲压空气系统 / 2.30.2",
-        "page": "PDF 第 547 页，手册页 2.30.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“冲压空气系统”（PDF 第 547 页，手册页 2.30.2），在地面或襟翼未完全收上的低速飞行过程中，冲压进气门移向全开位以进行最大冷却；冲压进气门全开时 RAM DOOR FULL OPEN 灯亮。因此本题正确答案为 D“在地面，或空中襟翼放下时”。"
+        "section": "第15章(警告系统)第20.22节",
+        "page": "原题库参考编号 15.20.22",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.22节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "当机组听到monitorradardisplay警告表明什么意思"
     },
@@ -2034,8 +2000,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "以下那项是气象雷达自动扫描风切变的情况？",
       "options": [
@@ -2064,13 +2029,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "通信 / 控制和指示 / 无线电调谐面板 / 5.10.3",
-        "page": "PDF 第 654 页，手册页 5.10.3",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》通信“无线电调谐面板”（PDF 第 654 页，手册页 5.10.3），FCOM 说明对侧调谐灯亮表示通常由此面板调谐的无线电台正由另一面板调谐，或正用该面板调谐通常与其无关的无线电台。因此本题正确答案为 D。"
+        "section": "第15章(警告系统)第20.22节",
+        "page": "原题库参考编号 15.20.22",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.22节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "以下那项是气象雷达自动扫描风切变的情况"
     },
@@ -2091,8 +2056,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "下面关于预警式风切变警告的说法，哪项正确？",
       "options": [
@@ -2121,13 +2085,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "通信 / 控制和指示 / 驾驶舱话音记录器控制面板 / 5.10.18",
-        "page": "PDF 第 669 页，手册页 5.10.18",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》通信“驾驶舱话音记录器控制面板”（PDF 第 669 页，手册页 5.10.18），状态灯瞬间绿色亮表示记录器测试期间未探测到故障；部分构型测试电门按压后状态灯闪亮一次或测试灯亮并可听到谐音。因此本题正确答案为 D“测试没有探测到故障”。"
+        "section": "第15章(警告系统)第20.24节",
+        "page": "原题库参考编号 15.20.24",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.24节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下面关于预警式风切变警告的说法哪项正确"
     },
@@ -2148,8 +2112,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "近地警告系统根据哪个高度信息发出决断高度/最低下降高度的喊话？",
       "options": [
@@ -2178,13 +2141,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "通信 / 系统说明 / 飞行内话系统 / 5.20.1",
-        "page": "PDF 第 676 页，手册页 5.20.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》通信“飞行内话系统”（PDF 第 676 页，手册页 5.20.1），近地警告、高度警戒警告、交通防撞咨询和雷达预测式风切变警戒的声响警告通过扬声器和耳机按预调音量可听到，飞行机组无法控制或将其关断。因此本题正确答案为 D“都不能关掉”。"
+        "section": "第15章(警告系统)第20.26节",
+        "page": "原题库参考编号 15.20.26",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.26节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "近地警告系统根据哪个高度信息发出决断高度/最低下降高度的喊话"
     },
@@ -2205,8 +2168,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "下面美元TCAS的叙述，不正确的是哪项？",
       "options": [
@@ -2235,13 +2197,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 上下显示 / 热防冰指示 / 7.11.6",
-        "page": "PDF 第 733 页，手册页 7.11.6；另见 PDF 第 575 页，手册页 3.10.6",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机主要指示“热防冰（TAI）指示”（PDF 第 733 页，手册页 7.11.6），TAI 显示绿色表示整流罩防冰活门开，显示琥珀色表示整流罩防冰活门不在相应发动机防冰电门所指示的位置；防冰排雨章节也作同样说明。因此本题正确答案为 B。"
+        "section": "第15章(警告系统)第20.27节",
+        "page": "原题库参考编号 15.20.27",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.27节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下面美元tcas的叙述不正确的是哪项"
     },
@@ -2262,8 +2224,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "警告系统",
-        "手册已核对"
+        "警告系统"
       ],
       "question": "下面关于TCAS警告受抑制的说法，哪项错误？",
       "options": [
@@ -2292,13 +2253,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 空速指示 / 10.11.8",
-        "page": "PDF 第 865 页，手册页 10.11.8",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“PFD 空速指示”（PDF 第 865 页，手册页 10.11.8），当前马赫数/地速显示说明为：当空速为 0.4 马赫或以上时显示马赫数，空速降至低于 0.4 马赫时显示地速。因此本题正确答案为 B。"
+        "section": "第15章(警告系统)第20.28节",
+        "page": "原题库参考编号 15.20.28",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.28节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下面关于tcas警告受抑制的说法哪项错误"
     },
@@ -2350,9 +2311,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.2节",
-        "page": "原题库参考编号 15.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.2节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第1章(飞机概述)第30.22节",
+        "page": "原题库参考编号 1.30.22",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.22节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2375,8 +2336,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "运行手册与公司政策",
       "tags": [
-        "飞机概况",
-        "手册已核对"
+        "飞机概况"
       ],
       "question": "按压机组氧气面板上的“复位/测试”按钮可以：",
       "options": [
@@ -2405,13 +2365,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)",
-        "page": "PDF 第 1531 页，手册页 15.10.14",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第15章（警告系统）PDF 第 1531 页，手册页 15.10.14，原文涉及：英尺（起落架放下时为250 英尺） ·黑色：无重要地形 ·洋红色光点：无可用的地形数据。 注：没有地形数据的区域，预测式地形警戒和显示功能不可用。基于 无线电高度的地形警戒正常工作。 （SB 改装B-2169 - B-5070；SB 之前取代EGPWS 计算机。) 注：不显示低于飞机高度2000 英尺以上或在最近机场跑道标高400 英 尺以内的地形。 1。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第1章(飞机概述)第30.26节",
+        "page": "原题库参考编号 1.30.26",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.26节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "按压机组氧气面板上的复位/测试按钮可以"
     },
@@ -2463,9 +2423,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概述)第30.26节",
-        "page": "原题库参考编号 1.30.26",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.26节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第1章(飞机概述)第30.28节",
+        "page": "原题库参考编号 1.30.28",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.28节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2575,9 +2535,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概述)第30.28节",
-        "page": "原题库参考编号 1.30.28",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.28节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第1章(飞机概述)第40.59节",
+        "page": "原题库参考编号 1.40.59",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）40.59节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2600,8 +2560,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "运行手册与公司政策",
       "tags": [
-        "飞机概况",
-        "手册已核对"
+        "飞机概况"
       ],
       "question": "当正常电源失效时，备用电源系统可以向哪些驾驶舱灯光提供电源：",
       "options": [
@@ -2630,13 +2589,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通讯)",
-        "page": "PDF 第 676 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第5章（通讯）PDF 第 676 页，原文涉及：用耳机或相应飞行员 的扬声器可监听各ACP 的音频信号。 通过扬声器和耳机按预调的音量，可听到近地警告、高度警戒警告、 交通防撞咨询和雷达预测式风切变警戒的声响警告。飞行机组无法控 制或将其关断。 扬声器和耳机 每个飞行员位置都有一个吊杆式话筒耳机或头戴式耳机插孔。机长和 副驾驶座椅上方的顶板各有一个扬声器，观察员位没有扬声器。耳机 音量由接收电门控制。扬声器音量由接收电门和扬声器电门控制。近 地……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第1章(飞机概述)第40.5节",
+        "page": "原题库参考编号 1.40.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）40.5节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "当正常电源失效时备用电源系统可以向哪些驾驶舱灯光提供电源"
     },
@@ -2657,8 +2616,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "运行手册与公司政策",
       "tags": [
-        "飞机概况",
-        "手册已核对"
+        "飞机概况"
       ],
       "question": "驾驶舱哪些风挡可以从飞机外侧打开？",
       "options": [
@@ -2687,13 +2645,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1311 页，手册页 11.41.10",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1311 页，手册页 11.41.10，原文涉及：显示来自性能起始（PERF INIT）页的巡航高度，用两种方法改变高度： ·任何时候可以在CDU 上人工输入一新高度。用这种方法改变高度会 产生修改。 ·在MCP 板上输入一个高于当前FMC 巡航高度的高度，只要飞机当 前高度与MCP 目标高度没有中间高度限制。在MCP 板上选择新的 高度并按压高度干预按钮可以把新高度放到巡航高度数据行。用这种 方法输入新高度不会产生修改。 目标速度（TGT SP……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第1章(飞机概述)第40.59节",
+        "page": "原题库参考编号 1.40.59",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）40.59节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "驾驶舱哪些风挡可以从飞机外侧打开"
     },
@@ -2714,8 +2672,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统",
-        "手册已核对"
+        "空气系统"
       ],
       "question": "APU正在供气，隔离活门电门在开位，如果右翼身过热（WIND-BODYOVERHEAT）灯亮，说明：",
       "options": [
@@ -2744,13 +2701,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / 近地电门电子组件 PSEU / 15.20.7",
-        "page": "PDF 第 1542 页，手册页 15.20.7",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》警告系统“近地电门电子组件（PSEU）”（PDF 第 1542 页，手册页 15.20.7），PSEU 监控起飞形态警告、着陆形态警告、起落架和空/地传感。无线电高度表不在该清单内，因此本题问不属于 PSEU 监控的系统，正确答案为 D“无线电高度表”。"
+        "section": "第2章(空气系统)第10.3节",
+        "page": "原题库参考编号 2.10.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）10.3节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "apu正在供气隔离活门电门在开位如果右翼身过热(wind-bodyoverheat)灯亮说明"
     },
@@ -2771,8 +2728,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统",
-        "手册已核对"
+        "空气系统"
       ],
       "question": "设备冷却电门下面的“OFF”灯亮表明：",
       "options": [
@@ -2801,13 +2757,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / PSEU 指示灯 / 15.10.2、15.20.7",
-        "page": "PDF 第 1519、1542 页，手册页 15.10.2、15.20.7",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》警告系统“近地电门电子组件（PSEU）指示灯”（PDF 第 1519 页，手册页 15.10.2）及系统说明（PDF 第 1542 页，手册页 15.20.7），PSEU 指示灯在飞行中、油门杆前推至起飞推力时以及着陆后 30 秒之内受抑制。因此题目选项中最完整的是 D。"
+        "section": "第2章(空气系统)第10.12节",
+        "page": "原题库参考编号 2.10.12",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）10.12节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "设备冷却电门下面的off灯亮表明"
     },
@@ -2828,8 +2784,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统",
-        "手册已核对"
+        "空气系统"
       ],
       "question": "飞行中，如果增压面板上的“AUTOFAIL”灯和“ALTN”灯都亮了，说明:",
       "options": [
@@ -2858,13 +2813,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 引气系统说明 / 2.20.1",
-        "page": "PDF 第 536 页，手册页 2.20.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“引气系统说明”（PDF 第 536 页，手册页 2.20.1），依靠引气系统工作的项目包括空调/增压、机翼和发动机热防冰、发动机起动、液压油箱增压、水箱增压等。手册未列大翼油箱增压，因此本题正确答案为 D。"
+        "section": "第2章(空气系统)第10.15节",
+        "page": "原题库参考编号 2.10.15",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）10.15节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行中如果增压面板上的autofail灯和altn灯都亮了说明"
     },
@@ -2885,8 +2840,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统",
-        "手册已核对"
+        "空气系统"
       ],
       "question": "飞行中，如果增压面板上的“AUTOFAIL”灯亮而“ALTN”灯不亮，说明：",
       "options": [
@@ -2915,13 +2869,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 空调系统说明 / 2.30.1",
-        "page": "PDF 第 546、552 页，手册页 2.30.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“空调系统说明”（PDF 第 546 页，手册页 2.30.1；同内容另见 PDF 第 552 页），FCOM 说明在地面 APU 可向两个组件供气，飞行中可向一个组件供气，多数地面气源车可为两组件工作提供足够引气，并明确“不得使用一台发动机为一个以上组件供气”。因此本题正确答案为 D“任何时候都不允许”。"
+        "section": "第2章(空气系统)第10.15节",
+        "page": "原题库参考编号 2.10.15",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）10.15节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行中如果增压面板上的autofail灯亮而altn灯不亮说明"
     },
@@ -2942,8 +2896,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统",
-        "手册已核对"
+        "空气系统"
       ],
       "question": "下面哪个系统不会使用气源系统的空气？",
       "options": [
@@ -2972,13 +2925,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 空调组件电门与组件流量 / 2.10.2、2.30.1",
-        "page": "PDF 第 525、547 页，手册页 2.10.2、2.30.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“空调组件（PACK）电门”（PDF 第 525 页，手册页 2.10.2），AUTO 位时 APU 引气且两个发动机引气电门关供一个组件工作时，组件调至高流量位；系统说明（PDF 第 547 页，手册页 2.30.1）还说明当 APU 工作且 APU 引气 ON、两个发动机引气 OFF、两个组件 AUTO 时，如一个组件失效会自动转换到高引气流量，不论襟翼位置或空/地逻辑状态如何。因此本题正确答案为 D。"
+        "section": "第2章(空气系统)第20.1节",
+        "page": "原题库参考编号 2.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）20.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下面哪个系统不会使用气源系统的空气"
     },
@@ -2999,8 +2952,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统",
-        "手册已核对"
+        "空气系统"
       ],
       "question": "地面和空中，APU可以向几个空调组件供气？",
       "options": [
@@ -3029,13 +2981,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / 显示电子组件 DEU / 10.21.2",
-        "page": "PDF 第 973 页，手册页 10.21.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“显示电子组件（DEU）”（PDF 第 973 页，手册页 10.21.2），正常工作时显示源选钮在 AUTO 位，1 号 DEU 向机长外侧、机长内侧和上 DU 提供数据，2 号 DEU 向副驾驶外侧、副驾驶内侧和下 DU 提供数据。因此下显示组件由 2 号 DEU 控制，正确答案为 B。"
+        "section": "第2章(空气系统)第31.1节",
+        "page": "原题库参考编号 2.31.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "地面和空中apu可以向几个空调组件供气"
     },
@@ -3056,8 +3008,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统",
-        "手册已核对"
+        "空气系统"
       ],
       "question": "什么时候，可以用一台发动机的引气为两个空调组件供气？",
       "options": [
@@ -3086,13 +3037,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行管理、导航 / IRS 方式选择组件 / 11.10.18",
-        "page": "PDF 第 1088 页，手册页 11.10.18",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行管理、导航“IRS 方式选择组件 / 校准（ALIGN）灯”（PDF 第 1088 页，手册页 11.10.18），白色 ALIGN 灯稳定亮表示相应 IRS 在校准方式、初始姿态方式或关车循环方式。因此正确答案为 D。"
+        "section": "第2章(空气系统)第31.1节",
+        "page": "原题库参考编号 2.31.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么时候可以用一台发动机的引气为两个空调组件供气"
     },
@@ -3113,8 +3064,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统",
-        "手册已核对"
+        "空气系统"
       ],
       "question": "巡航期间，两个空调组件电门都在自动位时，如果一个组件故障不工作：",
       "options": [
@@ -3143,13 +3093,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行管理、导航 / IRS 显示组件 / 11.10.18",
-        "page": "PDF 第 1085 页，手册页 11.10.18",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行管理、导航“IRS 显示组件（ISDU）”（PDF 第 1085 页，手册页 11.10.18），系统显示（SYS DSPL）选钮 L 位选择左 IRS 显示数据，R 位选择右 IRS 显示数据；两个窗显示该选钮选择的 IRS 数据。因此本题正确答案为 C“选择左 IRS 给惯性显示组件（ISDU）提供显示数据”。"
+        "section": "第2章(空气系统)第31.1节",
+        "page": "原题库参考编号 2.31.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "巡航期间两个空调组件电门都在自动位时如果一个组件故障不工作"
     },
@@ -3199,13 +3149,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、气源",
-        "page": "Sheet1 第 39 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、气源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第31.1节",
+        "page": "原题库参考编号 2.31.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "着陆期间两个空调组件电门都在自动位时如果一个组件故障不工作"
     },
@@ -3255,13 +3205,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、组件",
-        "page": "Sheet1 第 128 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第31.1节",
+        "page": "原题库参考编号 2.31.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "两个发动机引气电门关且apu引气电门开空调组件电门在auto位组件何时提供高流量"
     },
@@ -3311,13 +3261,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、显示、组件",
-        "page": "Sheet1 第 130 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第31.2节",
+        "page": "原题库参考编号 2.31.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.2节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "冲压空气系统的冲压进气门在全开位时冲压进气门全开灯(ramdoorfullopen)灯亮那此门何时移向全开位"
     },
@@ -3367,13 +3317,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、组件",
-        "page": "Sheet1 第 143 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第31.2节",
+        "page": "原题库参考编号 2.31.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.2节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "冲压空气系统折流门的作用时"
     },
@@ -3423,13 +3373,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、电源、引气",
-        "page": "Sheet1 第 166 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、电源、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第31.2节",
+        "page": "原题库参考编号 2.31.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.2节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "冲压空气系统折流门"
     },
@@ -3479,13 +3429,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、引气、空调",
-        "page": "Sheet1 第 176 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第31.4节",
+        "page": "原题库参考编号 2.31.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.4节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "左右空调组件的输出温度由什么决定的"
     },
@@ -3535,13 +3485,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、引气",
-        "page": "Sheet1 第 232 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第31.4节",
+        "page": "原题库参考编号 2.31.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.4节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么情况会使温度控制系统分别独立地控制两个空调组件"
     },
@@ -3591,13 +3541,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：组件",
-        "page": "Sheet1 第 246 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第31.5节",
+        "page": "原题库参考编号 2.31.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.5节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "如果所有的区域控制和组件主控制都失效则备用控制组件会调定怎样的驾驶舱和客舱温度"
     },
@@ -3647,13 +3597,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯、引气",
-        "page": "Sheet1 第 255 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第40.1节",
+        "page": "原题库参考编号 2.40.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "自动备用和人工增压方式使用什么马达控制排气活门"
     },
@@ -3703,13 +3653,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、组件",
-        "page": "Sheet1 第 350 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第40.3节",
+        "page": "原题库参考编号 2.40.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.3节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "正常情况下用于e/e舱设备冷却的空气排到何处"
     },
@@ -3759,13 +3709,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：引气",
-        "page": "Sheet1 第 427 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第40.3节",
+        "page": "原题库参考编号 2.40.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.3节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "巡航期间什么情况下用于e/e舱设备冷却的空气会排到机外以增加排烟形态的通风性"
     },
@@ -3815,13 +3765,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、引气、增压",
-        "page": "Sheet1 第 462 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气、增压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第40.5节",
+        "page": "原题库参考编号 2.40.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.5节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行期间非计划下降灯亮了则自动增压控制器以什么为目标进行增压"
     },
@@ -3872,11 +3822,11 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、引气、防冰",
-        "page": "Sheet1 第 463 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "conflict",
+        "manual": "",
+        "section": "2.40.5",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -3928,13 +3878,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯、组件",
-        "page": "Sheet1 第 470 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第40.5节",
+        "page": "原题库参考编号 2.40.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.5节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "增压的下降方式何时开始工作"
     },
@@ -3984,13 +3934,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、引气",
-        "page": "Sheet1 第 489 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第40.6节",
+        "page": "原题库参考编号 2.40.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.6节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "用增压系统的人工方式调节排气活门排气活门全程移动大约需多长时间"
     },
@@ -4035,13 +3985,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：组件",
-        "page": "Sheet1 第 491 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_QRH.pdf",
+        "section": "第DRH2章(QRH非正常程序)第1节",
+        "page": "原题库参考编号 DRH2.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_QRH.pdf》第DRH2章（QRH非正常程序）1节。本题考点涉及QRH非正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "若座舱高度/形态警告喇叭间歇地响或飞机高度在14000英尺以上快速失去座舱压力首先应该做什么"
     },
@@ -4388,8 +4338,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "当横滚接通在VOR或LOC方式时，副驾驶的飞行指引仪的信息来自哪",
       "options": [
@@ -4413,13 +4362,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 604 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 604 页，原文涉及：度以内的切入航道上 ·到达有效航路点前，切入航路。 由于下列原因，LNAV 自动断开： ·到达有效航路最后的航路点 ·到达一个不连续航路 ·在VOR LOC 方式或APP 方式下（VOR/LOC 已预位），切入所选进 近航道 ·使用航向选择 ·不符合截获准则。 VOR 航道（LOC）电门 按压－ ·发出AFDS 横滚指令以截获并跟踪所选VOR 或LOC 航道。 ·横滚方式显示VOR/LOC 预位或……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第10.15节",
+        "page": "原题库参考编号 4.10.15",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.15节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "当横滚接通在vor或loc方式时副驾驶的飞行指引仪的信息来自哪"
     },
@@ -4496,8 +4445,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "坡度选择旋钮设置AFDS在以下什么方式工作时的最大坡度角？",
       "options": [
@@ -4526,13 +4474,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 605 页，手册页 4.10.14",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 605 页，手册页 4.10.14，原文涉及：驶B 和副驾驶F/D 使用 所选航道和2 号甚高频导航接收机的导航数据。 坡度角选钮 旋转－ ·在HDG SEL 方式或VOR 方式下，调定AFDS 使用的最大坡度角。 ·可选择10、15、20、25 或30 度的指令坡度角。 6 7。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第10.16节",
+        "page": "原题库参考编号 4.10.16",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.16节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "坡度选择旋钮设置afds在以下什么方式工作时的最大坡度角"
     },
@@ -4665,8 +4613,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "自动驾驶A接通在CMD位，俯仰工作在CWSP方式，当飞机接近MCP上所选择的高度时，会出现什么情况？",
       "options": [
@@ -4695,13 +4642,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 616 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 616 页，原文涉及：D6-27370-81B-GUN 4.10.25 俯仰接通方式 ·TO/GA（绿色） ·G/S（绿色） ·V/S（绿色） ·FLARE（绿色） ·MCP SPD（绿色） ·VNAV SPD（绿色） ·ALT/ACQ（绿色） ·VNAV PTH（绿色） ·ALT HOLD（绿色） ·VNAV ALT（绿色） 方式改变亮显符号 B-5446 (SB 改装B-5339 - B-5445, B-5468,……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第10.19节",
+        "page": "原题库参考编号 4.10.19",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.19节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "自动驾驶a接通在cmd位俯仰工作在cwsp方式当飞机接近mcp上所选择的高度时会出现什么情况"
     },
@@ -4778,8 +4725,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "飞行指引仪电门上的“MA”灯亮，表示：",
       "options": [
@@ -4808,13 +4754,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 609 页，手册页 4.10.18",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 609 页，手册页 4.10.18，原文涉及：滚，将会恢复CWS 方式。进近方式将 复位（接通和预位方式显示空白）。 ·CWS 接通时显示： ·自动驾驶状态显示CWS P 和/或CWS R 方式 ·FMA 俯仰和/或横滚方式显示空白 ·以CWS P 方式接近所选高度时，俯仰方式接通ALT ACQ，到达所 选高度时，接通ALT HOLD。 ·如VOR/LOC 方式或APP 方式预位且以CWS R 方式接近所选无线 电航道，切入航道时接通VOR/……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第10.21节",
+        "page": "原题库参考编号 4.10.21",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.21节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行指引仪电门上的ma灯亮表示"
     },
@@ -4835,8 +4781,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "自动油门接通时，按压油门杆上的自动油门脱开电门，会出现以下哪种情况？",
       "options": [
@@ -4865,13 +4810,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 611 页，手册页 4.10.20",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 611 页，手册页 4.10.20，原文涉及：·自动驾驶脱开警告声响至少维持两秒钟 ·第二次按压可熄灭脱开灯并停止警告声响 ·如自动驾驶自动脱开，熄灭自动驾驶脱开灯，停止自动驾驶警告声 响。 自动油门脱开电门 按压－ ·脱开自动油门 ·自动油门脱开灯闪亮 ·自动油门预位电门跳开 ·第二次按压可熄灭自动油门脱开灯 ·自动油门自动脱开后，熄灭自动油门脱开灯。 起飞/复飞（TO/GA）电门 按压－AFDS 和自动油门接通起飞或复飞方式（如先前已预位……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第10.22节",
+        "page": "原题库参考编号 4.10.22",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.22节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "自动油门接通时按压油门杆上的自动油门脱开电门会出现以下哪种情况"
     },
@@ -5116,8 +5061,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "以下哪种情况下可以截获水平导航？",
       "options": [
@@ -5141,13 +5085,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 625 页，手册页 4.20.8",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 625 页，手册页 4.20.8，原文涉及：V。 ·LNAV（预位）－进近阶段且飞行计划中有复飞。 ·LNAV（接通）－AFDS 切入并跟踪有效的FMC 航路。LNAV 截获 ·在任何航向上并且距有效航段3 海里以内 ·如距有效航段3 海里以外，飞机必须在90 度或以内的切入航道上 并在有效航路点前切入该航段。 ·HDG SEL－飞机转向或保持MCP 所选航向。 ·VOR/LOC（预位）－AFDS 预位以截获所选的VOR 或LOC 航道。 ……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第20.8节",
+        "page": "原题库参考编号 4.20.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.8节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "以下哪种情况下可以截获水平导航"
     },
@@ -5336,8 +5280,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "起飞过程中，当指示空速到达60海里/小时前，飞行方式显示上的俯仰方式为",
       "options": [
@@ -5366,13 +5309,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 628 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 628 页，原文涉及：方可接通。 起飞前，必须打开两部飞行指引以接通起飞方式。按压任一油门杆上 的TO/GA 电门，可接通飞行指引起飞方式。FMA 自动驾驶状态显示 为F/D，俯仰方式为TO/GA，横滚方式为空白。 起飞过程中，按压TO/GA 电门可接通自动油门N1 方式。自动油门信 号显示从ARM 变为N1，并且油门杆前推至起飞推力。 F/D 电门关时也可接通飞行指引起飞方式。2000 英尺AGL 以下、速度 80 ……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第20.12节",
+        "page": "原题库参考编号 4.20.12",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.12节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "起飞过程中当指示空速到达60海里/小时前飞行方式显示上的俯仰方式为"
     },
@@ -5892,8 +5835,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "自动驾驶ILS进近，在相差多少个点时下滑道截获？",
       "options": [
@@ -5922,13 +5864,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 606 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 606 页，原文涉及：电门 按压－ ·APP 电门灯亮 ·预位AFDS 以截获航道和下滑道 ·横滚方式显示VOR LOC 预位 ·俯仰方式显示G/S 预位 ·允许接通两部自动驾驶。 APP 方式 进近方式预位AFDS 以截获并跟踪航道和下滑道，可接通此方式进行 双通道或单通道自动驾驶操作。 进近方式接通前，必须将一部甚高频导航接收机调至ILS 频率。调好 一部甚高频导航接收机频率后，同侧的AFDS 方可导航和工作。 双……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第20.18节",
+        "page": "原题库参考编号 4.20.18",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "自动驾驶ils进近在相差多少个点时下滑道截获"
     },
@@ -5949,8 +5891,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "自动驾驶ILS进近，在当航向道截获时，自动驾驶飞行指引仪状态显示为：",
       "options": [
@@ -5979,13 +5920,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 636 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 636 页，原文涉及：- B-2622, B-2916, B-2917, B-5021 - B-7997 ·如果飞行员正在人工飞行但没有跟随飞行指引仪的进近引导，并随 后选择接通自动驾驶CMD 方式，则自动驾驶会将俯仰和横滚方式恢 复为CWS 方式。然后进近方式将重新预位。 ·航道截获后的整个进近过程中，自动驾驶状态显示为SINGLE CH ·不提供自动驾驶复飞。 B-1123 – B1700, B-1718 – B-……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第20.18节",
+        "page": "原题库参考编号 4.20.18",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "自动驾驶ils进近在当航向道截获时自动驾驶飞行指引仪状态显示为"
     },
@@ -6062,8 +6003,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "自动驾驶单通道进近期间，航向道和下滑道截获后，自动驾驶状态显示：",
       "options": [
@@ -6092,13 +6032,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 607 页，手册页 4.10.16",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 607 页，手册页 4.10.16，原文涉及：/-8K5/-86J/-86N FCOM 自动飞行 4.10.16 D6-27370-81B-GUN March 31, 2023 ·航道截获后，自动驾驶状态显示“SINGLE CH（单通道）” ·单通道自动驾驶进近时，整个进近过程中始终显示“SINGLE CH” B-5586, B-5598 ·双通道自动驾驶进近时，第2 部自动驾驶接通并显示滑跑预位和 拉平预位后，“SINGLE CH”显示消失……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第20.20节",
+        "page": "原题库参考编号 4.20.20",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.20节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "自动驾驶单通道进近期间航向道和下滑道截获后自动驾驶状态显示"
     },
@@ -6119,8 +6059,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "当自动油门预位电门在ARM位时，以下哪个条件不会使自动油门的复飞方式预位？",
       "options": [
@@ -6149,13 +6088,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 593 页，手册页 4.10.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 593 页，手册页 4.10.2，原文涉及：Q（高度截获） ·V/S（垂直速度） ·VNAV（垂直导航） ·ALT HOLD（高度保持） ·G/S（下滑道）截获 ·TO/GA（起飞/复飞）。 当自动油门预位电门在ARM 位时，绿色指示器灯亮。不同厂家生产的 指示器灯亮度不同，驾驶舱较为明亮时可能看起来像没有亮。 OFF－脱开自动油门并防止自动油门接通。 转换（C/O）电门 按压－ ·转换IAS/MACH 窗显示的指示空速和马赫数 ·在约FL……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第20.26节",
+        "page": "原题库参考编号 4.20.26",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.26节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "当自动油门预位电门在arm位时以下哪个条件不会使自动油门的复飞方式预位"
     },
@@ -6176,8 +6115,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "要想自动油门加到全复飞N1限制值，何时第二次按压任一TO/GA电门？",
       "options": [
@@ -6206,13 +6144,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 623 页，手册页 4.20.6",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 623 页，手册页 4.20.6，原文涉及：止动点时显示。 RETARD 方式之后变为ARM 方式 ·FMC SPD（FMC 速度）－自动油门保持FMC 指令的速度。自动油 门遵守推力方式显示上的N1 限制值 ·MCP SPD（MCP 速度）－自动油门保持MCP 上IAS/MACH 窗内调 定的速度。自动油门遵守推力方式显示上的N1 限制值 ·THR HLD（推力保持）－油门杆自动油门伺服机构受抑制；飞行员 可人工调置油门杆 ·ARM（预位……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第20.28节",
+        "page": "原题库参考编号 4.20.28",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.28节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "要想自动油门加到全复飞n1限制值何时第二次按压任一to/ga电门"
     },
@@ -6290,8 +6228,7 @@ window.B737_QUESTION_BANK = {
       "category": "自动飞行",
       "tags": [
         "自动飞行",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "若在飞行指引起飞或复飞阶段遭遇了风切变，在垂直速率下降至约+600英尺/分钟之前，飞行指引俯仰指令杆发出指令以保持多大的速度？",
       "options": [
@@ -6320,13 +6257,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "自动飞行 / 系统说明 / 风切变；另见飞行管理、导航 / 爬升剖面目标速度异常情况",
-        "page": "PDF 第 647 页，手册页 4.20.33；另见 PDF 第 1306 页，手册页 11.41.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》自动飞行“起飞或复飞”风切变说明（PDF 第 647 页，手册页 4.20.33），FCOM 说明在飞行指引起飞或复飞阶段遭遇风切变，飞行指引俯仰指令杆发出指令以保持目标速度，直至 V/S 下降至约 +600 英尺/分钟；另据 FCOM 爬升剖面目标速度异常情况（PDF 第 1306 页，手册页 11.41.5），目标速度可为最终 MCP 速度 V2+20 节。因此本题正确答案为 C“V2+20”。"
+        "status": "conflict",
+        "manual": "",
+        "section": "4.20.33",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "若在飞行指引起飞或复飞阶段遭遇了风切变在垂直速率下降至约+600英尺/分钟之前飞行指引俯仰指令杆发出指令以保持多大的速度"
     },
@@ -6403,8 +6340,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "当前飞机的高度为25000英尺，MCP板上所调的高度为20000英尺，FMC的目标高度为30000英尺，自动驾驶接通在指令(CMD)方式，按压VNAV电门，则：",
       "options": [
@@ -6428,13 +6364,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 629 页，手册页 4.20.12",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 629 页，手册页 4.20.12，原文涉及：节，飞行指引俯仰指令15 度上仰。 在84 节，自动油门方式显示THR HLD。 离地时： ·俯仰指令保持15 度上仰直到获得足够的爬升率。然后俯仰指令MCP 速度（通常为V2）加20 节 ·若在地面出现单发，离地时的俯仰指令目标速度是V2 或离地空速， 取较大值。 ·横滚指令保持机翼水平。 离地后： ·若出现单发，则俯仰指令目标速度为： ·V2（若空速低于V2） ·当前速度（若空速在V2 和V2……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第10.7节",
+        "page": "原题库参考编号 4.10.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.7节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "当前飞机的高度为25000英尺mcp板上所调的高度为20000英尺fmc的目标高度为30000英尺自动驾驶接通在指令(cmd)方式按压vnav电门则"
     },
@@ -6506,8 +6442,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "自动油门接通在N1方式，表明",
       "options": [
@@ -6536,13 +6471,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)",
-        "page": "PDF 第 623 页，手册页 4.20.6",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第4章（自动飞行）PDF 第 623 页，手册页 4.20.6，原文涉及：31, 20230 接通或截获的方式以绿色大字符显示在飞行方式信号牌框的上方。预 位方式以白色小字符显示在飞行方式信号牌框的下方。 自动油门方式 ·N1－自动油门将推力保持在推力方式显示选择的N1 限制，包括全 复飞N1 限制 ·GA（复飞）－自动油门保持减级的复飞推力 ·RETARD（收油门）－自动油门将手柄向后移到止动点时显示。 RETARD 方式之后变为ARM 方式 ·FMC SPD（FMC……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第4章(自动飞行)第20.47.10.4节",
+        "page": "原题库参考编号 4.20.47.10.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.47.10.4节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "自动油门接通在n1方式表明"
     },
@@ -6620,8 +6555,7 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "通讯",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "什么情况会导致无线电调谐面板上的“对侧调谐”灯亮?",
       "options": [
@@ -6650,13 +6584,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 空速指示 / 10.11.10",
-        "page": "PDF 第 867 页，手册页 10.11.10",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“PFD 空速指示”（PDF 第 867 页，手册页 10.11.10），最小机动速度琥珀色杆在起飞后第一次收襟翼或输入有效 VREF 时显示，表示最小机动速度。因此本题正确答案为 D。"
+        "status": "conflict",
+        "manual": "",
+        "section": "5.10.3",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "什么情况会导致无线电调谐面板上的对侧调谐灯亮"
     },
@@ -6677,8 +6611,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "通讯",
-        "手册已核对"
+        "通讯"
       ],
       "question": "要调定所选高频的上边带模式，应按压什么电门？",
       "options": [
@@ -6707,13 +6640,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 姿态指示 / 10.11.13",
-        "page": "PDF 第 870 页，手册页 10.11.13",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“PFD 姿态指示”（PDF 第 870 页，手册页 10.11.13），俯仰限制指示为琥珀色，指示当前飞行状态的起始抖杆；襟翼未全收上时显示，襟翼收上低速时也显示。因此本题正确答案为 C“当襟翼放出或速度接近抖杆时”。"
+        "section": "第5章(通讯)第10.4节",
+        "page": "原题库参考编号 5.10.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.4节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "要调定所选高频的上边带模式应按压什么电门"
     },
@@ -6734,8 +6667,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "通讯",
-        "手册已核对"
+        "通讯"
       ],
       "question": "接通音频控制面板上的“VHF”发射选择电门时，发现其接收机电门灯不亮，说明什么？",
       "options": [
@@ -6764,13 +6696,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 姿态指示 / 10.11.13",
-        "page": "PDF 第 870 页，手册页 10.11.13",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“PFD 姿态指示”（PDF 第 870 页，手册页 10.11.13），坡度指针指示坡度角；如坡度角为 35 度或以上，整个指针变为琥珀色。因此本题正确答案为 B。"
+        "section": "第5章(通讯)第10.9节",
+        "page": "原题库参考编号 5.10.9",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.9节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "接通音频控制面板上的vhf发射选择电门时发现其接收机电门灯不亮说明什么"
     },
@@ -6791,8 +6723,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "通讯",
-        "手册已核对"
+        "通讯"
       ],
       "question": "将音频控制面板上的滤波电门放到什么位置可以接收到语音音频信号？",
       "options": [
@@ -6821,13 +6752,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 仪表着陆系统指示 / 10.11.18",
-        "page": "PDF 第 875 页，手册页 10.11.18",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“PFD 仪表着陆系统指示”（PDF 第 875 页，手册页 10.11.18），航道指针收到航道信号时显现，并在距中心 2.5 个点范围内时变为洋红色实心菱形。因此本题正确答案为 B。"
+        "section": "第5章(通讯)第10.10节",
+        "page": "原题库参考编号 5.10.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.10节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "将音频控制面板上的滤波电门放到什么位置可以接收到语音音频信号"
     },
@@ -6848,8 +6779,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "通讯",
-        "手册已核对"
+        "通讯"
       ],
       "question": "地面人员要使用服务内话系统通话，必须接通哪个电门？",
       "options": [
@@ -6878,13 +6808,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 仪表着陆系统指示 / 10.11.18",
-        "page": "PDF 第 875 页，手册页 10.11.18",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“PFD 仪表着陆系统指示”（PDF 第 875 页，手册页 10.11.18），低于 1000 英尺 AGL 且 LNAV 接通、LOC 预位时，如未截获航道，则航道刻度变为琥珀色且指针闪亮。因此本题正确答案为 C。"
+        "section": "第5章(通讯)第10.18节",
+        "page": "原题库参考编号 5.10.18",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.18节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "地面人员要使用服务内话系统通话必须接通哪个电门"
     },
@@ -6905,8 +6835,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "通讯",
-        "手册已核对"
+        "通讯"
       ],
       "question": "按压驾驶舱话音记录器测试电门，如果状态灯亮，说明：",
       "options": [
@@ -6935,13 +6864,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 姿态指示 / 航道 / 10.11.22",
-        "page": "PDF 第 1004 页，手册页 10.11.22",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“PFD 姿态指示 / 航道”（PDF 第 1004 页，手册页 10.11.22），FCOM 说明低于 2500 英尺 RA 且航道指针可见时，出现一个上升的跑道符号。因此本题正确答案为 C。"
+        "section": "第5章(通讯)第10.20节",
+        "page": "原题库参考编号 5.10.20",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.20节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "按压驾驶舱话音记录器测试电门如果状态灯亮说明"
     },
@@ -6962,8 +6891,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "通讯",
-        "手册已核对"
+        "通讯"
       ],
       "question": "通过驾驶舱扬声器和机组耳机可以听到高度警戒、近地警告、防撞系统和风切变的声响警告，耳机和扬声器的音量如何调节？",
       "options": [
@@ -6992,13 +6920,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 高度指示 / 气压指示 / 10.11.23",
-        "page": "PDF 第 880 页，手册页 10.11.23",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“气压指示”（PDF 第 880 页，手册页 10.11.23），FCOM 说明如数值已调定并且飞机爬升到过渡高度以上，或已调定标准气压并且下降到过渡飞行高度层以下时，气压调定值显示琥珀色框。因此本题正确答案为 D。"
+        "section": "第5章(通讯)第20.1节",
+        "page": "原题库参考编号 5.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）20.1节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "通过驾驶舱扬声器和机组耳机可以听到高度警戒近地警告防撞系统和风切变的声响警告耳机和扬声器的音量如何调节"
     },
@@ -7048,13 +6976,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "conflict",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 高度指示 / 着陆高度与最低高度指示 / 10.11.25",
-        "page": "PDF 第 882 页，手册页 10.11.25",
-        "summary": "答案参考说明：本系统仍以原题库参考答案 C 作为判题依据。依据《B737_NG_FCOM.pdf》飞行仪表、显示“着陆高度/最低高度指示”（PDF 第 882 页，手册页 10.11.25），着陆高度阴影区域指示目的地跑道或机场的 FMC 着陆高度，或起飞跑道/机场着陆高度直到距起飞机场 400 海里或距目的地剩一半航程，以先出现者为准。因此题干 500 海里航程已飞 260 海里时已超过一半航程，按手册逻辑可能更正确的答案是 D：显示目的地机场的跑道或目的地机场的着陆高度。"
+        "section": "第5章(通讯)第20.1节",
+        "page": "原题库参考编号 5.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）20.1节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "对于高度警戒近地警告防撞系统和风切变的声响警告哪些可以关掉哪些不能关掉"
     },
@@ -7075,8 +7003,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "通讯",
-        "手册已核对"
+        "通讯"
       ],
       "question": "关于高频通信，下面哪种表述是错误的？",
       "options": [
@@ -7105,13 +7032,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 高度指示 / 着陆高度与最低高度指示 / 10.11.25",
-        "page": "PDF 第 882 页，手册页 10.11.25",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“着陆高度/最低高度指示”（PDF 第 882 页，手册页 10.11.25），着陆高度基准杆指示高于接地点的高度，白色杆为高于着陆高度 500 至 1000 英尺，琥珀色杆为高于着陆高度 0 至 500 英尺。因此本题正确答案为 B。"
+        "section": "第5章(通讯)第20.7节",
+        "page": "原题库参考编号 5.20.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）20.7节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "关于高频通信下面哪种表述是错误的"
     },
@@ -7132,8 +7059,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "通讯",
-        "手册已核对"
+        "通讯"
       ],
       "question": "驾驶舱话音记录器使用个独立的声道记录驾驶舱内分钟的语音：",
       "options": [
@@ -7162,13 +7088,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 垂直速度指示 / 10.11.26",
-        "page": "PDF 第 883 页，手册页 10.11.26",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“PFD 垂直速度指示”（PDF 第 883 页，手册页 10.11.26），FCOM 说明白色垂直速度数字在垂直速度大于 400 英尺/分钟时显示，爬升时位于垂直速度指示上方，下降时位于指示下方。因此本题正确答案为 C。"
+        "section": "第5章(通讯)第20.8节",
+        "page": "原题库参考编号 5.20.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）20.8节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "驾驶舱话音记录器使用个独立的声道记录驾驶舱内分钟的语音"
     },
@@ -7189,8 +7115,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统",
-        "手册已核对"
+        "电气系统"
       ],
       "question": "在地面，“TR”琥珀色灯亮表明：",
       "options": [
@@ -7214,13 +7139,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)",
-        "page": "PDF 第 692 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第6章（电气）PDF 第 692 页，原文涉及：压。 电瓶放电（BAT DISCHAGE）灯 亮（琥珀色）－电瓶电门接通时探测到电瓶释放过量。 变压整流器组件（TR UNIT）灯 亮（琥珀色）－ ·在地面－任一TR 已失效。 ·飞行中－ ·TR1 失效；或 ·TR2 和TR3 失效。 电气（ELEC）灯 亮（琥珀色）－直流电源系统或备用电源系统存在故障。 注：仅在地面时工作。 维护测试（MAINT）电门 维护时使用。 直流电表选钮 选择一个直流……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第6章(电气)第10.7节",
+        "page": "原题库参考编号 6.10.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.7节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在地面tr琥珀色灯亮表明"
     },
@@ -7297,8 +7222,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统",
-        "手册已核对"
+        "电气系统"
       ],
       "question": "“备用电源关”灯壳说明什么汇流条没电？",
       "options": [
@@ -7327,13 +7251,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)",
-        "page": "PDF 第 695 页，手册页 6.10.8",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第6章（电气）PDF 第 695 页，手册页 6.10.8，原文涉及：GUN March 3, 2022 备用电源（STANDBY POWER）电门 AUTO（护盖位）－ ·在飞行中，或在地面，且交流转换汇流条有电： ·备用交流汇流条由1 号交流转换汇流条供电 ·备用直流汇流条由TR1、TR2 和TR3 供电 ·在飞行中，或在地面，所有交流电源失效： ·备用交流汇流条由电瓶通过静变流机供电 ·备用直流汇流条由电瓶供电 ·电瓶汇流条由电瓶供电。 OFF（中立位置）－ ……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第6章(电气)第10.9节",
+        "page": "原题库参考编号 6.10.9",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.9节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "备用电源关灯壳说明什么汇流条没电"
     },
@@ -7355,8 +7279,7 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "电气系统",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "在飞机电气系统有正常电源的情况下，将备用电源电门放到“BAT”位，则备用交流汇流条由谁供电？",
       "options": [
@@ -7385,13 +7308,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "电气 / 系统说明 / 备用电源 / 6.20.16-6.20.17",
-        "page": "PDF 第 715-716 页，手册页 6.20.16-6.20.17",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》电气系统“备用电源”（PDF 第 715-716 页，手册页 6.20.16-6.20.17），FCOM 说明将备用电源电门放在 BAT 位会超控自动转换，并使备用交流汇流条、备用直流汇流条和电瓶汇流条与电瓶电源接通；备用交流汇流条通过静变流机由电瓶供电。因此本题正确答案为 B“由电瓶/电瓶充电器通过静变流机供电”。"
+        "status": "conflict",
+        "manual": "",
+        "section": "6.10.10",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "在飞机电气系统有正常电源的情况下将备用电源电门放到bat位则备用交流汇流条由谁供电"
     },
@@ -7468,8 +7391,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统",
-        "手册已核对"
+        "电气系统"
       ],
       "question": "在地面，APU发电机正在向两个交流转换汇流条供电，左发起动好后接通左发电机电门，则：",
       "options": [
@@ -7498,13 +7420,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)",
-        "page": "PDF 第 704 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第6章（电气）PDF 第 704 页，原文涉及：81Q/-83N/-8K5/-86J/-86N FCOM 电气 March 31, 2023 D6-27370-81B-GUN 6.20.5 飞机在地面且两个发电机控制电门关，或双发关车时，接通地面电源 电门，可使外部电源与两个转换汇流条连接。同理，接通任一APU 发 电机电门可将APU 电源与两个转换汇流条接通。最后选择的电源向两 个汇流条供电。不可能用外部电源向一个转换汇流条供电而用APU 电……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第6章(电气)第10.12节",
+        "page": "原题库参考编号 6.10.12",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.12节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在地面apu发电机正在向两个交流转换汇流条供电左发起动好后接通左发电机电门则"
     },
@@ -7581,8 +7503,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统",
-        "手册已核对"
+        "电气系统"
       ],
       "question": "电源系统可分为哪几个主要部分？",
       "options": [
@@ -7611,13 +7532,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)",
-        "page": "PDF 第 700 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第6章（电气）PDF 第 700 页，原文涉及：电。 B737 飞机电气系统有两个基本的工作原理： ·交流电源不能并联供电 ·另一电源接通转换汇流条时，当前电源自动断开。 电源系统可分为三个主要部分：交流电源系统、直流电源系统和备用 电源系统。 双电瓶 B-1525, B-1700, B-1701, B-1737, B-1776 - B-1781, B-1920 - B-1925, B-1979, B-1980, B-5112, B-5232 ……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第6章(电气)第20.1节",
+        "page": "原题库参考编号 6.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.1节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "电源系统可分为哪几个主要部分"
     },
@@ -7694,8 +7615,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统",
-        "手册已核对"
+        "电气系统"
       ],
       "question": "关于琥珀色电气灯(ELEC),下面哪句话正确？",
       "options": [
@@ -7724,13 +7644,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)",
-        "page": "PDF 第 692 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第6章（电气）PDF 第 692 页，原文涉及：亮（琥珀色）－ ·在地面－任一TR 已失效。 ·飞行中－ ·TR1 失效；或 ·TR2 和TR3 失效。 电气（ELEC）灯 亮（琥珀色）－直流电源系统或备用电源系统存在故障。 注：仅在地面时工作。 维护测试（MAINT）电门 维护时使用。 直流电表选钮 选择一个直流电源以显示其电压和电流。 TEST－维护时使用。 电瓶（BAT）电门 OFF－ ·用正常电源工作时，断开电瓶汇流条和转换的热电瓶汇流……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第6章(电气)第10.7节",
+        "page": "原题库参考编号 6.10.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.7节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "关于琥珀色电气灯(elec)下面哪句话正确"
     },
@@ -7807,8 +7727,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统",
-        "手册已核对"
+        "电气系统"
       ],
       "question": "什么情况下，汇流条交连继电器自动跳开，隔离1#和2#直流汇流条？",
       "options": [
@@ -7837,13 +7756,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)",
-        "page": "PDF 第 710 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第6章（电气）PDF 第 710 页，原文涉及：此情况下，TR1 和TR2 分别向1 号、2 号直流汇流条和备用直流汇 流条供电。TR3 向电瓶汇流条供电，并作为TR1 和TR2 的备用电源。 下列条件下，汇流条交连继电器自动跳开，隔离1 号和2 号直流汇流 条： ·在飞行指引或自动驾驶仪表着陆系统进近过程中，下滑道截获时， 在进近过程中，继电器隔离直流汇流条，防止因一个汇流条故障而 影响两部导航接收机和飞行操纵计算机的工作。 ·汇流条转换电门……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第6章(电气)第20.11节",
+        "page": "原题库参考编号 6.20.11",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.11节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么情况下汇流条交连继电器自动跳开隔离1#和2#直流汇流条"
     },
@@ -7976,8 +7895,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统",
-        "手册已核对"
+        "电气系统"
       ],
       "question": "备用电源电门在“AUTO”位，什么情况下，备用交直流汇流条自动转换到电瓶/电瓶充电器供电？",
       "options": [
@@ -8006,13 +7924,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)",
-        "page": "PDF 第 715 页，手册页 6.20.16",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第6章（电气）PDF 第 715 页，手册页 6.20.16，原文涉及：电瓶供电。备用直流汇流条、电瓶汇流条、热 电瓶汇流条、转换热电瓶汇流条由电瓶直接供电。 备用电源电门可自动或人工向备用汇流条供电。 电门在自动位时，如1 号交流转换汇流条或1 号直流汇流条电源失效， 正常电源自动转换到备用电源。 将电门放在电瓶位超控自动转换，并且使备用交流汇流条、备用直流 汇流条和电瓶汇流条与电瓶电源接通。电瓶电门可在开或关位。如电 瓶电门关，则转换热电瓶汇流条无电源。 将备用电……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第6章(电气)第20.12节",
+        "page": "原题库参考编号 6.20.12",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.12节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "备用电源电门在auto位什么情况下备用交直流汇流条自动转换到电瓶/电瓶充电器供电"
     },
@@ -8033,8 +7951,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统",
-        "手册已核对"
+        "电气系统"
       ],
       "question": "电气系统有正常电源时，将备用电源电门放到“BAT”位并将电瓶电门放到“OFF”位：",
       "options": [
@@ -8063,13 +7980,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)",
-        "page": "PDF 第 695 页，手册页 6.10.8",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第6章（电气）PDF 第 695 页，手册页 6.10.8，原文涉及：汇流条由TR1、TR2 和TR3 供电 ·在飞行中，或在地面，所有交流电源失效： ·备用交流汇流条由电瓶通过静变流机供电 ·备用直流汇流条由电瓶供电 ·电瓶汇流条由电瓶供电。 OFF（中立位置）－ ·备用电源关灯亮 ·备用交流汇流条、静变流机和备用直流汇流条无电源。 BAT（无护盖位）－ ·备用交流汇流条由电瓶通过静变流机供电 ·备用直流汇流条和电瓶汇流条直接由电瓶供电。 4。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第6章(电气)第10.7 6.10.10节",
+        "page": "原题库参考编号 6.10.7 6.10.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.7 6.10.10节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "电气系统有正常电源时将备用电源电门放到bat位并将电瓶电门放到off位"
     },
@@ -8146,8 +8063,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统",
-        "手册已核对"
+        "电气系统"
       ],
       "question": "在地面，如果失去所有交流电且备用电源电门在AUTO位，如何防止电瓶放电？",
       "options": [
@@ -8176,13 +8092,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)",
-        "page": "PDF 第 695 页，手册页 6.10.8",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第6章（电气）PDF 第 695 页，手册页 6.10.8，原文涉及：0.8 D6-27370-81B-GUN March 3, 2022 备用电源（STANDBY POWER）电门 AUTO（护盖位）－ ·在飞行中，或在地面，且交流转换汇流条有电： ·备用交流汇流条由1 号交流转换汇流条供电 ·备用直流汇流条由TR1、TR2 和TR3 供电 ·在飞行中，或在地面，所有交流电源失效： ·备用交流汇流条由电瓶通过静变流机供电 ·备用直流汇流条由电瓶供电 ·电瓶汇流条由……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第6章(电气)第10.7 6.10.10节",
+        "page": "原题库参考编号 6.10.7 6.10.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.7 6.10.10节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在地面如果失去所有交流电且备用电源电门在auto位如何防止电瓶放电"
     },
@@ -8259,8 +8175,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护",
-        "手册已核对"
+        "火警保护"
       ],
       "question": "将火警保护面板上的火警测试电门扳例故障/不工作（FAQULT/INOP）位是测试？",
       "options": [
@@ -8289,13 +8204,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)",
-        "page": "PDF 第 782 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第8章（防火）PDF 第 782 页，原文涉及：仅地面） ·复位系统以用于其它警告。 灭火瓶测试（EXT TEST）电门 （弹簧保持在中间位） 1 或2－测试所有三个灭火瓶的释放电路连续性。 故障/不工作（FAULT/INOP）和过热/火警（OVHT/FIRE） 测试（TEST）电门 （弹簧保持在中间位） FAULT/INOP－测试两台发动机和APU 故障探测电路。 OVHT/FIRE－测试两台发动机过热和火警探测环路，并且测试APU 的 火警……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第8章(防火)第10.1节",
+        "page": "原题库参考编号 8.10.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）10.1节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "将火警保护面板上的火警测试电门扳例故障/不工作(faqult/inop)位是测试"
     },
@@ -8316,8 +8231,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护",
-        "手册已核对"
+        "火警保护"
       ],
       "question": "将火警保护面板上的火警测试电门扳倒过热/火警（OVHT/FIRE）位进行测试时，发现故（FAULT）灯亮了，说明什么？",
       "options": [
@@ -8344,13 +8258,13 @@ window.B737_QUESTION_BANK = {
       ],
       "answer": [],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)",
-        "page": "PDF 第 782 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第8章（防火）PDF 第 782 页，原文涉及：火瓶测试（EXT TEST）电门 （弹簧保持在中间位） 1 或2－测试所有三个灭火瓶的释放电路连续性。 故障/不工作（FAULT/INOP）和过热/火警（OVHT/FIRE） 测试（TEST）电门 （弹簧保持在中间位） FAULT/INOP－测试两台发动机和APU 故障探测电路。 OVHT/FIRE－测试两台发动机过热和火警探测环路，并且测试APU 的 火警探测环路，以及轮舱火警探测器。 注：参阅……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第8章(防火)第20.8节",
+        "page": "原题库参考编号 8.20.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.8节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "将火警保护面板上的火警测试电门扳倒过热/火警(ovht/fire)位进行测试时发现故(fault)灯亮了说明什么"
     },
@@ -8427,8 +8341,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护",
-        "手册已核对"
+        "火警保护"
       ],
       "question": "拉出APU灭火手柄,下面哪一个不会发生？",
       "options": [
@@ -8457,13 +8370,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)",
-        "page": "PDF 第 780 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第8章（防火）PDF 第 780 页，原文涉及：....................................................................... 8.10.7 APU 地面控制面板 .......................................................................... 8.10.8 卫生间防火 ......................……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第8章(防火)第10.2节",
+        "page": "原题库参考编号 8.10.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）10.2节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "拉出apu灭火手柄下面哪一个不会发生"
     },
@@ -8540,8 +8453,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护",
-        "手册已核对"
+        "火警保护"
       ],
       "question": "发动机灭火系统由什么汇流条供电？",
       "options": [
@@ -8570,13 +8482,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)",
-        "page": "PDF 第 792 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第8章（防火）PDF 第 792 页，原文涉及：舱安装火警探测系统，但未安装灭火系统。 货舱有烟雾探测和灭火系统。 发动机防火 发动机防火系统的组成： ·电瓶汇流条供电的发动机过热和火警探测系统 ·热电瓶汇流条供电的发动机灭火系统 发动机过热和火警探测 每台发动机包括两个过热/火警探测环路。每个环路均可提供火警和过 热探测。探测器温度升至预定限制值时，探测器感应过热情况。温度 继续升高，探测器感应火警。正常情况下，两个探测环路必须都感应 到过热……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第8章(防火)第20.1节",
+        "page": "原题库参考编号 8.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "发动机灭火系统由什么汇流条供电"
     },
@@ -8597,8 +8509,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护",
-        "手册已核对"
+        "火警保护"
       ],
       "question": "每台发动机的过热/火警探测系统：",
       "options": [
@@ -8627,13 +8538,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)",
-        "page": "PDF 第 792 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第8章（防火）PDF 第 792 页，原文涉及：系统说明 第20 节 介绍 下列设备均安装火警探测和灭火瓶系统： ·发动机 ·APU ·卫生间 ·货舱 发动机还安装过热探测系统。 主轮舱安装火警探测系统，但未安装灭火系统。 货舱有烟雾探测和灭火系统。 发动机防火 发动机防火系统的组成： ·电瓶汇流条供电的发动机过热和火警探测系统 ·热电瓶汇流条供电的发动机灭火系统 发动机过热和火警探测 每台发动机包括两个过热/火警探测环路。每个环路均可提供火警……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第8章(防火)第20.1节",
+        "page": "原题库参考编号 8.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "每台发动机的过热/火警探测系统"
     },
@@ -8710,8 +8621,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护",
-        "手册已核对"
+        "火警保护"
       ],
       "question": "发动机的过热探测电门在“正常”位时，如果A环路失效：",
       "options": [
@@ -8740,13 +8650,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)",
-        "page": "PDF 第 792 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第8章（防火）PDF 第 792 页，原文涉及：火警。正常情况下，两个探测环路必须都感应 到过热或火警时，才会触发发动机过热或火警警告。发动机过热指示 灯或发动机火警电门保持亮直到温度降至限制值以下。 每台发动机的过热探测电门均标有A、B 和正常位，允许选择A 或B 环路，或A 和B 两个环路作为有效的探测环路。 此系统包括一个故障监控电路。如过热探测电门在正常位时一个环路 失效，该环路自动解除选择，其余环路保持单环路探测功能。驾驶舱 未设计单……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第8章(防火)第20.1节",
+        "page": "原题库参考编号 8.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "发动机的过热探测电门在正常位时如果a环路失效"
     },
@@ -8767,8 +8677,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护",
-        "手册已核对"
+        "火警保护"
       ],
       "question": "发动机过热和火警探测系统由什么汇流条供电？",
       "options": [
@@ -8797,13 +8706,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)",
-        "page": "PDF 第 792 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第8章（防火）PDF 第 792 页，原文涉及：·货舱 发动机还安装过热探测系统。 主轮舱安装火警探测系统，但未安装灭火系统。 货舱有烟雾探测和灭火系统。 发动机防火 发动机防火系统的组成： ·电瓶汇流条供电的发动机过热和火警探测系统 ·热电瓶汇流条供电的发动机灭火系统 发动机过热和火警探测 每台发动机包括两个过热/火警探测环路。每个环路均可提供火警和过 热探测。探测器温度升至预定限制值时，探测器感应过热情况。温度 继续升高，探测器感应火警。正……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第8章(防火)第20.1节",
+        "page": "原题库参考编号 8.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "发动机过热和火警探测系统由什么汇流条供电"
     },
@@ -9048,8 +8957,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护",
-        "手册已核对"
+        "火警保护"
       ],
       "question": "APU火警后，APU灭火手柄灯什么时候灭？",
       "options": [
@@ -9078,13 +8986,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)",
-        "page": "PDF 第 790 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第8章（防火）PDF 第 790 页，原文涉及：B/-81Q/-83N/-8K5/-86J/-86N FCOM 防火 March 3, 2022 D6-27370-81B-GUN 8.10.9 APU 火警灯 亮（红色闪亮）－指示APU 火警。 注：同时，驾驶舱火警铃响，主轮舱APU 火警喇叭响。 亮（红色稳定）－指示APU 火警后，指示APU 火警喇叭切断电门已 按压。 卫生间防火 卫生间灭火瓶 温度指示器（TEMPERATURE INDIC……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第8章(防火)第20.4节",
+        "page": "原题库参考编号 8.20.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.4节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "apu火警后apu灭火手柄灯什么时候灭"
     },
@@ -9497,8 +9405,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵",
-        "手册已核对"
+        "飞行操纵"
       ],
       "question": "备用襟翼主电门在“ARM”位时，将备用襟翼位置电门放到“UP”位可以：",
       "options": [
@@ -9527,13 +9434,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)",
-        "page": "PDF 第 814 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第9章（飞行操纵）PDF 第 814 页，原文涉及：板手柄移到此位置 ·所有飞行扰流板收回到空中使用最大位置的一半。 FLIGHT DETENT（飞行卡位）－所有飞行扰流板放出，达到空中使用 的最大位置。 UP（伸出位）－所有飞行和地面扰流板放出，达到地面使用的最大位 置。 1。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第9章(飞行操纵)第10.3节",
+        "page": "原题库参考编号 9.10.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.3节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "备用襟翼主电门在arm位时将备用襟翼位置电门放到up位可以"
     },
@@ -9554,8 +9461,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵",
-        "手册已核对"
+        "飞行操纵"
       ],
       "question": "备用襟翼主电门在“ARM”位时，将备用襟翼位置电门瞬时放到“DOWN”位可以：",
       "options": [
@@ -9584,13 +9490,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)",
-        "page": "PDF 第 806 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第9章（飞行操纵）PDF 第 806 页，原文涉及：襟翼 ·前缘装置保持在放出位置，且备用襟翼系统不能将其收上。 OFF－正常工作位置。 DOWN（弹簧保持在OFF 位）－ ·（瞬时）用备用液压将前缘装置完全放出 ·（保持）电动放出后缘襟翼直到松开电门。 感觉压差（FEEL DIFF PRESS）灯 后缘襟翼全收上或放下时预位。 亮（琥珀色）－ ·表明升降舵感觉计算机感觉到压差过大。 注：错误接通升降舵感觉偏移组件将导致压差过大。 速度配平失效（S……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第9章(飞行操纵)第10.3节",
+        "page": "原题库参考编号 9.10.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.3节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "备用襟翼主电门在arm位时将备用襟翼位置电门瞬时放到down位可以"
     },
@@ -9723,8 +9629,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵",
-        "手册已核对"
+        "飞行操纵"
       ],
       "question": "飞行期间，什么情况会导致琥珀色“减速板放出”灯亮？",
       "options": [
@@ -9753,13 +9658,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)",
-        "page": "PDF 第 815 页，手册页 9.10.12",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第9章（飞行操纵）PDF 第 815 页，手册页 9.10.12，原文涉及：间，指示轮速已下降至低于60 节，并且减速板手柄不在下 卡位。 减速板放出（SPEEDBRAKES EXTENDED）灯 亮（琥珀色）－ ·飞行中－ ·减速板手柄超出预位卡位，且 ·后缘襟翼放出大于襟翼10，或 ·无线电高度小于800 英尺 ·在地面－ ·减速板手柄在下卡位，且 ·地面扰流板未收回。 注：在地面，液压系统A 压力低于750 psi 时，减速板放出灯不亮。 2 3 4。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第9章(飞行操纵)第10.12节",
+        "page": "原题库参考编号 9.10.12",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.12节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行期间什么情况会导致琥珀色减速板放出灯亮"
     },
@@ -9893,8 +9798,7 @@ window.B737_QUESTION_BANK = {
       "category": "飞行操纵",
       "tags": [
         "飞行操纵",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "左右驾驶盘和驾驶杆如何连接？",
       "options": [
@@ -9923,13 +9827,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行操纵 / 系统说明 / 飞行员操纵 / 9.20.1",
-        "page": "PDF 第 824 页，手册页 9.20.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行操纵“飞行员操纵”（PDF 第 824 页，手册页 9.20.1），FCOM 说明操纵杆和驾驶盘由机械转换机构连接，允许飞行员旁通卡阻的操纵系统或操纵面。因此本题正确答案为 D。"
+        "status": "conflict",
+        "manual": "",
+        "section": "9.20.1",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "左右驾驶盘和驾驶杆如何连接"
     },
@@ -10225,8 +10129,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵",
-        "手册已核对"
+        "飞行操纵"
       ],
       "question": "马赫配平系统提供：",
       "options": [
@@ -10255,13 +10158,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)",
-        "page": "PDF 第 831 页，手册页 9.20.8",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第9章（飞行操纵）PDF 第 831 页，手册页 9.20.8，原文涉及：86N FCOM 飞行操纵 9.20.8 D6-27370-81B-GUN September 26, 2013 马赫配平系统 马赫配平系统提供高马赫数时的速度稳定性。马赫数大于0.615 时，随 着速度的增加，升降舵根据安定面位置而调整，从而自动完成马赫配 平。飞行操纵计算机（FCC）使用大气数据惯性基准组件的马赫数， 计算马赫配平作动筒的位置。马赫配平作动筒重新调整升降舵感觉和 定中组件，从而……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第9章(飞行操纵)第20.8节",
+        "page": "原题库参考编号 9.20.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.8节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "马赫配平系统提供"
     },
@@ -10338,8 +10241,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵",
-        "手册已核对"
+        "飞行操纵"
       ],
       "question": "大迎角飞行时，失速管理/偏航阻尼计算机如何改变偏航阻尼器指令的方向舵偏转量？",
       "options": [
@@ -10368,13 +10270,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)",
-        "page": "PDF 第 835 页，手册页 9.20.12",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第9章（飞行操纵）PDF 第 835 页，手册页 9.20.12，原文涉及：2022 失速识别 偏航阻尼器、升降舵感觉偏移组件（EFS）和速度配平系统共同增强失 速识别和控制功能，协助飞行员识别并防止失速状态加剧。 大迎角飞行时，失速管理/偏航阻尼计算机（SMYD）可减少偏航阻尼 器指令的方向舵移动量。 失速时，EFS 向升降舵感觉和定中组件增加液压A 系统压力，这会使 杆力变为原来的约两倍。只要不存在抑制状态，EFS 即预位。当出现 以下任一条件时，EFS 模块进入抑制……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第9章(飞行操纵)第20.12节",
+        "page": "原题库参考编号 9.20.12",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.12节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "大迎角飞行时失速管理/偏航阻尼计算机如何改变偏航阻尼器指令的方向舵偏转量"
     },
@@ -10451,8 +10353,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵",
-        "手册已核对"
+        "飞行操纵"
       ],
       "question": "备用方向舵PCU由谁供压？",
       "options": [
@@ -10481,13 +10382,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)",
-        "page": "PDF 第 836 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第9章（飞行操纵）PDF 第 836 页，原文涉及：系统A 和B 每一个将减小主动力控制组件压 力约25%。这样就在起飞后和着陆前的飞行过程中限制满舵操作。在 空中和在地面工作方式相同。 主方向舵动力控制组件（PCU）包含一个反向压力监控器（FFM）用 来探测A 和B 动作筒之间的反向压力。若任一A 或B 系统的输入卡阻 或断开。反向压力监控器自动打开备用液压泵向备用动力控制组件供 压且备用方向舵接通（STBY RUD ON）、主注意和飞行操纵（F……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第9章(飞行操纵)第20.13节",
+        "page": "原题库参考编号 9.20.13",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.13节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "备用方向舵pcu由谁供压"
     },
@@ -10509,8 +10410,7 @@ window.B737_QUESTION_BANK = {
       "category": "飞行操纵",
       "tags": [
         "飞行操纵",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "偏航阻尼器有哪些功能？",
       "options": [
@@ -10539,13 +10439,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行操纵 / 系统说明 / 偏航阻尼器 / 9.20.14",
-        "page": "PDF 第 837 页，手册页 9.20.14",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行操纵“偏航阻尼器”（PDF 第 837 页，手册页 9.20.14），FCOM 说明每个偏航阻尼器都提供防止荷兰滚、阵风阻尼和转弯协调的能力。因此本题正确答案为 B。"
+        "status": "conflict",
+        "manual": "",
+        "section": "9.20.14",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "偏航阻尼器有哪些功能"
     },
@@ -10622,8 +10522,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵",
-        "手册已核对"
+        "飞行操纵"
       ],
       "question": "着陆期间，减速板手柄预位且预位灯亮，当飞机低于RA10英尺后，满足推力手柄都在慢车位、起落架减震支柱压缩且主轮的转速达到节以上时，减速板手柄何时自动移向“UP”位",
       "options": [
@@ -10652,13 +10551,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)",
-        "page": "PDF 第 814 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第9章（飞行操纵）PDF 第 814 页，原文涉及：B-2169 - B-2622, B-2916, B-2917, B-5068 - B-5070, B-5232 - B-5291 减速板（SPEED BRAKE）手柄 DOWN（下卡位）－所有飞行和地面扰流板收起。 ARMED（预位）－ ·自动减速板系统预位 ·接地时，减速板手柄移向伸出位，所有飞行和地面扰流板放出。 B-2169 - B-2622, B-2916, B-2917, B-5068……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第9章(飞行操纵)第20.18节",
+        "page": "原题库参考编号 9.20.18",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.18节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "着陆期间减速板手柄预位且预位灯亮当飞机低于ra10英尺后满足推力手柄都在慢车位起落架减震支柱压缩且主轮的转速达到节以上时减速板手柄何时自动移向up位"
     },
@@ -11117,8 +11016,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "燃油系统",
       "tags": [
-        "燃油系统",
-        "手册已核对"
+        "燃油系统"
       ],
       "question": "在哪个燃油箱内有燃油旁通活门，可以在燃油泵不工作时进行抽吸供油？",
       "options": [
@@ -11147,13 +11045,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)",
-        "page": "PDF 第 1473 页，手册页 12.20.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第12章（燃油）PDF 第 1473 页，手册页 12.20.2，原文涉及：的被溶解的空气会完全放空。放空被溶解的 空气所需的时间取决于飞机高度、燃油温度和燃油类型。一旦被溶解 的空气放空，发动机可以在巡航功率下进行抽吸供油。 主油箱旁通活门也可用于抽吸放油。 燃油交输 发动机的多条燃油管路通过交输活门互联。该活门是由电瓶汇流条提 供的直流电作动。 燃油泵工作时，通过打开燃油交输活门可将任一主油箱内的燃油压力 提供给两台发动机。连续使用燃油交输可能会出现燃油不平衡情况。。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第12章(燃油)第20.2节",
+        "page": "原题库参考编号 12.20.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.2节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在哪个燃油箱内有燃油旁通活门可以在燃油泵不工作时进行抽吸供油"
     },
@@ -11613,8 +11511,7 @@ window.B737_QUESTION_BANK = {
       "category": "液压系统",
       "tags": [
         "液压系统",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "在B系统液压油量指示数值后面如果出现了RF的符号，说明：",
       "options": [
@@ -11643,13 +11540,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "液压 / 控制和指示 / 加油指示 RF / 13.10.3",
-        "page": "PDF 第 1482 页，手册页 13.10.3",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》液压系统“加油（REFILL）指示（RF）”（PDF 第 1482 页，手册页 13.10.3），FCOM 说明 RF 白色指示亮表示液压油量低于 76%，且只有飞机在地面两台发动机关车，或着陆后襟翼全收起滑入过程中该指示才有效。因此本题正确答案为 C。"
+        "status": "conflict",
+        "manual": "",
+        "section": "13.10.3",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "在b系统液压油量指示数值后面如果出现了rf的符号说明"
     },
@@ -11838,8 +11735,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统",
-        "手册已核对"
+        "液压系统"
       ],
       "question": "下面全都可以由备用液压系统供压的是：",
       "options": [
@@ -11868,13 +11764,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)",
-        "page": "PDF 第 1489 页，手册页 13.20.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第13章（液压）PDF 第 1489 页，手册页 13.20.4，原文涉及：备用液压系统 A 系统和/或B 系统失去压力时备用液压系统可作为后备。备用系统可 人工或自动接通，并用一个电动机驱动泵来为以下系统提供动力： ·反推 ·方向舵 ·前缘襟翼和缝翼（只能放出） ·备用偏航阻尼器。 人工操作 将任一飞行操纵电门放在STBY RUD 位： ·启动备用电动机驱动泵 ·关闭飞行操纵关断活门，关断副翼、升降舵和方向舵的相应液压 ·打开备用方向舵关断活门 ·备用方向舵关断活门打开……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第13章(液压)第20.4节",
+        "page": "原题库参考编号 13.20.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.4节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下面全都可以由备用液压系统供压的是"
     },
@@ -12170,8 +12066,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统",
-        "手册已核对"
+        "液压系统"
       ],
       "question": "如果A系统的电动马达液压泵或其相关管路，或发动机驱动泵与电动马达泵公用的部件发生漏油，则A系统的油量将会最终稳定在多少？",
       "options": [
@@ -12200,13 +12095,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)",
-        "page": "PDF 第 1488 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第13章（液压）PDF 第 1488 页，原文涉及：单向 活门将系统与相应的泵隔开。相应的系统压力传感器将发动机驱动泵和 电动机驱动泵的混合压力信号送至相应的液压系统压力指示器。 A 系统漏油 如发动机驱动泵或其相关管路内发生漏油，油箱内的一根竖管可防止系 统内的油全部漏光。当油面位于竖管顶部位置时，油量指示约为全满位 的20%。A 系统的液压压力是由电动机驱动泵保持的。 如电动机驱动泵或其相关管路，或发动机驱动泵与电动机驱动泵共用的 部件内发生漏……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第13章(液压)第20.3节",
+        "page": "原题库参考编号 13.20.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.3节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "如果a系统的电动马达液压泵或其相关管路或发动机驱动泵与电动马达泵公用的部件发生漏油则a系统的油量将会最终稳定在多少"
     },
@@ -12227,8 +12122,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统",
-        "手册已核对"
+        "液压系统"
       ],
       "question": "下列哪个设备可以由动力转换组件（PTU）提供额外的液压？",
       "options": [
@@ -12257,13 +12151,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)",
-        "page": "PDF 第 1488 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第13章（液压）PDF 第 1488 页，原文涉及：机驱动泵供油。但是，当油面位于竖管的顶部位置时，B 系统 油箱内的剩余液压油足以使动力转换组件工作。 B 系统漏油不会影响备用液压系统工作。 动力转换组件（PTU） PTU 是用于当B 系统发动机驱动液压泵不工作时提供额外的液压油， 来使自动缝翼、前缘襟翼和缝翼以正常的速率工作。PTU 用A 系统压 力来为液压电动机驱动泵提供动力，再由该泵给B 系统液压油增压。 当以下所有条件都具备时，PTU 会……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第13章(液压)第20.3节",
+        "page": "原题库参考编号 13.20.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.3节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下列哪个设备可以由动力转换组件(ptu)提供额外的液压"
     },
@@ -12284,8 +12178,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统",
-        "手册已核对"
+        "液压系统"
       ],
       "question": "什么时候动力转换组件（PTU）开始自动工作？",
       "options": [
@@ -12314,13 +12207,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)",
-        "page": "PDF 第 1488 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第13章（液压）PDF 第 1488 页，原文涉及：机驱动泵供油。但是，当油面位于竖管的顶部位置时，B 系统 油箱内的剩余液压油足以使动力转换组件工作。 B 系统漏油不会影响备用液压系统工作。 动力转换组件（PTU） PTU 是用于当B 系统发动机驱动液压泵不工作时提供额外的液压油， 来使自动缝翼、前缘襟翼和缝翼以正常的速率工作。PTU 用A 系统压 力来为液压电动机驱动泵提供动力，再由该泵给B 系统液压油增压。 当以下所有条件都具备时，PTU 会……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第13章(液压)第20.4节",
+        "page": "原题库参考编号 13.20.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.4节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么时候动力转换组件(ptu)开始自动工作"
     },
@@ -12397,8 +12290,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统",
-        "手册已核对"
+        "液压系统"
       ],
       "question": "如果液压系统增压出现不正常，在较高高度时会出现泡沫，这种现象可以通过什么来判定？",
       "options": [
@@ -12427,13 +12319,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)",
-        "page": "PDF 第 1492 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第13章（液压）PDF 第 1492 页，原文涉及：或前缘装置 ·长时间巡航时低温渗透。 这些变化对系统工作影响甚少。 如液压系统增压不正常，在较高高度时会出现泡沫。此情况可通过压力 波动和相关的低压灯闪烁来判定。主注意灯和液压信号牌灯也会瞬时 亮。。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第13章(液压)第20.7节",
+        "page": "原题库参考编号 13.20.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.7节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "如果液压系统增压出现不正常在较高高度时会出现泡沫这种现象可以通过什么来判定"
     },
@@ -12455,8 +12347,7 @@ window.B737_QUESTION_BANK = {
       "category": "液压系统",
       "tags": [
         "液压系统",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "下面哪个部件由液压B系统提供动力",
       "options": [
@@ -12485,13 +12376,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行操纵 / 系统说明 / 介绍 / 9.20.1",
-        "page": "PDF 第 824 页，手册页 9.20.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行操纵系统说明（PDF 第 824 页，手册页 9.20.1），FCOM 说明次要飞行操纵以及由后缘襟翼、前缘襟翼和缝翼组成的增升装置由液压系统 B 供压。因此本题在所列选项中由 B 系统提供动力的是 B“后缘襟翼”。"
+        "status": "conflict",
+        "manual": "",
+        "section": "13.20.2",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "下面哪个部件由液压b系统提供动力"
     },
@@ -12513,8 +12404,7 @@ window.B737_QUESTION_BANK = {
       "category": "液压系统",
       "tags": [
         "液压系统",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "下面哪个部件由液压A系统提供动力",
       "options": [
@@ -12543,13 +12433,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 系统说明 / 介绍 / 14.20.1",
-        "page": "PDF 第 1506 页，手册页 14.20.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架系统说明（PDF 第 1506 页，手册页 14.20.1），FCOM 说明起落架的收、放以及前轮转向通常由 A 液压系统提供液压进行操作。因此本题在所列选项中由 A 系统提供动力的是 D“起落架”。"
+        "status": "conflict",
+        "manual": "",
+        "section": "13.20.2",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "下面哪个部件由液压a系统提供动力"
     },
@@ -12682,8 +12572,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "防冰与防雨",
       "tags": [
-        "防冰和排雨",
-        "手册已核对"
+        "防冰和排雨"
       ],
       "question": "什么情况会导致风挡加温“ON”灯灭？",
       "options": [
@@ -12712,13 +12601,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞机概述 / 驾驶舱 2 号风挡 / 1.40.49",
-        "page": "PDF 第 496 页，手册页 1.40.49",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞机概述“驾驶舱 2 号风挡”（PDF 第 496 页，手册页 1.40.49），FCOM 说明驾驶舱 2 号风挡可在地面或空中打开，并且只有副驾驶 2 号风挡可以从飞机外侧打开。因此正确答案为 C。"
+        "section": "第3章(防冰排雨)第10.2SP3.1节",
+        "page": "原题库参考编号 3.10.2SP3.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.2SP3.1节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么情况会导致风挡加温on灯灭"
     },
@@ -12739,8 +12628,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "防冰与防雨",
       "tags": [
-        "防冰和排雨",
-        "手册已核对"
+        "防冰和排雨"
       ],
       "question": "将风挡雨刷电门放到“INT”位：",
       "options": [
@@ -12769,13 +12657,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰排雨 / 风挡加温开灯 / 3.10.2",
-        "page": "PDF 第 570 页，手册页 3.10.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》防冰排雨“风挡加温开（ON）灯”（PDF 第 570 页，手册页 3.10.2），ON 灯亮表示正对所选风挡加温；熄灭条件包括电门关、探测到过热、发生系统失效或系统处于合适温度。因此正确答案为 D。"
+        "section": "第3章(防冰排雨)第10.3节",
+        "page": "原题库参考编号 3.10.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.3节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "将风挡雨刷电门放到int位"
     },
@@ -12796,8 +12684,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "防冰与防雨",
       "tags": [
-        "防冰和排雨",
-        "手册已核对"
+        "防冰和排雨"
       ],
       "question": "什么原因会导致发动机整流罩防冰灯亮？",
       "options": [
@@ -12826,13 +12713,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰排雨 / 风挡雨刷选钮面板 / 3.10.3",
-        "page": "PDF 第 571 页，手册页 3.10.3",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》防冰排雨“风挡雨刷选钮面板”（PDF 第 571 页，手册页 3.10.3），WIPER 选钮 INT（间断）位为 7 秒钟间断工作。因此正确答案为 B。"
+        "section": "第3章(防冰排雨)第10.5节",
+        "page": "原题库参考编号 3.10.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.5节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么原因会导致发动机整流罩防冰灯亮"
     },
@@ -12853,8 +12740,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "防冰与防雨",
       "tags": [
-        "防冰和排雨",
-        "手册已核对"
+        "防冰和排雨"
       ],
       "question": "在N1指示上出现琥珀色的“TAI”字样说明什么？",
       "options": [
@@ -12883,13 +12769,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰排雨 / 发动机防冰面板 / 3.10.5",
-        "page": "PDF 第 574 页，手册页 3.10.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》防冰排雨“发动机防冰面板”（PDF 第 574 页，手册页 3.10.5），整流罩防冰（COWL ANTI-ICE）琥珀色灯亮表示发动机整流罩防冰活门的管道下游超压。因此正确答案为 C。"
+        "section": "第3章(防冰排雨)第10.6节",
+        "page": "原题库参考编号 3.10.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.6节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在n1指示上出现琥珀色的tai字样说明什么"
     },
@@ -12910,8 +12796,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "防冰与防雨",
       "tags": [
-        "防冰和排雨",
-        "手册已核对"
+        "防冰和排雨"
       ],
       "question": "在地面，打开大翼防冰电门，发动机推力在慢车，如果仅左大翼管道内的温度高于热电耦电门接通温度：",
       "options": [
@@ -12940,13 +12825,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰排雨 / 机翼防冰电门与机翼防冰系统使用 / 3.10.7、3.20.9",
-        "page": "PDF 第 576、586 页，手册页 3.10.7、3.20.9",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》防冰排雨“机翼防冰电门”（PDF 第 576 页，手册页 3.10.7），地面 ON 位时如任一分配管道中的热耦电门接通，机翼防冰控制活门将关闭；系统说明（PDF 第 586 页，手册页 3.20.9）也说明如任一温度传感器探测到管道超温，两个活门将关闭。因此仅左大翼管道温度高于热电耦电门接通温度时，两个大翼防冰活门都会关闭，正确答案为 B。"
+        "section": "第3章(防冰排雨)第10.7节",
+        "page": "原题库参考编号 3.10.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.7节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在地面打开大翼防冰电门发动机推力在慢车如果仅左大翼管道内的温度高于热电耦电门接通温度"
     },
@@ -12967,8 +12852,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "防冰与防雨",
       "tags": [
-        "防冰和排雨",
-        "手册已核对"
+        "防冰和排雨"
       ],
       "question": "在地面接通大翼防冰电门后，该电门何时自动跳到“OFF”位？",
       "options": [
@@ -12997,13 +12881,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰排雨 / 机翼防冰电门与机翼防冰系统使用 / 3.10.7、3.20.9",
-        "page": "PDF 第 576、587 页，手册页 3.10.7、3.20.9",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》防冰排雨“机翼防冰电门”（PDF 第 576 页，手册页 3.10.7），地面 ON 位时离地时电门跳开；系统说明（PDF 第 587 页，手册页 3.20.9）也说明空/地传感器转为空中方式时，离地时机翼防冰电门自动回到关位。因此正确答案为 D。"
+        "section": "第3章(防冰排雨)第10.7节",
+        "page": "原题库参考编号 3.10.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.7节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在地面接通大翼防冰电门后该电门何时自动跳到off位"
     },
@@ -13024,8 +12908,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "防冰与防雨",
       "tags": [
-        "防冰和排雨",
-        "手册已核对"
+        "防冰和排雨"
       ],
       "question": "对于有4、5号风挡的飞机，哪些风挡加温是由温度控制器（TEMPCONT)控制的？",
       "options": [
@@ -13054,13 +12937,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰排雨 / 驾驶舱风挡加温工作 / 3.20.2",
-        "page": "PDF 第 579-580 页，手册页 3.20.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》防冰排雨“驾驶舱风挡加温工作”（PDF 第 579-580 页，手册页 3.20.2），温度控制器使 1 号和 2 号风挡保持适当温度；对于装有 4、5 号风挡加温的构型，4、5 号风挡由 5 号风挡上的热耦电门保持适当温度。因此题目问由温度控制器控制的风挡，正确答案为 B“1 号和 2 号风挡”。"
+        "section": "第3章(防冰排雨)第20.6节",
+        "page": "原题库参考编号 3.20.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.6节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "对于有45号风挡的飞机哪些风挡加温是由温度控制器(tempcont)控制的"
     },
@@ -13081,8 +12964,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "防冰与防雨",
       "tags": [
-        "防冰和排雨",
-        "手册已核对"
+        "防冰和排雨"
       ],
       "question": "飞机用备用电源工作时，什么探头的加温不工作？",
       "options": [
@@ -13111,13 +12993,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰排雨 / 发动机防冰系统使用 / 3.20.8",
-        "page": "PDF 第 585 页，手册页 3.20.8",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》防冰排雨“发动机防冰系统使用”（PDF 第 585 页，手册页 3.20.8），每个整流罩防冰活门由电动控制和压力驱动。因此正确答案为 C。"
+        "section": "第3章(防冰排雨)第20.10节",
+        "page": "原题库参考编号 3.20.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.10节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞机用备用电源工作时什么探头的加温不工作"
     },
@@ -13169,9 +13051,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第20.11节",
-        "page": "原题库参考编号 3.20.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.11节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)第20.10节",
+        "page": "原题库参考编号 3.20.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.10节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13194,8 +13076,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "防冰与防雨",
       "tags": [
-        "防冰和排雨",
-        "手册已核对"
+        "防冰和排雨"
       ],
       "question": "右发引气活门失效在关位，则右侧的机翼防冰。",
       "options": [
@@ -13219,13 +13100,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰排雨 / 机翼防冰系统 / 3.20.9",
-        "page": "PDF 第 586 页，手册页 3.20.9",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》防冰排雨“机翼防冰系统”（PDF 第 586 页，手册页 3.20.9），机翼防冰系统用引气向三个内侧前缘缝翼提供防护，不包括前缘襟翼或外侧前缘缝翼；前缘缝翼在任何位置，机翼防冰系统都有效。因此正确答案为 B。"
+        "section": "第3章(防冰排雨)第20.9节",
+        "page": "原题库参考编号 3.20.9",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.9节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "右发引气活门失效在关位则右侧的机翼防冰"
     },
@@ -13246,8 +13127,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "防冰与防雨",
       "tags": [
-        "防冰和排雨",
-        "手册已核对"
+        "防冰和排雨"
       ],
       "question": "右发引气活门失效在关位，则右侧的发动机防冰 。",
       "options": [
@@ -13271,13 +13151,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "防冰排雨 / 发动机防冰系统使用与机翼防冰系统使用 / 3.20.8-3.20.9",
-        "page": "PDF 第 585、587 页，手册页 3.20.8-3.20.9",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》防冰排雨“发动机防冰系统使用”（PDF 第 585 页，手册页 3.20.8）和“机翼防冰系统使用”（PDF 第 587 页，手册页 3.20.9），打开发动机防冰或机翼防冰会设定结冰情况的抖杆器逻辑；注释说明失速警告逻辑调节抖杆器和空速指示上的最小机动速度游标，FMC 显示的参考速度不能自动调节。因此正确答案为 D。"
+        "section": "第3章(防冰排雨)第20.11节",
+        "page": "原题库参考编号 3.20.11",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.11节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "右发引气活门失效在关位则右侧的发动机防冰"
     },
@@ -13322,13 +13202,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：正常程序",
-        "page": "Sheet1 第 33 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「正常程序」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)第20.11节",
+        "page": "原题库参考编号 3.20.11",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.11节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "关于机翼防冰系统以下正确的说法是"
     },
@@ -13378,13 +13258,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：防冰",
-        "page": "Sheet1 第 118 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)第20.10-12节",
+        "page": "原题库参考编号 3.20.10-12",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.10-12节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "打开发动机或大翼防冰电时防冰系统是如何设走结冰情况的抖杆器逻辑的"
     },
@@ -13405,8 +13285,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "速度带上的速度趋势线箭头指示的速度为：",
       "options": [
@@ -13435,13 +13314,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 失效旗 / 10.11.29",
-        "page": "PDF 第 886 页，手册页 10.11.29",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“PFD 失效旗”（PDF 第 886 页，手册页 10.11.29），速度限制旗表示与抖杆或最大使用速度相关的显示已失效；抖杆警告失效时抖杆速度杆消失，最大使用速度失效时最大使用速度杆消失。因此本题正确答案为 D。"
+        "section": "第10章(飞行仪表、显示)第11.7节",
+        "page": "原题库参考编号 10.11.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.7节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "速度带上的速度趋势线箭头指示的速度为"
     },
@@ -13462,8 +13341,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "若当前空速等于或小于最小机动速度时，空速读数框变为：",
       "options": [
@@ -13492,13 +13370,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 失效旗 / 10.11.30",
-        "page": "PDF 第 887 页，手册页 10.11.30",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“PFD 失效旗”（PDF 第 887 页，手册页 10.11.30），航向旗（HDG）表示航向数据失效，不能显示航向。因此本题正确答案为 A。"
+        "section": "第10章(飞行仪表、显示)第11.7节",
+        "page": "原题库参考编号 10.11.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.7节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "若当前空速等于或小于最小机动速度时空速读数框变为"
     },
@@ -13519,8 +13397,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "速度带上的最大速度是取以下哪些速度的最小值？",
       "options": [
@@ -13544,13 +13421,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD 信号显示和警戒 / 显示控制面板信号显示 / 10.11.33",
-        "page": "PDF 第 890 页，手册页 10.11.33；另见 PDF 第 940 页，手册页 10.16.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“显示控制面板信号显示”（PDF 第 890 页，手册页 10.11.33），当控制面板选钮在 BOTH ON 2 位时，DISPLAY CONTROL PANEL 信号表示副驾驶（右）受影响一侧的 EFIS 控制面板已失效；另据控制面板选择电门说明，BOTH ON 2 时两部飞行员显示均由副驾驶侧 EFIS 控制面板控制。因此本题正确答案为 B。"
+        "section": "第10章(飞行仪表、显示)第11.8节",
+        "page": "原题库参考编号 10.11.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.8节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "速度带上的最大速度是取以下哪些速度的最小值"
     },
@@ -13571,8 +13448,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "高高度，飞机总重较大且襟翼收上时，速度带上琥珀色的最大机动速度表示什么含义？",
       "options": [
@@ -13601,13 +13477,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD-ND 导航显示 / 航向、航迹和速度 / 10.41.3-10.41.4",
-        "page": "PDF 第 1010-1011 页，手册页 10.41.3-10.41.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“ND 符号 / 航向、航迹和速度”（PDF 第 1010-1011 页，手册页 10.41.3-10.41.4），地图/中心地图方式显示航迹向上 TRK 和当前航迹，VOR/中心 VOR、进近/中心进近方式显示航向向上 HDG 和当前航向。因此题问哪种 ND 方式顶部窗口不显示 HDG，正确答案为 A“MAP”。"
+        "section": "第10章(飞行仪表、显示)第11.8节",
+        "page": "原题库参考编号 10.11.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.8节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "高高度飞机总重较大且襟翼收上时速度带上琥珀色的最大机动速度表示什么含义"
     },
@@ -13628,8 +13504,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "主飞行显示上什么时候显示马赫数？",
       "options": [
@@ -13658,13 +13533,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD-ND 导航显示 / 介绍 / 10.41.1；另见导航显示计划方式 / 10.11.53",
-        "page": "PDF 第 1008 页，手册页 10.41.1；另见 PDF 第 910 页，手册页 10.11.53",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“PFD/ND 导航显示介绍”（PDF 第 1008 页，手册页 10.41.1），计划方式以真北向上显示；导航显示计划方式图示也列有真北向上箭头。因此本题正确答案为 C“PLAN”。"
+        "section": "第10章(飞行仪表、显示)第11.8节",
+        "page": "原题库参考编号 10.11.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.8节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "主飞行显示上什么时候显示马赫数"
     },
@@ -13685,8 +13560,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "以下哪种情况会显示当前襟翼位置的襟翼机动速度游标？",
       "options": [
@@ -13715,13 +13589,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / 导航显示咨询信息 / 10.11.55；另见 PFD-ND 导航显示 ND 信息 / 10.41.2",
-        "page": "PDF 第 912 页，手册页 10.11.55；另见 PDF 第 1009 页，手册页 10.41.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“导航显示咨询信息”（PDF 第 912 页，手册页 10.11.55），EXCESS DATA 信号表示发送至主显示系统的地图信息量过多而无法显示，系统会删除显示屏上的部分信息。因此本题正确答案为 C。"
+        "section": "第10章(飞行仪表、显示)第11.11节",
+        "page": "原题库参考编号 10.11.11",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.11节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "以下哪种情况会显示当前襟翼位置的襟翼机动速度游标"
     },
@@ -13742,8 +13616,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "速度带上什么时候会显示琥珀色的最小机动速度？",
       "options": [
@@ -13772,13 +13645,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / 导航显示咨询信息 / 方式-频率不一致显示 / 10.11.56",
-        "page": "PDF 第 913 页，手册页 10.11.56",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“方式/频率不一致显示”（PDF 第 913 页，手册页 10.11.56），EFIS MODE/NAV FREQ DISAGREE 信息在调谐 VOR 频率后选择 APP 方式，或调谐 ILS 频率后选择 VOR 方式时显示。因此本题正确答案为 B。"
+        "section": "第10章(飞行仪表、显示)第11.11节",
+        "page": "原题库参考编号 10.11.11",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.11节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "速度带上什么时候会显示琥珀色的最小机动速度"
     },
@@ -13799,8 +13672,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "着陆过程中，现襟翼5,机组在CDU的进近基准页面上选择襟翼30为着陆襟翼，速度带上的最大机动速度指示杆什么时候消失？",
       "options": [
@@ -13829,13 +13701,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / 导航显示失效指示和失效旗 / 10.11.60",
-        "page": "PDF 第 917 页，手册页 10.11.60",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“导航显示失效指示和失效旗”（PDF 第 917 页，手册页 10.11.60），WXR ATT 表示气象雷达不能保持天线姿态稳定性；WXR FAIL 为气象雷达失效，WXR WEAK 为校准故障，WXR STAB 为天线姿态稳定功能关断。因此本题正确答案为 C。"
+        "section": "第10章(飞行仪表、显示)第11.11节",
+        "page": "原题库参考编号 10.11.11",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.11节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "着陆过程中现襟翼5机组在cdu的进近基准页面上选择襟翼30为着陆襟翼速度带上的最大机动速度指示杆什么时候消失"
     },
@@ -13856,8 +13728,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "俯仰极限符号在以下什么情况下才显示？",
       "options": [
@@ -13881,13 +13752,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / 导航显示 TCAS 信息 / 10.11.57；EFIS 控制面板 / 10.16.4",
-        "page": "PDF 第 914 页，手册页 10.11.57；另见 PDF 第 939 页，手册页 10.16.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》导航显示“TCAS 信息”（PDF 第 914 页，手册页 10.11.57），TCAS 交通符号在扩展地图、中心地图、扩展进近和扩展 VOR 方式下显示；EFIS 控制面板 WXR 电门说明（PDF 第 939 页，手册页 10.16.4）显示气象雷达回波可在地图、中心地图、扩展 VOR 和扩展进近方式显示。两者共同支持的选项中包含中心地图 CTR MAP，因此本题正确答案为 C。"
+        "section": "第10章(飞行仪表、显示)第11.15节",
+        "page": "原题库参考编号 10.11.15",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.15节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "俯仰极限符号在以下什么情况下才显示"
     },
@@ -13908,8 +13779,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "姿态指示上的坡度指针什么情况下会变成琥珀色？",
       "options": [
@@ -13938,13 +13808,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / EFIS 控制面板 / 10.16.5；显示系统 / EFIS 控制面板 / 10.21.7",
-        "page": "PDF 第 940 页，手册页 10.16.5；另见 PDF 第 978 页，手册页 10.21.7",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》EFIS 控制面板说明（PDF 第 940 页，手册页 10.16.5），BOTH ON 2 位时两部飞行员显示均由副驾驶侧 EFIS 控制面板控制；显示系统章节（PDF 第 978 页，手册页 10.21.7）同样说明右 EFIS 控制面板控制两位飞行员的外侧和内侧 DU。因此本题正确答案为 B。"
+        "section": "第10章(飞行仪表、显示)第11.15节",
+        "page": "原题库参考编号 10.11.15",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.15节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "姿态指示上的坡度指针什么情况下会变成琥珀色"
     },
@@ -13965,8 +13835,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "在着陆过程中，若发现航向道指针变为洋红色的实心菱形，表明：",
       "options": [
@@ -13995,13 +13864,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / 显示选择面板 / 10.16.6；显示系统 / 主面板显示转换 / 10.21.11",
-        "page": "PDF 第 941 页，手册页 10.16.6；另见 PDF 第 982 页，手册页 10.21.11",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》显示选择面板“主面板显示组件选钮”（PDF 第 941 页，手册页 10.16.6），OUTBD PFD 位在外侧 DU 显示 PFD，内侧 DU 空白；显示系统章节（PDF 第 982 页，手册页 10.21.11）也说明相同显示转换。因此本题正确答案为 A。"
+        "section": "第10章(飞行仪表、显示)第11.21节",
+        "page": "原题库参考编号 10.11.21",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.21节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在着陆过程中若发现航向道指针变为洋红色的实心菱形表明"
     },
@@ -14022,8 +13891,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "水平导航接通且航道预位，在低于哪个高度时,若LOC没有捕获，航向道刻度就会变成琥珀色且指针闪亮？",
       "options": [
@@ -14052,13 +13920,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / 综合备用飞行显示 ISFD / 10.16.13",
-        "page": "PDF 第 948 页，手册页 10.16.13；另见 PDF 第 987 页，手册页 10.21.16",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》综合备用飞行显示（PDF 第 948 页，手册页 10.16.13），姿态复位 RST 电门按压并保持至少 2 秒后将飞机符号对准地平线，复位大约需要 10 秒；系统说明页也描述复位中显示 ATT 10s。因此本题正确答案为 C。"
+        "section": "第10章(飞行仪表、显示)第11.21节",
+        "page": "原题库参考编号 10.11.21",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.21节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "水平导航接通且航道预位在低于哪个高度时若loc没有捕获航向道刻度就会变成琥珀色且指针闪亮"
     },
@@ -14079,8 +13947,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "水平导航接通且航道预位，当偏离略大于多少个点时，航向道的刻度为扩展式？",
       "options": [
@@ -14109,13 +13976,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / 显示系统信息源 / 备用飞行仪表 ISFD / 10.21.15",
-        "page": "PDF 第 986 页，手册页 10.21.15",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》备用飞行仪表“ISFD”（PDF 第 986 页，手册页 10.21.15），ISFD 显示姿态、空速、高度等信息；姿态由内部惯性传感器计算，空速和高度由与辅助皮托管及备用静压源直接连接获得的气源压力数据计算。因此 ISFD 的姿态、空速和高度信息独立于主飞行显示的数据源，本题说法正确，答案为 A。"
+        "section": "第10章(飞行仪表、显示)第11.22节",
+        "page": "原题库参考编号 10.11.22",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.22节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "水平导航接通且航道预位当偏离略大于多少个点时航向道的刻度为扩展式"
     },
@@ -14137,8 +14004,7 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "飞行仪表",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "什么情况下会显示跑道的符号？",
       "options": [
@@ -14167,13 +14033,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / 显示系统信息源 / 备用飞行仪表 ISFD / 10.21.15",
-        "page": "PDF 第 986 页，手册页 10.21.15；另见 PDF 第 276 页，手册页 SP.6.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》备用飞行仪表“ISFD”（PDF 第 986 页，手册页 10.21.15），电瓶电门接通后 ISFD 开始供电，10 秒后开始 90 秒起始程序，起始结束后才开始显示姿态信息；电源系统通电程序（PDF 第 276 页，手册页 SP.6.1）也要求 ISFD 校准完成前不要移动飞机位置。因此 ISFD 提供姿态信息前需要校准，正确答案为 A。"
+        "status": "conflict",
+        "manual": "",
+        "section": "10.11.22",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "什么情况下会显示跑道的符号"
     },
@@ -14194,8 +14060,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "什么时候会出现无线电高度的指示？",
       "options": [
@@ -14224,13 +14089,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / 显示系统信息源 / ISFD 姿态复位 / 10.21.16",
-        "page": "PDF 第 987 页，手册页 10.21.16",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》ISFD 姿态复位说明（PDF 第 987 页，手册页 10.21.16），在地面，必须在飞机平稳的状态下才能使用姿态复位按钮；在空中则须机翼水平、无加速状态。因此本题正确答案为 B。"
+        "section": "第10章(飞行仪表、显示)第11.22节",
+        "page": "原题库参考编号 10.11.22",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.22节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么时候会出现无线电高度的指示"
     },
@@ -14252,8 +14117,7 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "飞行仪表",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "什么时候主飞行显示上的气压调定值显示琥珀色框？",
       "options": [
@@ -14282,13 +14146,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / HUD 系统显示符号说明 / 10.42.8",
-        "page": "PDF 第 1041 页，手册页 10.42.8",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“HUD 系统显示符号说明”（PDF 第 1041 页，手册页 10.42.8），FCOM 说明风速和风向在风量大于 6 节时显示，风量小于 4 节时变为空白。选项中符合显示条件的是 C“在地图方式下，风量为 7 节”。"
+        "status": "conflict",
+        "manual": "",
+        "section": "10.11.27",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "什么时候主飞行显示上的气压调定值显示琥珀色框"
     },
@@ -14309,8 +14173,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "关于高度带上的着陆高度的显示，以下哪个说法正确的是？",
       "options": [
@@ -14339,13 +14202,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / PFD/ND - 导航显示 / 地图方式 / 10.41.1",
-        "page": "PDF 第 1008 页，手册页 10.41.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行仪表、显示“PFD/ND－导航显示 / 地图方式”（PDF 第 1008 页，手册页 10.41.1），FCOM 明确说明建议大多数飞行阶段使用地图方式，地图方式是在动态地图背景下显示相对于飞行航路的飞机位置。因此本题正确答案为 A“MAP”。"
+        "section": "第10章(飞行仪表、显示)第11.28节",
+        "page": "原题库参考编号 10.11.28",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.28节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "关于高度带上的着陆高度的显示以下哪个说法正确的是"
     },
@@ -14366,8 +14229,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "高度带上当前高度指示旁的着陆高度基准杆显示为琥珀色，这表示飞机：",
       "options": [
@@ -14396,13 +14258,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 控制和指示 / 起落架指示灯 / 14.10.1",
-        "page": "PDF 第 1496 页，手册页 14.10.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“起落架指示灯（上方）”（PDF 第 1496 页，手册页 14.10.1），红色起落架指示灯在起落架未放下并锁定，且任一或两个推力手柄在慢车位并低于 800 英尺 AGL 时亮；同时也可表示起落架手柄位置与起落架位置不一致或起落架不安全。因此本题正确答案为 D“以上全对”。"
+        "section": "第10章(飞行仪表、显示)第11.28节",
+        "page": "原题库参考编号 10.11.28",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.28节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "高度带上当前高度指示旁的着陆高度基准杆显示为琥珀色这表示飞机"
     },
@@ -14424,8 +14286,7 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "飞行仪表",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "在垂直速率指示器的上方或下方，什么时候会显示白色数字式的垂直速率？",
       "options": [
@@ -14454,13 +14315,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 控制和指示 / 防滞不工作灯 / 14.10.5",
-        "page": "PDF 第 1500 页，手册页 14.10.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“防滞不工作（ANTISKID INOP）灯”（PDF 第 1500 页，手册页 14.10.5），该琥珀色灯亮表示防滞监控系统探测到系统故障。因此本题正确答案为 B。"
+        "status": "conflict",
+        "manual": "",
+        "section": "10.11.30",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "在垂直速率指示器的上方或下方什么时候会显示白色数字式的垂直速率"
     },
@@ -14481,8 +14342,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "若PFD上显示速度限制（SPDLIM）故障旗，表示。",
       "options": [
@@ -14511,13 +14371,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行仪表、显示 / 显示系统控制面板 / FMC 警戒灯 / 11.10.14",
-        "page": "PDF 第 1081 页，手册页 11.10.14",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》FMC 警戒灯说明（PDF 第 1081 页，手册页 11.10.14），FMC 警戒灯琥珀色亮表示两部 CDU 都有警戒信息，或测试电门在 1 或 2 位，或 CDU 草稿行显示 INSUFFICIENT FUEL 信息。因此本题正确答案为 D“其它各项都正确”。"
+        "section": "第10章(飞行仪表、显示)第11.34节",
+        "page": "原题库参考编号 10.11.34",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.34节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "若pfd上显示速度限制(spdlim)故障旗表示"
     },
@@ -14538,8 +14398,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "若PFD上显示速度航向（HDG）故障旗，表示",
       "options": [
@@ -14568,13 +14427,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行管理、导航 / 全球定位系统 GPS 显示 / 11.20.2；位置基准页 2/3 / 11.40.13",
-        "page": "PDF 第 1105 页，手册页 11.20.2；另见手册页 11.40.13",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》全球定位系统“GPS 显示”（PDF 第 1105 页，手册页 11.20.2），POS REF（位置基准）页 2/3 显示左、右 GPS 经纬度位置；位置基准页 2/3 说明也列出 GPS L 和 GPS R 经纬度。因此本题正确答案为 B。"
+        "section": "第10章(飞行仪表、显示)第11.35节",
+        "page": "原题库参考编号 10.11.35",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.35节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "若pfd上显示速度航向(hdg)故障旗表示"
     },
@@ -14595,8 +14454,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "顶反的显示控制面板选择电门在“BOTHON2”位，若机长的PFD出现“DISPLAYCONTROLPANEL”的信息，说明：",
       "options": [
@@ -14620,13 +14478,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行管理、导航 / 全球定位系统 GPS 显示 / 11.20.2",
-        "page": "PDF 第 1105 页，手册页 11.20.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》全球定位系统“GPS 显示”（PDF 第 1105 页，手册页 11.20.2），当在 EFIS 控制面板上选择 POS 电门后，ND 显示左、右 GPS 符号。因此本题正确答案为 C“按下位置（POS）电门”。"
+        "section": "第10章(飞行仪表、显示)第11.38节",
+        "page": "原题库参考编号 10.11.38",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.38节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "顶反的显示控制面板选择电门在bothon2位若机长的pfd出现displaycontrolpanel的信息说明"
     },
@@ -14647,8 +14505,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "当速度带上出现“IASDISAGREE”的信息时，表示：",
       "options": [
@@ -14677,13 +14534,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行管理、导航 / 惯性基准系统 IRS / 11.20.4；另见飞行仪表、显示 / PFD 航向和航迹指示 / 10.11.27",
-        "page": "PDF 第 1107 页，手册页 11.20.4；另见 PDF 第 887 页，手册页 10.11.27",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》惯性基准系统说明（PDF 第 1107 页，手册页 11.20.4），除备用姿态指示器和备用磁罗盘外，IRS 是唯一的飞机姿态和航向信息来源；PFD 航向和航迹指示章节也说明显示当前 FMC/ADIRS 航向、航迹等数据。按题目给定选项，航向信息来源对应 IRS，因此本题正确答案为 B。"
+        "section": "第10章(飞行仪表、显示)第11.39节",
+        "page": "原题库参考编号 10.11.39",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.39节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "当速度带上出现iasdisagree的信息时表示"
     },
@@ -14704,8 +14561,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "ND的哪种显示方式的顶部窗口不显示航向(HDG)?",
       "options": [
@@ -14734,13 +14590,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行管理、导航 / FMC 巡航 / 单发巡航 / 11.42.29",
-        "page": "PDF 第 1366 页，手册页 11.42.29",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》FMC 巡航“单发巡航”（PDF 第 1366 页，手册页 11.42.29），单发巡航页仅提供信息，其中单发速度 ENG OUT SPD 显示根据最小阻力计算的最佳速度。因此本题正确答案为 A。"
+        "section": "第10章(飞行仪表、显示)第11.41节",
+        "page": "原题库参考编号 10.11.41",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.41节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "nd的哪种显示方式的顶部窗口不显示航向(hdg)"
     },
@@ -14761,8 +14617,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "ND的哪种显示方式的顶部窗口以真北向上的？",
       "options": [
@@ -14791,13 +14646,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行管理、导航 / FMC 下降 / 垂直航径参数 / 11.43.9",
-        "page": "PDF 第 1396 页，手册页 11.43.9",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》FMC 下降页“垂直航径参数”（PDF 第 1396 页，手册页 11.43.9），V/S（垂直速度）是按照显示的垂直方位飞行所需的垂直速度，单位英尺/分钟，并根据当前地速计算。因此本题正确答案为 C。"
+        "section": "第10章(飞行仪表、显示)第11.60节",
+        "page": "原题库参考编号 10.11.60",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.60节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "nd的哪种显示方式的顶部窗口以真北向上的"
     },
@@ -14847,13 +14702,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行管理、导航 / FMC 等待 / HOLD AVAIL 与 BEST SPEED / 11.43.31",
-        "page": "PDF 第 1418 页，手册页 11.43.31",
-        "summary": "答案参考说明：本系统仍以原题库参考答案 A 作为判题依据。依据《B737_NG_FCOM.pdf》FMC 等待页说明（PDF 第 1418 页，手册页 11.43.31），HOLD AVAIL 表示如用 PERF INIT 页输入的计划备份燃油到达目的地机场后，以小时+分钟显示的剩余可用等待时间；同页另列 BEST SPEED，说明其为根据当前高度和条件计算的最佳等待速度。题干选项 A 使用“目标速度 TGT SPD”，但按手册同页术语和等待速度逻辑，可能更正确的答案倾向于 B“以最佳速度 BEST SPEED 飞行的时间”。"
+        "section": "第10章(飞行仪表、显示)第11.62节",
+        "page": "原题库参考编号 10.11.62",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.62节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "若nd上出现琥珀色的excessdata信息表明"
     },
@@ -14874,8 +14729,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "在以下哪种情况下，ND上会显示琥珀色的“EFISMODE/NAVFREQDISAGREE”信息",
       "options": [
@@ -14899,13 +14753,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行管理、导航 / 定位点信息 FIX INFO 页 / 11.42.50",
-        "page": "PDF 第 1387 页，手册页 11.42.50",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》FIX INFO 页“定位点的径向线/距离（RAD DIS FR）”（PDF 第 1387 页，手册页 11.42.50），RAD DIS FR 显示从定位点到飞机的径向线和距离。因此 RAD/DIS FR 为 111/29 表示飞机在 ELN 的 111 度径向线、距 ELN 29 海里；反向看，ELN 位于飞机的 291 度方位线上。因此本题正确答案为 C。"
+        "section": "第10章(飞行仪表、显示)第11.63节",
+        "page": "原题库参考编号 10.11.63",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.63节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在以下哪种情况下nd上会显示琥珀色的efismode/navfreqdisagree信息"
     },
@@ -14926,8 +14780,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "ND上出现了“WXRATT”信息，下面哪个说法是对的？",
       "options": [
@@ -14956,13 +14809,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 系统说明 / 发动机电子控制 EEC 备用方式 / 7.20.5",
-        "page": "PDF 第 762 页，手册页 7.20.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机电子控制“备用方式”（PDF 第 762 页，手册页 7.20.5），如果正常方式要求的信号无法由 EEC 探测到，EEC 自动转换到软备用方式，ALTN 电门灯亮且 ON 指示保持可见。因此本题正确答案为 B。"
+        "section": "第10章(飞行仪表、显示)第11.68节",
+        "page": "原题库参考编号 10.11.68",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.68节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "nd上出现了wxratt信息下面哪个说法是对的"
     },
@@ -14983,8 +14836,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "下面那种方式可以显示气象雷达和TCAS系统？",
       "options": [
@@ -15013,13 +14865,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 系统说明 / 发动机电子控制 EEC 备用方式 / 7.20.5",
-        "page": "PDF 第 762 页，手册页 7.20.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机电子控制“备用方式”（PDF 第 762 页，手册页 7.20.5），软备用方式可通过将任一推力手柄移到慢车位或人工选择备用方式，转变为硬备用方式。因此本题正确答案为 D。"
+        "section": "第10章(飞行仪表、显示)第11.41节",
+        "page": "原题库参考编号 10.11.41",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.41节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下面那种方式可以显示气象雷达和tcas系统"
     },
@@ -15040,8 +14892,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表",
-        "手册已核对"
+        "飞行仪表"
       ],
       "question": "下面那种方式可显不航路外的航路点？",
       "options": [
@@ -15070,13 +14921,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 控制和指示 / APU OVERSPEED 灯 / 7.15.9",
-        "page": "PDF 第 756 页，手册页 7.15.9",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》APU OVERSPEED 灯说明（PDF 第 756 页，手册页 7.15.9），如果灯在 APU 电门关位亮起，则 5 分钟后熄灭；APU 电门关位时该灯解除预位。因此本题正确答案为 D。"
+        "section": "第10章(飞行仪表、显示)第11.41节",
+        "page": "原题库参考编号 10.11.41",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.41节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下面那种方式可显不航路外的航路点"
     },
@@ -15126,13 +14977,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 41 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第16.4节",
+        "page": "原题库参考编号 10.16.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.4节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在地图方式若选择的范围为640海里时那么气象雷达回波限制为多少"
     },
@@ -15182,13 +15033,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告",
-        "page": "Sheet1 第 42 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第16.5节",
+        "page": "原题库参考编号 10.16.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.5节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "计划航路上的航路点预计到达时间由哪个地图电门控制显示"
     },
@@ -15238,13 +15089,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告",
-        "page": "Sheet1 第 44 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第16.6节",
+        "page": "原题库参考编号 10.16.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.6节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "当显示源选择电门在auto位时下显示组件由哪个显示电子组件(deu)控制"
     },
@@ -15294,13 +15145,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动油门、灯",
-        "page": "Sheet1 第 61 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第16.6节",
+        "page": "原题库参考编号 10.16.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.6节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "当我们把控制面板的选择电门放在bothon2位时机长的仪表显示由谁的efis控制面板来控制"
     },
@@ -15350,13 +15201,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯",
-        "page": "Sheet1 第 100 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第16.8节",
+        "page": "原题库参考编号 10.16.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.8节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "若把机长的主面板显示组件选择开关放0utbdpfd位时机长的内侧显示组件显示"
     },
@@ -15406,13 +15257,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 120 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第16.9节",
+        "page": "原题库参考编号 10.16.9",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.9节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在空中若把速度基准电门放vref位会显示"
     },
@@ -15462,13 +15313,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 121 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第16.18节",
+        "page": "原题库参考编号 10.16.18",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.18节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "可通过按压综合备用飞行显示的复位按钮来复位复位大概需要"
     },
@@ -15518,13 +15369,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 123 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第16.26节",
+        "page": "原题库参考编号 10.16.26",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.26节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行记录器在地面的工作条件是什么"
     },
@@ -15575,11 +15426,11 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、PF",
-        "page": "Sheet1 第 124 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "conflict",
+        "manual": "",
+        "section": "10.21.5",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -15631,13 +15482,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、PF",
-        "page": "Sheet1 第 125 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第21.14节",
+        "page": "原题库参考编号 10.21.14",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.14节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "显示在cdu进程页面上的大气静温来自"
     },
@@ -15677,13 +15528,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 126 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第21.14节",
+        "page": "原题库参考编号 10.21.14",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.14节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "综合备用飞行显示所提供的姿态空速和高度信息独立于主飞行显示这种说法是否正确"
     },
@@ -15723,13 +15574,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、组件、PF",
-        "page": "Sheet1 第 127 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第21.14节",
+        "page": "原题库参考编号 10.21.14",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.14节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "综合备用飞行显示在提供姿态信息前是否需要校准"
     },
@@ -15779,13 +15630,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 144 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第21.16节",
+        "page": "原题库参考编号 10.21.16",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.16节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "综合备用飞行显示在地面什么情况下才能使用姿态复位按钮"
     },
@@ -15835,13 +15686,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、警告",
-        "page": "Sheet1 第 161 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第21.17节",
+        "page": "原题库参考编号 10.21.17",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.17节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "当电瓶汇流条不可用时飞机上的时钟由以下哪个供电"
     },
@@ -15886,13 +15737,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：N2、显示",
-        "page": "Sheet1 第 168 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N2、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第16.26节",
+        "page": "原题库参考编号 10.16.26",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.26节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在空中什么条件下飞行记录器才能工作"
     },
@@ -15943,11 +15794,11 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 210 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "conflict",
+        "manual": "",
+        "section": "10.42.6",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -15999,13 +15850,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 237 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第41.1节",
+        "page": "原题库参考编号 10.41.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）41.1节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "建议在飞行的大多数阶段都使用的nd方式是以下哪一种"
     },
@@ -16055,13 +15906,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告",
-        "page": "Sheet1 第 240 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737 CBT 训练教材",
+        "section": "CBT 训练材料",
+        "page": "原题库参考编号 CBT",
+        "summary": "答案参考说明：原题库参考定位至 B737 CBT 训练材料（编号 CBT）。该材料为计算机辅助训练课件，非 FCOM/FCTM/QRH 手册。尚未完成与 FCOM 原文的逐字核对。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "双fmc失效只能使用速度基准电门设置飞机参数以下正确的是"
     },
@@ -16082,8 +15933,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车",
-        "手册已核对"
+        "起落架和刹车"
       ],
       "question": "下列哪种情况会导致红色的起架指示灯亮？",
       "options": [
@@ -16112,13 +15962,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "警告系统 / 间歇性起落架形态警告 / 15.20.7",
-        "page": "PDF 第 1542 页，手册页 15.20.7",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》警告系统“间歇性起落架形态警告”（PDF 第 1542 页，手册页 15.20.7），计划着陆时如任一起落架未放下并锁定，警告喇叭根据油门杆和襟翼位置工作，并包含低于 800 英尺 RA、低于 200 英尺 RA、襟翼 15 到 25、襟翼大于 25 等条件。因此起落架警告喇叭需要无线电高度、推力手柄位置、襟翼位置和起落架实际位置等信息，正确答案为 C。"
+        "section": "第14章(起落架)第10.1节",
+        "page": "原题库参考编号 14.10.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.1节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下列哪种情况会导致红色的起架指示灯亮"
     },
@@ -16139,8 +15989,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车",
-        "手册已核对"
+        "起落架和刹车"
       ],
       "question": "以下关于起落架的说法正确的是哪一项？",
       "options": [
@@ -16164,13 +16013,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 人工放起落架 / 14.10.3、14.20.1",
-        "page": "PDF 第 1507 页，手册页 14.10.3、14.20.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“人工放起落架”（PDF 第 1507 页，手册页 14.10.3、14.20.1），人工放起落架手柄盖板打开时，起落架手柄在任何位置都可人工放出起落架；如 A 系统压力可用，能正常放起落架；不能收起落架。人工放起落架后要正常收起，第一步是关闭人工放起落架手柄盖板。因此正确答案为 B。"
+        "section": "第14章(起落架)第10.3节",
+        "page": "原题库参考编号 14.10.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.3节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "以下关于起落架的说法正确的是哪一项"
     },
@@ -16191,8 +16040,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车",
-        "手册已核对"
+        "起落架和刹车"
       ],
       "question": "当人工放起落架手柄盖板打开时，下面哪个说法正确？",
       "options": [
@@ -16221,13 +16069,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 人工放起落架 / 14.10.3、14.20.1",
-        "page": "PDF 第 1507 页，手册页 14.10.3、14.20.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“人工放起落架”（PDF 第 1507 页，手册页 14.10.3、14.20.1），人工放起落架手柄盖板打开时，起落架手柄在任何位置都可人工放出起落架。因此正确答案为 A。"
+        "section": "第14章(起落架)第10.3节",
+        "page": "原题库参考编号 14.10.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.3节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "当人工放起落架手柄盖板打开时下面哪个说法正确"
     },
@@ -16248,8 +16096,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车",
-        "手册已核对"
+        "起落架和刹车"
       ],
       "question": "位于主轮舱口的撞击接头（COMPACTFITTING）的作用是什么？",
       "options": [
@@ -16278,13 +16125,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 起落架操作 / 起落架收起 / 14.20.1",
-        "page": "PDF 第 1507 页，手册页 14.20.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“起落架收起”（PDF 第 1507 页，手册页 14.20.1），起飞时如主起落架轮胎损坏，收起落架时主轮刹车可能受影响；如转动机轮胎面有碎条，必须在收进轮舱前使其停止转动，否则可能损坏轮舱组件；如轮胎撞到轮舱环形开口处的保护装置，起落架会停止收起并自动落回放下位。因此题干所称撞击接头/保护装置的作用是防止损坏的主轮进入轮舱损坏附件，正确答案为 C。"
+        "section": "第14章(起落架)第20.1节",
+        "page": "原题库参考编号 14.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.1节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "位于主轮舱口的撞击接头(compactfitting)的作用是什么"
     },
@@ -16305,8 +16152,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车",
-        "手册已核对"
+        "起落架和刹车"
       ],
       "question": "如果落地前选择自动刹车时，错误地选择了RTO，那么接地后将会出现什么？",
       "options": [
@@ -16335,13 +16181,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 自动刹车系统 / RTO / 14.20.4",
-        "page": "PDF 第 1509 页，手册页 14.20.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“自动刹车系统 / RTO”（PDF 第 1509 页，手册页 14.20.4），如着陆时选择 RTO 方式且自动刹车选钮未转过 OFF 位，自动刹车不起作用，并且自动刹车解除预位灯在接地后两秒钟亮。因此正确答案为 D。"
+        "section": "第14章(起落架)第20.4节",
+        "page": "原题库参考编号 14.20.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "如果落地前选择自动刹车时错误地选择了rto那么接地后将会出现什么"
     },
@@ -16362,8 +16208,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车",
-        "手册已核对"
+        "起落架和刹车"
       ],
       "question": "什么情况下会导致琥珀色的ANTISKIDINOP灯亮？",
       "options": [
@@ -16392,13 +16237,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 控制和指示 / 自动刹车选钮 / 14.10.4",
-        "page": "PDF 第 1499 页，手册页 14.10.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“自动刹车选钮”（PDF 第 1499 页，手册页 14.10.4），FCOM 说明 1、2、3 或 MAX 位用于选择着陆所需减速率，并且必须拔出电门以选择最大减速率。因此本题正确答案为 B。"
+        "section": "第14章(起落架)第10.5节",
+        "page": "原题库参考编号 14.10.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.5节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么情况下会导致琥珀色的antiskidinop灯亮"
     },
@@ -16419,8 +16264,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车",
-        "手册已核对"
+        "起落架和刹车"
       ],
       "question": "当90节后中断起飞，如果RTO是接通的，将导致什么？",
       "options": [
@@ -16449,13 +16293,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 自动刹车系统 / 着陆 / 14.20.4；性能说明",
-        "page": "PDF 第 1509 页，手册页 14.20.4；另见 PDF 第 1654 页性能说明",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“自动刹车系统 / 着陆”（PDF 第 1509 页，手册页 14.20.4），着陆时可选择四个级别的减速率；为保持所选着陆减速率，反推和扰流板等其它系统对总减速起作用时，自动刹车压力减少。性能章节（PDF 第 1654 页）也说明选择自动刹车调置会提供恒定减速率。因此正确答案为 D。"
+        "section": "第14章(起落架)第20.4节",
+        "page": "原题库参考编号 14.20.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "当90节后中断起飞如果rto是接通的将导致什么"
     },
@@ -16477,8 +16321,7 @@ window.B737_QUESTION_BANK = {
       "category": "起落架与刹车",
       "tags": [
         "起落架和刹车",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "如何选择最大刹车减速率档位MAX位？",
       "options": [
@@ -16502,13 +16345,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 系统说明 / 起落架转换组件 / 14.20.2",
-        "page": "PDF 第 1507 页，手册页 14.20.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架系统“起落架转换组件”（PDF 第 1507 页，手册页 14.20.2），FCOM 说明通过起落架转换组件可用 B 液压系统压力收起落架；条件包括在空中、1 号发动机转速降低至限制值以下、起落架手柄在收上位、任一主起落架未收上并锁定。因此本题正确答案为 C。"
+        "status": "conflict",
+        "manual": "",
+        "section": "14.10.4",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "如何选择最大刹车减速率档位max位"
     },
@@ -16529,8 +16372,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车",
-        "手册已核对"
+        "起落架和刹车"
       ],
       "question": "着陆前选择自动刹车时，选择的刹车档位是指？",
       "options": [
@@ -16559,13 +16401,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 起落架操作 / 起落架收起 / 14.20.1",
-        "page": "PDF 第 1507 页，手册页 14.20.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“起落架收起”（PDF 第 1507 页，手册页 14.20.1），收起落架期间，刹车能自动停止主起落架机轮的转动；前起落架向前收进轮舱内且制动装置使前轮停止转动。因此正确答案为 C。"
+        "section": "第14章(起落架)第10.4节",
+        "page": "原题库参考编号 14.10.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "着陆前选择自动刹车时选择的刹车档位是指"
     },
@@ -16587,8 +16429,7 @@ window.B737_QUESTION_BANK = {
       "category": "起落架与刹车",
       "tags": [
         "起落架和刹车",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "什么情况下可以使用B系统的压力来收起起落架？",
       "options": [
@@ -16617,13 +16458,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 刹车蓄压器 / 14.20.3",
-        "page": "PDF 第 1508 页，手册页 14.20.3",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“刹车蓄压器”（PDF 第 1508 页，手册页 14.20.3），刹车蓄压器由 B 液压系统增压；如正常和备用刹车系统压力都失去，刹车蓄压器内保留的液压仍能进行几次刹车或停留刹车。因此正确答案为 B。"
+        "status": "conflict",
+        "manual": "",
+        "section": "14.20.2",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "什么情况下可以使用b系统的压力来收起起落架"
     },
@@ -16644,8 +16485,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车",
-        "手册已核对"
+        "起落架和刹车"
       ],
       "question": "前轮转弯释压活门上的锁销的作用是什么？",
       "options": [
@@ -16674,13 +16514,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 防滞保护与停留刹车 / 14.20.4、14.20.5",
-        "page": "PDF 第 1509-1510 页，手册页 14.20.4-14.20.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“防滞保护”（PDF 第 1509 页，手册页 14.20.4），正常和备用刹车系统均有防滞保护，自动刹车工作时也具有防滞保护；停留刹车说明（PDF 第 1510 页，手册页 14.20.5）说明停留刹车压力由刹车蓄压器保持，未列防滞保护。因此不具备防滞保护功能的是停留刹车，正确答案为 D。"
+        "section": "第14章(起落架)第20.3节",
+        "page": "原题库参考编号 14.20.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.3节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "前轮转弯释压活门上的锁销的作用是什么"
     },
@@ -16730,13 +16570,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "conflict",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 防滞保护 / 14.20.4",
-        "page": "PDF 第 1509 页，手册页 14.20.4",
-        "summary": "答案参考说明：本系统仍以原题库参考答案 A 判题。依据《B737_NG_FCOM.pdf》起落架“防滞保护”（PDF 第 1509 页，手册页 14.20.4），正常和备用刹车系统均有防滞保护功能；正常刹车液压系统给每个主起落架机轮提供单独防滞保护，备用刹车液压系统给每对主起落架机轮而不是每个机轮提供防滞保护。原题库选项 A 写正常和备用都给每个主轮单独防滞，与手册备用系统“每对主轮”不一致；按手册可能更正确的表述应为正常刹车每个主轮单独防滞、备用刹车每对主轮防滞。"
+        "section": "第14章(起落架)第10.9节",
+        "page": "原题库参考编号 14.10.9",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.9节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "前轮转弯正常是由什么供压的"
     },
@@ -16757,8 +16597,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车",
-        "手册已核对"
+        "起落架和刹车"
       ],
       "question": "如果A和B液压系统都失效后，蓄压瓶刹车压力指示1000PSI时，下列哪项说法正确？",
       "options": [
@@ -16787,13 +16626,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 自动刹车系统 / RTO / 14.20.4",
-        "page": "PDF 第 1509 页，手册页 14.20.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“自动刹车系统 / RTO”（PDF 第 1509 页，手册页 14.20.4），只有在地面才能选择 RTO 方式；一旦选择，自动刹车解除预位灯会亮一至二秒然后熄灭，表明已成功通过自测。因此正确答案为 B。"
+        "section": "第14章(起落架)第10.7节",
+        "page": "原题库参考编号 14.10.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.7节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "如果a和b液压系统都失效后蓄压瓶刹车压力指示1000psi时下列哪项说法正确"
     },
@@ -16814,8 +16653,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车",
-        "手册已核对"
+        "起落架和刹车"
       ],
       "question": "地面滑行时，全行程的方向舵脚凳移动量，会造成几度的前轮转动？",
       "options": [
@@ -16844,13 +16682,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "起落架 / 自动刹车系统 / RTO / 14.20.4",
-        "page": "PDF 第 1509 页，手册页 14.20.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》起落架“自动刹车系统 / RTO”（PDF 第 1509 页，手册页 14.20.4），选择 RTO 后，如在机轮速度达到 88 节前中断起飞且自动刹车未开始工作，自动刹车解除预位灯不亮，RTO 自动刹车功能保持预位；轮速达到 88 节后中断起飞且油门杆收到慢车位时，自动使用最大刹车。因此题目问错误描述，正确答案为 B。"
+        "section": "第14章(起落架)第10.8节",
+        "page": "原题库参考编号 14.10.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.8节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "地面滑行时全行程的方向舵脚凳移动量会造成几度的前轮转动"
     },
@@ -16871,8 +16709,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车",
-        "手册已核对"
+        "起落架和刹车"
       ],
       "question": "备用前轮转弯系统使用哪个系统的液压压力？",
       "options": [
@@ -16901,13 +16738,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_QRH.pdf",
-        "section": "起飞后起落架手柄不能移到收上位 / QRH 14.14",
-        "page": "PDF 第 320 页，手册页 14.14",
-        "summary": "答案参考说明：依据《B737_NG_QRH.pdf》“起飞后起落架手柄不能移到收上位”（PDF 第 320 页，手册页 14.14），起落架手柄无法移到 UP 位的原因包括起落架手柄锁电磁线圈失效、空/地系统失效、地面扰流板联锁活门未能关闭。因此正确答案为 D“其它各项原因均有可能”。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)第10.9节",
+        "page": "原题库参考编号 14.10.9",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.9节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "备用前轮转弯系统使用哪个系统的液压压力"
     },
@@ -16957,13 +16794,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电源、刹车、警告",
-        "page": "Sheet1 第 139 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、刹车、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)第10.10节",
+        "page": "原题库参考编号 14.10.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.10节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "前轮转弯手轮提供的最大前轮偏转角度是什以"
     },
@@ -17013,13 +16850,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：防滞",
-        "page": "Sheet1 第 141 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「防滞」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)第20.1节",
+        "page": "原题库参考编号 14.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.1节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "起落架收起来后轮子是怎么样停止转动的"
     },
@@ -17069,13 +16906,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 142 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)第20.3节",
+        "page": "原题库参考编号 14.20.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.3节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "刹车蓄压瓶是依靠哪个液压系统来增压用于提供正常和备用刹车都丧失后的刹车压力的"
     },
@@ -17125,13 +16962,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架、警告",
-        "page": "Sheet1 第 241 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)第20.4节",
+        "page": "原题库参考编号 14.20.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下面哪项不具备防滞保护功能"
     },
@@ -17181,13 +17018,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架、灯",
-        "page": "Sheet1 第 362 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)第20.4节",
+        "page": "原题库参考编号 14.20.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下面关于防滞保护功能的说法的是"
     },
@@ -17237,13 +17074,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架、灯",
-        "page": "Sheet1 第 363 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)第20.4节",
+        "page": "原题库参考编号 14.20.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "起飞前选择自动刹车rto时琥珀色的自动刹车解除预位灯亮了大约2秒钟然后熄灭这种现象表明"
     },
@@ -17293,13 +17130,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 367 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)第20.4节",
+        "page": "原题库参考编号 14.20.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下面关于自动刹车的中断起飞方式的描述错误的是"
     },
@@ -17349,13 +17186,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架",
-        "page": "Sheet1 第 370 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)第20.6节",
+        "page": "原题库参考编号 14.20.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.6节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "空地系统从哪里获得空地逻辑信号"
     },
@@ -17405,13 +17242,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 372 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_QRH.pdf",
+        "section": "第QRH14章(QRH非正常程序)第16节",
+        "page": "原题库参考编号 QRH14.16",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_QRH.pdf》第QRH14章（QRH非正常程序）16节。本题考点涉及QRH非正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "以下哪些原因可能导致起飞后起落架手柄不能移到收上位置"
     },
@@ -17432,8 +17269,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航",
-        "手册已核对"
+        "FMC和导航"
       ],
       "question": "在CDU的页面上要求必须输入数据的行用什么来显示？",
       "options": [
@@ -17457,13 +17293,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)",
-        "page": "PDF 第 1003 页，手册页 10.31.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）PDF 第 1003 页，手册页 10.31.2，原文涉及：2 D6-27370-81B-GUN September 2, 2021 B-1123 - B-206C, B-5112 - B-7997 一旦机组在MCDU 进近基准页面设置了襟翼/VREF，一个绿色的“REF” 和着陆襟翼/VREF 数字就会出现在PFD 上。REF 符号将在基准速度附 近垂直移动，而数字显示将保持固定在速度带右侧底部。除了绿色的 VREF 以外，还有一个白色的VREF 游标提……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第11章(飞行管理、导航)第10.9节",
+        "page": "原题库参考编号 11.10.9",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.9节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在cdu的页面上要求必须输入数据的行用什么来显示"
     },
@@ -17515,9 +17351,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.41节",
-        "page": "原题库参考编号 10.11.41",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.41节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)第10.15 11.32.6节",
+        "page": "原题库参考编号 11.10.15 11.32.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.15 11.32.6节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17566,9 +17402,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第16.5节",
-        "page": "原题库参考编号 10.16.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.5节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)第10.17节",
+        "page": "原题库参考编号 11.10.17",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.17节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17591,8 +17427,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航",
-        "手册已核对"
+        "FMC和导航"
       ],
       "question": "IRS方式选择组件上，白色校准灯什么情况下稳定的亮？",
       "options": [
@@ -17621,13 +17456,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)",
-        "page": "PDF 第 985 页，手册页 10.21.14",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）PDF 第 985 页，手册页 10.21.14，原文涉及：在飞机外侧，用于探测大气温度。探头测得的温度供 ADIRS 计算全温。 注：在计算起飞性能时，TAT 指示不能代替外部OAT 使用。 大气静温（SAT） 显示在CDU 进程页面上的大气静温是来自使用大气全温探头信息的 ADIRUs。。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第11章(飞行管理、导航)第10.22-23节",
+        "page": "原题库参考编号 11.10.22-23",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.22-23节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "irs方式选择组件上白色校准灯什么情况下稳定的亮"
     },
@@ -17673,10 +17508,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "partial",
-        "manual": "B737 CBT 训练教材",
-        "section": "CBT 训练材料",
-        "page": "原题库参考编号 CBT",
-        "summary": "答案参考说明：原题库参考定位至 B737 CBT 训练材料（编号 CBT）。该材料为计算机辅助训练课件，非 FCOM/FCTM/QRH 手册。尚未完成与 FCOM 原文的逐字核对。"
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第10.22-23节",
+        "page": "原题库参考编号 11.10.22-23",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.22-23节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17725,9 +17560,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第10.9节",
-        "page": "原题库参考编号 11.10.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.9节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)第10.33节",
+        "page": "原题库参考编号 11.10.33",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.33节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17750,8 +17585,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航",
-        "手册已核对"
+        "FMC和导航"
       ],
       "question": "气象雷达在什么方式工作时，可使用面板上的增益控制旋钮设置接收机灵敏度？",
       "options": [
@@ -17780,13 +17614,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1071 页，手册页 11.10.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1071 页，手册页 11.10.4，原文涉及：September 30, 2022 B-1582, B-1585, B-7967 - B-7997 控制显示组件（CDU）显示 显示飞行管理系统（FMS）数据页。 行选键 按压－ ·数据从草稿行移到所选行 ·数据从所选行移到草稿行 ·选择合适的页面、程序或性能方式 ·草稿行显示DELETE（删除）时，删除所选行的数据。 1 2。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第11章(飞行管理、导航)第10.37节",
+        "page": "原题库参考编号 11.10.37",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.37节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "气象雷达在什么方式工作时可使用面板上的增益控制旋钮设置接收机灵敏度"
     },
@@ -17807,8 +17641,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航",
-        "手册已核对"
+        "FMC和导航"
       ],
       "question": "737-800导航系统包括哪些？",
       "options": [
@@ -17837,13 +17670,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行管理、导航 / IRS 校准 / 11.20.4",
-        "page": "PDF 第 1107 页，手册页 11.20.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行管理、导航“IRS 校准”（PDF 第 1107 页，手册页 11.20.4），FCOM 说明如经纬度位置不在起飞机场 4 海里范围内，CDU 草稿行显示 VERIFY POSITION 信息。因此本题正确答案为 B“输入的位置与起飞机场之间误差已超过 4 海里”。"
+        "section": "第11章(飞行管理、导航)第20.1节",
+        "page": "原题库参考编号 11.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.1节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "737-800导航系统包括哪些"
     },
@@ -17864,8 +17697,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航",
-        "手册已核对"
+        "FMC和导航"
       ],
       "question": "飞行管理系统（FMS）在驾驶舱中主要的控制是：",
       "options": [
@@ -17894,13 +17726,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序 / FMC 导航检查 / 抑制 VOR/DME 用作位置更新 / SP.11.14；另见导航选项页 11.42.47",
-        "page": "PDF 第 311 页，手册页 SP.11.14；另见 PDF 第 1384 页，手册页 11.42.47",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》补充程序“抑制 VOR/DME 用作位置更新”（PDF 第 311 页，手册页 SP.11.14），程序要求选择导航状态页面后选择导航选项页面，并在导航选项页面输入所需的 VOR/DME 识别码；CDU 导航选项页说明也列有 DME/VOR 抑制字段。因此本题正确答案为 B“导航选项页（NAV OPTION）”。"
+        "section": "第11章(飞行管理、导航)第20.1节",
+        "page": "原题库参考编号 11.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.1节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行管理系统(fms)在驾驶舱中主要的控制是"
     },
@@ -17952,9 +17784,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第31.15节",
-        "page": "原题库参考编号 11.31.15",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.15节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)第20.2节",
+        "page": "原题库参考编号 11.20.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.2节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17977,8 +17809,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航",
-        "手册已核对"
+        "FMC和导航"
       ],
       "question": "使用EFIS控制面板上哪个电门使导航显示器（ND）上显示全球定位系统（GPS）的符号？",
       "options": [
@@ -18007,13 +17838,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1148 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1148 页，原文涉及：待航线 ·进近放襟翼。 如飞行计划里有一个以上减速航段，仅显示下一个减速点。减速点也可 在巡航等待航线或其他减速阶段之前显示。 下降中，如飞机在未存储入FMC 内的MCP 高度上改平，则接通VNAV ALT 方式。 VNAV 航径下降 为了完成航径下降，必须确定下降终点，它可以通过人工定义或选择进 场程序定义。 FMC 默认使用航径下降方式完成计划。飞机到达下降顶点时没有航径 下降所需的信息，FM……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第11章(飞行管理、导航)第20.2节",
+        "page": "原题库参考编号 11.20.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.2节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "使用efis控制面板上哪个电门使导航显示器(nd)上显示全球定位系统(gps)的符号"
     },
@@ -18034,8 +17865,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航",
-        "手册已核对"
+        "FMC和导航"
       ],
       "question": "怎样解除对全球定位系统（GPS）信息的选择？",
       "options": [
@@ -18064,13 +17894,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1158 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1158 页，原文涉及：一个进近航路点时，自动循环到第一个复飞航路点 ·飞机在垂直速率大于600 fpm 时爬升且襟翼从着陆设置向襟翼设置 15 或1 收回。 一旦开始复飞： ·FMC 从现行下降过渡到现行爬升 ·推力限制改变为复飞推力 ·所有低于现在飞机高度的下降高度限制被删除并由原先的高度代替。 ·如需改航到其他机场，选择标准离场程序后，起始目的地机场（开始 复飞的机场）变成新的起始机场。 注：当飞机爬升到无线电高度……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第11章(飞行管理、导航)第20.2节",
+        "page": "原题库参考编号 11.20.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.2节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "怎样解除对全球定位系统(gps)信息的选择"
     },
@@ -18122,9 +17952,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第32.4节",
-        "page": "原题库参考编号 11.32.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）32.4节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)第20.4节",
+        "page": "原题库参考编号 11.20.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.4节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18178,9 +18008,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第32.5节",
-        "page": "原题库参考编号 11.32.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）32.5节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)第20.4节",
+        "page": "原题库参考编号 11.20.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.4节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18204,8 +18034,7 @@ window.B737_QUESTION_BANK = {
       "category": "飞行管理系统",
       "tags": [
         "FMC和导航",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "在IRS校准期间，CDU草稿行显示“VERIFYPOSITION”核实位置信息，表示输入的位置与起飞机场之间误差已超过多少？",
       "options": [
@@ -18234,13 +18063,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1060 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1060 页，原文涉及：............................................................... 11.10.1 控制显示组件（CDU） ............................................................. 11.10.1 功能和执行键 .......................................……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "conflict",
+        "manual": "",
+        "section": "11.20.4",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "在irs校准期间cdu草稿行显示verifyposition核实位置信息表示输入的位置与起飞机场之间误差已超过多少"
     },
@@ -18262,8 +18091,7 @@ window.B737_QUESTION_BANK = {
       "category": "飞行管理系统",
       "tags": [
         "FMC和导航",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "若要抑制某一DME台对FMC进行的位置更新，应在CDU的哪个页面上实现？",
       "options": [
@@ -18292,13 +18120,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1275 页，手册页 11.40.30",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1275 页，手册页 11.40.30，原文涉及：供选择计划巡航高度的基准。 需要输入巡航高度。 输入航路巡航高度。 在爬升、巡航和航路页面自动显示巡航高度。 巡航风（CRZ WIND） 输入巡航风使FMC 进行最佳计算。 输入预报的巡航风。 输入的数据还传送到航路数据（RTE DATA）页。 如未作输入，FMC 假定为静风进行飞行前预测。 爬升顶点外界大气温度（T/C OAT） 输入T/C OAT 使FMC 进行最佳计算。 输入T/C OAT ……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "conflict",
+        "manual": "",
+        "section": "11.20.8",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "若要抑制某一dme台对fmc进行的位置更新应在cdu的哪个页面上实现"
     },
@@ -18350,9 +18178,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第42.44节",
-        "page": "原题库参考编号 11.42.44",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.44节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)第31.2节",
+        "page": "原题库参考编号 11.31.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.2节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18375,8 +18203,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航",
-        "手册已核对"
+        "FMC和导航"
       ],
       "question": "在CDU的RTELEGS页人工输入经纬度航路点N47°15.4'W008°3.4",
       "options": [
@@ -18400,13 +18227,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1148 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1148 页，原文涉及：待航线 ·进近放襟翼。 如飞行计划里有一个以上减速航段，仅显示下一个减速点。减速点也可 在巡航等待航线或其他减速阶段之前显示。 下降中，如飞机在未存储入FMC 内的MCP 高度上改平，则接通VNAV ALT 方式。 VNAV 航径下降 为了完成航径下降，必须确定下降终点，它可以通过人工定义或选择进 场程序定义。 FMC 默认使用航径下降方式完成计划。飞机到达下降顶点时没有航径 下降所需的信息，FM……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第11章(飞行管理、导航)第31.15节",
+        "page": "原题库参考编号 11.31.15",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.15节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在cdu的rtelegs页人工输入经纬度航路点n47°154w008°34"
     },
@@ -18427,8 +18254,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航",
-        "手册已核对"
+        "FMC和导航"
       ],
       "question": "FMC在计算VNAV航径下降剖面时，没有考虑下面那一项因素？",
       "options": [
@@ -18457,13 +18283,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1174 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1174 页，原文涉及：信低级别的信息时无谐 音伴随。 ·ACARS 信息将继续显示，只要任何ACARS 上链信息保持。 长删除功能 在上链过程中，忽略CDU 键，直至数据已装入FMC。按住和压下DEL 键至少1 秒，可以暂停上链。对于所有上链，补充导航数据上链除外， 装入的数据从飞行计划中清除掉，回到待装状态。当30秒内没有按CDU 任何键，不产生修改计划的上链要重装。确实生成修改计划的上链通过 相应页面的LOAD（安……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "section": "第11章(飞行管理、导航)第31.26节",
+        "page": "原题库参考编号 11.31.26",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.26节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "fmc在计算vnav航径下降剖面时没有考虑下面那一项因素"
     },
@@ -18513,13 +18339,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、航路",
-        "page": "Sheet1 第 149 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、航路」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第31.37节",
+        "page": "原题库参考编号 11.31.37",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.37节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在无线电高度2000英尺以下按压to/ga电门fmc页面会显示一个自动指定的新的巡航高度新的高度为"
     },
@@ -18562,13 +18388,13 @@ window.B737_QUESTION_BANK = {
       ],
       "answer": [],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：FMC、性能",
-        "page": "Sheet1 第 151 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「FMC、性能」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第32.4节",
+        "page": "原题库参考编号 11.32.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）32.4节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "cdu的草稿行显示checkfmcfuelquantity信息表示"
     },
@@ -18613,13 +18439,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、CDU",
-        "page": "Sheet1 第 156 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、CDU」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第32.5节",
+        "page": "原题库参考编号 11.32.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）32.5节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "fmc推动电源后以下哪种情况必须重新输入所有的数据"
     },
@@ -18664,13 +18490,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 215 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第40.12节",
+        "page": "原题库参考编号 11.40.12",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.12节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "irs工作在姿态方式时通过cdu的哪个页面来输入/更新磁航向"
     },
@@ -18715,13 +18541,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：CDU",
-        "page": "Sheet1 第 228 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「CDU」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第40.35节",
+        "page": "原题库参考编号 11.40.35",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.35节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "成本指数越大"
     },
@@ -18766,13 +18592,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：航路",
-        "page": "Sheet1 第 388 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「航路」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第40.36节",
+        "page": "原题库参考编号 11.40.36",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.36节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在性能起始页上(tripalt)航程高度是指"
     },
@@ -18822,13 +18648,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：航路",
-        "page": "Sheet1 第 389 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「航路」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第40.36节",
+        "page": "原题库参考编号 11.40.36",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.36节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "输入预报的巡航风可以使fmc进行最佳计算除了通过性能起始页面输入还可以在哪个页面上输入"
     },
@@ -18878,13 +18704,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：FMC",
-        "page": "Sheet1 第 390 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第40.43节",
+        "page": "原题库参考编号 11.40.43",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.43节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "clb1提供减少多少n1的爬升限制"
     },
@@ -18934,13 +18760,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电源、FMC",
-        "page": "Sheet1 第 393 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第40.57/41节",
+        "page": "原题库参考编号 11.40.57/41",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.57/41节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行前若想输入假设温度来减推力起飞应通过哪一页面输入假设温度"
     },
@@ -18990,13 +18816,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、FMC",
-        "page": "Sheet1 第 395 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第40.42节",
+        "page": "原题库参考编号 11.40.42",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.42节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "使用输入假设温度来减推力起飞绿色的基准n1游标显示"
     },
@@ -19046,13 +18872,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：性能、性能",
-        "page": "Sheet1 第 453 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「性能、性能」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第40.50节",
+        "page": "原题库参考编号 11.40.50",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.50节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在起飞基准1/2页输入v速度(v1vr和v2)后下面哪种数据发生变化时会引起verifytakeoffspeeds核实起飞速度"
     },
@@ -19097,13 +18923,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、航路",
-        "page": "Sheet1 第 586 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、航路」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第40.48节",
+        "page": "原题库参考编号 11.40.48",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.48节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在起飞基准1/2页上右3行起飞重量(tow)表示"
     },
@@ -19154,11 +18980,11 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：FMC",
-        "page": "Sheet1 第 615 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "conflict",
+        "manual": "",
+        "section": "11.40.58",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -19205,13 +19031,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、CDU",
-        "page": "Sheet1 第 618 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、CDU」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第41.25节",
+        "page": "原题库参考编号 11.41.25",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）41.25节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "巡航阶段需要在actrtarogressn2/3页面退出所需到达时间方式下面那种操作是错误"
     },
@@ -19261,13 +19087,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：FMC",
-        "page": "Sheet1 第 628 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第41.11节",
+        "page": "原题库参考编号 11.41.11",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）41.11节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在clb页面右1行显示在航路点macey的高度限制是6000a如何取消6000a的高度限制"
     },
@@ -19317,13 +19143,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：航路",
-        "page": "Sheet1 第 674 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「航路」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第41.22节",
+        "page": "原题库参考编号 11.41.22",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）41.22节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "用高度层改变方式爬升期间若想取消减推力爬升使用全推力爬升怎样实现"
     },
@@ -19368,13 +19194,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：CDU",
-        "page": "Sheet1 第 687 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「CDU」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第42.33节",
+        "page": "原题库参考编号 11.42.33",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.33节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在用垂直导航方式巡航爬升时以爬升推力和什么速度爬升至新高度"
     },
@@ -19419,13 +19245,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：FMC、性能",
-        "page": "Sheet1 第 862 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「FMC、性能」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第42.44节",
+        "page": "原题库参考编号 11.42.44",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.44节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行中如果fmc的位置不准了经核实无线电位置是准的若将fmc的位置更新到无线电位置应通过哪个页面实现"
     },
@@ -19475,13 +19301,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：航路",
-        "page": "Sheet1 第 863 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「航路」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第31.27节",
+        "page": "原题库参考编号 11.31.27",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.27节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "vnav下降时fmc使用一种叫能量补偿的特殊程序以下说法正确的是"
     },
@@ -19527,11 +19353,11 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：FMC",
-        "page": "Sheet1 第 864 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "conflict",
+        "manual": "",
+        "section": "11.10.19",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -19579,10 +19405,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "partial",
-        "manual": "",
-        "section": "11.42.32",
-        "page": "",
-        "summary": "答案参考说明：原始 400 总题库参考字段为“11.42.32”。该字段可作为后续手册定位线索，但尚未替代 FCOM/FCTM/QRH/运行手册原文核对。"
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第42.32节",
+        "page": "原题库参考编号 11.42.32",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.32节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19635,10 +19461,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "partial",
-        "manual": "",
-        "section": "11.42.37",
-        "page": "",
-        "summary": "答案参考说明：原始 400 总题库参考字段为“11.42.37”。该字段可作为后续手册定位线索，但尚未替代 FCOM/FCTM/QRH/运行手册原文核对。"
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第42.37节",
+        "page": "原题库参考编号 11.42.37",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.37节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19686,10 +19512,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "partial",
-        "manual": "",
-        "section": "11.43.9",
-        "page": "",
-        "summary": "答案参考说明：原始 400 总题库参考字段为“11.43.9”。该字段可作为后续手册定位线索，但尚未替代 FCOM/FCTM/QRH/运行手册原文核对。"
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第43.9节",
+        "page": "原题库参考编号 11.43.9",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）43.9节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19737,10 +19563,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "partial",
-        "manual": "",
-        "section": "11.43.8",
-        "page": "",
-        "summary": "答案参考说明：原始 400 总题库参考字段为“11.43.8”。该字段可作为后续手册定位线索，但尚未替代 FCOM/FCTM/QRH/运行手册原文核对。"
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第43.8节",
+        "page": "原题库参考编号 11.43.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）43.8节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19793,10 +19619,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "partial",
-        "manual": "",
-        "section": "11.60.2",
-        "page": "",
-        "summary": "答案参考说明：原始 400 总题库参考字段为“11.60.2”。该字段可作为后续手册定位线索，但尚未替代 FCOM/FCTM/QRH/运行手册原文核对。"
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第60.2节",
+        "page": "原题库参考编号 11.60.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）60.2节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19849,10 +19675,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "partial",
-        "manual": "",
-        "section": "11.43.37",
-        "page": "",
-        "summary": "答案参考说明：原始 400 总题库参考字段为“11.43.37”。该字段可作为后续手册定位线索，但尚未替代 FCOM/FCTM/QRH/运行手册原文核对。"
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第43.37节",
+        "page": "原题库参考编号 11.43.37",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）43.37节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19900,10 +19726,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "partial",
-        "manual": "",
-        "section": "11.32.1",
-        "page": "",
-        "summary": "答案参考说明：原始 400 总题库参考字段为“11.32.1”。该字段可作为后续手册定位线索，但尚未替代 FCOM/FCTM/QRH/运行手册原文核对。"
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第32.1节",
+        "page": "原题库参考编号 11.32.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）32.1节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19951,10 +19777,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "partial",
-        "manual": "",
-        "section": "11.42.58",
-        "page": "",
-        "summary": "答案参考说明：原始 400 总题库参考字段为“11.42.58”。该字段可作为后续手册定位线索，但尚未替代 FCOM/FCTM/QRH/运行手册原文核对。"
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第42.58节",
+        "page": "原题库参考编号 11.42.58",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.58节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19977,8 +19803,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "基准N1游标（读数）由谁根据什么调定？",
       "options": [
@@ -20007,13 +19832,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行管理、导航 / N1 限制页与起飞基准页 2/2 / 11.40.35、11.40.48-11.40.49",
-        "page": "PDF 第 1280 页，手册页 11.40.35；另见 PDF 第 1292-1294 页，手册页 11.40.48-11.40.49",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》N1 限制页“所选温度（SEL）”（PDF 第 1280 页，手册页 11.40.35），可输入假设温度用以计算减推力起飞 N1；起飞基准页 2/2（PDF 第 1292-1294 页，手册页 11.40.48-11.40.49）也提供所选温度输入并重复 N1 限制页飞行前部分数据。因此本题正确答案为 D“起飞基准 2/2 或 N1 限制页”。"
+        "section": "第7章(发动机、APU)第11.7节",
+        "page": "原题库参考编号 7.11.7",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.7节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "基准n1游标(读数)由谁根据什么调定"
     },
@@ -20034,8 +19859,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "如果在上显示屏出现了“A/T-LIM”（自动油门限制）指示，说明：",
       "options": [
@@ -20064,13 +19888,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 推力方式显示与 N1 指示 / 7.11.2、7.11.4；飞行管理、导航 / 起飞基准页 / 11.40.39",
-        "page": "PDF 第 729、731、1280 页，手册页 7.11.2、7.11.4、11.40.39",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“推力方式显示、所选温度和自动油门限制”（PDF 第 729 页，手册页 7.11.2）及“N1 指示”（PDF 第 731 页，手册页 7.11.4），N1 限制通常由 FMC 计算，部分构型 R-TO 不区分减功率类型但 N1 限制可因假设温度、固定减功率或两者组合而降低；其他构型 N1 读数可显示固定减功率、假设温度减功率或组合。另在起飞基准页（PDF 第 1280 页，手册页 11.40.39）某些构型下，用 SEL TEMP 计算减小 N1 时，基准 N1 游标仍显示全功率或选择的固定减功率起飞推力 N1。因此该显示受构型影响，本题答案 D 与 FCOM 说明一致。"
+        "section": "第7章(发动机、APU)第11.5节",
+        "page": "原题库参考编号 7.11.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "如果在上显示屏出现了a/t-lim(自动油门限制)指示说明"
     },
@@ -20091,8 +19915,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "在N1转速表上出现REV指示说明什么？",
       "options": [
@@ -20121,13 +19944,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 发动机主要指示 / N1 指示 / 7.11.4",
-        "page": "PDF 第 731 页，手册页 7.11.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“N1 指示”（PDF 第 731 页，手册页 7.11.4），FMC 根据 N1 限制页面和起飞基准页面调定两个基准 N1 游标，并显示自动油门现用 N1 限制的基准 N1 游标。因此本题正确答案为 D。"
+        "section": "第7章(发动机、APU)第11.8节",
+        "page": "原题库参考编号 7.11.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.8节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在n1转速表上出现rev指示说明什么"
     },
@@ -20149,8 +19972,7 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "APU和发动机",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "飞行中，在EGT指示上出现“ENGFAIL”（发动机失效）警告；什么情况下，该警告消失？",
       "options": [
@@ -20179,13 +20001,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 发动机主要指示 / 反推装置指示 / 7.11.6",
-        "page": "PDF 第 733 页，手册页 7.11.6",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“反推装置（REV）指示”（PDF 第 733 页，手册页 7.11.6），REV 琥珀色表示反推装置从收回处放出，绿色表示反推装置放出。因此本题正确答案为 C“绿色说明反推装置处于全开位”。"
+        "status": "conflict",
+        "manual": "",
+        "section": "7.11.10",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "飞行中在egt指示上出现engfail(发动机失效)警告什么情况下该警告消失"
     },
@@ -20206,8 +20028,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "将中央仪表板上的燃油流量电门扳到“USED”位显示已用燃油量后，如何回到正常的燃油流量显示？",
       "options": [
@@ -20236,13 +20057,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 控制和指示 / 发动机失效警戒 / 7.11.9",
-        "page": "PDF 第 736 页，手册页 7.11.9",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“发动机失效（ENG FAIL）警戒”（PDF 第 736 页，手册页 7.11.9），FCOM 说明该警戒保持直到发动机恢复推力、起动手柄移到 CUTOFF 位，或发动机火警电门提起。因此本题正确答案为 C。"
+        "section": "第7章(发动机、APU)第11.14节",
+        "page": "原题库参考编号 7.11.14",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.14节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "将中央仪表板上的燃油流量电门扳到used位显示已用燃油量后如何回到正常的燃油流量显示"
     },
@@ -20263,8 +20084,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "什么情况下，发动机滑油量指示零是正常的？",
       "options": [
@@ -20293,13 +20113,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 发动机主要指示 / 交输引气起动指示 / 7.11.12；另见发动机起动系统 / 7.20.11",
-        "page": "PDF 第 739 页，手册页 7.11.12；另见 PDF 第 768 页，手册页 7.20.11",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》交输引气起动（X-BLD）指示（PDF 第 739 页，手册页 7.11.12），该洋红色指示表示空中起动时建议交输引气起动；发动机密集方式显示时为 XB，且由高度、空速和 N2 决定。因此本题正确答案为 D。"
+        "section": "第7章(发动机、APU)第11.17节",
+        "page": "原题库参考编号 7.11.17",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.17节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么情况下发动机滑油量指示零是正常的"
     },
@@ -20320,8 +20140,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "发动机滑油读数以显示可用油量。",
       "options": [
@@ -20350,13 +20169,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 基本控制和指示 / 发动机起动电门 / 7.15.1",
-        "page": "PDF 第 748 页，手册页 7.15.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“发动机起动电门”（PDF 第 748 页，手册页 7.15.1），ENGINE START 电门在 GRD 位会打开起动活门、关闭发动机引气活门；空中起动时预位两个点火器，以在起动手柄移向慢车位时点火。因此本题正确答案为 C。"
+        "section": "第7章(发动机、APU)第11.17节",
+        "page": "原题库参考编号 7.11.17",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.17节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "发动机滑油读数以显示可用油量"
     },
@@ -20377,8 +20196,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "在发动机密集显示时，如果N2数字的侧面出现“XB”字样说明什么？",
       "options": [
@@ -20407,13 +20225,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 基本控制和指示 / 发动机起动电门 / 7.15.1；另见发动机起动系统 / 7.20.11",
-        "page": "PDF 第 748 页，手册页 7.15.1；另见 PDF 第 768 页，手册页 7.20.11",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机起动电门 OFF 位说明（PDF 第 748 页，手册页 7.15.1），起动手柄在慢车位且 N2 非指令性快速减小或 N2 低于慢车转速时，两个点火器都启动。因此本题正确答案为 A。"
+        "section": "第7章(发动机、APU)第11.21节",
+        "page": "原题库参考编号 7.11.21",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.21节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在发动机密集显示时如果n2数字的侧面出现xb字样说明什么"
     },
@@ -20435,8 +20253,7 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "APU和发动机",
-        "答案冲突",
-        "手册已核对"
+        "答案冲突"
       ],
       "question": "要进行发动机空中起动，将起动电门扳到“GRD”位有什么作用？",
       "options": [
@@ -20460,13 +20277,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 反推灯与自动回收电路 / 7.15.4、7.20.15",
-        "page": "PDF 第 751、772 页，手册页 7.15.4、7.20.15",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“反推灯”（PDF 第 751 页，手册页 7.15.4），REVERSER 琥珀色灯亮的条件包括自动回收电路已启动；同手册“自动回收电路”（PDF 第 772 页，手册页 7.20.15）说明该电路在反推未完全收回或非指令性向放出方向移动时工作。手册该灯条件未限定只在空中或只在地面，因此本题正确答案为 B“空中和地面都会”。"
+        "status": "conflict",
+        "manual": "",
+        "section": "7.15.1",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "要进行发动机空中起动将起动电门扳到grd位有什么作用"
     },
@@ -20487,8 +20304,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "发动机起动电门在“OFF”位时，下面哪种什么情况下，两个点火器都工作？",
       "options": [
@@ -20512,13 +20328,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 发动机电子控制 EEC 备用方式 / 7.20.5；另见发动机面板 / 7.15.5",
-        "page": "PDF 第 762 页，手册页 7.20.5；另见 PDF 第 752 页，手册页 7.15.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机电子控制说明（PDF 第 762 页，手册页 7.20.5），EEC 不提供排气温度红线超温保护，机组必须遵守排气温度限制；发动机面板说明也提示在正常和备用控制方式下均必须遵守 EGT 限制。因此本题问 EEC 是否提供发动机排气温度保护，正确答案为 B“不可以”。"
+        "section": "第7章(发动机、APU)第15.2节",
+        "page": "原题库参考编号 7.15.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.2节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "发动机起动电门在off位时下面哪种什么情况下两个点火器都工作"
     },
@@ -20539,8 +20355,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "如果自动回收电路启动，后顶板上的REVERSER（反推）灯会不会亮？",
       "options": [
@@ -20569,13 +20384,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 反推手柄与推力手柄互锁 / 7.15.5、7.15.6",
-        "page": "PDF 第 752-753 页，手册页 7.15.5-7.15.6",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“反推装置解锁灯”和“反推手柄”（PDF 第 752-753 页，手册页 7.15.5-7.15.6），反推手柄处于打开位置时，推力手柄不能前推；除非对应推力手柄在慢车位，否则不能选择反推；反推手柄移动还会接通锁定机构，阻止推力手柄前移直至反推收回。因此题目问错误说法，正确答案为 C。"
+        "section": "第7章(发动机、APU)第15.5节",
+        "page": "原题库参考编号 7.15.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "如果自动回收电路启动后顶板上的reverser(反推)灯会不会亮"
     },
@@ -20596,8 +20411,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "发动机工作期间，如果探测到发动机控制系统有故障，什么情况下会导致后顶板上的“ENGINECONTROL”（发动机控制）灯亮?",
       "options": [
@@ -20626,13 +20440,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 反推手柄 / 7.15.6",
-        "page": "PDF 第 753 页，手册页 7.15.6",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“反推手柄”（PDF 第 753 页，手册页 7.15.6），反推手柄在反推慢车位被阻挡，直到相应反推装置打开超过 60% 后才可继续移动。因此正确答案为 B。"
+        "section": "第7章(发动机、APU)第15.5节",
+        "page": "原题库参考编号 7.15.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "发动机工作期间如果探测到发动机控制系统有故障什么情况下会导致后顶板上的enginecontrol(发动机控制)灯亮"
     },
@@ -20653,8 +20467,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "正常飞行期间，发动机电子控制电门上的“ALTN”灯亮了：",
       "options": [
@@ -20683,13 +20496,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 发动机系统说明 / 7.20.1",
-        "page": "PDF 第 758 页，手册页 7.20.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU系统说明（PDF 第 758 页，手册页 7.20.1），N1 转子由风扇、低压压气机和低压涡轮组成，N2 转子由高压压气机和高压涡轮组成，且 N1 和 N2 转子机械独立。因此正确答案为 D“无机械连接”。"
+        "section": "第7章(发动机、APU)第15.5节",
+        "page": "原题库参考编号 7.15.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "正常飞行期间发动机电子控制电门上的altn灯亮了"
     },
@@ -20710,8 +20523,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "发动机电子控制可否提供发动机的排气温度保护？",
       "options": [
@@ -20740,13 +20552,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 发动机电子控制 EEC 备用方式 / 7.20.5",
-        "page": "PDF 第 762 页，手册页 7.20.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“发动机电子控制备用方式”（PDF 第 762 页，手册页 7.20.5），正常和备用方式下 EEC 均提供 N1 和 N2 红线超速保护；同页还说明 EEC 不提供排气温度红线超温保护。因此本题正确答案为 D“N1 和 N2”。"
+        "section": "第7章(发动机、APU)第20.5节",
+        "page": "原题库参考编号 7.20.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "发动机电子控制可否提供发动机的排气温度保护"
     },
@@ -20767,8 +20579,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "以推力手柄和反推手柄之间的关系，哪句话是错的？",
       "options": [
@@ -20792,13 +20603,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 发动机慢车选择 / 7.20.6",
-        "page": "PDF 第 763 页，手册页 7.20.6",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“发动机慢车选择”（PDF 第 763 页，手册页 7.20.6），EEC 自动选择地面最小慢车、飞行最小慢车和进近慢车三种慢车方式。因此正确答案为 C“三种”。"
+        "section": "第7章(发动机、APU)第15.6节",
+        "page": "原题库参考编号 7.15.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.6节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "以推力手柄和反推手柄之间的关系哪句话是错的"
     },
@@ -20819,8 +20630,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "着陆后，将反推手柄拉起来到连锁位，何时可以继续向后拉？",
       "options": [
@@ -20849,13 +20659,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 发动机慢车选择 / 7.20.6",
-        "page": "PDF 第 763 页，手册页 7.20.6",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“发动机慢车选择”（PDF 第 763 页，手册页 7.20.6），飞行中任一发动机整流罩防冰电门 ON 时，或低于 19,000 英尺 MSL 且起落架放下锁定，或低于 19,000 英尺 MSL 且襟翼在进近构型（襟翼 15 或更大）时，选择进近慢车。题目选项 C 概括为着陆形态或任一发动机防冰接通，符合手册逻辑，因此正确答案为 C。"
+        "section": "第7章(发动机、APU)第15.6节",
+        "page": "原题库参考编号 7.15.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.6节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "着陆后将反推手柄拉起来到连锁位何时可以继续向后拉"
     },
@@ -20905,13 +20715,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 发动机慢车选择 / 7.20.6",
-        "page": "PDF 第 763 页，手册页 7.20.6",
-        "summary": "答案参考说明：本系统仍以原题库参考答案 D 判题。依据《B737_NG_FCOM.pdf》发动机、APU“发动机慢车选择”（PDF 第 763 页，手册页 7.20.6），飞行中如故障使 EEC 接收不到襟翼或主起落架位置信号，则低于 19,000 英尺 MSL 时启动进近慢车程序。原题选项 D 写 15,000 英尺，与手册数值不一致；按手册可能更正确的答案应为“低于 19,000 英尺 MSL”，但题目选项无完全匹配项。"
+        "section": "第7章(发动机、APU)第20.1节",
+        "page": "原题库参考编号 7.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.1节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "737-800飞机的发动是什么类型的"
     },
@@ -20932,8 +20742,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "N1和N2转子通过什么机械连接？",
       "options": [
@@ -20962,13 +20771,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 飞行前程序 - 起动发动机 / NP.21.33；另见发动机起动系统 / 7.20.10",
-        "page": "PDF 第 202 页，手册页 NP.21.33；另见 PDF 第 767 页，手册页 7.20.10",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》正常程序发动机起动步骤（PDF 第 202 页，手册页 NP.21.33），当 N1 转速上升且 N2 为 25%，或 N2 不可能到达 25%时在最大冷转且最小 20%N2，将发动机起动手柄移至 IDLE；FCOM 发动机起动系统说明也表述为 25%N2 或最大转速。因此本题正确答案为 D。"
+        "section": "第7章(发动机、APU)第20.1节",
+        "page": "原题库参考编号 7.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.1节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "n1和n2转子通过什么机械连接"
     },
@@ -20989,8 +20798,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "附件齿轮箱由哪个转子驱动？",
       "options": [
@@ -21019,13 +20827,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 发动机起动系统 / 7.20.10",
-        "page": "PDF 第 767 页，手册页 7.20.10",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“发动机起动系统”（PDF 第 767 页，手册页 7.20.10），在起动机切断转速约 56% N2 时，保持线圈断电，发动机起动电门回到 OFF 位，同时发动机引气活门回到选定位置、起动活门关闭。因此正确答案为 D。"
+        "section": "第7章(发动机、APU)第20.1节",
+        "page": "原题库参考编号 7.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.1节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "附件齿轮箱由哪个转子驱动"
     },
@@ -21046,8 +20854,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "在飞机没电而用电瓶起动发动机期间，可以看到哪些发动机的指示？",
       "options": [
@@ -21076,13 +20883,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 发动机起动系统 / 7.20.10",
-        "page": "PDF 第 767 页，手册页 7.20.10",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“发动机起动系统”（PDF 第 767 页，手册页 7.20.10），地面起动期间 EEC 监控可能的热起动、发动机失速、EGT 起动限制超限和湿起动；若 EGT 超过起动限制，EEC 会关闭点火和燃油。因此题目所列热起动、起动 EGT 超限和湿起动保护属于手册列明的地面起动保护，正确答案为 A。"
+        "section": "第7章(发动机、APU)第20.2节",
+        "page": "原题库参考编号 7.20.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.2节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在飞机没电而用电瓶起动发动机期间可以看到哪些发动机的指示"
     },
@@ -21103,8 +20910,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "飞行中，发动机电子控制电门上的备用灯亮了；发动机电子控制何时工作在硬备用方式？",
       "options": [
@@ -21133,13 +20939,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 点火系统 / 7.20.11",
-        "page": "PDF 第 768 页，手册页 7.20.11",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“点火系统”（PDF 第 768 页，手册页 7.20.11），自动再点火功能提供熄火保护。因此正确答案为 C。"
+        "section": "第7章(发动机、APU)第20.5节",
+        "page": "原题库参考编号 7.20.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行中发动机电子控制电门上的备用灯亮了发动机电子控制何时工作在硬备用方式"
     },
@@ -21160,8 +20966,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "在备用方式下，发动机电子控制哪些保护？",
       "options": [
@@ -21190,13 +20995,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 点火系统 / 7.20.11",
-        "page": "PDF 第 768 页，手册页 7.20.11",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“点火系统”（PDF 第 768 页，手册页 7.20.11），当电子控制探测到发动机熄火时两个点火器均工作；熄火探测条件为 N2 非指令性快速减小或 N2 低于慢车转速。因此正确答案为 C。"
+        "section": "第7章(发动机、APU)第20.5节",
+        "page": "原题库参考编号 7.20.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在备用方式下发动机电子控制哪些保护"
     },
@@ -21246,13 +21051,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 反推装置系统 / 7.20.14",
-        "page": "PDF 第 771 页，手册页 7.20.14",
-        "summary": "答案参考说明：本系统仍以原题库参考答案 A 判题。依据《B737_NG_FCOM.pdf》发动机、APU“反推装置系统”（PDF 第 771 页，手册页 7.20.14），反推手柄向收回方向通过 1 号位置时若停顿，约 16 秒后电子机械锁接通，使反推套筒不能继续移动。原题参考答案 A 为 18 秒，与手册不一致；按手册可能更正确的答案是 B“16 秒”。"
+        "section": "第7章(发动机、APU)第20.6节",
+        "page": "原题库参考编号 7.20.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.6节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "发动机有几种慢车"
     },
@@ -21273,8 +21078,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "正常情况下，将推力手柄收到慢车位时，发动机什么时候处于进近慢车？",
       "options": [
@@ -21303,13 +21107,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 自动回收电路 / 7.20.15",
-        "page": "PDF 第 772 页，手册页 7.20.15",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“自动回收电路”（PDF 第 772 页，手册页 7.20.15），该电路比较套筒实际位置与指令位置；反推套筒未完全收回或非指令性向放出方向移动时，自动回收电路启动并指令收回。因此正确答案为 A。"
+        "section": "第7章(发动机、APU)第20.6节",
+        "page": "原题库参考编号 7.20.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.6节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "正常情况下将推力手柄收到慢车位时发动机什么时候处于进近慢车"
     },
@@ -21330,8 +21134,7 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机",
-        "手册已核对"
+        "APU和发动机"
       ],
       "question": "飞行中，将推力手柄收起慢车位时，如故障使发动机电子控制接收不到襟翼或防冰信号，则发动机何时工作在进近慢车？",
       "options": [
@@ -21360,13 +21163,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_QRH.pdf",
-        "section": "发动机燃油泄漏 / 附加信息 / QRH 12.8",
-        "page": "PDF 第 282 页，手册页 12.8",
-        "summary": "答案参考说明：依据《B737_NG_QRH.pdf》“发动机燃油泄漏”附加信息（PDF 第 282 页，手册页 12.8），QRH 将怀疑发动机燃油泄漏的原因列为包括总油量以不正常速率减少、发动机燃油流量过大、FMC CDU 显示 USING RSV FUEL 信息等。因此本题正确答案为 D。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.6节",
+        "page": "原题库参考编号 7.20.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.6节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行中将推力手柄收起慢车位时如故障使发动机电子控制接收不到襟翼或防冰信号则发动机何时工作在进近慢车"
     },
@@ -21416,13 +21219,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 34 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.8-9节",
+        "page": "原题库参考编号 7.20.8-9",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.8-9节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "燃油流量表显示的是什么位置的燃油流量"
     },
@@ -21473,11 +21276,11 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 36 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "conflict",
+        "manual": "",
+        "section": "7.20.10",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -21529,13 +21332,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：推力",
-        "page": "Sheet1 第 70 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「推力」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.10节",
+        "page": "原题库参考编号 7.20.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "起动发动机期间发动机起动电门何时会自动跳到off位"
     },
@@ -21585,13 +21388,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：N1",
-        "page": "Sheet1 第 160 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.10节",
+        "page": "原题库参考编号 7.20.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在地面起动发动机期间发动机电子控制可以提供什么保护"
     },
@@ -21641,13 +21444,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 162 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.10节",
+        "page": "原题库参考编号 7.20.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在地面起动发动机期间如果排气温度超过起动限制下面哪句话错"
     },
@@ -21697,13 +21500,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 164 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.10节",
+        "page": "原题库参考编号 7.20.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "发动机起动系统控测到湿起动的情况下发动机电子控制何时关闭点火和发动机燃油"
     },
@@ -21753,13 +21556,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 169 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.11节",
+        "page": "原题库参考编号 7.20.11",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.11节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "发动机自动再点火功能提供的是什么保护"
     },
@@ -21809,13 +21612,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：反推",
-        "page": "Sheet1 第 170 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「反推」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.11节",
+        "page": "原题库参考编号 7.20.11",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.11节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么情况下发动机点火器自动再点火"
     },
@@ -21865,13 +21668,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 172 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.15节",
+        "page": "原题库参考编号 7.20.15",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.15节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "压下反推手柄指令反推收回时反摊手柄在1号位停顿大约多长时间会导致反推套筒无法继续移动"
     },
@@ -21921,13 +21724,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、非正常",
-        "page": "Sheet1 第 179 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、非正常」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.16节",
+        "page": "原题库参考编号 7.20.16",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.16节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什以情况会导致反推自动回收电路工作"
     },
@@ -21977,13 +21780,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 226 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.5节",
+        "page": "原题库参考编号 7.20.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下列关于eec的陈述正确的"
     },
@@ -22033,13 +21836,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：N1、限制",
-        "page": "Sheet1 第 391 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N1、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.5节",
+        "page": "原题库参考编号 7.20.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "有关eec的软备用方式哪个说法是错误的"
     },
@@ -22089,13 +21892,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：N1、FMC、限制",
-        "page": "Sheet1 第 398 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N1、FMC、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.14节",
+        "page": "原题库参考编号 7.20.14",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.14节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行期间液压b系统失效预计着陆后"
     },
@@ -22146,11 +21949,11 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、警告",
-        "page": "Sheet1 第 406 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "conflict",
+        "manual": "",
+        "section": "QRH12.6",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -22202,13 +22005,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 411 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第30.1节",
+        "page": "原题库参考编号 7.30.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）30.1节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "有关apu负荷的描述哪个是错误的"
     },
@@ -22258,13 +22061,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、燃油",
-        "page": "Sheet1 第 413 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第30.3节",
+        "page": "原题库参考编号 7.30.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）30.3节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在apu工作期间什么情况下apu自动关车"
     },
@@ -22315,11 +22118,11 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：反推、灯",
-        "page": "Sheet1 第 415 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「反推、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "conflict",
+        "manual": "",
+        "section": "7.15.9",
+        "page": "",
+        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -22371,13 +22174,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 458 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第15.9节",
+        "page": "原题库参考编号 7.15.9",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.9节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "apu工作期间如果apu超速灯亮了该灯何时熄灭"
     },
@@ -22875,13 +22678,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第43.8节",
-        "page": "原题库参考编号 11.43.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）43.8节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：放行",
+        "page": "Sheet1 第 12 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「放行」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "差错标准名词解释损坏一词表示航空器是否可以正常放行"
     },
@@ -22919,9 +22722,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：放行",
-        "page": "Sheet1 第 12 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「放行」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 13 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -22962,7 +22765,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 13 行",
+        "page": "Sheet1 第 14 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -23003,9 +22806,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：MEL",
-        "page": "Sheet1 第 19 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MEL」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 15 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23043,13 +22846,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第10.7节",
-        "page": "原题库参考编号 15.10.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）10.7节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：限制",
+        "page": "Sheet1 第 16 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "除非满足公司运行基本原则和何种限制条件否则公司不承运犯罪嫌疑人"
     },
@@ -23088,7 +22891,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 23 行",
+        "page": "Sheet1 第 17 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -23129,9 +22932,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 27 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：MEL",
+        "page": "Sheet1 第 18 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MEL」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23171,9 +22974,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 28 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：MEL",
+        "page": "Sheet1 第 19 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MEL」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23214,7 +23017,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 47 行",
+        "page": "Sheet1 第 20 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -23253,13 +23056,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.10节",
-        "page": "原题库参考编号 15.20.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.10节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 21 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "常在气象报或atis中有vc请问它的范围有多大"
     },
@@ -23295,13 +23098,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.7节",
-        "page": "原题库参考编号 10.11.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.7节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 22 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "机场预报常见的ft预报各为几小时预报间隔多久发布更新"
     },
@@ -23340,7 +23143,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 50 行",
+        "page": "Sheet1 第 23 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -23365,8 +23168,7 @@ window.B737_QUESTION_BANK = {
       "category": "性能与限制",
       "tags": [
         "机考900仅答案",
-        "性能与限制",
-        "手册已核对"
+        "性能与限制"
       ],
       "question": "在进入 RVSM 空域时哪些设备要工作正常？",
       "options": [
@@ -23380,13 +23182,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)",
-        "page": "PDF 第 864 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）PDF 第 864 页，原文涉及：B-5446, B-5586 - B-7997 ·音频警戒告示“Airspeed low, Airspeed low（空速低、空速低）”一次 ·当空速大于最小机动速度时，读数框恢复至白色。 1 3 2。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 24 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "在进入rvsm空域时哪些设备要工作正常"
     },
@@ -23422,13 +23224,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.8节",
-        "page": "原题库参考编号 10.11.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.8节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 25 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "在高原机场飞机在地面滑跑和低空飞行期间的表速与真空速存在较大的差异海拔越高相同表速对应的真空速和地速_____使得起飞滑跑距离_____"
     },
@@ -23450,8 +23252,7 @@ window.B737_QUESTION_BANK = {
       "category": "性能与限制",
       "tags": [
         "机考900仅答案",
-        "性能与限制",
-        "手册已核对"
+        "性能与限制"
       ],
       "question": "在超重着陆时，通常在接地时下降速率多少时，才不会造成飞机结构的损坏？",
       "options": [
@@ -23465,13 +23266,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)",
-        "page": "PDF 第 865 页，手册页 10.11.8",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）PDF 第 865 页，手册页 10.11.8，原文涉及：速度： ·Vmo/Mmo ·起落架标牌速度 ·襟翼标牌速度。 最大机动速度/高速抖振（琥珀色） 襟翼收上时，琥珀色杆底部表示最大机动速度。该空速为高速抖振提供 1.3g 机动能力（或在FMC 维护页面设置的备用经批准的机动能力）。 在高高度飞行且飞机总重较大时可能显示该杆。 注：1.3g 机动能力出现在平飞40 度坡度时。 空速游标（洋红色） 指向： ·在指示IAS/MACH 窗中人工选择的空速 ……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 26 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "在超重着陆时通常在接地时下降速率多少时才不会造成飞机结构的损坏"
     },
@@ -23509,9 +23310,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：限制",
-        "page": "Sheet1 第 181 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 27 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23552,7 +23353,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 187 行",
+        "page": "Sheet1 第 28 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -23594,7 +23395,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 188 行",
+        "page": "Sheet1 第 31 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -23636,7 +23437,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 199 行",
+        "page": "Sheet1 第 32 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -23678,9 +23479,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电源、防冰",
-        "page": "Sheet1 第 119 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：正常程序",
+        "page": "Sheet1 第 33 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「正常程序」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23721,7 +23522,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 459 行",
+        "page": "Sheet1 第 34 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -23763,7 +23564,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 467 行",
+        "page": "Sheet1 第 36 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -23804,9 +23605,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告",
-        "page": "Sheet1 第 244 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 37 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23832,8 +23633,7 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "空调与增压",
         "电气系统",
-        "气源系统",
-        "手册已核对"
+        "气源系统"
       ],
       "question": "使用外部气源车启动期间，如果使用飞机空调系统，电瓶电门应放在：",
       "options": [
@@ -23847,13 +23647,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 增压指示与控制 / 2.10.15；座舱增压控制 / 2.40.5",
-        "page": "PDF 第 533、566 页，手册页 2.10.15、2.40.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“增压指示与控制”（PDF 第 533 页，手册页 2.10.15），AUTO FAIL 灯与 ALTN 灯都亮时，指示单个控制器失效；ALTN 灯说明同页也写明备用和自动失效灯都亮时，表示单个控制器失效并自动转换至备用方式。系统说明（PDF 第 566 页，手册页 2.40.5）还说明自动失效灯亮时，增压控制自动转换到其它自动控制器（备用方式）。因此正确答案为 D。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：电瓶、气源、空调",
+        "page": "Sheet1 第 38 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电瓶、气源、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "使用外部气源车启动期间如果使用飞机空调系统电瓶电门应放在"
     },
@@ -23892,9 +23692,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：低压、引气",
-        "page": "Sheet1 第 498 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「低压、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、气源",
+        "page": "Sheet1 第 39 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、气源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23918,8 +23718,7 @@ window.B737_QUESTION_BANK = {
       "category": "自动飞行",
       "tags": [
         "机考900仅答案",
-        "自动飞行",
-        "手册已核对"
+        "自动飞行"
       ],
       "question": "遇到轻度或中度颠簸时，如果性能允许，自动驾驶/自动油门应保持在：",
       "options": [
@@ -23933,13 +23732,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)",
-        "page": "PDF 第 730 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第7章（发动机、APU）PDF 第 730 页，原文涉及：选温度 显示（绿色）－减推力起飞N1 的所选假设温度（摄氏度）。 重复起飞基准页上所选的数据。 自动油门限制（A/T LIM）指示 亮（白色）－FMC 不向自动油门系统提供N1 限制值。自动油门使用 相应EEC 的减推力N1 限制值。 指示亮时推力方式显示消失。 3 4。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：自动驾驶、性能、性能",
+        "page": "Sheet1 第 40 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶、性能、性能」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "遇到轻度或中度颠簸时如果性能允许自动驾驶/自动油门应保持在"
     },
@@ -23977,9 +23776,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶、性能、性能",
-        "page": "Sheet1 第 40 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶、性能、性能」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 41 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24020,9 +23819,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯",
-        "page": "Sheet1 第 257 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：警告",
+        "page": "Sheet1 第 42 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24062,9 +23861,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 279 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 43 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24104,9 +23903,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 290 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：警告",
+        "page": "Sheet1 第 44 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24147,7 +23946,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 205 行",
+        "page": "Sheet1 第 47 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -24188,9 +23987,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告",
-        "page": "Sheet1 第 311 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 48 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24231,7 +24030,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 208 行",
+        "page": "Sheet1 第 49 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -24272,9 +24071,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：放行",
-        "page": "Sheet1 第 211 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「放行」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 50 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24314,9 +24113,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架、灯",
-        "page": "Sheet1 第 375 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 51 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24400,9 +24199,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、组件",
-        "page": "Sheet1 第 593 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 55 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24442,9 +24241,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：气源",
-        "page": "Sheet1 第 685 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「气源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 57 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24469,8 +24268,7 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "空调与增压",
-        "气源系统",
-        "手册已核对"
+        "气源系统"
       ],
       "question": "大气数据惯性基准组件向两个增压自动控制器提供什么?",
       "options": [
@@ -24484,13 +24282,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 增压指示与控制 / 2.10.15",
-        "page": "PDF 第 533 页，手册页 2.10.15",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“增压指示与控制”（PDF 第 533 页，手册页 2.10.15），自动失效（AUTO FAIL）灯单独亮时，指示双控制器失效；当备用灯也亮时才表示单个控制器失效并自动转换至备用方式。因此本题正确答案为 A。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：组件、增压",
+        "page": "Sheet1 第 58 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件、增压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "大气数据惯性基准组件向两个增压自动控制器提供什么"
     },
@@ -24512,8 +24310,7 @@ window.B737_QUESTION_BANK = {
       "category": "空调与增压",
       "tags": [
         "机考900仅答案",
-        "空调与增压",
-        "手册已核对"
+        "空调与增压"
       ],
       "question": "用增压系统的人工方式调节排气活门, 其驱动排气活门的速率:",
       "options": [
@@ -24527,13 +24324,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / APU 工作 / 7.30.1；空气系统 / 空调系统说明 / 2.30.1",
-        "page": "PDF 第 776 页，手册页 7.30.1；另见 PDF 第 546 页，手册页 2.30.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》发动机、APU“APU 工作”（PDF 第 776 页，手册页 7.30.1），在地面 APU 向两个空调组件提供引气，飞行中向一个组件供气；空气系统说明（PDF 第 546 页，手册页 2.30.1）也作同样说明。因此正确答案为 C。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：增压",
+        "page": "Sheet1 第 59 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「增压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "用增压系统的人工方式调节排气活门其驱动排气活门的速率"
     },
@@ -24571,9 +24368,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动油门、N1",
-        "page": "Sheet1 第 62 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门、N1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动油门、灯",
+        "page": "Sheet1 第 61 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24613,9 +24410,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：MCP、显示",
-        "page": "Sheet1 第 63 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动油门、N1",
+        "page": "Sheet1 第 62 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门、N1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24657,9 +24454,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：MCP",
-        "page": "Sheet1 第 65 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：MCP、显示",
+        "page": "Sheet1 第 63 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24700,9 +24497,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶、显示",
-        "page": "Sheet1 第 76 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：MCP",
+        "page": "Sheet1 第 65 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24742,9 +24539,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 468 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：推力",
+        "page": "Sheet1 第 70 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「推力」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24784,9 +24581,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：飞行指引",
-        "page": "Sheet1 第 78 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动油门",
+        "page": "Sheet1 第 72 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24810,8 +24607,7 @@ window.B737_QUESTION_BANK = {
       "category": "飞行操纵",
       "tags": [
         "机考900仅答案",
-        "飞行操纵",
-        "手册已核对"
+        "飞行操纵"
       ],
       "question": "在双通道进近期间，当到达无线电高度４００英尺时，安定面自动配平增加上仰力矩，若随后两部自动驾驶脱开，下面哪个说法正确？",
       "options": [
@@ -24825,13 +24621,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)",
-        "page": "PDF 第 867 页，手册页 10.11.10",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）PDF 第 867 页，手册页 10.11.10，原文涉及：襟翼机动速度（绿色） 指示所显示襟翼位置的襟翼机动速度： ·在CDU 输入全重或用速度基准选钮调定起飞全重以后显示 ·起飞阶段显示V2＋15 游标时，除非以襟翼1 起飞，否则不显示当前 襟翼调置的襟翼机动速度游标 ·襟翼手柄移至襟翼30 或40 时，标有数字的襟翼机动速度游标消失 ·如小于VREF＋4，襟翼游标被抑制 ·在大约20,000 英尺高度以上，不显示襟翼全收上（UP）游标。 V2＋15（……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：自动驾驶、安定面",
+        "page": "Sheet1 第 75 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶、安定面」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "在双通道进近期间当到达无线电高度400英尺时安定面自动配平增加上仰力矩若随后两部自动驾驶脱开下面哪个说法正确"
     },
@@ -24870,9 +24666,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：飞行指引",
-        "page": "Sheet1 第 79 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动驾驶、显示",
+        "page": "Sheet1 第 76 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24912,9 +24708,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：MCP",
-        "page": "Sheet1 第 80 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：飞行指引",
+        "page": "Sheet1 第 78 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24954,9 +24750,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 81 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：飞行指引",
+        "page": "Sheet1 第 79 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24997,9 +24793,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：VNAV",
-        "page": "Sheet1 第 185 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：MCP",
+        "page": "Sheet1 第 80 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25039,9 +24835,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：VNAV",
-        "page": "Sheet1 第 234 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 81 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25066,8 +24862,7 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "电气系统",
-        "显示与警告",
-        "手册已核对"
+        "显示与警告"
       ],
       "question": "\"备用电源关\"灯亮说明什么汇流条没电？",
       "options": [
@@ -25081,13 +24876,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)",
-        "page": "PDF 第 585 页，手册页 3.20.8",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第3章（防冰排雨）PDF 第 585 页，手册页 3.20.8，原文涉及：管探头、全温探头和迎角探测器都是由电加温的。静压口不能加 温。当使用备用电源时，仅机长皮托管探头被加温。但失效时机长皮 托管灯不亮。 注：飞机用备用电源工作时备用空速皮托探头不加温。 发动机防冰系统 发动机引气热防冰可防止发动机整流罩前缘结冰。发动机防冰由单独 的发动机防冰电门控制。发动机防冰系统可以在地面和空中使用。 发动机防冰系统使用 每个整流罩防冰活门由电动控制和压力驱动。 将发动机防冰电门……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：电源、灯",
+        "page": "Sheet1 第 85 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "备用电源关灯亮说明什么汇流条没电"
     },
@@ -25123,13 +24918,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第21.17节",
-        "page": "原题库参考编号 10.21.17",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.17节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：电源、灯",
+        "page": "Sheet1 第 86 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "什么原因会导致电源关灯(sourceoff)亮"
     },
@@ -25169,9 +24964,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、组件",
-        "page": "Sheet1 第 129 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：汇流条",
+        "page": "Sheet1 第 87 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「汇流条」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25195,8 +24990,7 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统",
-        "手册已核对"
+        "电气系统"
       ],
       "question": "飞行中, 如APU为唯一电源，则 ：",
       "options": [
@@ -25210,13 +25004,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1125 页，手册页 11.31.2",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1125 页，手册页 11.31.2，原文涉及：）”提示键，然后 ·按压“EXEC（执行）”键。 高度限制（Altitude Restriction）－飞越某一航路点的限制高度。 删除（Delete）－用删除键清除FMC 数据，回到默认值、虚线或方框 提示，或恢复空白状态。。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：电源",
+        "page": "Sheet1 第 88 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "飞行中如apu为唯一电源则"
     },
@@ -25252,13 +25046,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.2节",
-        "page": "原题库参考编号 7.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.2节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发电机",
+        "page": "Sheet1 第 89 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发电机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "apu发电机的正常电压范围是"
     },
@@ -25336,13 +25130,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第10.8节",
-        "page": "原题库参考编号 14.10.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.8节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：襟翼",
+        "page": "Sheet1 第 96 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "备用襟翼主电门在arm位时将备用襟翼位置电门按压并保持在down位可以"
     },
@@ -25380,9 +25174,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶、安定面",
-        "page": "Sheet1 第 75 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶、安定面」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：液压",
+        "page": "Sheet1 第 98 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25422,9 +25216,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：襟翼",
-        "page": "Sheet1 第 96 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 100 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25448,8 +25242,7 @@ window.B737_QUESTION_BANK = {
       "category": "燃油系统",
       "tags": [
         "机考900仅答案",
-        "燃油系统",
-        "手册已核对"
+        "燃油系统"
       ],
       "question": "燃油温度指示的是哪里的燃油温度?",
       "options": [
@@ -25463,13 +25256,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)",
-        "page": "PDF 第 740 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第7章（发动机、APU）PDF 第 740 页，原文涉及：7370-81B-GUN 7.11.13 燃油流量/已用燃油指示 燃油流量电门（弹簧保持在RATE 位） RATE（流量）－显示发动机燃油流量。 USED（已用）－ ·显示上次复位后已用燃油 ·10 秒钟后，显示自动变为燃油流量。 RESET（复位）－ ·复位已用燃油至零 ·显示已用燃油1 秒钟，回零，然后显示燃油流量。 燃油流量（FF）读数（数字式） 显示（白色）－燃油流量电门在RATE 位置时……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：燃油",
+        "page": "Sheet1 第 101 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "燃油温度指示的是哪里的燃油温度"
     },
@@ -25505,13 +25298,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第11.17节",
-        "page": "原题库参考编号 7.11.17",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.17节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 102 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "关于加油面板上的加油活门位置灯的描述哪项说法是正确的"
     },
@@ -25547,13 +25340,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第11.17节",
-        "page": "原题库参考编号 7.11.17",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.17节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：燃油",
+        "page": "Sheet1 第 105 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "正常情况下供向apu的燃油是从哪里来的"
     },
@@ -25589,13 +25382,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第10.9节",
-        "page": "原题库参考编号 14.10.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.9节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：液压、灯",
+        "page": "Sheet1 第 111 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "备用液压系统压力低灯什么时候预位"
     },
@@ -25631,13 +25424,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.14节",
-        "page": "原题库参考编号 7.20.14",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.14节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：液压",
+        "page": "Sheet1 第 113 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "b液压系统漏油对于备用液压系统的影响是什么"
     },
@@ -25676,9 +25469,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：液压",
-        "page": "Sheet1 第 98 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、液压",
+        "page": "Sheet1 第 114 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25717,13 +25510,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.8-9节",
-        "page": "原题库参考编号 7.20.8-9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.8-9节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：液压、油量",
+        "page": "Sheet1 第 115 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、油量」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "下面的哪个操纵会影响液压系统a的油量指示"
     },
@@ -25761,9 +25554,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 250 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：防冰",
+        "page": "Sheet1 第 118 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25804,9 +25597,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：结冰",
-        "page": "Sheet1 第 332 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「结冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：电源、防冰",
+        "page": "Sheet1 第 119 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25844,13 +25637,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.22节",
-        "page": "原题库参考编号 10.11.22",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.22节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 120 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "主飞行显示上马赫数和地速不能同时显示这种说法是否正确"
     },
@@ -25889,9 +25682,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、PF",
-        "page": "Sheet1 第 344 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 121 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25931,9 +25724,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：ND",
-        "page": "Sheet1 第 345 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「ND」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 123 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25975,9 +25768,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 348 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示、PF",
+        "page": "Sheet1 第 124 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26017,9 +25810,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 212 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：显示、PF",
+        "page": "Sheet1 第 125 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26060,7 +25853,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：显示",
-        "page": "Sheet1 第 349 行",
+        "page": "Sheet1 第 126 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -26101,9 +25894,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：放行",
-        "page": "Sheet1 第 213 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「放行」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示、组件、PF",
+        "page": "Sheet1 第 127 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26144,9 +25937,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、引气",
-        "page": "Sheet1 第 716 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示、组件",
+        "page": "Sheet1 第 128 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26186,9 +25979,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 214 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：显示、组件",
+        "page": "Sheet1 第 129 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26230,9 +26023,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电源、气源",
-        "page": "Sheet1 第 717 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、气源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、显示、组件",
+        "page": "Sheet1 第 130 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26258,8 +26051,7 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "正常程序",
         "显示与警告",
-        "性能与限制",
-        "手册已核对"
+        "性能与限制"
       ],
       "question": "起飞前，使用发动机显示控制面板的速度基准电门设置速度时，以下正确的是：",
       "options": [
@@ -26273,13 +26065,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序 / 介绍 / 概述 / SP.05.1",
-        "page": "PDF 第 242 页，手册页 SP.05.1；另见 PDF 第 12 页手册结构说明",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》补充程序“介绍 / 概述”（PDF 第 242 页，手册页 SP.05.1），FCOM 说明本节包含的程序只在需要时才执行，而不是每次飞行都要执行；另在手册结构说明（PDF 第 12 页）中也说明补充程序章节包括根据需要完成而不是每次飞行都要完成的程序。因此本题正确答案为 B“特殊情况下，在需要时才执行”。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机、显示",
+        "page": "Sheet1 第 135 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "起飞前使用发动机显示控制面板的速度基准电门设置速度时以下正确的是"
     },
@@ -26319,9 +26111,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架",
-        "page": "Sheet1 第 376 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：电源、刹车、警告",
+        "page": "Sheet1 第 139 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、刹车、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26361,9 +26153,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 377 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：防滞",
+        "page": "Sheet1 第 141 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「防滞」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26403,9 +26195,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：推力、防滞",
-        "page": "Sheet1 第 419 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「推力、防滞」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：刹车",
+        "page": "Sheet1 第 142 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26444,10 +26236,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“15分”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示、组件",
+        "page": "Sheet1 第 143 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26488,7 +26280,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：显示",
-        "page": "Sheet1 第 351 行",
+        "page": "Sheet1 第 144 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -26527,13 +26319,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.39节",
-        "page": "原题库参考编号 10.11.39",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.39节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 145 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "737—800应答机的高度报告由什么控制"
     },
@@ -26570,10 +26362,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“5~17分”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 146 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26612,10 +26404,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“30秒”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 147 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26655,10 +26447,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“WPT01”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示、航路",
+        "page": "Sheet1 第 149 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、航路」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26698,9 +26490,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：VNAV、显示",
-        "page": "Sheet1 第 265 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 150 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26739,10 +26531,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“航路数据页面”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：FMC、性能",
+        "page": "Sheet1 第 151 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「FMC、性能」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26782,9 +26574,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电源、灯",
-        "page": "Sheet1 第 85 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 155 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26823,10 +26615,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“导航摘要页”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示、CDU",
+        "page": "Sheet1 第 156 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、CDU」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26864,13 +26656,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第16.4节",
-        "page": "原题库参考编号 10.16.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.4节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：N1",
+        "page": "Sheet1 第 160 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "如果在n1转速表上基准n1读数的位置出现了--符号说明什么"
     },
@@ -26910,9 +26702,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 359 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、警告",
+        "page": "Sheet1 第 161 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26953,9 +26745,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：推力",
-        "page": "Sheet1 第 642 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「推力」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 162 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26996,7 +26788,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 644 行",
+        "page": "Sheet1 第 164 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -27039,9 +26831,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、引气",
-        "page": "Sheet1 第 718 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、电源、引气",
+        "page": "Sheet1 第 166 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、电源、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27065,8 +26857,7 @@ window.B737_QUESTION_BANK = {
       "category": "性能与限制",
       "tags": [
         "机考900仅答案",
-        "性能与限制",
-        "手册已核对"
+        "性能与限制"
       ],
       "question": "在N2刻度盘上显示的X-BLD符号由什么因素决定？",
       "options": [
@@ -27080,13 +26871,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)",
-        "page": "PDF 第 939 页，手册页 10.16.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）PDF 第 939 页，手册页 10.16.4，原文涉及：）。 B-1123 - B-5310, B-5586 - B-7997 (SB 改装B-5339 - B-5445, B-5468, B-5469) 注：在空中如果一个EFIS CP 失效，WXR 电门会自行选择OFF。 STA（导航台）－ ·如地图刻度是5、10、20 或40 海里，显示FMC 数据库所有导航设 备 ·如地图刻度是80、160、320 或640 海里，显示FMC 数据库高高度 导……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：N2、显示",
+        "page": "Sheet1 第 168 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N2、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "在n2刻度盘上显示的x-bld符号由什么因素决定"
     },
@@ -27125,7 +26916,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 645 行",
+        "page": "Sheet1 第 169 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -27166,9 +26957,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 648 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：反推",
+        "page": "Sheet1 第 170 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「反推」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27208,9 +26999,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 654 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 171 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27250,9 +27041,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：反推",
-        "page": "Sheet1 第 657 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「反推」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 172 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27290,13 +27081,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.10节",
-        "page": "原题库参考编号 7.20.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：燃油",
+        "page": "Sheet1 第 173 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "在某些飞机上装有apu直流燃油泵该泵什么时候工作"
     },
@@ -27335,7 +27126,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：燃油",
-        "page": "Sheet1 第 101 行",
+        "page": "Sheet1 第 174 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -27377,7 +27168,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：燃油",
-        "page": "Sheet1 第 105 行",
+        "page": "Sheet1 第 175 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -27420,9 +27211,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：组件",
-        "page": "Sheet1 第 799 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、引气、空调",
+        "page": "Sheet1 第 176 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27505,9 +27296,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：襟翼",
-        "page": "Sheet1 第 223 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 178 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27548,9 +27339,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：EGT",
-        "page": "Sheet1 第 660 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「EGT」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、非正常",
+        "page": "Sheet1 第 179 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、非正常」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27588,13 +27379,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第10.33节",
-        "page": "原题库参考编号 11.10.33",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.33节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 180 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "b737飞机的最大起飞和着陆高度"
     },
@@ -27633,9 +27424,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：火警、运行手册",
-        "page": "Sheet1 第 216 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「火警、运行手册」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：限制",
+        "page": "Sheet1 第 181 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27659,8 +27450,7 @@ window.B737_QUESTION_BANK = {
       "category": "性能与限制",
       "tags": [
         "机考900仅答案",
-        "性能与限制",
-        "手册已核对"
+        "性能与限制"
       ],
       "question": "预计使用着陆最低天气标准自动着陆时，最大允许顶风为多少节？",
       "options": [
@@ -27674,13 +27464,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1275 页，手册页 11.40.30",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1275 页，手册页 11.40.30，原文涉及：按压－显示起始/基准索引（INIT/REF INDEX）页。 航程/巡航高度（TRIP/CRZ ALT） 只要输入了起飞机场、目的地机场、全重和成本指数后，航程高度自动 计算并显示。否则，该处空白。 航程高度是预计的最低成本高度，根据用户的各种规定来决定。向机组 提供选择计划巡航高度的基准。 需要输入巡航高度。 输入航路巡航高度。 在爬升、巡航和航路页面自动显示巡航高度。 巡航风（CRZ WIND……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 182 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "预计使用着陆最低天气标准自动着陆时最大允许顶风为多少节"
     },
@@ -27702,8 +27492,7 @@ window.B737_QUESTION_BANK = {
       "category": "性能与限制",
       "tags": [
         "机考900仅答案",
-        "性能与限制",
-        "手册已核对"
+        "性能与限制"
       ],
       "question": "非精密进近时，如果不能使用CDFA技术，使用什么进近方法？",
       "options": [
@@ -27717,13 +27506,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1166 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1166 页，原文涉及：推力，则此时推力无限 制。如遇到需要增加推力的情况，机组人员可以人工使用全推力。 减功率爬升 可在N1 限制（N1 LIMIT）页选择两个固定的减功率爬升。CLB1（爬 升1）提供减小3%N1（约10%推力）的爬升限制。CLB2（爬升2）提 供减小6%N1（约20%推力）的爬升限制。飞机到达15000 英尺时，减 功率爬升设置值逐渐增加到全额爬升推力。巡航时，推力基准自动转变 为巡航推力，该基准可……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 183 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "非精密进近时如果不能使用cdfa技术使用什么进近方法"
     },
@@ -27745,8 +27534,7 @@ window.B737_QUESTION_BANK = {
       "category": "性能与限制",
       "tags": [
         "机考900仅答案",
-        "性能与限制",
-        "手册已核对"
+        "性能与限制"
       ],
       "question": "CDFA技术推荐使用什么俯仰方式？",
       "options": [
@@ -27760,13 +27548,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1167 页，手册页 11.32.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1167 页，手册页 11.32.4，原文涉及：11.32.4 D6-27370-81B-GUN March 19, 2020 使用假设温度减推力起飞或减功率起飞都会影响减功率爬升的自动选 择。如在起飞基准（TAKEOFF REF）页指定了减推力起飞，为了避免 爬升N1 值大于减推力起飞N1 值，FMC 将自动重新计算“爬升1”或 “爬升2”值。 使用减功率爬升会降低发动机维护成本，但会增加总的航段耗油。 燃油监控 FMC 接收来自燃油量指示系……。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 184 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "cdfa技术推荐使用什么俯仰方式"
     },
@@ -27804,9 +27592,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：飞行指引",
-        "page": "Sheet1 第 266 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：VNAV",
+        "page": "Sheet1 第 185 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27830,8 +27618,7 @@ window.B737_QUESTION_BANK = {
       "category": "性能与限制",
       "tags": [
         "机考900仅答案",
-        "性能与限制",
-        "手册已核对"
+        "性能与限制"
       ],
       "question": "对于非精密进近，使用梯度下降方法时复飞高度调置的调置时机是？",
       "options": [
@@ -27845,13 +27632,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1286 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1286 页，原文涉及：206C V 速度（V1，VR 和V2） 机组计算的V 速度可输入和显示以供参考。 V 速度可以上链。 空速指示上显示大字体V 速度。 起飞重量（TOW） 显示上一栏大字体V 速度所依据的全重。 如上一栏没有上链V 速度，则变成空白。 全重（GW） 显示当前全重。 1 2 3。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 186 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "对于非精密进近使用梯度下降方法时复飞高度调置的调置时机是"
     },
@@ -27873,8 +27660,7 @@ window.B737_QUESTION_BANK = {
       "category": "性能与限制",
       "tags": [
         "机考900仅答案",
-        "性能与限制",
-        "手册已核对"
+        "性能与限制"
       ],
       "question": "机组穿越MDA(H)/DDA(H)后，最低在多高必须看到跑道相关的目视参考，否则必须复飞。",
       "options": [
@@ -27888,13 +27674,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "飞行管理、导航 / 起飞基准页 2/2 与进近基准页 / 11.43.22；另见 11.40.58",
-        "page": "PDF 第 1409 页，手册页 11.43.22；另见 PDF 第 1329 页，手册页 11.40.58",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》飞行管理、导航“起飞基准页 2/2”（PDF 第 1409 页，手册页 11.43.22），LANDING REF 提示用于转换高度表基准 QFE 和 QNH；FCOM 进近基准页同样包含该转换。因题目问在哪里转换 QFE 和 QNH 高度表基准，正确答案为 D“CDU 的起飞基准 2/2 页和进近基准页”。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 187 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "机组穿越mda(h)/dda(h)后最低在多高必须看到跑道相关的目视参考否则必须复飞"
     },
@@ -27930,13 +27716,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第41.11节",
-        "page": "原题库参考编号 11.41.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）41.11节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 188 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "机组低于mda(h)/dda(h)后目视参考时断时续机组应该怎么办"
     },
@@ -27972,13 +27758,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第41.22节",
-        "page": "原题库参考编号 11.41.22",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）41.22节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 189 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "对于faf后52%的下降梯度当地速为140kt时对应的下降率约为"
     },
@@ -28395,7 +28181,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 248 行",
+        "page": "Sheet1 第 199 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -28436,9 +28222,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发电机",
-        "page": "Sheet1 第 301 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发电机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 200 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28462,8 +28248,7 @@ window.B737_QUESTION_BANK = {
       "category": "性能与限制",
       "tags": [
         "机考900仅答案",
-        "性能与限制",
-        "手册已核对"
+        "性能与限制"
       ],
       "question": "737机型对无成人陪伴儿童的数量限制是？",
       "options": [
@@ -28477,13 +28262,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)",
-        "page": "PDF 第 1360 页",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）PDF 第 1360 页，原文涉及：航爬升方式至一个新高度的数据。 如在巡航页输入一个更高的巡航高度，巡航中自动显示为MOD CRZ CLB（修改巡航爬升）。 在VNAV 方式，以爬升推力和巡航目标速度爬升至新高度。 到达所选的高度前，VNAV 爬升方式为现用方式。随后，VNAV 爬升 方式自动变回到巡航方式。 B-1520, B-1525, B-1700 - B-1980, B-2169 - B-6069。本题题干关键词与手册章节内容一致，因此答案正确。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：限制",
+        "page": "Sheet1 第 201 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "737机型对无成人陪伴儿童的数量限制是"
     },
@@ -28521,9 +28306,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 449 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：限制",
+        "page": "Sheet1 第 202 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28563,9 +28348,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架",
-        "page": "Sheet1 第 475 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：限制",
+        "page": "Sheet1 第 203 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28603,13 +28388,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.10节",
-        "page": "原题库参考编号 7.20.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：限制",
+        "page": "Sheet1 第 204 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "737机型没有陪伴人员但需要他人协助的残疾人包括使用轮椅的残疾人每一个航班载运人数限制是"
     },
@@ -28648,7 +28433,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 482 行",
+        "page": "Sheet1 第 205 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -28689,9 +28474,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架、灯",
-        "page": "Sheet1 第 600 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 206 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28731,9 +28516,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：MCP",
-        "page": "Sheet1 第 627 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：限制",
+        "page": "Sheet1 第 207 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28773,9 +28558,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：限制",
-        "page": "Sheet1 第 16 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 208 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28815,9 +28600,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯",
-        "page": "Sheet1 第 37 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 209 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28857,9 +28642,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯",
-        "page": "Sheet1 第 665 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 210 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28899,9 +28684,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：限制、运行手册",
-        "page": "Sheet1 第 672 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制、运行手册」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：放行",
+        "page": "Sheet1 第 211 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「放行」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28941,9 +28726,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告",
-        "page": "Sheet1 第 696 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 212 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28983,9 +28768,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 760 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：放行",
+        "page": "Sheet1 第 213 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「放行」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29026,7 +28811,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 145 行",
+        "page": "Sheet1 第 214 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -29067,10 +28852,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“4”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 215 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29110,9 +28895,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架、灯",
-        "page": "Sheet1 第 838 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：火警、运行手册",
+        "page": "Sheet1 第 216 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「火警、运行手册」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29153,7 +28938,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 150 行",
+        "page": "Sheet1 第 217 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -29195,9 +28980,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 180 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：V1",
+        "page": "Sheet1 第 218 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「V1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29238,9 +29023,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：液压、油量",
-        "page": "Sheet1 第 115 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、油量」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：燃油",
+        "page": "Sheet1 第 219 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29264,8 +29049,7 @@ window.B737_QUESTION_BANK = {
       "category": "正常程序",
       "tags": [
         "机考900仅答案",
-        "正常程序",
-        "手册已核对"
+        "正常程序"
       ],
       "question": "正常程序中，探头加温电门应在什么时候打开？",
       "options": [
@@ -29279,13 +29063,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序 / 介绍 / 概述 / SP.05.1",
-        "page": "PDF 第 242 页，手册页 SP.05.1",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》补充程序“介绍 / 概述”（PDF 第 242 页，手册页 SP.05.1），FCOM 说明由机长决定是否通过记忆来完成程序、完成前先复习程序，或对照程序完成。因此本题正确答案为 D“由机长决定完成的方式”。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：正常程序",
+        "page": "Sheet1 第 220 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「正常程序」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "正常程序中探头加温电门应在什么时候打开"
     },
@@ -29322,10 +29106,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“HF”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 221 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29366,7 +29150,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 186 行",
+        "page": "Sheet1 第 222 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -29408,9 +29192,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：方向舵",
-        "page": "Sheet1 第 312 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「方向舵」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：襟翼",
+        "page": "Sheet1 第 223 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29451,7 +29235,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：限制",
-        "page": "Sheet1 第 201 行",
+        "page": "Sheet1 第 224 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -29492,9 +29276,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：限制",
-        "page": "Sheet1 第 202 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 225 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29535,7 +29319,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 681 行",
+        "page": "Sheet1 第 226 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -29575,9 +29359,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 690 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 227 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29616,10 +29400,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“滑行前，CDU的输入可以由机长或副驾驶进行，另一名机组成员必须核实所有输入。”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：CDU",
+        "page": "Sheet1 第 228 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「CDU」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29659,9 +29443,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 360 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 229 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29702,7 +29486,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：限制",
-        "page": "Sheet1 第 203 行",
+        "page": "Sheet1 第 230 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -29744,9 +29528,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：引气",
-        "page": "Sheet1 第 902 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、引气",
+        "page": "Sheet1 第 232 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29786,9 +29570,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 274 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 233 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29828,9 +29612,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 276 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：VNAV",
+        "page": "Sheet1 第 234 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29871,9 +29655,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电源、灯",
-        "page": "Sheet1 第 86 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、电瓶",
+        "page": "Sheet1 第 235 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、电瓶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29959,7 +29743,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：显示",
-        "page": "Sheet1 第 397 行",
+        "page": "Sheet1 第 237 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -30000,9 +29784,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：燃油",
-        "page": "Sheet1 第 173 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：油箱",
+        "page": "Sheet1 第 238 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「油箱」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30043,9 +29827,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：限制",
-        "page": "Sheet1 第 204 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：推力",
+        "page": "Sheet1 第 239 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「推力」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30085,9 +29869,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：安定面",
-        "page": "Sheet1 第 313 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「安定面」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：警告",
+        "page": "Sheet1 第 240 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30128,9 +29912,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架",
-        "page": "Sheet1 第 598 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：起落架、警告",
+        "page": "Sheet1 第 241 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30170,9 +29954,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯",
-        "page": "Sheet1 第 412 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 243 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30212,9 +29996,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、显示、限制",
-        "page": "Sheet1 第 426 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：警告",
+        "page": "Sheet1 第 244 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30254,9 +30038,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告",
-        "page": "Sheet1 第 471 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：组件",
+        "page": "Sheet1 第 246 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30337,10 +30121,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“在任何座舱高度都以正压力提供100%氧气”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 248 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30423,9 +30207,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：防冰",
-        "page": "Sheet1 第 334 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 250 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30465,9 +30249,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：火警",
-        "page": "Sheet1 第 305 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「火警」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 251 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30492,8 +30276,7 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "空调与增压",
-        "气源系统",
-        "手册已核对"
+        "气源系统"
       ],
       "question": "空调组件电门在”AUTO”位, 组件活门何时提供高流量?",
       "options": [
@@ -30507,13 +30290,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 区域温度控制 / 2.31.4",
-        "page": "PDF 第 556 页，手册页 2.31.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“区域温度控制”（PDF 第 556 页，手册页 2.31.4），区域温度控制包括驾驶舱、前客舱和后客舱三个区域；组件产生能满足需求温度最低区域的气温，并通过调节空气控制各区域温度。因此左、右空调组件输出温度由三个温度选钮中需求最低的舱区决定，正确答案为 C。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：组件、空调",
+        "page": "Sheet1 第 252 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "空调组件电门在auto位组件活门何时提供高流量"
     },
@@ -30536,8 +30319,7 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "空调与增压",
-        "气源系统",
-        "手册已核对"
+        "气源系统"
       ],
       "question": "飞行中, 左空调组件在自动位, 右组件在高流量位, 则:",
       "options": [
@@ -30551,13 +30333,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 非平衡组件温度控制方式 / 2.31.6",
-        "page": "PDF 第 557 页，手册页 2.31.6",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“非平衡组件温度控制方式”（PDF 第 557 页，手册页 2.31.6），任何影响到调节空气供给的失效情况都会使温度控制系统分别独立地控制两个组件。因此正确答案为 D。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：组件、空调",
+        "page": "Sheet1 第 253 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "飞行中左空调组件在自动位右组件在高流量位则"
     },
@@ -30580,8 +30362,7 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "空调与增压",
-        "气源系统",
-        "手册已核对"
+        "气源系统"
       ],
       "question": "在地面, 两个空调组件都在高流量位, 则:",
       "options": [
@@ -30595,13 +30376,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 座舱压力控制器与人工方式 / 2.40.1、2.40.6",
-        "page": "PDF 第 562、566 页，手册页 2.40.1、2.40.6",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“座舱压力控制器”（PDF 第 562 页，手册页 2.40.1），AUTO、ALTN 和 MAN 均使用直流电机；人工方式说明（PDF 第 566 页，手册页 2.40.6）进一步说明人工方式由备用直流系统供电的独立直流电机驱动排气活门。因此正确答案为 D。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：组件、空调",
+        "page": "Sheet1 第 254 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "在地面两个空调组件都在高流量位则"
     },
@@ -30639,10 +30420,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“发动机引气超压或超温”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：灯、引气",
+        "page": "Sheet1 第 255 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30682,9 +30463,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告",
-        "page": "Sheet1 第 473 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 257 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30723,10 +30504,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“控制冷、热空气的流量”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 258 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30751,8 +30532,7 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "空调与增压",
-        "气源系统",
-        "手册已核对"
+        "气源系统"
       ],
       "question": "从空调组件出来的低温空气如何满足较高区域温度的要求?",
       "options": [
@@ -30766,13 +30546,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 自动方式飞行航径过程 / 2.40.5",
-        "page": "PDF 第 566 页，手册页 2.40.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“自动方式飞行航径过程”（PDF 第 566 页，手册页 2.40.5），如飞机未达到预设巡航高度就开始下降，琥珀色 OFF SCHED DESCENT 灯亮，控制器控制飞机座舱高度回到起飞机场标高。因此正确答案为 B。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：组件、空调",
+        "page": "Sheet1 第 259 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "从空调组件出来的低温空气如何满足较高区域温度的要求"
     },
@@ -30809,10 +30589,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“前客舱和后客舱温度选钮调置的平均值”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 260 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30851,10 +30631,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“将一个空调组件电门放到高流量位, 并关掉再循环风扇时”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 261 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30894,9 +30674,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 286 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动油门",
+        "page": "Sheet1 第 264 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30936,9 +30716,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动油门",
-        "page": "Sheet1 第 291 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：VNAV、显示",
+        "page": "Sheet1 第 265 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30978,9 +30758,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 294 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：飞行指引",
+        "page": "Sheet1 第 266 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31020,9 +30800,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：VNAV",
-        "page": "Sheet1 第 402 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 267 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31062,9 +30842,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：VNAV",
-        "page": "Sheet1 第 429 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 269 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31104,9 +30884,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 456 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 270 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31146,9 +30926,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：MCP",
-        "page": "Sheet1 第 465 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 274 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31189,9 +30969,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：限制",
-        "page": "Sheet1 第 207 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：N1、限制",
+        "page": "Sheet1 第 275 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N1、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31231,9 +31011,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：VNAV",
-        "page": "Sheet1 第 466 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 276 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31273,9 +31053,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：VNAV",
-        "page": "Sheet1 第 499 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动油门",
+        "page": "Sheet1 第 277 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31315,9 +31095,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告",
-        "page": "Sheet1 第 477 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 279 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31359,9 +31139,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 209 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：发动机、V2",
+        "page": "Sheet1 第 281 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、V2」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31401,9 +31181,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动油门",
-        "page": "Sheet1 第 501 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 286 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31487,9 +31267,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 504 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 289 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31529,9 +31309,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶、灯",
-        "page": "Sheet1 第 506 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 290 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31571,9 +31351,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 510 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动油门",
+        "page": "Sheet1 第 291 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31613,9 +31393,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 516 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动油门",
+        "page": "Sheet1 第 293 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31655,9 +31435,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：飞行指引",
-        "page": "Sheet1 第 517 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 294 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31696,10 +31476,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“音频控制面板和无线电调谐面板”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 297 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31739,9 +31519,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电源",
-        "page": "Sheet1 第 88 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：电气",
+        "page": "Sheet1 第 299 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31781,10 +31561,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“该发电机无法再使用”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发电机",
+        "page": "Sheet1 第 301 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发电机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31824,9 +31604,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发电机",
-        "page": "Sheet1 第 89 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发电机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 302 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31867,9 +31647,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 155 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：电气、灯",
+        "page": "Sheet1 第 303 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电气、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31910,9 +31690,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯、火警",
-        "page": "Sheet1 第 306 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、火警」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：火警",
+        "page": "Sheet1 第 305 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「火警」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31953,9 +31733,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灭火",
-        "page": "Sheet1 第 539 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灭火」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯、火警",
+        "page": "Sheet1 第 306 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、火警」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31995,9 +31775,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：襟翼",
-        "page": "Sheet1 第 423 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：警告",
+        "page": "Sheet1 第 311 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32037,9 +31817,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架、灯",
-        "page": "Sheet1 第 599 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：方向舵",
+        "page": "Sheet1 第 312 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「方向舵」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32079,9 +31859,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：襟翼",
-        "page": "Sheet1 第 460 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：安定面",
+        "page": "Sheet1 第 313 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「安定面」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32121,9 +31901,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：A/T、襟翼、灯",
-        "page": "Sheet1 第 507 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「A/T、襟翼、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 315 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32164,7 +31944,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：燃油",
-        "page": "Sheet1 第 174 行",
+        "page": "Sheet1 第 317 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -32205,9 +31985,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：燃油",
-        "page": "Sheet1 第 175 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：油箱",
+        "page": "Sheet1 第 319 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「油箱」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32248,9 +32028,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：液压、灯",
-        "page": "Sheet1 第 111 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、液压",
+        "page": "Sheet1 第 321 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32275,8 +32055,7 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "空调与增压",
-        "液压系统",
-        "手册已核对"
+        "液压系统"
       ],
       "question": "A液压系统使用什么泵来增压？",
       "options": [
@@ -32290,13 +32069,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "空调与增压 / 系统说明 / 座舱增压控制 / 2.40.5",
-        "page": "PDF 第 566 页，手册页 2.40.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空调与增压系统说明“座舱增压控制”（PDF 第 566 页，手册页 2.40.5），FCOM 说明飞机爬升到飞行高度 0.25 psi 范围内时，巡航方式开始工作。因此本题正确答案为 C“爬到巡航高度 0.25 PSI 范围内时”。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：液压、增压",
+        "page": "Sheet1 第 323 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、增压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "a液压系统使用什么泵来增压"
     },
@@ -32335,7 +32114,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：液压",
-        "page": "Sheet1 第 113 行",
+        "page": "Sheet1 第 325 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -32376,9 +32155,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、液压",
-        "page": "Sheet1 第 114 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：液压",
+        "page": "Sheet1 第 326 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32419,9 +32198,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、液压",
-        "page": "Sheet1 第 321 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：液压、油量",
+        "page": "Sheet1 第 327 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、油量」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32461,9 +32240,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：N1、防冰",
-        "page": "Sheet1 第 405 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N1、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：结冰",
+        "page": "Sheet1 第 332 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「结冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32503,9 +32282,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电源",
-        "page": "Sheet1 第 464 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：防冰",
+        "page": "Sheet1 第 334 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32545,9 +32324,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：V1",
-        "page": "Sheet1 第 218 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「V1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 336 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32588,7 +32367,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 222 行",
+        "page": "Sheet1 第 337 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -32628,10 +32407,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“副驾驶的电子飞行仪表系统控制面板失效”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示、PF",
+        "page": "Sheet1 第 344 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32671,9 +32450,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 478 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：ND",
+        "page": "Sheet1 第 345 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「ND」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32713,9 +32492,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动油门、N1、灯",
-        "page": "Sheet1 第 508 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门、N1、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 347 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32755,9 +32534,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动油门、显示",
-        "page": "Sheet1 第 515 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 348 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32796,10 +32575,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“POS”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 349 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32839,10 +32618,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“2号”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示、组件",
+        "page": "Sheet1 第 350 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32883,7 +32662,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：显示",
-        "page": "Sheet1 第 570 行",
+        "page": "Sheet1 第 351 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -32925,9 +32704,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：限制",
-        "page": "Sheet1 第 224 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示、V1",
+        "page": "Sheet1 第 353 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、V1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33009,9 +32788,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 573 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 359 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33052,7 +32831,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：显示",
-        "page": "Sheet1 第 576 行",
+        "page": "Sheet1 第 360 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -33093,9 +32872,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 577 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 361 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33136,9 +32915,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车、灯",
-        "page": "Sheet1 第 602 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：起落架、灯",
+        "page": "Sheet1 第 362 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33178,9 +32957,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 609 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：起落架、灯",
+        "page": "Sheet1 第 363 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33221,7 +33000,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 610 行",
+        "page": "Sheet1 第 367 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -33262,9 +33041,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 612 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 369 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33304,9 +33083,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 675 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：起落架",
+        "page": "Sheet1 第 370 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33346,9 +33125,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架、组件",
-        "page": "Sheet1 第 812 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：刹车",
+        "page": "Sheet1 第 372 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33388,9 +33167,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架",
-        "page": "Sheet1 第 840 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：起落架、灯",
+        "page": "Sheet1 第 375 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33430,9 +33209,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 842 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：起落架",
+        "page": "Sheet1 第 376 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33472,9 +33251,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：火警",
-        "page": "Sheet1 第 843 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「火警」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：刹车",
+        "page": "Sheet1 第 377 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33513,10 +33292,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“两部”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 380 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33555,10 +33334,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“右IRS不再工作”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 385 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33597,10 +33376,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“将IRS方式选择器搬到ALIGN（校准）位后再搬到导航位（NAV）”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 386 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33639,10 +33418,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“D252X”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：航路",
+        "page": "Sheet1 第 388 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「航路」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33681,10 +33460,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“通过选择进离场程序自动输入”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：航路",
+        "page": "Sheet1 第 389 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「航路」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33723,10 +33502,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“航径下降阶段”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：FMC",
+        "page": "Sheet1 第 390 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33767,9 +33546,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：N1",
-        "page": "Sheet1 第 875 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：N1、限制",
+        "page": "Sheet1 第 391 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N1、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33808,10 +33587,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“在地面失去电源超过10秒”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：电源、FMC",
+        "page": "Sheet1 第 393 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33850,10 +33629,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“位置基准页面”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示、FMC",
+        "page": "Sheet1 第 395 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33893,9 +33672,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、组件、PF",
-        "page": "Sheet1 第 589 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 397 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33934,10 +33713,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“0.25”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：N1、FMC、限制",
+        "page": "Sheet1 第 398 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N1、FMC、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33976,10 +33755,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“1145.5”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 399 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34019,9 +33798,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 518 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：推力",
+        "page": "Sheet1 第 400 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「推力」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34061,9 +33840,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：飞行指引",
-        "page": "Sheet1 第 519 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：VNAV",
+        "page": "Sheet1 第 402 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34104,7 +33883,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 225 行",
+        "page": "Sheet1 第 404 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -34145,9 +33924,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 616 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：N1、防冰",
+        "page": "Sheet1 第 405 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N1、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34189,9 +33968,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 884 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、警告",
+        "page": "Sheet1 第 406 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34231,9 +34010,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：N2",
-        "page": "Sheet1 第 885 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N2」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 407 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34274,7 +34053,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 891 行",
+        "page": "Sheet1 第 411 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -34315,9 +34094,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 619 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 412 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34358,9 +34137,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、襟翼、防冰",
-        "page": "Sheet1 第 892 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、襟翼、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、燃油",
+        "page": "Sheet1 第 413 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34402,9 +34181,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：燃油",
-        "page": "Sheet1 第 219 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、燃油、探测",
+        "page": "Sheet1 第 414 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、燃油、探测」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34444,9 +34223,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 896 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：反推、灯",
+        "page": "Sheet1 第 415 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「反推、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34487,7 +34266,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：限制",
-        "page": "Sheet1 第 230 行",
+        "page": "Sheet1 第 418 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -34529,9 +34308,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 844 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：推力、防滞",
+        "page": "Sheet1 第 419 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「推力、防滞」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34556,8 +34335,7 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "空调与增压",
-        "气源系统",
-        "手册已核对"
+        "气源系统"
       ],
       "question": "什么情况下需要在进近或着陆时空调组件使用高流量？",
       "options": [
@@ -34571,13 +34349,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 自动方式飞行航径过程 / 2.40.5",
-        "page": "PDF 第 566 页，手册页 2.40.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“自动方式飞行航径过程”（PDF 第 566 页，手册页 2.40.5），飞机下降到低于所选飞行高度 0.25 psi 时，下降方式开始工作。因此正确答案为 D。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：组件、空调",
+        "page": "Sheet1 第 420 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "什么情况下需要在进近或着陆时空调组件使用高流量"
     },
@@ -34615,9 +34393,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：襟翼",
-        "page": "Sheet1 第 540 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 421 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34699,9 +34477,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：扰流板",
-        "page": "Sheet1 第 545 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「扰流板」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：襟翼",
+        "page": "Sheet1 第 423 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34742,9 +34520,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：推力",
-        "page": "Sheet1 第 239 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「推力」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：反推",
+        "page": "Sheet1 第 424 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「反推」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34784,9 +34562,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：N1、限制",
-        "page": "Sheet1 第 275 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N1、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 425 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34828,9 +34606,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 620 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、显示、限制",
+        "page": "Sheet1 第 426 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34870,10 +34648,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“17000”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：引气",
+        "page": "Sheet1 第 427 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34914,9 +34692,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：油箱",
-        "page": "Sheet1 第 238 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「油箱」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：燃油",
+        "page": "Sheet1 第 428 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34956,9 +34734,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶、FMC",
-        "page": "Sheet1 第 522 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶、FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：VNAV",
+        "page": "Sheet1 第 429 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34998,9 +34776,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、V2",
-        "page": "Sheet1 第 281 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、V2」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 430 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35041,7 +34819,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 289 行",
+        "page": "Sheet1 第 431 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -35083,7 +34861,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 336 行",
+        "page": "Sheet1 第 432 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -35125,7 +34903,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 337 行",
+        "page": "Sheet1 第 433 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -35627,10 +35405,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“必须征得机长同意”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 445 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35669,10 +35447,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“飞行前应由乘务长确定病残旅客撤离出口的位置和撤离次序”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 446 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35711,10 +35489,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“3”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 447 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35754,9 +35532,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、V1",
-        "page": "Sheet1 第 353 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、V1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 448 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35795,10 +35573,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“地面工作人员和机长必须协同配合，采取任何认为是必要的措施， 包括劝其下机”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 449 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35838,9 +35616,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：推力",
-        "page": "Sheet1 第 400 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「推力」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 450 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35879,10 +35657,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“30 米; 800 米”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 451 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35921,10 +35699,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“1400米”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：VR",
+        "page": "Sheet1 第 452 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VR」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35965,10 +35743,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“0.95”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：性能、性能",
+        "page": "Sheet1 第 453 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「性能、性能」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36009,7 +35787,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 404 行",
+        "page": "Sheet1 第 454 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -36036,8 +35814,7 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "正常程序",
         "显示与警告",
-        "发动机系统",
-        "手册已核对"
+        "发动机系统"
       ],
       "question": "起飞前，当在发动机起动好后，主注意灯和系统指示灯亮，应执行＿＿，参考＿＿，确定是否符合＿＿的要求后，才可以起飞。",
       "options": [
@@ -36051,13 +35828,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序 / 空调、增压 / 自动增压控制 / SP.2.4",
-        "page": "PDF 第 253 页，手册页 SP.2.4",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》补充程序“自动增压控制－着陆机场标高在 6,000 英尺以上但 8,400 英尺及以下”（PDF 第 253 页，手册页 SP.2.4），FCOM 要求起飞前 LAND ALT 着陆高度指示窗调到 6,000 英尺，起始下降时再调到目的地机场标高。昆明长水机场标高 6901 英尺，属于该范围，因此正确答案为 D“6000 英尺”。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机、灯",
+        "page": "Sheet1 第 455 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "起飞前当在发动机起动好后主注意灯和系统指示灯亮应执行__参考__确定是否符合__的要求后才可以起飞"
     },
@@ -36095,9 +35872,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：A/T、显示、限制",
-        "page": "Sheet1 第 633 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「A/T、显示、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 456 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36138,7 +35915,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 897 行",
+        "page": "Sheet1 第 458 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -36180,7 +35957,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 898 行",
+        "page": "Sheet1 第 459 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -36222,7 +35999,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：襟翼",
-        "page": "Sheet1 第 547 行",
+        "page": "Sheet1 第 460 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -36263,9 +36040,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：限制",
-        "page": "Sheet1 第 418 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 461 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36306,10 +36083,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“1500英尺或越障高度”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机、引气、增压",
+        "page": "Sheet1 第 462 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气、增压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36350,10 +36127,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“起飞前”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机、引气、防冰",
+        "page": "Sheet1 第 463 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36394,9 +36171,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 564 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：电源",
+        "page": "Sheet1 第 464 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36437,9 +36214,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：MCP、正常程序",
-        "page": "Sheet1 第 683 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP、正常程序」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：MCP",
+        "page": "Sheet1 第 465 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36480,7 +36257,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：VNAV",
-        "page": "Sheet1 第 731 行",
+        "page": "Sheet1 第 466 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -36522,7 +36299,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：发动机",
-        "page": "Sheet1 第 899 行",
+        "page": "Sheet1 第 467 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -36563,9 +36340,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：反推",
-        "page": "Sheet1 第 900 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「反推」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 468 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36605,9 +36382,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 421 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：重量",
+        "page": "Sheet1 第 469 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「重量」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36647,9 +36424,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 622 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯、组件",
+        "page": "Sheet1 第 470 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36689,9 +36466,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、PF",
-        "page": "Sheet1 第 632 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：警告",
+        "page": "Sheet1 第 471 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36731,9 +36508,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：EGT、警告",
-        "page": "Sheet1 第 636 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「EGT、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：警告",
+        "page": "Sheet1 第 473 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36773,10 +36550,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“起落架手柄在收上位或中立位，并且所有的起落架指示灯都熄灭”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：起落架",
+        "page": "Sheet1 第 475 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36816,9 +36593,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、低压、显示",
-        "page": "Sheet1 第 637 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、低压、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：警告",
+        "page": "Sheet1 第 477 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36858,9 +36635,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、显示",
-        "page": "Sheet1 第 639 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 478 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36900,9 +36677,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯",
-        "page": "Sheet1 第 641 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 479 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36942,9 +36719,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、警告、限制",
-        "page": "Sheet1 第 652 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、警告、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 480 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36984,9 +36761,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 661 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 481 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37025,10 +36802,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“空气/氧气混合气(混合比根据座舱高度而定)”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 482 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37068,9 +36845,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、电瓶",
-        "page": "Sheet1 第 235 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、电瓶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：电源",
+        "page": "Sheet1 第 483 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37095,8 +36872,7 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "空调与增压",
-        "气源系统",
-        "手册已核对"
+        "气源系统"
       ],
       "question": "空调隔离活门电门在”AUTO”位, 下面哪一句话错?",
       "options": [
@@ -37110,13 +36886,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "空气系统 / 人工方式工作 / 2.40.6",
-        "page": "PDF 第 566 页，手册页 2.40.6",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》空气系统“人工方式工作”（PDF 第 566 页，手册页 2.40.6），人工方式下排气活门全程移动需 20 秒。因此正确答案为 D。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：空调",
+        "page": "Sheet1 第 486 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "空调隔离活门电门在auto位下面哪一句话错"
     },
@@ -37139,8 +36915,7 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "空调与增压",
-        "气源系统",
-        "手册已核对"
+        "气源系统"
       ],
       "question": "飞行中, 两个空调组件都工作在高流量, 则:",
       "options": [
@@ -37154,13 +36929,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_QRH.pdf",
-        "section": "座舱高度警告或快速释压 / QRH 2.1",
-        "page": "PDF 第 69 页，手册页 2.1",
-        "summary": "答案参考说明：依据《B737_NG_QRH.pdf》“座舱高度警告或快速释压”（PDF 第 69 页，手册页 2.1），条件包括座舱高度超限，或空中间歇式座舱高度/形态警告喇叭响起、CABIN ALTITUDE 灯亮；记忆项目第 1 步为戴上氧气面罩并将调节器调置为 100%。因此首先应戴上氧气面罩并选择 100%供氧，正确答案为 A。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：组件、空调",
+        "page": "Sheet1 第 487 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "飞行中两个空调组件都工作在高流量则"
     },
@@ -37198,10 +36973,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“直流电控制并由压力驱动”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机、引气",
+        "page": "Sheet1 第 489 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37240,10 +37015,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“驱动到全冷位”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：组件",
+        "page": "Sheet1 第 491 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37283,9 +37058,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 845 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：增压、限制",
+        "page": "Sheet1 第 494 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「增压、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37326,9 +37101,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电瓶、气源、空调",
-        "page": "Sheet1 第 38 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电瓶、气源、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：座舱",
+        "page": "Sheet1 第 495 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「座舱」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37367,10 +37142,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“起飞,爬升和大多数巡航条件下”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：低压、引气",
+        "page": "Sheet1 第 498 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「低压、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37410,9 +37185,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：MCP、显示",
-        "page": "Sheet1 第 732 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：VNAV",
+        "page": "Sheet1 第 499 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37452,9 +37227,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 734 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 500 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37494,9 +37269,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 737 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动油门",
+        "page": "Sheet1 第 501 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37536,9 +37311,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：反推",
-        "page": "Sheet1 第 424 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「反推」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 503 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37580,7 +37355,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 738 行",
+        "page": "Sheet1 第 504 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -37621,9 +37396,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：MCP、灯",
-        "page": "Sheet1 第 739 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动驾驶、灯",
+        "page": "Sheet1 第 506 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37663,9 +37438,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：飞行指引",
-        "page": "Sheet1 第 742 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：A/T、襟翼、灯",
+        "page": "Sheet1 第 507 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「A/T、襟翼、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37705,9 +37480,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：飞行指引",
-        "page": "Sheet1 第 743 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动油门、N1、灯",
+        "page": "Sheet1 第 508 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门、N1、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37747,9 +37522,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 746 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 509 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37790,7 +37565,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 749 行",
+        "page": "Sheet1 第 510 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -37831,9 +37606,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 750 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 513 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37873,9 +37648,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：自动驾驶",
-        "page": "Sheet1 第 751 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动油门、显示",
+        "page": "Sheet1 第 515 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37916,9 +37691,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 754 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 516 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37958,9 +37733,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：飞行指引、PFD、PF",
-        "page": "Sheet1 第 755 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引、PFD、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：飞行指引",
+        "page": "Sheet1 第 517 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38000,9 +37775,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：VNAV",
-        "page": "Sheet1 第 908 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 518 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38042,9 +37817,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告",
-        "page": "Sheet1 第 692 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：飞行指引",
+        "page": "Sheet1 第 519 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38085,7 +37860,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 433 行",
+        "page": "Sheet1 第 520 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -38125,10 +37900,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“VNAV不会接通”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：自动驾驶、FMC",
+        "page": "Sheet1 第 522 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶、FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38168,9 +37943,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：VNAV",
-        "page": "Sheet1 第 910 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 523 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38209,10 +37984,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“FMC指令自动飞行系统俯仰和自动油门按照FMC CDU所选择的剖面飞行”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 524 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38253,7 +38028,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 451 行",
+        "page": "Sheet1 第 525 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -38293,10 +38068,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“飞机正在下降时，可能会显示VNAV SPD，也可能会显示VNAV PTH”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 526 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38335,10 +38110,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“音频控制面板上按压发话电门的”MIC”位”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 527 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38377,10 +38152,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“位于机身下部的甚高频天线”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 528 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38419,10 +38194,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“4 , 120”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 529 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38462,9 +38237,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电气",
-        "page": "Sheet1 第 299 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：电源",
+        "page": "Sheet1 第 530 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38504,9 +38279,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电气、灯",
-        "page": "Sheet1 第 303 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电气、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：汇流条、灯",
+        "page": "Sheet1 第 531 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「汇流条、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38546,9 +38321,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电源",
-        "page": "Sheet1 第 483 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：电气",
+        "page": "Sheet1 第 533 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38589,7 +38364,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：电源",
-        "page": "Sheet1 第 530 行",
+        "page": "Sheet1 第 535 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -38630,9 +38405,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告、火警",
-        "page": "Sheet1 第 691 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告、火警」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灭火",
+        "page": "Sheet1 第 539 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灭火」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38673,7 +38448,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：襟翼",
-        "page": "Sheet1 第 678 行",
+        "page": "Sheet1 第 540 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -38714,9 +38489,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：襟翼、起落架、警告",
-        "page": "Sheet1 第 699 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼、起落架、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 541 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38757,7 +38532,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：扰流板",
-        "page": "Sheet1 第 783 行",
+        "page": "Sheet1 第 545 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「扰流板」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -38798,9 +38573,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：方向舵、组件",
-        "page": "Sheet1 第 785 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「方向舵、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：襟翼",
+        "page": "Sheet1 第 547 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38842,9 +38617,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：液压",
-        "page": "Sheet1 第 325 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：液压、方向舵",
+        "page": "Sheet1 第 549 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、方向舵」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38884,9 +38659,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：液压、方向舵",
-        "page": "Sheet1 第 786 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、方向舵」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 550 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38926,9 +38701,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：襟翼",
-        "page": "Sheet1 第 787 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 551 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38968,9 +38743,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：升降舵",
-        "page": "Sheet1 第 796 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「升降舵」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 552 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39010,9 +38785,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：燃油",
-        "page": "Sheet1 第 317 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：油箱",
+        "page": "Sheet1 第 554 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「油箱」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39053,9 +38828,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：油箱",
-        "page": "Sheet1 第 319 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「油箱」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：低压、灯、燃油",
+        "page": "Sheet1 第 555 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「低压、灯、燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39095,9 +38870,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、防冰",
-        "page": "Sheet1 第 565 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 564 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39139,7 +38914,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：发动机、防冰",
-        "page": "Sheet1 第 689 行",
+        "page": "Sheet1 第 565 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -39180,9 +38955,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：VR",
-        "page": "Sheet1 第 452 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VR」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 567 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39223,9 +38998,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告",
-        "page": "Sheet1 第 694 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 570 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39266,9 +39041,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 695 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 573 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39309,7 +39084,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 461 行",
+        "page": "Sheet1 第 575 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -39352,7 +39127,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：显示",
-        "page": "Sheet1 第 703 行",
+        "page": "Sheet1 第 576 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -39394,9 +39169,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯",
-        "page": "Sheet1 第 707 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 577 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39435,10 +39210,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“5度”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 579 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39478,9 +39253,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 729 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 582 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39520,9 +39295,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 730 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 585 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39562,10 +39337,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“MAP”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示、航路",
+        "page": "Sheet1 第 586 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、航路」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39604,10 +39379,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“主飞行显示”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示、组件、PF",
+        "page": "Sheet1 第 589 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39647,10 +39422,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“由光线传感器和亮度控制电门共同控制”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示、组件",
+        "page": "Sheet1 第 593 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39690,9 +39465,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯",
-        "page": "Sheet1 第 763 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 594 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39732,9 +39507,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：重量",
-        "page": "Sheet1 第 469 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「重量」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 595 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39774,9 +39549,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯",
-        "page": "Sheet1 第 790 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 597 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39817,7 +39592,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：起落架",
-        "page": "Sheet1 第 847 行",
+        "page": "Sheet1 第 598 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -39858,9 +39633,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：液压、起落架、组件",
-        "page": "Sheet1 第 848 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、起落架、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：起落架、灯",
+        "page": "Sheet1 第 599 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39900,9 +39675,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 823 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：起落架、灯",
+        "page": "Sheet1 第 600 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39943,9 +39718,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 851 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：刹车、灯",
+        "page": "Sheet1 第 602 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39984,10 +39759,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“10度”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 605 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40027,9 +39802,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：刹车",
-        "page": "Sheet1 第 852 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 607 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40069,9 +39844,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：升降舵",
-        "page": "Sheet1 第 797 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「升降舵」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 608 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40110,10 +39885,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“B液压系统失效后，仍然可以使用自动刹车”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：刹车",
+        "page": "Sheet1 第 609 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40152,10 +39927,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“只有当两个空地逻辑系统传感器探测到空中方式后”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：刹车",
+        "page": "Sheet1 第 610 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40194,10 +39969,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“着陆前选择的MAX位，着陆后在干跑道提供的自动刹车减速率小于最大人工全刹车的减速率”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：刹车",
+        "page": "Sheet1 第 612 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40236,10 +40011,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“B液压系统供压给前轮转弯”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 613 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40278,10 +40053,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“前顶板上”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：FMC",
+        "page": "Sheet1 第 615 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40320,10 +40095,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“按下位置（POS）电门”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 616 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40362,10 +40137,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“从选择起飞/复飞电门，直到减推力高度（通常在此选择爬升推力）”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 617 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40404,10 +40179,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“预计到达目的地机场时剩下的燃油少于900公斤”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示、CDU",
+        "page": "Sheet1 第 618 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、CDU」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40447,9 +40222,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、PF、限制",
-        "page": "Sheet1 第 829 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、PF、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 619 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40488,10 +40263,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“IRS进入了导航方式”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 620 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40530,10 +40305,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“30秒，性能限制页2/2”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 622 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40572,10 +40347,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“用删除键，删除左1行RTA航路点，再按执行键”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 623 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40616,9 +40391,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 503 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：推力",
+        "page": "Sheet1 第 624 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「推力」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40657,10 +40432,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“如果是切入，在草稿行输入被修改的现用航路点的切入航道，按压右6INTCCRS(切入航道)行选键。”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 625 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40699,10 +40474,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“可以在巡航页面左一行输入一新高度，然后按“执行”键，飞机即会以爬升推力和巡航目标速度爬升至新高度”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：MCP",
+        "page": "Sheet1 第 627 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40741,10 +40516,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“位置偏移页面POS SHIFT”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：FMC",
+        "page": "Sheet1 第 628 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40783,10 +40558,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“跑道不能储存在补充导航数据库”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 630 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40827,9 +40602,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 834 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示、PF",
+        "page": "Sheet1 第 632 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40868,10 +40643,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“FMC不向自动油门系统提供N1限制值, 自动油门使用相应发动机电子控制的减推力N1限制值”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：A/T、显示、限制",
+        "page": "Sheet1 第 633 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「A/T、显示、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40912,9 +40687,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 835 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：EGT、警告",
+        "page": "Sheet1 第 636 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「EGT、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40955,9 +40730,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：起落架、灯",
-        "page": "Sheet1 第 837 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、低压、显示",
+        "page": "Sheet1 第 637 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、低压、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40999,9 +40774,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、燃油、探测",
-        "page": "Sheet1 第 414 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、燃油、探测」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、显示、油量",
+        "page": "Sheet1 第 638 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示、油量」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41042,9 +40817,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯、FMC",
-        "page": "Sheet1 第 854 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、显示",
+        "page": "Sheet1 第 639 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41083,10 +40858,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“左右发动机反推力不平衡过大”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 641 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41125,10 +40900,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“反推手柄在慢车位置, 不影响推力手柄的使用”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：推力",
+        "page": "Sheet1 第 642 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「推力」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41168,9 +40943,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：液压",
-        "page": "Sheet1 第 326 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：低压、灯",
+        "page": "Sheet1 第 643 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「低压、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41209,10 +40984,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“双转子轴流式涡轮风扇型”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 644 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41251,10 +41026,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“一个风扇、一个低压压缩机和一个低压涡轮”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 645 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41295,9 +41070,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：汇流条、灯",
-        "page": "Sheet1 第 531 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「汇流条、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、电瓶",
+        "page": "Sheet1 第 647 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、电瓶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41336,10 +41111,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“N1和EGT”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 648 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41381,9 +41156,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯",
-        "page": "Sheet1 第 855 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、警告、限制",
+        "page": "Sheet1 第 652 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、警告、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41422,10 +41197,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“湿起动”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 654 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41464,10 +41239,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“推力手柄在慢车位, 且无线电高度低于10英尺或空/地逻辑在地面逻辑方式”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：反推",
+        "page": "Sheet1 第 657 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「反推」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41509,9 +41284,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 579 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：反推、灯",
+        "page": "Sheet1 第 658 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「反推、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41553,9 +41328,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：燃油",
-        "page": "Sheet1 第 428 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示、引气",
+        "page": "Sheet1 第 659 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41594,10 +41369,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“0-1100℃”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：EGT",
+        "page": "Sheet1 第 660 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「EGT」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41636,10 +41411,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“200”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 661 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41680,7 +41455,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 520 行",
+        "page": "Sheet1 第 662 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -41722,7 +41497,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 525 行",
+        "page": "Sheet1 第 663 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -41764,7 +41539,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 567 行",
+        "page": "Sheet1 第 664 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -41805,9 +41580,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 575 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 665 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41848,7 +41623,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 595 行",
+        "page": "Sheet1 第 666 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -42056,10 +41831,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“以上全部”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 671 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42098,10 +41873,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“1500英尺/分钟；1000英尺/分钟。”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：限制、运行手册",
+        "page": "Sheet1 第 672 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制、运行手册」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42141,9 +41916,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：推力",
-        "page": "Sheet1 第 624 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「推力」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 673 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42183,9 +41958,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 662 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：航路",
+        "page": "Sheet1 第 674 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「航路」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42224,10 +41999,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“大于等于0.4”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：刹车",
+        "page": "Sheet1 第 675 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42251,8 +42026,7 @@ window.B737_QUESTION_BANK = {
       "category": "正常程序",
       "tags": [
         "机考900仅答案",
-        "正常程序",
-        "手册已核对"
+        "正常程序"
       ],
       "question": "完成正常程序的目的是：",
       "options": [
@@ -42266,13 +42040,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序 / 空调、增压 / 无发动机引气起飞和着陆 / SP.2.5",
-        "page": "PDF 第 254 页，手册页 SP.2.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》补充程序“无发动机引气起飞和着陆”（PDF 第 254 页，手册页 SP.2.5），FCOM 注明如果滑行时需要防冰，在即将起飞前调置构型为“无发动机引气起飞”；如果滑行时不需要防冰，则发动机起动后调置。因此本题正确答案为 C“起飞前”。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：正常程序",
+        "page": "Sheet1 第 676 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「正常程序」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "完成正常程序的目的是"
     },
@@ -42309,10 +42083,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“起飞前与着陆后按左座与右座分工，飞行中按操纵飞机的飞行员（PF）与监控飞机的飞行员（PM）分工”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 677 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42352,9 +42126,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：方向舵",
-        "page": "Sheet1 第 807 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「方向舵」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：襟翼",
+        "page": "Sheet1 第 678 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42393,10 +42167,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“校准指示灯由稳定地亮变为熄灭后”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 680 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42435,10 +42209,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“当 N1 转速上升并且 N2 转速是 25%时,或(N2 转速不可能到达 25%), 在最大冷转且N2不低于 20%。注:最大冷转是指在约 5 秒钟内 N2 转速增加少于 1%。”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 681 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42477,10 +42251,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“启动手柄提到慢车位后10秒钟，EGT仍不上升”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 682 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42520,10 +42294,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“是PF的职责范围，但是在人工飞行期间，由监控飞机的飞行员在操纵飞机的飞行员的指令下完成方式改变。”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：MCP、正常程序",
+        "page": "Sheet1 第 683 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP、正常程序」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42562,10 +42336,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“利用APU给左组件供气，外部气源只给右组件供气。”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：气源",
+        "page": "Sheet1 第 685 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「气源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42590,8 +42364,7 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "正常程序",
-        "性能与限制",
-        "手册已核对"
+        "性能与限制"
       ],
       "question": "北京飞往昆明，起飞前着陆高度指示器中应调为：",
       "options": [
@@ -42605,13 +42378,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序 / 防冰、排雨 / 风挡加温系统测试 / SP.3.5",
-        "page": "PDF 第 260 页，手册页 SP.3.5",
-        "summary": "答案参考说明：依据《B737_NG_FCOM.pdf》补充程序“风挡加温系统测试”（PDF 第 260 页，手册页 SP.3.5），电源测试用于核实风挡加温系统工作；当任何一个风挡加温 ON 灯灭且相应的 WINDOW HEAT 电门在 ON 位时可以进行该测试，且所有 ON 灯都亮时不可进行测试。因此正确答案为 A。"
+        "status": "insufficient",
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 686 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "北京飞往昆明起飞前着陆高度指示器中应调为"
     },
@@ -42648,10 +42421,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“他应把方式电门放到关断位等校准灯灭，然后再进行全校准程序”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：CDU",
+        "page": "Sheet1 第 687 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「CDU」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42692,9 +42465,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：防冰",
-        "page": "Sheet1 第 819 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、防冰",
+        "page": "Sheet1 第 689 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42733,10 +42506,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“飞行位”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 690 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42777,9 +42550,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灭火",
-        "page": "Sheet1 第 779 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灭火」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：警告、火警",
+        "page": "Sheet1 第 691 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告、火警」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42819,9 +42592,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 870 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：警告",
+        "page": "Sheet1 第 692 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42862,7 +42635,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 664 行",
+        "page": "Sheet1 第 693 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -42904,9 +42677,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示",
-        "page": "Sheet1 第 871 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：警告",
+        "page": "Sheet1 第 694 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42947,7 +42720,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：显示",
-        "page": "Sheet1 第 873 行",
+        "page": "Sheet1 第 695 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -42988,10 +42761,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“起动活门打开指示”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：警告",
+        "page": "Sheet1 第 696 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43033,9 +42806,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：襟翼",
-        "page": "Sheet1 第 808 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：襟翼、起落架、警告",
+        "page": "Sheet1 第 699 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼、起落架、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43075,9 +42848,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：警告",
-        "page": "Sheet1 第 876 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 703 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43117,9 +42890,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、警告",
-        "page": "Sheet1 第 877 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 704 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43159,9 +42932,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：反推、灯",
-        "page": "Sheet1 第 658 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「反推、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯、应急",
+        "page": "Sheet1 第 706 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、应急」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43201,9 +42974,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、显示",
-        "page": "Sheet1 第 886 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 707 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43242,10 +43015,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“空气/氧气混合气(随机混合)”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 709 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43284,10 +43057,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“12或22; 不能”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 710 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43327,9 +43100,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电气",
-        "page": "Sheet1 第 533 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：电源",
+        "page": "Sheet1 第 712 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43370,9 +43143,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：组件、增压",
-        "page": "Sheet1 第 58 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件、增压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：组件、空调",
+        "page": "Sheet1 第 713 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43412,9 +43185,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：增压",
-        "page": "Sheet1 第 59 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「增压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯、增压",
+        "page": "Sheet1 第 714 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、增压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43454,10 +43227,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“5级和9级”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机、引气",
+        "page": "Sheet1 第 716 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43497,10 +43270,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“交流电”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：电源、气源",
+        "page": "Sheet1 第 717 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、气源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43540,10 +43313,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“发动机的第9级引气活门可能会由于APU引气的反压而关闭”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机、引气",
+        "page": "Sheet1 第 718 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43582,10 +43355,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“在地面, 或空中襟翼放下时”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 721 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43624,10 +43397,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“三个区域温度选钮所选温度的平均值”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：组件、空调",
+        "page": "Sheet1 第 722 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43669,7 +43442,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：组件、空调",
-        "page": "Sheet1 第 252 行",
+        "page": "Sheet1 第 724 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -43712,9 +43485,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯、应急",
-        "page": "Sheet1 第 706 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、应急」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：灯、增压",
+        "page": "Sheet1 第 727 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、增压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43755,9 +43528,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、显示",
-        "page": "Sheet1 第 888 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 729 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43797,10 +43570,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“高度层改变方式接通”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 730 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43839,10 +43612,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“400英尺”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：VNAV",
+        "page": "Sheet1 第 731 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43883,10 +43656,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“首次接通垂直速率方式时，垂直速度显示窗的显示为零”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：MCP、显示",
+        "page": "Sheet1 第 732 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43925,10 +43698,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“水平导航、航向选择和CWS R方式都可以”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 733 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43967,10 +43740,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“按压进近（APP）电门后”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 734 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44009,10 +43782,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“按压APP电门”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 735 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44051,10 +43824,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“在CWS方式工作时，飞行指引仪的俯仰和横滚方式接不通”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 737 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44093,10 +43866,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“自动驾驶脱开，A/P脱开灯红色闪亮，警告声响”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 738 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44136,10 +43909,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“按压MCP上的“高度保持”电门不能脱开“高度保持”方式”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：MCP、灯",
+        "page": "Sheet1 第 739 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「MCP、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44178,10 +43951,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“速度80海里/小时后，并且离地150秒内”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：飞行指引",
+        "page": "Sheet1 第 742 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44221,10 +43994,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“关断两部飞行指引仪电门”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：飞行指引",
+        "page": "Sheet1 第 743 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44263,10 +44036,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“其它各项都可以”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 745 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44305,10 +44078,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“安定面不会自动增加上仰配平”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 746 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44347,10 +44120,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“其它各项都正确”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：自动油门",
+        "page": "Sheet1 第 747 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动油门」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44390,10 +44163,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“驾驶盘操纵方式”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 749 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44432,10 +44205,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“其它各项都正确”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 750 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44474,10 +44247,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“其它各项都正确”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：自动驾驶",
+        "page": "Sheet1 第 751 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「自动驾驶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44518,9 +44291,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 666 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：限制",
+        "page": "Sheet1 第 753 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44559,10 +44332,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“若MCP上选择的速度大于标牌速度，自动飞行系统将允许加速至接近限制速度，然后指令保持该标牌限制速度。”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 754 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44603,10 +44376,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“只要相应的FD（飞行指引仪）电门接通，FMA上将会显示绿色的FD指示”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：飞行指引、PFD、PF",
+        "page": "Sheet1 第 755 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「飞行指引、PFD、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44645,10 +44418,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“始终保持1, 无法调节”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 757 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44687,10 +44460,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“不论音频控制面板是否正常，只要面板上的“备用/正常”电门扳到“备用”位就工作在降级方式”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 760 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44729,10 +44502,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“手提话筒的工作不受影响”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 761 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44771,10 +44544,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“一部高频无线电用于发射时, 另一部可用于接收”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 762 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44814,10 +44587,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“1#变压整流器失效或2#和3#变压整流器都失效”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 763 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44858,9 +44631,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电源",
-        "page": "Sheet1 第 535 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：电气、灯",
+        "page": "Sheet1 第 764 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电气、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44901,9 +44674,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 623 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：发电机、灯",
+        "page": "Sheet1 第 765 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发电机、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44944,9 +44717,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、电瓶",
-        "page": "Sheet1 第 647 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、电瓶」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：电源、灯",
+        "page": "Sheet1 第 766 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44986,9 +44759,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电源",
-        "page": "Sheet1 第 712 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：电气",
+        "page": "Sheet1 第 768 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45028,9 +44801,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电气、灯",
-        "page": "Sheet1 第 764 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电气、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 769 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45070,9 +44843,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发电机、灯",
-        "page": "Sheet1 第 765 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发电机、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：汇流条",
+        "page": "Sheet1 第 772 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「汇流条」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45112,9 +44885,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：电源、灯",
-        "page": "Sheet1 第 766 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电源、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发电机、灯",
+        "page": "Sheet1 第 774 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发电机、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45153,10 +44926,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“看到相应的灭火瓶释放灯亮”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：灭火",
+        "page": "Sheet1 第 779 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灭火」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45197,9 +44970,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：襟翼",
-        "page": "Sheet1 第 815 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：扰流板",
+        "page": "Sheet1 第 783 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「扰流板」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45239,9 +45012,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：襟翼",
-        "page": "Sheet1 第 905 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 784 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45280,10 +45053,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“当飞行操纵A和B电门都在备用方向舵(STBY RUD)位时”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：方向舵、组件",
+        "page": "Sheet1 第 785 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「方向舵、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45322,10 +45095,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“电门无法保持在接通位,无法启动备用偏航阻尼器;”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：液压、方向舵",
+        "page": "Sheet1 第 786 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、方向舵」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45364,10 +45137,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“关闭后缘襟翼旁通活门且启动备用液压泵工作并预位备用襟翼位置电门”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：襟翼",
+        "page": "Sheet1 第 787 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45406,10 +45179,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“减速板手柄在下卡位, 且地面扰流板未收回”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 790 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45448,10 +45221,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“使用安定面配平或用力操纵卡阻的升降舵, 通过超控机构可以使左右驾驶杆分离; 分离后可自由移动的驾驶杆可提供足够的升降舵操纵”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 795 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45490,10 +45263,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“大于恢复人工控制的操纵力”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：升降舵",
+        "page": "Sheet1 第 796 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「升降舵」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45532,10 +45305,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“0.615, 安定面位置”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：升降舵",
+        "page": "Sheet1 第 797 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「升降舵」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45574,10 +45347,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“回到配平速度”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 798 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45616,10 +45389,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“偏航阻尼器、升降舵感觉偏移组件和速度配平系统”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：组件",
+        "page": "Sheet1 第 799 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45659,9 +45432,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 673 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：限制",
+        "page": "Sheet1 第 800 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45703,9 +45476,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：油箱",
-        "page": "Sheet1 第 554 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「油箱」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：低压、灯、燃油",
+        "page": "Sheet1 第 803 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「低压、灯、燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45747,9 +45520,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：低压、灯、燃油",
-        "page": "Sheet1 第 555 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「低压、灯、燃油」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：液压、显示、油量",
+        "page": "Sheet1 第 805 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、显示、油量」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45790,9 +45563,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、显示、油量",
-        "page": "Sheet1 第 638 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示、油量」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：液压、油量",
+        "page": "Sheet1 第 806 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、油量」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45831,10 +45604,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“备用方向舵关断活门打开使相关液压系统的备用泵工作”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：方向舵",
+        "page": "Sheet1 第 807 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「方向舵」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45873,10 +45646,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“预位备用襟翼位置电门，关闭后缘襟翼的旁通活门，起动液压系统的备用泵”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：襟翼",
+        "page": "Sheet1 第 808 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45917,9 +45690,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：液压、油量",
-        "page": "Sheet1 第 327 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、油量」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：液压、组件",
+        "page": "Sheet1 第 811 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45959,10 +45732,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“在空中1号发动机转速低于限制值，起落架手柄在手上位但任一主起落架尚未收上锁定”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：起落架、组件",
+        "page": "Sheet1 第 812 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46002,9 +45775,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：液压、方向舵",
-        "page": "Sheet1 第 549 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、方向舵」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：液压",
+        "page": "Sheet1 第 813 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46044,9 +45817,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：低压、灯",
-        "page": "Sheet1 第 643 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「低压、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：液压",
+        "page": "Sheet1 第 814 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46085,10 +45858,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“预位备用襟翼位置电门，关闭后缘襟翼的旁通活门，起动液压系统的备用泵”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：襟翼",
+        "page": "Sheet1 第 815 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46127,10 +45900,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“A和B液压系统都失去时”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 817 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46170,9 +45943,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：发动机、防冰",
-        "page": "Sheet1 第 821 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：防冰",
+        "page": "Sheet1 第 819 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46214,7 +45987,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：发动机、防冰",
-        "page": "Sheet1 第 822 行",
+        "page": "Sheet1 第 821 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -46257,7 +46030,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "涉及关键词：发动机、防冰",
-        "page": "Sheet1 第 906 行",
+        "page": "Sheet1 第 822 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
@@ -46298,10 +46071,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“MCP上人工选择的空速或FMC计算的空速”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 823 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46342,9 +46115,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 693 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：襟翼",
+        "page": "Sheet1 第 824 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46385,9 +46158,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：限制",
-        "page": "Sheet1 第 753 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：显示、V1",
+        "page": "Sheet1 第 825 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、V1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46428,10 +46201,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“抖杆器警告失效或最大使用速度失效”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示、PF、限制",
+        "page": "Sheet1 第 829 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、PF、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46472,7 +46245,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 798 行",
+        "page": "Sheet1 第 831 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -46512,10 +46285,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“已自动转换到一部电子显示组件显示源或已人工转换到一部电子显示组件显示源”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：PFD、PF",
+        "page": "Sheet1 第 832 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「PFD、PF」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46555,9 +46328,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：限制",
-        "page": "Sheet1 第 800 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 833 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46596,10 +46369,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“PLAN”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 834 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46638,10 +46411,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“洋红色”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 835 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46681,9 +46454,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：襟翼",
-        "page": "Sheet1 第 824 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 836 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46723,10 +46496,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“空中低于800英尺AGL，任一个或两个推力手柄收到慢车位，起落架没有放下锁好”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：起落架、灯",
+        "page": "Sheet1 第 837 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46766,10 +46539,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“所有起落架都已经放下锁定”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：起落架、灯",
+        "page": "Sheet1 第 838 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架、灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46811,9 +46584,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：灯、增压",
-        "page": "Sheet1 第 727 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、增压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：液压、起落架",
+        "page": "Sheet1 第 839 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46852,10 +46625,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“起落架手柄在任何位置，都可以人工放下起落架”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：起落架",
+        "page": "Sheet1 第 840 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46894,10 +46667,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“将减速板收起”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：刹车",
+        "page": "Sheet1 第 842 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46938,10 +46711,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“最大放轮速度270节或0.82M”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：火警",
+        "page": "Sheet1 第 843 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「火警」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46980,10 +46753,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“选择了飞机的减速率，反推越大，刹车压力减小，飞机的减速率会不变”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：刹车",
+        "page": "Sheet1 第 844 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47022,10 +46795,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“前轮刹车”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：刹车",
+        "page": "Sheet1 第 845 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47064,10 +46837,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“正常和备用刹车系统都具有防滞保护和自动刹车功能。”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：起落架",
+        "page": "Sheet1 第 847 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47108,10 +46881,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“B液压系统”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：液压、起落架、组件",
+        "page": "Sheet1 第 848 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、起落架、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47193,10 +46966,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“人工刹车且增大反推或地速60海里/小时前选择更高档位的自动刹车均可”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：刹车",
+        "page": "Sheet1 第 851 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47235,10 +47008,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“其它各项方法均可”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：刹车",
+        "page": "Sheet1 第 852 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「刹车」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47277,10 +47050,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“其它各项都正确”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：灯、FMC",
+        "page": "Sheet1 第 854 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯、FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47319,10 +47092,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“当一部GPS传感器组件失效且复位系统信号显示牌时或两部GPS传感器组件失效时”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：灯",
+        "page": "Sheet1 第 855 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「灯」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47361,10 +47134,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“IRS方式选择组件上的直流接通灯（ON DC）会亮且前轮舱地面呼叫喇叭响”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：电瓶、警告",
+        "page": "Sheet1 第 857 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「电瓶、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47403,10 +47176,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“以上模式都可以”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 858 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47445,10 +47218,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“FMS、GPS、ADIRS、无线电导航系统、应答机和气象雷达”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 859 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47487,10 +47260,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“飞行管理计算机、自动驾驶/飞行指引仪、自动油门、惯性基准系统、全球定位系统”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 860 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47529,10 +47302,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“其它各项都控制”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 861 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47571,10 +47344,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“方式控制面板的输入”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：FMC、性能",
+        "page": "Sheet1 第 862 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「FMC、性能」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47613,10 +47386,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“其它各项都是”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：航路",
+        "page": "Sheet1 第 863 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「航路」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47655,10 +47428,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“必须接通LNAV方式”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：FMC",
+        "page": "Sheet1 第 864 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「FMC」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47697,10 +47470,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“任何影响到性能计算的重量输入改变都会”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：V1",
+        "page": "Sheet1 第 867 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「V1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47739,10 +47512,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“其它各项都是考虑因素”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 870 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47782,10 +47555,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“在离起始下降点100海里之内或在所需到达时间（RTA）方式”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 871 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47825,10 +47598,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“其它各项都对”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：显示",
+        "page": "Sheet1 第 873 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47867,10 +47640,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“其它各项都对”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 874 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47909,10 +47682,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“由FMC根据N1限制页面和起飞基准页面调定”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：N1",
+        "page": "Sheet1 第 875 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47952,10 +47725,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“显示警戒并且在该发动机非显示位置显示琥珀色实心框; 三个框稳定亮, 10秒钟后实心框消失”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：警告",
+        "page": "Sheet1 第 876 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47996,10 +47769,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“显示警戒并且在该发动机非显示位置显示琥珀色实心框; 三个框稳定亮, 10秒钟后实心框消失”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机、警告",
+        "page": "Sheet1 第 877 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、警告」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48041,9 +47814,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：液压、起落架",
-        "page": "Sheet1 第 839 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「液压、起落架」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、显示、组件",
+        "page": "Sheet1 第 881 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示、组件」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48082,10 +47855,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“一个高压压缩机和高压涡轮”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 884 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48124,10 +47897,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“NI和N2转子在机械上是独立的”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：N2",
+        "page": "Sheet1 第 885 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「N2」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48167,10 +47940,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“其它各项都可以”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机、显示",
+        "page": "Sheet1 第 886 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48211,9 +47984,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：显示、V1",
-        "page": "Sheet1 第 825 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「显示、V1」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：EGT、限制",
+        "page": "Sheet1 第 887 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「EGT、限制」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48253,10 +48026,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“N1、N2、滑油量和发动机振动”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机、显示",
+        "page": "Sheet1 第 888 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、显示」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48295,10 +48068,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“N1和N2红色工作极限”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 891 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48339,10 +48112,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“平均海平面高度15000英尺以下”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机、襟翼、防冰",
+        "page": "Sheet1 第 892 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、襟翼、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48384,9 +48157,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "涉及关键词：组件、空调",
-        "page": "Sheet1 第 253 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「组件、空调」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
+        "section": "涉及关键词：发动机、燃油、增压",
+        "page": "Sheet1 第 893 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、燃油、增压」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48425,10 +48198,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“没有起动保护性能”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 896 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48467,10 +48240,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“发动机达到慢车N2或起动手柄放到关断位时”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 897 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48509,10 +48282,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“左点火器由相应的交流转换汇流条供电, 右点火器由备用交流汇流条供电”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 898 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48551,10 +48324,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“正常由它们相应的液压系统供压，相应的液压系统失效后由备用液压系统供压”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机",
+        "page": "Sheet1 第 899 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48593,10 +48366,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“液压操纵的上锁作动筒和电子机械锁”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：反推",
+        "page": "Sheet1 第 900 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「反推」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48636,10 +48409,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“APU引气活门自动关闭，60秒后APU自动关车。”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：引气",
+        "page": "Sheet1 第 902 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「引气」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48679,10 +48452,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“20,000英尺”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：襟翼",
+        "page": "Sheet1 第 905 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「襟翼」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48722,10 +48495,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“爬升和巡航”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：发动机、防冰",
+        "page": "Sheet1 第 906 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「发动机、防冰」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48766,7 +48539,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 831 行",
+        "page": "Sheet1 第 907 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
@@ -48806,10 +48579,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“以上全部”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "涉及关键词：VNAV",
+        "page": "Sheet1 第 908 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48848,10 +48621,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "一二三类事件梳理(1).xlsx",
-        "section": "",
-        "page": "",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出答案“FAF高度→SDF高度→MDA(H)高度→复飞高度”。当前未在一二三类事件梳理表中找到高置信匹配，后续需人工核对事件分类或运行手册依据。"
+        "manual": "机考(900题仅答案).xlsx",
+        "section": "未识别考点领域",
+        "page": "Sheet1 第 909 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48891,9 +48664,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
-        "section": "未识别考点领域",
-        "page": "Sheet1 第 833 行",
-        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
+        "section": "涉及关键词：VNAV",
+        "page": "Sheet1 第 910 行",
+        "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。题干涉及「VNAV」等关键词，建议查《B737_NG_FCOM.pdf》相关章节验证。当前尚未完成手册原文核对。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48934,7 +48707,7 @@ window.B737_QUESTION_BANK = {
         "status": "insufficient",
         "manual": "机考(900题仅答案).xlsx",
         "section": "未识别考点领域",
-        "page": "Sheet1 第 836 行",
+        "page": "Sheet1 第 911 行",
         "summary": "答案参考说明：本题来自《机考(900题仅答案).xlsx》，原始资料仅给出唯一答案。当前无法从题干明确识别考点领域，后续需人工核对原题上下文或手册依据。"
       },
       "reviewStatus": "needs-review",
