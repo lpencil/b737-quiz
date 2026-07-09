@@ -35,8 +35,9 @@ window.B737_QUESTION_BANK = {
       },
       "referenceStatusCounts": {
         "verified": 466,
-        "insufficient": 560,
-        "partial": 1
+        "insufficient": 527,
+        "partial": 1,
+        "event-reference": 33
       }
     }
   },
@@ -4953,10 +4954,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "翔翼400总.xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -22614,13 +22615,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（一般差错）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "未获得指令航空器着陆属于____"
     },
@@ -22656,13 +22657,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（航空器或部件损坏）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行中违反运行程序造成航空器遭受雷击电击或雹击造成属于严重差错"
     },
@@ -22698,13 +22699,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般事故征候",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（15、3）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "陆空通信双向联系中断造成调整其他航空器避让等后果或者区域范围内陆空通信双向联系中断min(含)以上进近或塔台范围内陆空通信双向联系中断min(含)以上属于一般事故征候"
     },
@@ -22740,13 +22741,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（最低）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "人为原因导致航空器进入油量状况属于严重差错"
     },
@@ -22782,13 +22783,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（飞错或偏离）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "____________指定的进离场程序或航线/路属于严重差错"
     },
@@ -22824,13 +22825,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（驾驶舱）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行中未按规定锁闭驾驶舱门或违反进出驾驶舱程序造成无关人员进入属于严重差错"
     },
@@ -22867,10 +22868,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -22908,13 +22909,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般事故征候",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（构型，继续）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "航空器未在规定起飞而起飞属于一般事故征候"
     },
@@ -22951,10 +22952,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -22992,13 +22993,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般事故征候",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（最大允许起飞）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "航空器超过重量起飞属于一般事故征候"
     },
@@ -23034,13 +23035,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般事故征候",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（25 km，25 km）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "错误的偏离指定航线(迹)超过或偏离指定航路中心线超过属于一般事故征候"
     },
@@ -23077,10 +23078,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23119,10 +23120,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23161,10 +23162,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23203,10 +23204,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23245,10 +23246,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23287,10 +23288,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23329,10 +23330,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23371,10 +23372,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23413,10 +23414,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23455,10 +23456,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23497,10 +23498,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23539,10 +23540,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23581,10 +23582,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23623,10 +23624,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23665,10 +23666,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23707,10 +23708,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23749,10 +23750,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23791,10 +23792,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23833,10 +23834,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23919,10 +23920,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -23961,10 +23962,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24003,10 +24004,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24091,10 +24092,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24133,10 +24134,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24175,10 +24176,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24218,10 +24219,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24260,10 +24261,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24302,10 +24303,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24344,10 +24345,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24386,10 +24387,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24428,10 +24429,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24470,10 +24471,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24512,7 +24513,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -24599,10 +24600,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24641,10 +24642,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24770,10 +24771,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24812,10 +24813,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24856,10 +24857,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24899,10 +24900,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24941,10 +24942,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24983,10 +24984,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25025,7 +25026,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -25068,10 +25069,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25110,10 +25111,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25152,10 +25153,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25195,10 +25196,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25237,10 +25238,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25280,10 +25281,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25322,10 +25323,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25409,10 +25410,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25451,10 +25452,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25536,7 +25537,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -25578,7 +25579,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -25620,7 +25621,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -25662,10 +25663,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25704,10 +25705,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25746,10 +25747,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25788,10 +25789,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25830,10 +25831,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25873,10 +25874,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25916,10 +25917,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26045,10 +26046,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26088,10 +26089,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26130,10 +26131,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26174,10 +26175,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26216,10 +26217,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26258,10 +26259,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26300,10 +26301,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26343,10 +26344,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26385,10 +26386,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26429,10 +26430,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26518,7 +26519,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -26560,7 +26561,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -26602,7 +26603,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -26644,10 +26645,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26686,10 +26687,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26728,10 +26729,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26770,10 +26771,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26812,10 +26813,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26855,10 +26856,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26897,10 +26898,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26939,10 +26940,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26981,10 +26982,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27023,10 +27024,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27065,10 +27066,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27109,10 +27110,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27152,10 +27153,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27194,10 +27195,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27281,10 +27282,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27323,10 +27324,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27365,10 +27366,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27407,10 +27408,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27449,10 +27450,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27491,10 +27492,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27533,10 +27534,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27575,10 +27576,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27619,10 +27620,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27662,7 +27663,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -27704,7 +27705,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -27747,10 +27748,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27789,10 +27790,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27832,10 +27833,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27874,10 +27875,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27916,10 +27917,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27958,10 +27959,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28000,10 +28001,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28042,10 +28043,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28127,10 +28128,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28169,10 +28170,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28210,13 +28211,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（运行规范、限制要求）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "未满足(公司)__________或(特殊)__________实施飞行属于一般差错"
     },
@@ -28252,13 +28253,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重事故征候",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重事故征候指涉及航空器运行安全、可能发展为事故的严重不安全事件。正确答案为A（必需成员）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行中飞行机组丧失工作能力属于严重事故征候"
     },
@@ -28294,13 +28295,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般事故征候",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（3 s(含)）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行中出现失速警告____以上(假信号除外)属于一般事故征候"
     },
@@ -28336,13 +28337,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（资料、文件）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "未携带飞行运行必须的证照飞行用具航空器起飞属于严重差错"
     },
@@ -28378,13 +28379,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（空勤登机证件、未按规定报告）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "控制区通行证丢失_______或转借他人属于一般差错"
     },
@@ -28420,13 +28421,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（舱门、起飞）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "未按规定关扣紧固好各_____航空器____属于严重差错"
     },
@@ -28462,13 +28463,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般事故征候",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（离场或者复飞）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "平行跑道同时仪表运行时机组没有正确执行程序导致其他航空器避让属于一般事故征候"
     },
@@ -28504,13 +28505,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般事故征候",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（操纵面夹板、空速管套）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "未取下挂钩静压孔塞或尾撑杆等而起飞属于一般事故征候"
     },
@@ -28546,13 +28547,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（2.5秒，10 度）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "无线电高度50英尺至接地时间≤或飞机坡度≥(瞬间除外)属于一般差错"
     },
@@ -28589,10 +28590,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28631,10 +28632,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28673,10 +28674,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28715,10 +28716,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28757,10 +28758,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28799,10 +28800,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28841,10 +28842,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28883,10 +28884,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28925,10 +28926,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -28967,10 +28968,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29009,10 +29010,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29051,10 +29052,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29093,10 +29094,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29135,10 +29136,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29177,10 +29178,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29219,10 +29220,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29262,10 +29263,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29304,10 +29305,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29346,10 +29347,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29389,10 +29390,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29432,10 +29433,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29560,10 +29561,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29603,7 +29604,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -29645,10 +29646,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29687,10 +29688,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29729,10 +29730,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29770,10 +29771,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29812,10 +29813,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29854,10 +29855,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29896,10 +29897,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29939,10 +29940,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29981,10 +29982,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30023,10 +30024,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30066,10 +30067,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30154,10 +30155,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30196,10 +30197,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30239,10 +30240,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30281,7 +30282,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -30324,7 +30325,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -30366,10 +30367,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30408,10 +30409,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30450,10 +30451,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30535,10 +30536,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30840,10 +30841,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30882,10 +30883,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30924,10 +30925,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31010,10 +31011,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31052,10 +31053,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31094,10 +31095,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31136,10 +31137,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31178,10 +31179,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31220,10 +31221,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31262,10 +31263,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31304,10 +31305,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31346,10 +31347,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31389,10 +31390,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31431,10 +31432,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31473,10 +31474,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31515,10 +31516,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31559,10 +31560,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31601,10 +31602,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31688,10 +31689,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31730,10 +31731,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31772,10 +31773,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31814,10 +31815,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31856,10 +31857,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31941,10 +31942,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31984,10 +31985,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32026,10 +32027,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32069,10 +32070,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32199,7 +32200,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -32241,7 +32242,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -32283,7 +32284,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -32325,7 +32326,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -32367,10 +32368,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32409,10 +32410,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32452,10 +32453,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32538,10 +32539,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32580,10 +32581,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32623,10 +32624,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32751,10 +32752,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32793,10 +32794,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32835,10 +32836,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32877,10 +32878,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32919,10 +32920,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32961,10 +32962,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33003,10 +33004,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33046,10 +33047,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33088,10 +33089,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33131,10 +33132,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33173,10 +33174,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33215,10 +33216,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33257,10 +33258,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33299,10 +33300,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33342,7 +33343,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -33384,7 +33385,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -33426,7 +33427,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -33468,7 +33469,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -33510,7 +33511,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -33552,7 +33553,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -33594,7 +33595,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -33636,7 +33637,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -33678,7 +33679,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -33720,10 +33721,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33762,10 +33763,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33804,10 +33805,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33846,10 +33847,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33888,10 +33889,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33930,10 +33931,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33973,10 +33974,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34015,10 +34016,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34057,10 +34058,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34099,10 +34100,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34141,10 +34142,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34183,10 +34184,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34225,10 +34226,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34267,10 +34268,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34309,10 +34310,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34351,10 +34352,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34395,10 +34396,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34437,10 +34438,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34479,10 +34480,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34521,10 +34522,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34564,10 +34565,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34608,10 +34609,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34650,10 +34651,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34692,10 +34693,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34735,7 +34736,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -34821,7 +34822,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -34906,7 +34907,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -34949,10 +34950,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34991,10 +34992,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35035,10 +35036,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35078,10 +35079,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35121,10 +35122,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35163,10 +35164,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35205,10 +35206,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35247,10 +35248,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35289,10 +35290,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35331,10 +35332,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35372,13 +35373,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（忘调或错调）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞错或擅自改变飞行高度高度表气压刻度属于严重差错"
     },
@@ -35414,13 +35415,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（一半，1400）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "对于短跑道从跑道入口至航空器接地点的距离大于跑道可用着陆距离的对于其它跑道从跑道入口至航空器接地点的距离大于米(参考《飞行运行手册》各机型的短跑道定义)属于一般差错"
     },
@@ -35456,13 +35457,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（危险物品、违禁品、未经安检人员）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "违反公规定将送上航空器属于严重差错"
     },
@@ -35498,13 +35499,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（执行相关工作）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "未按mel保留项目_____属于严重差错"
     },
@@ -35540,13 +35541,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（尾撬）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "起飞或着陆过程中______擦地不影响放行属于严重差错"
     },
@@ -35582,13 +35583,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（建立着陆形态）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "认错跑道(包括跑道方向)进近并属于严重差错"
     },
@@ -35624,13 +35625,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（场面高度1000英尺）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "执行仪表和目视进近程序低于___________完成着陆形态继续进近着陆(特殊机场除外进近方式以公布的为准)属于一般差错"
     },
@@ -35666,13 +35667,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（返航）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "人为原因造成航班加降备降属于严重差错"
     },
@@ -35708,13 +35709,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重事故征候",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重事故征候指涉及航空器运行安全、可能发展为事故的严重不安全事件。正确答案为A（中断起飞、起飞、着陆或尝试着陆）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在关闭或占用的跑道滑行道或未指定的跑道上(经批准的直升机运行除外)均属于严重事故征候"
     },
@@ -35750,13 +35751,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（1500，3秒，25 度）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "进近阶段场面高度500英尺以下下降率大于英尺/分钟(持续时间≥)或坡度大于(特殊机场除外进近方式以公布的为准)属于一般差错"
     },
@@ -35792,13 +35793,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（航空器地面除/防冰程序）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "未按规定执行_______属于严重差错"
     },
@@ -35835,10 +35836,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35877,10 +35878,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35919,10 +35920,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35961,10 +35962,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36003,10 +36004,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36045,10 +36046,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36087,10 +36088,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36129,10 +36130,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36173,10 +36174,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36215,10 +36216,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36302,10 +36303,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36344,10 +36345,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36386,10 +36387,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36428,7 +36429,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -36470,10 +36471,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36514,10 +36515,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36558,10 +36559,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36645,10 +36646,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36687,10 +36688,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36729,10 +36730,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36771,10 +36772,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36813,10 +36814,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36855,10 +36856,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36897,10 +36898,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36939,10 +36940,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36982,10 +36983,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37024,10 +37025,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37066,10 +37067,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37108,10 +37109,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37150,10 +37151,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37192,10 +37193,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37234,10 +37235,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37276,10 +37277,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37407,10 +37408,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37449,10 +37450,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37491,7 +37492,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -37577,10 +37578,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37619,10 +37620,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37661,10 +37662,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37703,10 +37704,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37745,10 +37746,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37788,10 +37789,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37830,10 +37831,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37872,10 +37873,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37914,10 +37915,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37956,10 +37957,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37998,10 +37999,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38040,10 +38041,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38082,10 +38083,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38125,10 +38126,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38167,10 +38168,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38209,10 +38210,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38251,10 +38252,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38293,10 +38294,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38335,10 +38336,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38377,10 +38378,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38419,10 +38420,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38461,10 +38462,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38503,10 +38504,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38674,10 +38675,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38716,10 +38717,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38758,10 +38759,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38800,10 +38801,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38885,7 +38886,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -38927,7 +38928,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -38969,7 +38970,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -39011,7 +39012,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -39055,10 +39056,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39097,7 +39098,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -39139,7 +39140,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -39181,7 +39182,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -39223,10 +39224,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39266,10 +39267,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39395,10 +39396,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39438,10 +39439,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39481,10 +39482,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39523,10 +39524,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39566,10 +39567,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39609,10 +39610,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39651,10 +39652,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39693,10 +39694,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39735,10 +39736,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39778,10 +39779,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39820,10 +39821,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39863,10 +39864,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39905,10 +39906,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39947,10 +39948,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39989,10 +39990,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40031,7 +40032,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -40073,7 +40074,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -40115,10 +40116,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40158,7 +40159,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -40200,10 +40201,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40242,7 +40243,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -40284,7 +40285,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -40326,7 +40327,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -40368,7 +40369,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -40410,7 +40411,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -40452,7 +40453,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -40494,10 +40495,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40536,10 +40537,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40578,10 +40579,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40620,10 +40621,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40662,10 +40663,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40704,10 +40705,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40746,10 +40747,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40788,10 +40789,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40831,10 +40832,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40873,10 +40874,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40915,10 +40916,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40957,10 +40958,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40999,10 +41000,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41042,10 +41043,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41084,10 +41085,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41127,10 +41128,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41170,10 +41171,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41214,10 +41215,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41257,10 +41258,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41299,10 +41300,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41341,10 +41342,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41383,10 +41384,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41425,10 +41426,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41467,10 +41468,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41510,10 +41511,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41552,10 +41553,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41596,10 +41597,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41638,10 +41639,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41680,10 +41681,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41769,10 +41770,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41811,10 +41812,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41853,10 +41854,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41895,10 +41896,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41937,10 +41938,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41979,10 +41980,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42021,10 +42022,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42063,10 +42064,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42104,13 +42105,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重事故征候",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重事故征候指涉及航空器运行安全、可能发展为事故的严重不安全事件。正确答案为A（燃油量或燃油分布）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "_________需要飞行员宣布紧急状态的情况属于严重事故征候"
     },
@@ -42146,13 +42147,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "严重事故征候",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。严重事故征候指涉及航空器运行安全、可能发展为事故的严重不安全事件。正确答案为A（驾驶舱(内)、客舱(内)和货舱(内)）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "_________和______起火或冒烟或发动机起火即使这些火被扑灭属于严重事故征候"
     },
@@ -42188,13 +42189,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般事故征候",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（受损、轻伤）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "航空器与航空器车辆或其他物体相撞造成航空器_____(仅轮胎损坏除外)或人员属于一般事故征候"
     },
@@ -42230,13 +42231,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "event-reference",
+        "manual": "公司运行手册",
+        "section": "一般差错",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（影响工作秩序并负有主要责任。）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在无线电通话中发生争吵属于一般差错"
     },
@@ -42273,10 +42274,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42315,10 +42316,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42357,10 +42358,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42399,10 +42400,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42441,7 +42442,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -42526,10 +42527,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42568,7 +42569,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -42610,10 +42611,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42652,10 +42653,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42694,10 +42695,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42737,10 +42738,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42779,10 +42780,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42865,10 +42866,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42951,10 +42952,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43037,10 +43038,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43079,10 +43080,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43122,10 +43123,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43164,10 +43165,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43207,10 +43208,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43251,7 +43252,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -43293,10 +43294,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43335,10 +43336,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43420,10 +43421,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43462,10 +43463,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43504,10 +43505,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43546,10 +43547,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43676,10 +43677,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43719,10 +43720,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43762,10 +43763,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43804,10 +43805,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43846,10 +43847,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43978,10 +43979,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44021,10 +44022,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44063,10 +44064,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44107,10 +44108,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44149,10 +44150,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44191,10 +44192,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44233,10 +44234,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44275,10 +44276,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44317,10 +44318,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44360,10 +44361,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44402,10 +44403,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44445,10 +44446,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44487,10 +44488,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44529,10 +44530,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44571,10 +44572,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44614,10 +44615,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44656,10 +44657,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44698,10 +44699,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44741,10 +44742,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44783,10 +44784,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44827,10 +44828,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45042,10 +45043,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45085,10 +45086,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45128,10 +45129,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45171,10 +45172,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45213,10 +45214,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45255,10 +45256,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45297,10 +45298,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45339,10 +45340,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45425,7 +45426,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -45467,7 +45468,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -45509,7 +45510,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -45551,7 +45552,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -45593,7 +45594,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -45635,7 +45636,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -45677,7 +45678,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -45719,7 +45720,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -45761,7 +45762,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -45803,7 +45804,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -45845,10 +45846,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45887,10 +45888,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45931,10 +45932,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45975,10 +45976,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46018,10 +46019,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46060,7 +46061,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -46102,7 +46103,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -46145,10 +46146,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46188,7 +46189,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -46230,10 +46231,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46272,10 +46273,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46314,7 +46315,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -46356,7 +46357,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -46530,10 +46531,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46573,10 +46574,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46616,10 +46617,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46660,10 +46661,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46702,10 +46703,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46744,10 +46745,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46786,10 +46787,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46914,10 +46915,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46957,10 +46958,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47000,10 +47001,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47087,7 +47088,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -47129,7 +47130,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -47173,7 +47174,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -47215,7 +47216,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -47257,7 +47258,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -47299,7 +47300,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -47343,7 +47344,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -47385,10 +47386,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47428,7 +47429,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -47470,7 +47471,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -47512,10 +47513,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47554,10 +47555,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47596,10 +47597,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47681,10 +47682,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47723,10 +47724,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47765,10 +47766,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47807,10 +47808,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47849,10 +47850,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47891,10 +47892,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47933,10 +47934,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47975,10 +47976,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48018,10 +48019,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48061,10 +48062,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48103,10 +48104,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48145,10 +48146,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48188,10 +48189,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48232,10 +48233,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48319,10 +48320,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48361,10 +48362,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48404,10 +48405,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48447,10 +48448,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48490,10 +48491,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48532,10 +48533,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48576,10 +48577,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48663,10 +48664,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48705,10 +48706,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48747,10 +48748,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48789,10 +48790,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48831,10 +48832,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48874,10 +48875,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48917,7 +48918,7 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
         "summary": "暂未找到明确手册依据，待审核。"
@@ -49003,10 +49004,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -49045,10 +49046,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -49087,10 +49088,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -49129,10 +49130,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -49171,10 +49172,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "insufficient",
-        "manual": "",
+        "manual": "机考(900题仅答案).xlsx",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
