@@ -13556,7 +13556,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.17.11。FCOM 原文说明：可收放的着陆灯安装在机翼/机身下方。着陆灯在起落架放下时可以放出。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13613,7 +13613,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.14。FCOM 原文说明：近地警告系统（GPWS）根据无线电高度和气压高度信息发出 DA/MDA 喊话。GPWS 在进近阶段根据最低高度选钮设置给出高度提醒。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13665,7 +13665,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.8。FCOM 原文说明：PSEU（起落架位置/状态电子组件）灯亮指示 PSEU 系统探测到故障。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13722,7 +13722,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.22。FCOM 原文说明：WINDSHEAR AHEAD（前方风切变）警告由预测式风切变系统（PWS）触发，指示气象雷达在飞机正前方探测到风切变。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13779,7 +13779,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.5/10.21.2。FCOM 原文说明：显示源控制面板位于机长前顶板 P5 上方，DEU 选钮和 EFIS 控制电门均位于此。正常工作时源选钮在 AUTO 位。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13836,7 +13836,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.10。FCOM 原文说明：速度基准选钮在游标 5 或 SET 位且所选值大于 60 节时 PFD 速度带上显示白色游标 5。如速度基准选钮在 AUTO 位则不显示。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13893,7 +13893,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.26。FCOM 原文说明：垂直速率指示器显示 ADIRS 的瞬时垂直速度，即 IRS 系统计算的垂直速度。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13950,7 +13950,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.60。FCOM 原文说明：PFD 上出现航向故障（HDG）旗表示航向信息失效。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14002,7 +14002,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.53/10.41.13。FCOM 原文说明：计划（PLAN）方式以真北向上格式显示不显示当前航向。ND 的罗盘航向可以由 FMC 或 ADIRS 提供。计划方式顶部窗口不显示航向。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14059,7 +14059,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.18/10.42.9。FCOM 原文说明：指点标符号显示 OM（青绿色）、MM（琥珀色）、IM（白色）在姿态指示区域。737-800 指点标信号通过姿态指示器右上角的符号显示。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
