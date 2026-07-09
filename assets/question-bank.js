@@ -34,9 +34,9 @@ window.B737_QUESTION_BANK = {
         "通讯": 9
       },
       "referenceStatusCounts": {
-        "verified": 558,
+        "verified": 601,
         "event-reference": 33,
-        "insufficient": 436
+        "insufficient": 393
       }
     }
   },
@@ -20192,9 +20192,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。FCOM 原文说明：N1 外圈调置旋钮在 AUTO 位时由 FMC 根据 N1 限制页面和起飞基准页面调定基准 N1 游标。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20249,9 +20249,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。FCOM 原文说明：A/T LIM（自动油门限制）指示亮时 FMC 不向自动油门系统提供 N1 限制值，自动油门使用相应 EEC 的减推力 N1 限制值。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20306,9 +20306,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。FCOM 原文说明：反推（REV）指示绿色表示反推装置放出。正确答案为 C（绿色说明反喷装置处于全开位）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20364,9 +20364,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。FCOM 原文说明：ENG FAIL 警戒保持直到发动机恢复推力、发动机起动手柄移到 CUTOFF 位或发动机火警电门提起。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20421,9 +20421,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "冲突题核准批次 / 系统说明摘录",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》冲突题核准批次 / 系统说明摘录。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。FCOM 说明：燃油流量电门弹簧保持在 RATE 位，扳到 USED 位显示已用燃油量后松手回位即回到正常流量显示。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20478,9 +20478,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。FCOM 原文说明：如风转 N2 转速低于约 8%，滑油量指示低至零是正常的。正确答案为 D（发动机处于风车状态且 N2 低于 8% 时）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20535,9 +20535,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 基本控制和指示；正常程序 / 发动机起动",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机、APU / 基本控制和指示；正常程序 / 发动机起动。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。FCOM 原文说明：滑油量读数以夸脱（QUARTS）为单位显示可用滑油量。正确答案为 C（夸脱为单位）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20592,9 +20592,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。FCOM 原文说明：交输引气起动（X-BLD/XB）指示在建议交输引气起动时显示，由飞机高度、空速和 N2 决定。正确答案为 D（要求使用交输引气起动）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20645,9 +20645,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。FCOM 原文说明：将起动电门扳到 GRD 位打开起动活门、关闭发动机引气活门并预位点火器以在起动手柄移向慢车位时点火。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20697,9 +20697,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。FCOM 原文说明：发动机起动手柄在慢车位且 N2 非指令性快速减小时两个点火器都工作。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20754,9 +20754,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['B']（不论空中地面都会亮）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20811,9 +20811,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（在地面且飞机的速度小于80海里时，或接地后大约30秒）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20868,9 +20868,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['B']（发动机电子控制自动转换到软备用方式）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20925,9 +20925,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['B']（不可以）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20977,9 +20977,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（反推手柄在慢车位置，不影响推力手柄的使用）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21034,9 +21034,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['B']（当相应的反推装置打开60%时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21091,9 +21091,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（双转子轴流式涡轮风扇型）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21148,9 +21148,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机、APU / 基本控制和指示；正常程序 / 发动机起动",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机、APU / 基本控制和指示；正常程序 / 发动机起动。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（NI和N2转子在机械上是独立的）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21205,9 +21205,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（N2转子）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21262,9 +21262,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（N1、N2和滑油量）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21319,9 +21319,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（将推力手柄收到慢车位或按压电门人工选择备用方式时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21376,9 +21376,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（N1和N2红色工作极限）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21433,9 +21433,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（3种）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21490,9 +21490,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "发动机系统 partial 核准批次 1",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》发动机系统 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（襟翼在着陆形态或任一发动机防冰打开时）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21547,9 +21547,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "/ 冲突题清零批次",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》/ 冲突题清零批次。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（平均海平面高度15000英尺以下）。请查阅该章节原文确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23906,7 +23906,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "如果发动机启动不成功，再次启动的间隔不少于多长时间？",
       "options": [
@@ -23920,13 +23921,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（10秒）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如果发动机启动不成功再次启动的间隔不少于多长时间"
     },
@@ -23948,7 +23949,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "地面起动发动机期间，达到起动机脱开转速前，如果起动电门不能保持在地面位，则在N2转速下降到多少前，不得重新接通起动电门？",
       "options": [
@@ -23962,13 +23964,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（0.2）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "地面起动发动机期间达到起动机脱开转速前如果起动电门不能保持在地面位则在n2转速下降到多少前不得重新接通起动电门"
     },
@@ -24933,7 +24935,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "推力方式表示什么？",
       "options": [
@@ -24947,13 +24950,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（每个飞行阶段的N1限制参考值）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "推力方式表示什么"
     },
@@ -27160,7 +27163,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "发动机系统",
-        "非正常程序与 QRH"
+        "非正常程序与 QRH",
+        "手册已核对"
       ],
       "question": "飞行中，一台发动机失效; 什么情况下, 在失效发动机的N2读数方框上会出现”X-BLD”指示?",
       "options": [
@@ -27174,13 +27178,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（飞机的空速小于风转起动所需的空速时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中一台发动机失效什么情况下在失效发动机的n2读数方框上会出现x-bld指示"
     },
@@ -27202,7 +27206,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机起动电门在”CONT”位时, 什么点火器提供连续的点火?",
       "options": [
@@ -27216,13 +27221,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（当发动机正在工作且发动机起动手柄在慢车位时, 向所选的点火器提供点火。飞行中当N2小于慢车且发动机起动手柄在慢车位时，向）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机起动电门在cont位时什么点火器提供连续的点火"
     },
@@ -27331,7 +27336,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机反推系统通过什么将风扇流出的空气转折向前?",
       "options": [
@@ -27345,13 +27351,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（折流门）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机反推系统通过什么将风扇流出的空气转折向前"
     },
@@ -27373,7 +27379,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "什么情况会导致反推自动回收电路工作？",
       "options": [
@@ -27387,13 +27394,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（收上不完全或反推套筒非指令打开）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "什么情况会导致反推自动回收电路工作"
     },
@@ -27415,7 +27422,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "EEC：",
       "options": [
@@ -27429,13 +27437,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（在正常和备用方式下提供N1和N2保护，不提供EGT保护。）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "eec"
     },
@@ -27457,7 +27465,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "有关发动机起动的说法，哪个是错误的？",
       "options": [
@@ -27471,13 +27480,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（在地面和空中起动发动机，都可以提供热气动、EGT超温和湿起动保护。）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "有关发动机起动的说法哪个是错误的"
     },
@@ -27758,7 +27767,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "发动机系统",
-        "非正常程序与 QRH"
+        "非正常程序与 QRH",
+        "手册已核对"
       ],
       "question": "在空中非正常情况下，何时下不需要证实就能移动发动机起动手柄？",
       "options": [
@@ -27772,13 +27782,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（执行“双发失去推力”检查单时不需要证实。）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在空中非正常情况下何时下不需要证实就能移动发动机起动手柄"
     },
@@ -29741,7 +29751,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "关发动机前，为了稳定发动机热部件的温度，应让发动机在慢车或接近慢车状态工作至少多长时间？",
       "options": [
@@ -29755,13 +29766,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（3分钟）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关发动机前为了稳定发动机热部件的温度应让发动机在慢车或接近慢车状态工作至少多长时间"
     },
@@ -29782,7 +29793,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "下面哪个描述是错误的？",
       "options": [
@@ -29796,13 +29808,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（发动机起动以后，使用系统灯光检查每个系统的状态或构型。）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面哪个描述是错误的"
     },
@@ -34009,7 +34021,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "发动机系统",
-        "性能与限制"
+        "性能与限制",
+        "手册已核对"
       ],
       "question": "在N1限制页选择CLB2，飞机到达多高时，减功率爬升设置逐渐增加到全额爬升推力？",
       "options": [
@@ -34023,13 +34036,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（15000）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在n1限制页选择clb2飞机到达多高时减功率爬升设置逐渐增加到全额爬升推力"
     },
@@ -34433,7 +34446,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "发动机系统",
         "非正常程序与 QRH",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "什么情况下会在EGT指示上出现”ENG FAIL”(发动机失效)警告?",
       "options": [
@@ -34447,13 +34461,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（发动机起动手柄在”IDLE”位时, 发动机的N2转速小于50%）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "什么情况下会在egt指示上出现engfail(发动机失效)警告"
     },
@@ -34475,7 +34489,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "如果自动回收电路启动, 后顶板上的”REVERSER”(反喷)灯会不会亮?",
       "options": [
@@ -34489,13 +34504,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（不论空中地面都会亮）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如果自动回收电路启动后顶板上的reverser(反喷)灯会不会亮"
     },
@@ -34517,7 +34532,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "将发动机起动手柄提起来到慢车位可以:",
       "options": [
@@ -34531,13 +34547,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（通过发动机电子控制接通点火系统和电动打开发动机燃油关断活门， 并直接电动打开翼梁燃油关断活门）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "将发动机起动手柄提起来到慢车位可以"
     },
@@ -34603,7 +34619,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "发动机系统",
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "起动发动机期间，将发动机起动手柄提到慢车位时, 起始的燃油流量指示比实际燃油流动滞后大约多长时间？",
       "options": [
@@ -34617,13 +34634,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（2秒）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起动发动机期间将发动机起动手柄提到慢车位时起始的燃油流量指示比实际燃油流动滞后大约多长时间"
     },
@@ -34689,7 +34706,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "压下反推手柄指令反推收回时, 位于后顶板上的反推灯正常亮多长时间?",
       "options": [
@@ -34703,13 +34721,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（10秒）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "压下反推手柄指令反推收回时位于后顶板上的反推灯正常亮多长时间"
     },
@@ -36385,7 +36403,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机每次尝试启动，起动机的使用最多不超过多长时间？",
       "options": [
@@ -36399,13 +36418,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（2分钟）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机每次尝试启动起动机的使用最多不超过多长时间"
     },
@@ -36427,7 +36446,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机启动期间，如果过早地将发动机启动手柄提到慢车位，会导致：",
       "options": [
@@ -36441,13 +36461,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（“热”启动）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机启动期间如果过早地将发动机启动手柄提到慢车位会导致"
     },
@@ -36770,7 +36790,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "如外界温度低于-35℃，起动后至少应让发动机在慢车状态工作多长时间？",
       "options": [
@@ -36784,13 +36805,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（2分钟）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如外界温度低于-35°c起动后至少应让发动机在慢车状态工作多长时间"
     },
@@ -36812,7 +36833,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "如果飞行中遇到大雨，应将发动机起动电门放到：",
       "options": [
@@ -36826,13 +36848,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（连续位）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如果飞行中遇到大雨应将发动机起动电门放到"
     },
@@ -41364,7 +41386,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "下面哪一个不会导致后顶板上的”REVERSER”(反喷)灯亮?",
       "options": [
@@ -41378,13 +41401,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（左右发动机反推力不平衡过大）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面哪一个不会导致后顶板上的reverser(反喷)灯亮"
     },
@@ -41406,7 +41429,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "对推力手柄和反推手柄之间的关系, 哪句话是错的?",
       "options": [
@@ -41420,13 +41444,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（反推手柄在慢车位置, 不影响推力手柄的使用）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "对推力手柄和反推手柄之间的关系哪句话是错的"
     },
@@ -41490,7 +41514,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "737-800飞机的发动机是什么类型的？",
       "options": [
@@ -41504,13 +41529,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（双转子轴流式涡轮风扇型）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "737-800飞机的发动机是什么类型的"
     },
@@ -41532,7 +41557,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机的N1转子由哪几部分组成?",
       "options": [
@@ -41546,13 +41572,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（一个风扇、一个低压压缩机和一个低压涡轮）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机的n1转子由哪几部分组成"
     },
@@ -41618,7 +41644,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "在密集方式下，发动机什么参数的指示与正常方式相同？",
       "options": [
@@ -41632,13 +41659,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（N1和EGT）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在密集方式下发动机什么参数的指示与正常方式相同"
     },
@@ -41704,7 +41731,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "在地面起动发动机期间, 如果起动手柄提到慢车位后，排气温度不上升, 这种现象称作什么?",
       "options": [
@@ -41718,13 +41746,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（湿起动）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在地面起动发动机期间如果起动手柄提到慢车位后排气温度不上升这种现象称作什么"
     },
@@ -41746,7 +41774,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "将反推手柄拉起来打开反喷装置，必须的条件是什么？",
       "options": [
@@ -41760,13 +41789,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（推力手柄在慢车位, 且无线电高度低于10英尺或空/地逻辑在地面逻辑方式）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "将反推手柄拉起来打开反喷装置必须的条件是什么"
     },
@@ -41877,7 +41906,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "在APU起动循环中，APU EGT正常上升前，EGT指示可能在 之间摆动。",
       "options": [
@@ -41891,13 +41921,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（0-1100℃）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在apu起动循环中apuegt正常上升前egt指示可能在之间摆动"
     },
@@ -42718,7 +42748,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机启动期间，什么时候将启动手柄提到慢车位？",
       "options": [
@@ -42732,13 +42763,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（当 N1 转速上升并且 N2 转速是 25%时,或(N2 转速不可能到达 25%), 在最大冷转且N2不低于 20%。注）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机启动期间什么时候将启动手柄提到慢车位"
     },
@@ -42760,7 +42791,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "出现以下哪种情况时，应中止启动？",
       "options": [
@@ -42774,13 +42806,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（启动手柄提到慢车位后10秒钟，EGT仍不上升）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "出现以下哪种情况时应中止启动"
     },
@@ -43017,7 +43049,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "如果飞行中遇到严重颠簸，应将发动机起动电门放到：",
       "options": [
@@ -43031,13 +43064,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（飞行位）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如果飞行中遇到严重颠簸应将发动机起动电门放到"
     },
@@ -48222,7 +48255,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "基准N1游标由谁根据什么调定?",
       "options": [
@@ -48236,13 +48270,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（由FMC根据N1限制页面和起飞基准页面调定）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "基准n1游标由谁根据什么调定"
     },
@@ -48396,7 +48430,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机的N2转子由哪几部分组成?",
       "options": [
@@ -48410,13 +48445,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（一个高压压缩机和高压涡轮）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机的n2转子由哪几部分组成"
     },
@@ -48438,7 +48473,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "NI和N2转子通过什么机械连接?",
       "options": [
@@ -48452,13 +48488,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（NI和N2转子在机械上是独立的）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "ni和n2转子通过什么机械连接"
     },
@@ -48609,7 +48645,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "在备用方式下，发动机电子控制提供哪些保护？",
       "options": [
@@ -48623,13 +48660,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（N1和N2红色工作极限）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在备用方式下发动机电子控制提供哪些保护"
     },
@@ -48653,7 +48690,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "发动机系统",
         "飞行操纵",
-        "非正常程序与 QRH"
+        "非正常程序与 QRH",
+        "手册已核对"
       ],
       "question": "飞行中，将推力手柄收到慢车位时, 如故障使发动机电子控制接收不到襟翼或防冰信号，则发动机何时工作在进近慢车？",
       "options": [
@@ -48667,13 +48705,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（平均海平面高度15000英尺以下）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中将推力手柄收到慢车位时如故障使发动机电子控制接收不到襟翼或防冰信号则发动机何时工作在进近慢车"
     },
@@ -48740,7 +48778,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "在空中起动发动机期间, 发动机电子控制可以提供什么保护？",
       "options": [
@@ -48754,13 +48793,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（没有起动保护性能）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在空中起动发动机期间发动机电子控制可以提供什么保护"
     },
@@ -48782,7 +48821,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "在地面起动发动机期间, 如果排气温度的白色数字方框闪亮, 则闪亮的白框何时复位？",
       "options": [
@@ -48796,13 +48836,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（发动机达到慢车N2或起动手柄放到关断位时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在地面起动发动机期间如果排气温度的白色数字方框闪亮则闪亮的白框何时复位"
     },
@@ -48824,7 +48864,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机左右点火器由谁供电？",
       "options": [
@@ -48838,13 +48879,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（左点火器由相应的交流转换汇流条供电, 右点火器由备用交流汇流条供电）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机左右点火器由谁供电"
     },
@@ -48866,7 +48907,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "左右发动机的反推系统由谁供压?",
       "options": [
@@ -48880,13 +48922,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（正常由它们相应的液压系统供压，相应的液压系统失效后由备用液压系统供压）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "左右发动机的反推系统由谁供压"
     },
@@ -48908,7 +48950,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "机考900仅答案",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "反推套筒在回收位时, 反推套筒的运动受到什么抑制?",
       "options": [
@@ -48922,13 +48965,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（液压操纵的上锁作动筒和电子机械锁）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "反推套筒在回收位时反推套筒的运动受到什么抑制"
     },
