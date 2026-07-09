@@ -9663,7 +9663,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['B']（用备用液压将前缘装置完全放出）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：备用襟翼位置电门 DOWN（弹簧保持在 OFF 位）瞬时位用备用液压将前缘装置完全放出，保持位电动放出后缘襟翼直到松开电门。故将位置电门瞬时放到 DOWN 位可用备用液压将前缘装置完全放出，正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9834,7 +9834,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（无线电高度低于800英尺或后缘襟翼大于10时，减速板手柄超出预位卡位）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：减速板放出灯亮（琥珀色）——飞行中当减速板手柄超出预位卡位且后缘襟翼放出大于襟翼 10 或无线电高度小于 800 英尺时亮；在地面当减速板手柄在下卡位且地面扰流板关断活门感应到液压压力时亮。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9891,7 +9891,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（后缘襟翼不对称）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：襟翼位置指示器两个指针分叉（不一致）指示后缘襟翼不对称——襟翼/缝翼电子组件检测到两侧襟翼位置不一致时显示此状态。正确答案为 A（后缘襟翼不对称）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9948,7 +9948,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（副翼和升降舵）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：液压动力控制组件控制主要飞行操纵面。如需要，可人工操纵副翼和升降舵（通过操纵杆/驾驶盘机械钢索连接）。方向舵可由备用液压系统操纵但需液压。故可人工操纵的为副翼和升降舵，正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10006,7 +10006,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（通这转换机构连接）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：操纵杆和驾驶盘由机械转换机构连接，允许飞行员旁通卡阻的操纵系统或操纵面。左右驾驶杆通过弹簧/钢索机构连接可分离。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10063,7 +10063,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（增加飞机的下降率或配合副翼进行横滚操纵）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：飞行中飞行扰流板可对称升起作减速板增加下降率，也可配合副翼进行横滚操纵（转弯时使用飞行扰流板会大大增加横滚率）。故扰流板空中的功能包括增加下降率或配合副翼横滚操纵，正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10115,7 +10115,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（由副驾驶的驾驶盘通过扰流板控制）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：副翼卡阻时副驾驶的驾驶盘通过扰流板控制可提供横滚操纵——因为飞行扰流板可由副驾驶侧控制。正确答案为 C（由副驾驶的驾驶盘通过扰流板控制）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10172,7 +10172,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（扰流板发生卡阻，机长通过副翼控制横滚）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：操纵杆和驾驶盘由机械转换机构连接允许飞行员旁通卡阻。施加压力后机长驾驶盘可操纵、副驾驶不能动，说明扰流板发生卡阻——机长通过副翼控制横滚，副驾驶对扰流板的控制被卡阻。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10229,7 +10229,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（副翼感觉和定中组件）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：副翼配平通过副翼感觉和定中组件进行。正确答案为 D（副翼感觉和定中组件）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -10286,7 +10286,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（10度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：驾驶盘偏转超过约 10 度时飞行扰流板才会配合副翼工作，提供横滚辅助。正确答案为 C（10度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
