@@ -34,9 +34,9 @@ window.B737_QUESTION_BANK = {
         "通讯": 9
       },
       "referenceStatusCounts": {
-        "verified": 323,
-        "partial": 144,
-        "insufficient": 560
+        "verified": 466,
+        "insufficient": 560,
+        "partial": 1
       }
     }
   },
@@ -2320,7 +2320,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "运行手册与公司政策",
       "tags": [
-        "飞机概况"
+        "飞机概况",
+        "手册已核对"
       ],
       "question": "翼上紧急出口信号灯亮表明：",
       "options": [
@@ -2349,13 +2350,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概况)",
+        "status": "verified",
+        "manual": "运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》运行手册。正确答案为['D']（相应的翼上出口未关闭锁定或指令锁定时，相应的飞行锁却无法接通）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "翼上紧急出口信号灯亮表明"
     },
@@ -2376,7 +2377,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "运行手册与公司政策",
       "tags": [
-        "飞机概况"
+        "飞机概况",
+        "手册已核对"
       ],
       "question": "按压机组氧气面板上的“复位/测试”按钮可以：",
       "options": [
@@ -2405,13 +2407,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概况)",
+        "status": "verified",
+        "manual": "运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》运行手册。正确答案为['D']（进行氧气面罩是否破损的测试或收起“OXYON”白色指示）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "按压机组氧气面板上的复位/测试按钮可以"
     },
@@ -2432,7 +2434,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "运行手册与公司政策",
       "tags": [
-        "飞机概况"
+        "飞机概况",
+        "手册已核对"
       ],
       "question": "将机组氧气面板上的“正常/100%”电门在飞行前准备时应放到“100%”位，这个位置可以提供怎样的氧气？",
       "options": [
@@ -2461,13 +2464,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概况)",
+        "status": "verified",
+        "manual": "运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》运行手册。正确答案为['A']（100%纯氧）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "将机组氧气面板上的正常/100%电门在飞行前准备时应放到100%位这个位置可以提供怎样的氧气"
     },
@@ -2488,7 +2491,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "运行手册与公司政策",
       "tags": [
-        "飞机概况"
+        "飞机概况",
+        "手册已核对"
       ],
       "question": "将机组氧气面板上的“紧急/测试”旋钮旋转，则",
       "options": [
@@ -2517,13 +2521,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概况)",
+        "status": "verified",
+        "manual": "运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》运行手册。正确答案为['B']（在任何座舱高度都以正压力提供100%氧气）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "将机组氧气面板上的紧急/测试旋钮旋转则"
     },
@@ -2601,7 +2605,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "运行手册与公司政策",
       "tags": [
-        "飞机概况"
+        "飞机概况",
+        "手册已核对"
       ],
       "question": "当正常电源失效时，备用电源系统可以向哪些驾驶舱灯光提供电源：",
       "options": [
@@ -2630,13 +2635,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概况)",
+        "status": "verified",
+        "manual": "运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》运行手册。正确答案为['C']（罗盘灯，圆顶灯，仪表泛光灯，选择的系统信息和警告灯）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当正常电源失效时备用电源系统可以向哪些驾驶舱灯光提供电源"
     },
@@ -2657,7 +2662,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "运行手册与公司政策",
       "tags": [
-        "飞机概况"
+        "飞机概况",
+        "手册已核对"
       ],
       "question": "驾驶舱哪些风挡可以从飞机外侧打开？",
       "options": [
@@ -2686,13 +2692,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概况)",
+        "status": "verified",
+        "manual": "运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》运行手册。正确答案为['C']（仅F/O的2号风挡）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "驾驶舱哪些风挡可以从飞机外侧打开"
     },
@@ -3169,7 +3175,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "着陆期间，两个空调组件电门都在自动位时，如果一个组件故障不工作：",
       "options": [
@@ -3198,13 +3205,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['B']（另一个组件仍保持正常流量）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "着陆期间两个空调组件电门都在自动位时如果一个组件故障不工作"
     },
@@ -3225,7 +3232,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "两个发动机引气电门关且APU引气电门开，空调组件电门在“AUTO”位，组件何时提供高流量？",
       "options": [
@@ -3254,13 +3262,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（不论空中地面、襟翼位置及几个组件工作，始终提供高流量）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "两个发动机引气电门关且apu引气电门开空调组件电门在auto位组件何时提供高流量"
     },
@@ -3281,7 +3289,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "冲压空气系统的冲压进气门在全开位时，冲压进气门全开灯（RAMDOORFULLOPEN）灯亮，那此门何时移向全开位？",
       "options": [
@@ -3310,13 +3319,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（在地面，或空中襟翼放下时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "冲压空气系统的冲压进气门在全开位时冲压进气门全开灯(ramdoorfullopen)灯亮那此门何时移向全开位"
     },
@@ -3337,7 +3346,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "冲压空气系统折流门的作用时：",
       "options": [
@@ -3366,13 +3376,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（防止在起飞、着陆期间吸入泥浆）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "冲压空气系统折流门的作用时"
     },
@@ -3393,7 +3403,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "冲压空气系统折流门：",
       "options": [
@@ -3422,13 +3433,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（由空地逻辑控制放出和收回）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "冲压空气系统折流门"
     },
@@ -3449,7 +3460,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "左、右空调组件的输出温度由什么决定的？",
       "options": [
@@ -3478,13 +3490,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['C']（由驾驶舱、前和后客舱三个温度选钮中的最低值决定）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "左右空调组件的输出温度由什么决定的"
     },
@@ -3505,7 +3517,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "什么情况会使温度控制系统分别独立地控制两个空调组件？",
       "options": [
@@ -3534,13 +3547,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（任何舱区只要存在失去调节空气的情况时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "什么情况会使温度控制系统分别独立地控制两个空调组件"
     },
@@ -3561,7 +3574,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "如果所有的区域控制和组件主控制都失效，则备用控制组件会调定怎样的驾驶舱和客舱温度？",
       "options": [
@@ -3590,13 +3604,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['C']（三个舱的温度都是前后客舱温度选钮调置的平均值）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如果所有的区域控制和组件主控制都失效则备用控制组件会调定怎样的驾驶舱和客舱温度"
     },
@@ -3617,7 +3631,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "自动、备用和人工增压方式使用什么马达控制排气活门？",
       "options": [
@@ -3646,13 +3661,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（自动直流马达，备用直流马达，人工直流马达）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "自动备用和人工增压方式使用什么马达控制排气活门"
     },
@@ -3673,7 +3688,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "正常情况下，用于E/E舱设备冷却的空气排到何处？",
       "options": [
@@ -3702,13 +3718,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['C']（空中压差较大时排到前货舱，空中低压差和地面排到机外）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "正常情况下用于e/e舱设备冷却的空气排到何处"
     },
@@ -3729,7 +3745,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "巡航期间，什么情况下，用于E/E舱设备冷却的空气会排到机外以增加排烟形态的通风性？",
       "options": [
@@ -3758,13 +3775,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['B']（将一个空调组件电门放到高流量位，且再循环风扇被关断时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "巡航期间什么情况下用于e/e舱设备冷却的空气会排到机外以增加排烟形态的通风性"
     },
@@ -3785,7 +3802,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "飞行期间，非计划下降灯亮了，则自动增压控制器以什么为目标进行增压？",
       "options": [
@@ -3814,13 +3832,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['B']（起飞机场标高）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行期间非计划下降灯亮了则自动增压控制器以什么为目标进行增压"
     },
@@ -3842,7 +3860,8 @@ window.B737_QUESTION_BANK = {
       "category": "气源系统",
       "tags": [
         "空气系统",
-        "答案冲突"
+        "答案冲突",
+        "手册已核对"
       ],
       "question": "增压的巡航方式何时开始工作？",
       "options": [
@@ -3871,13 +3890,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['C']（爬到巡航高度O.25PSI范围内时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "增压的巡航方式何时开始工作"
     },
@@ -3898,7 +3917,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "增压的下降方式何时开始工作？",
       "options": [
@@ -3927,13 +3947,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（飞机下降到低于所选飞行高度0.25PSI时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "增压的下降方式何时开始工作"
     },
@@ -3954,7 +3974,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "用增压系统的人工方式调节排气活门，排气活门全程移动大约需多长时间？",
       "options": [
@@ -3983,13 +4004,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（20秒）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "用增压系统的人工方式调节排气活门排气活门全程移动大约需多长时间"
     },
@@ -4010,7 +4031,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "气源系统",
       "tags": [
-        "空气系统"
+        "空气系统",
+        "手册已核对"
       ],
       "question": "若座舱高度/形态警告喇叭间歇地响或飞机高度在14000英尺以上快速失去座舱压力，首先应该做什么？",
       "options": [
@@ -4034,13 +4056,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（载上氧气面罩，选择100%供氧）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "若座舱高度/形态警告喇叭间歇地响或飞机高度在14000英尺以上快速失去座舱压力首先应该做什么"
     },
@@ -4061,7 +4083,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "以下哪种情况下马赫/空速窗会显示用马赫/空速选择旋钮所选的速度？",
       "options": [
@@ -4090,13 +4113,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（高度层改变方式接通）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下哪种情况下马赫/空速窗会显示用马赫/空速选择旋钮所选的速度"
     },
@@ -4117,7 +4140,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "自动油门预位后，以下哪种情况会自动接通自动油门的N1方式？",
       "options": [
@@ -4141,13 +4165,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（接通VNAV方式爬升）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "自动油门预位后以下哪种情况会自动接通自动油门的n1方式"
     },
@@ -4168,7 +4192,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "在使用街导航进行航径下降（VNAVPATH）的过程中，自动油门是如何工作的？",
       "options": [
@@ -4192,13 +4217,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（保持慢车推力，但当地速低得难以维持FMC垂直航径时，则转变为FMCSPD方式）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在使用街导航进行航径下降(vnavpath)的过程中自动油门是如何工作的"
     },
@@ -4276,7 +4301,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "以下说法哪一项是正确的？",
       "options": [
@@ -4305,13 +4331,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（高度保持方式接通时，自动油门保持MCP速度）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下说法哪一项是正确的"
     },
@@ -4332,7 +4358,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "垂直导航爬升中，按压高度干预（ALTINTV）电门会出现什么情况？",
       "options": [
@@ -4361,13 +4388,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（MCP高度之下的最低FMC高度限制被删除）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "垂直导航爬升中按压高度干预(altintv)电门会出现什么情况"
     },
@@ -4388,7 +4415,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "当横滚接通在VOR或LOC方式时，副驾驶的飞行指引仪的信息来自哪",
       "options": [
@@ -4412,13 +4440,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（第二部甚高频导航接收机）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当横滚接通在vor或loc方式时副驾驶的飞行指引仪的信息来自哪"
     },
@@ -4439,7 +4467,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "副驾驶的航道窗，不向以下那个设备提供所选的航道数据？",
       "options": [
@@ -4468,13 +4497,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（第一部飞行控制计算机（FCCA））。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "副驾驶的航道窗不向以下那个设备提供所选的航道数据"
     },
@@ -4552,7 +4581,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "航向道和下滑道捕获后，以下哪一个动作不会导致进近方式脱开？",
       "options": [
@@ -4581,13 +4611,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（按压APP电门）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "航向道和下滑道捕获后以下哪一个动作不会导致进近方式脱开"
     },
@@ -4608,7 +4638,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "飞机在指引仪方式起飞后，把自动驾驶A接通在指令（CMD）位，自动驾驶的俯仰接通在什么方式？",
       "options": [
@@ -4637,13 +4668,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（高度层改变）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞机在指引仪方式起飞后把自动驾驶a接通在指令(cmd)位自动驾驶的俯仰接通在什么方式"
     },
@@ -4664,7 +4695,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "自动驾驶A接通在CMD位，俯仰工作在CWSP方式，当飞机接近MCP上所选择的高度时，会出现什么情况？",
       "options": [
@@ -4693,13 +4725,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（俯仰显示高度截获(ALTACQ)）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "自动驾驶a接通在cmd位俯仰工作在cwsp方式当飞机接近mcp上所选择的高度时会出现什么情况"
     },
@@ -4720,7 +4752,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "自动驾驶的俯仰工作在高度保持(ALTHOLD)方式，人工超控俯仰使飞机偏离所选择的高度200英尺，松手后，俯仰会出现以下哪种情况？",
       "options": [
@@ -4749,13 +4782,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（先显示ALTACQ，回到选择的高度后显示ALTHOLD）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "自动驾驶的俯仰工作在高度保持(althold)方式人工超控俯仰使飞机偏离所选择的高度200英尺松手后俯仰会出现以下哪种情况"
     },
@@ -4946,7 +4979,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "当自动驾驶未接通指令方式，两个飞行指引电门接通并存在哪个条件时，出现飞行指引独立工作方式？",
       "options": [
@@ -4975,13 +5009,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（复飞方式接通，无线电高度400英尺以下）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当自动驾驶未接通指令方式两个飞行指引电门接通并存在哪个条件时出现飞行指引独立工作方式"
     },
@@ -5002,7 +5036,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "以下哪个不属于自动油门的工作方式？",
       "options": [
@@ -5031,13 +5066,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（起飞方式）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下哪个不属于自动油门的工作方式"
     },
@@ -5058,7 +5093,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "以下哪个不是自动驾驶飞行指引仪的俯仰方式？",
       "options": [
@@ -5087,13 +5123,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（进近方式）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下哪个不是自动驾驶飞行指引仪的俯仰方式"
     },
@@ -5114,7 +5150,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "以下哪种情况下可以截获水平导航？",
       "options": [
@@ -5138,13 +5175,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（在任何航向上并且距有效航段3海里以内）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下哪种情况下可以截获水平导航"
     },
@@ -5165,7 +5202,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "以下那种自动油门的工作方式，会使得人工移动油门杆后而不会引起自动油门的重置？",
       "options": [
@@ -5194,13 +5232,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（推力保持）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下那种自动油门的工作方式会使得人工移动油门杆后而不会引起自动油门的重置"
     },
@@ -5221,7 +5259,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "以下哪种情况自动油门会自动脱开，且自动油门脱开灯不亮？",
       "options": [
@@ -5250,13 +5289,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（接地后两秒）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下哪种情况自动油门会自动脱开且自动油门脱开灯不亮"
     },
@@ -5277,7 +5316,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "现无线电高度1800英尺，两个飞行指引仪电门在关位，在下面哪咱情况下，按下起飞/复飞电门，两套飞行指引会自动",
       "options": [
@@ -5306,13 +5346,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（速度80海里/小时后，并且离地150秒内）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "现无线电高度1800英尺两个飞行指引仪电门在关位在下面哪咱情况下按下起飞/复飞电门两套飞行指引会自动"
     },
@@ -5333,7 +5373,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "起飞过程中，当指示空速到达60海里/小时前，飞行方式显示上的俯仰方式为",
       "options": [
@@ -5362,13 +5403,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（起飞/复飞）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起飞过程中当指示空速到达60海里/小时前飞行方式显示上的俯仰方式为"
     },
@@ -5389,7 +5430,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "起飞过程中，当指示空速到达84海里/小时后，飞行方式显示上的自动油门方式为",
       "options": [
@@ -5418,13 +5460,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（推力保持）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起飞过程中当指示空速到达84海里/小时后飞行方式显示上的自动油门方式为"
     },
@@ -5445,7 +5487,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "起飞过程中，自动油门保持推力保持方式直到无线电高度多少英尺，自动油门显示从推力保持变为预位？",
       "options": [
@@ -5474,13 +5517,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（800英尺）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起飞过程中自动油门保持推力保持方式直到无线电高度多少英尺自动油门显示从推力保持变为预位"
     },
@@ -5501,7 +5544,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "双通道进近时，在无线电高度多少以前，必须接通第二部自动驾驶？",
       "options": [
@@ -5530,13 +5574,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（800英尺）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "双通道进近时在无线电高度多少以前必须接通第二部自动驾驶"
     },
@@ -5557,7 +5601,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "自动驾驶双通道进近过程中，什么时候进近电门灯灭？",
       "options": [
@@ -5581,13 +5626,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（航向道和下滑道截获后）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "自动驾驶双通道进近过程中什么时候进近电门灯灭"
     },
@@ -5608,7 +5653,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "航向道截获点与下面哪个因素有关？",
       "options": [
@@ -5637,13 +5683,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（切入角和接近率）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "航向道截获点与下面哪个因素有关"
     },
@@ -5721,7 +5767,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "在双通道进近期间，航向道和下滑道都截获后，在低于多少无线电高度时，后接通的自动驾驶与飞行操纵系统耦合？",
       "options": [
@@ -5750,13 +5797,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（1500英尺）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在双通道进近期间航向道和下滑道都截获后在低于多少无线电高度时后接通的自动驾驶与飞行操纵系统耦合"
     },
@@ -5777,7 +5824,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "在双通道进近期间，什么时候自动驾驶复飞方式预位？",
       "options": [
@@ -5806,13 +5854,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（拉平预位时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在双通道进近期间什么时候自动驾驶复飞方式预位"
     },
@@ -5833,7 +5881,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "关天下滑道截获，下面哪个说法是错的？",
       "options": [
@@ -5862,13 +5911,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（在推力方式指示上显示CRZ）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关天下滑道截获下面哪个说法是错的"
     },
@@ -5889,7 +5938,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "自动驾驶ILS进近，在相差多少个点时下滑道截获？",
       "options": [
@@ -5918,13 +5968,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（2/5个点）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "自动驾驶ils进近在相差多少个点时下滑道截获"
     },
@@ -5945,7 +5995,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "自动驾驶ILS进近，在当航向道截获时，自动驾驶飞行指引仪状态显示为：",
       "options": [
@@ -5974,13 +6025,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（单通道）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "自动驾驶ils进近在当航向道截获时自动驾驶飞行指引仪状态显示为"
     },
@@ -6001,7 +6052,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "在双通道进近期间，当到达无线电高度350英尺时，未看到拉平预位，此时",
       "options": [
@@ -6030,13 +6082,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（两部自动驾驶自动脱开）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在双通道进近期间当到达无线电高度350英尺时未看到拉平预位此时"
     },
@@ -6057,7 +6109,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "自动驾驶单通道进近期间，航向道和下滑道截获后，自动驾驶状态显示：",
       "options": [
@@ -6086,13 +6139,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（单通道）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "自动驾驶单通道进近期间航向道和下滑道截获后自动驾驶状态显示"
     },
@@ -6113,7 +6166,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "当自动油门预位电门在ARM位时，以下哪个条件不会使自动油门的复飞方式预位？",
       "options": [
@@ -6142,13 +6196,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（接通两部自动驾驶）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当自动油门预位电门在arm位时以下哪个条件不会使自动油门的复飞方式预位"
     },
@@ -6169,7 +6223,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "要想自动油门加到全复飞N1限制值，何时第二次按压任一TO/GA电门？",
       "options": [
@@ -6198,13 +6253,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（在自动油门达到减推力复飞推力后按压）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "要想自动油门加到全复飞n1限制值何时第二次按压任一to/ga电门"
     },
@@ -6225,7 +6280,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "在无线电高度400英尺以下，如何终止自动驾驶的复飞方式？",
       "options": [
@@ -6254,13 +6310,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（脱开自动驾驶和飞行指引仪）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在无线电高度400英尺以下如何终止自动驾驶的复飞方式"
     },
@@ -6339,7 +6395,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "若在飞行指引起飞或复飞阶段遭遇了风切变，飞行指引俯仰指令多少度的上仰姿态？",
       "options": [
@@ -6368,13 +6425,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（15度）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "若在飞行指引起飞或复飞阶段遭遇了风切变飞行指引俯仰指令多少度的上仰姿态"
     },
@@ -6447,7 +6504,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "使用高度层改变爬升与垂直导航爬升相比较：",
       "options": [
@@ -6471,13 +6529,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（若自动油门已预位，则自动油门都接通在N1方式）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "使用高度层改变爬升与垂直导航爬升相比较"
     },
@@ -6498,7 +6556,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "自动油门接通在N1方式，表明",
       "options": [
@@ -6527,13 +6586,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（自动油门将推力保持在选定的N1限制值）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "自动油门接通在n1方式表明"
     },
@@ -9399,7 +9458,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "什以情况下，将偏航阻尼器电门接通时，备用偏航阻尼器与备用方向舵动力控制组件接通？",
       "options": [
@@ -9428,13 +9488,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（当飞行操纵A和B电门都在备用方向舵（STBYRUD）位时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "什以情况下将偏航阻尼器电门接通时备用偏航阻尼器与备用方向舵动力控制组件接通"
     },
@@ -9455,7 +9515,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "备和襟翼位置电门何时预位？",
       "options": [
@@ -9484,13 +9545,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['C']（当备用襟翼主电门放到“预位”位时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "备和襟翼位置电门何时预位"
     },
@@ -9511,7 +9572,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "备用襟翼主电门在“ARM”位时，将备用襟翼位置电门放到“UP”位可以：",
       "options": [
@@ -9540,13 +9602,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（电动收上后缘襟翼）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "备用襟翼主电门在arm位时将备用襟翼位置电门放到up位可以"
     },
@@ -9624,7 +9686,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "起飞期间出现升降舵卡阻，如何可以在带杆情况下用配平电门打低头配平？",
       "options": [
@@ -9653,13 +9716,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['C']（将安定面配平超控电门扳到“超控”位）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起飞期间出现升降舵卡阻如何可以在带杆情况下用配平电门打低头配平"
     },
@@ -9680,7 +9743,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "使用方向舵脚登控制前轮转变的最大角度是多少？",
       "options": [
@@ -9709,13 +9773,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['B']（左右7度）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "使用方向舵脚登控制前轮转变的最大角度是多少"
     },
@@ -9793,7 +9857,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "如果襟翼位置指示器的两个指针出现分叉，说明什么？",
       "options": [
@@ -9822,13 +9887,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（后缘襟翼不对称）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如果襟翼位置指示器的两个指针出现分叉说明什么"
     },
@@ -9849,7 +9914,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "如需要，哪些主操纵面可以人工操纵？",
       "options": [
@@ -9878,13 +9944,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（副翼和升降舵）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如需要哪些主操纵面可以人工操纵"
     },
@@ -9963,7 +10029,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "扰流板在空中有哪些功能？",
       "options": [
@@ -9992,13 +10059,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（增加飞机的下降率或配合副翼进行横滚操纵）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "扰流板在空中有哪些功能"
     },
@@ -10019,7 +10086,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "副翼卡阻时，如何进行横滚操纵？",
       "options": [
@@ -10043,13 +10111,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['C']（由副驾驶的驾驶盘通过扰流板控制）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "副翼卡阻时如何进行横滚操纵"
     },
@@ -10070,7 +10138,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "飞行期间，发生了驾驶盘卡阻；在施加压服操纵之后，机长的驾驶盘可以操纵，副驾驶的依然动不了，这说明：",
       "options": [
@@ -10099,13 +10168,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['C']（扰流板发生卡阻，机长通过副翼控制横滚）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行期间发生了驾驶盘卡阻在施加压服操纵之后机长的驾驶盘可以操纵副驾驶的依然动不了这说明"
     },
@@ -10126,7 +10195,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "副翼配平通过什么进行？",
       "options": [
@@ -10155,13 +10225,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（副翼感觉和定中组件）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "副翼配平通过什么进行"
     },
@@ -10182,7 +10252,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "驾驶盘偏转超过大约多少度时，飞行扰流板才会配合副翼工作？",
       "options": [
@@ -10211,13 +10282,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['C']（10度）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "驾驶盘偏转超过大约多少度时飞行扰流板才会配合副翼工作"
     },
@@ -10295,7 +10366,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "马赫数大于时，随着速度的增加，升降舵根据而调整，从而自动完成马赫配平。",
       "options": [
@@ -10324,13 +10396,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（0.615，安定面位置）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "马赫数大于时随着速度的增加升降舵根据而调整从而自动完成马赫配平"
     },
@@ -10351,7 +10423,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "大迎角飞行时，失速管理/偏航阻尼计算机如何改变偏航阻尼器指令的方向舵偏转量？",
       "options": [
@@ -10380,13 +10453,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['C']（减小）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "大迎角飞行时失速管理/偏航阻尼计算机如何改变偏航阻尼器指令的方向舵偏转量"
     },
@@ -10579,7 +10652,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "地面扰流板由谁供压？",
       "options": [
@@ -10608,13 +10682,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（A系统）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "地面扰流板由谁供压"
     },
@@ -10635,7 +10709,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "着陆期间，减速板手柄预位且预位灯亮，当飞机低于RA10英尺后，满足推力手柄都在慢车位、起落架减震支柱压缩且主轮的转速达到节以上时，减速板手柄何时自动移向“UP”位",
       "options": [
@@ -10664,13 +10739,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['A']（两个；任一；60）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "着陆期间减速板手柄预位且预位灯亮当飞机低于ra10英尺后满足推力手柄都在慢车位起落架减震支柱压缩且主轮的转速达到节以上时减速板手柄何时自动移向up位"
     },
@@ -10691,7 +10766,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行操纵",
       "tags": [
-        "飞行操纵"
+        "飞行操纵",
+        "手册已核对"
       ],
       "question": "速度配平系统一般在什么时候工作？",
       "options": [
@@ -10720,13 +10796,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。正确答案为['D']（起飞、爬升和复飞期间。）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "速度配平系统一般在什么时候工作"
     },
@@ -15138,7 +15214,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "在地图方式，若选择的范围为640海里时，那么气象雷达回波限制为多少？",
       "options": [
@@ -15167,13 +15244,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（320海里）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在地图方式若选择的范围为640海里时那么气象雷达回波限制为多少"
     },
@@ -15194,7 +15271,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "计划航路上的航路点预计到达时间由哪个地图电门控制显示？",
       "options": [
@@ -15223,13 +15301,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（DATA）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "计划航路上的航路点预计到达时间由哪个地图电门控制显示"
     },
@@ -15250,7 +15328,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "当显示源选择电门在“AUTO”位时，下显示组件由哪个显示电子组件（DEU）控制？",
       "options": [
@@ -15279,13 +15358,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['B']（2号）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当显示源选择电门在auto位时下显示组件由哪个显示电子组件(deu)控制"
     },
@@ -15363,7 +15442,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "若把机长的主面板显示组件选择开关放“0UTBDPFD”位时，机长的内侧显示组件显示：",
       "options": [
@@ -15392,13 +15472,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（空白）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "若把机长的主面板显示组件选择开关放0utbdpfd位时机长的内侧显示组件显示"
     },
@@ -15419,7 +15499,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "在空中，若把速度基准电门放“Vref”位，会显示：",
       "options": [
@@ -15448,13 +15529,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（人工调定的着陆基准速度）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在空中若把速度基准电门放vref位会显示"
     },
@@ -15475,7 +15556,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "可通过按压综合备用飞行显示的复位按钮来复位，复位大概需要：",
       "options": [
@@ -15504,13 +15586,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（10秒）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "可通过按压综合备用飞行显示的复位按钮来复位复位大概需要"
     },
@@ -15531,7 +15613,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "飞行记录器在地面的工作条件是什么？",
       "options": [
@@ -15560,13 +15643,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（只要一台发动机工作）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行记录器在地面的工作条件是什么"
     },
@@ -15588,7 +15671,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "飞行仪表",
-        "答案冲突"
+        "答案冲突",
+        "手册已核对"
       ],
       "question": "机长的主面板显示组件选择电门在“正常”位，若机长的外侧显示组件失效，则机长这边的主飞行显示会：",
       "options": [
@@ -15617,13 +15701,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['B']（自动显不在机长的内侧显示组件上）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "机长的主面板显示组件选择电门在正常位若机长的外侧显示组件失效则机长这边的主飞行显示会"
     },
@@ -15701,7 +15785,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "综合备用飞行显示所提供的姿态、空速和高度信息独立于主飞行显示。这种说法是否正确？",
       "options": [
@@ -15720,13 +15805,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（正确）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "综合备用飞行显示所提供的姿态空速和高度信息独立于主飞行显示这种说法是否正确"
     },
@@ -15747,7 +15832,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "综合备用飞行显示在提供姿态信息前是否需要校准？",
       "options": [
@@ -15766,13 +15852,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（需要）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "综合备用飞行显示在提供姿态信息前是否需要校准"
     },
@@ -15850,7 +15936,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "当电瓶汇流条不可用时，飞机上的时钟由以下哪个供电？",
       "options": [
@@ -15879,13 +15966,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['B']（热电瓶汇流条）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当电瓶汇流条不可用时飞机上的时钟由以下哪个供电"
     },
@@ -15906,7 +15993,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "在空中，什么条件下，飞行记录器才能工作？",
       "options": [
@@ -15930,13 +16018,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（只要有交流电就可以）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在空中什么条件下飞行记录器才能工作"
     },
@@ -15958,7 +16046,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "飞行仪表",
-        "答案冲突"
+        "答案冲突",
+        "手册已核对"
       ],
       "question": "风向/风速和风向箭头在以下哪种情况下可能显示出来？",
       "options": [
@@ -15987,13 +16076,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['C']（在地图方式下，风量为7节）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "风向/风速和风向箭头在以下哪种情况下可能显示出来"
     },
@@ -16014,7 +16103,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "建议在飞行的大多数阶段都使用的ND方式是以下哪一种？",
       "options": [
@@ -16043,13 +16133,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（MAP）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "建议在飞行的大多数阶段都使用的nd方式是以下哪一种"
     },
@@ -16070,7 +16160,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "显示与警告",
       "tags": [
-        "飞行仪表"
+        "飞行仪表",
+        "手册已核对"
       ],
       "question": "双FMC失效，只能使用速度基准电门设置飞机参数，以下正确的是：",
       "options": [
@@ -16099,13 +16190,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表与显示)/第15章(警告系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章(飞行仪表与显示)/第15章(警告系统)。正确答案为['A']（设置重量时，一定要输入飞机全重，而不输入无燃油重量）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "双fmc失效只能使用速度基准电门设置飞机参数以下正确的是"
     },
@@ -16973,7 +17064,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车"
+        "起落架和刹车",
+        "手册已核对"
       ],
       "question": "前轮转弯手轮提供的最大前轮偏转角度是什以？",
       "options": [
@@ -17002,13 +17094,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['B']（左右各78度）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "前轮转弯手轮提供的最大前轮偏转角度是什以"
     },
@@ -17029,7 +17121,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车"
+        "起落架和刹车",
+        "手册已核对"
       ],
       "question": "起落架收起来后，轮子是怎么样停止转动的？",
       "options": [
@@ -17058,13 +17151,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['C']（收起落架期间，刹车系统自动给主起落架机轮提供刹车压力使其停止转动，前轮则依靠前轮舱内的制动装置停止转动。）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起落架收起来后轮子是怎么样停止转动的"
     },
@@ -17085,7 +17178,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车"
+        "起落架和刹车",
+        "手册已核对"
       ],
       "question": "刹车蓄压瓶是依靠哪个液压系统来增压，用于提供正常和备用刹车都丧失后的刹车压力的？",
       "options": [
@@ -17114,13 +17208,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['B']（B液压系统）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "刹车蓄压瓶是依靠哪个液压系统来增压用于提供正常和备用刹车都丧失后的刹车压力的"
     },
@@ -17141,7 +17235,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车"
+        "起落架和刹车",
+        "手册已核对"
       ],
       "question": "下面哪项不具备防滞保护功能？",
       "options": [
@@ -17170,13 +17265,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['D']（使用停留刹车时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面哪项不具备防滞保护功能"
     },
@@ -17197,7 +17292,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车"
+        "起落架和刹车",
+        "手册已核对"
       ],
       "question": "下面关于防滞保护功能的说法的是？",
       "options": [
@@ -17226,13 +17322,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（正常和备用刹车系统，都可以给每个主起落架机轮提供单独的防滞保护）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面关于防滞保护功能的说法的是"
     },
@@ -17253,7 +17349,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车"
+        "起落架和刹车",
+        "手册已核对"
       ],
       "question": "起飞前选择自动刹车RTO时，琥珀色的自动刹车解除预位灯亮了大约2秒钟，然后熄灭，这种现象表明？",
       "options": [
@@ -17282,13 +17379,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['B']（这种现象是正常的，表明系统的自测已经通过）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起飞前选择自动刹车rto时琥珀色的自动刹车解除预位灯亮了大约2秒钟然后熄灭这种现象表明"
     },
@@ -17309,7 +17406,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车"
+        "起落架和刹车",
+        "手册已核对"
       ],
       "question": "下面关于自动刹车的中断起飞方式的描述错误的是？",
       "options": [
@@ -17338,13 +17436,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['B']（选择中断起飞方式后，若在轮速达到90海里/小时前中断起飞，自动刹车将不会开始工作，但是自动刹车解除预位灯将亮，提示机组自）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面关于自动刹车的中断起飞方式的描述错误的是"
     },
@@ -17365,7 +17463,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车"
+        "起落架和刹车",
+        "手册已核对"
       ],
       "question": "空地系统从哪里获得空地逻辑信号？",
       "options": [
@@ -17394,13 +17493,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['C']（位于起落架上的6个传感器）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "空地系统从哪里获得空地逻辑信号"
     },
@@ -17421,7 +17520,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "起落架与刹车",
       "tags": [
-        "起落架和刹车"
+        "起落架和刹车",
+        "手册已核对"
       ],
       "question": "以下哪些原因可能导致起飞后起落架手柄不能移到收上位置",
       "options": [
@@ -17450,13 +17550,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['D']（其它各项原因均有可能）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下哪些原因可能导致起飞后起落架手柄不能移到收上位置"
     },
@@ -17477,7 +17577,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "在CDU的页面上要求必须输入数据的行用什么来显示？",
       "options": [
@@ -17501,13 +17602,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['C']（方格）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在cdu的页面上要求必须输入数据的行用什么来显示"
     },
@@ -17528,7 +17629,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "当左、右前仪表板上FMC（琥珀色）警戒灯亮时，下面哪个说法正确？",
       "options": [
@@ -17557,13 +17659,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（其它各项都正确）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当左右前仪表板上fmc(琥珀色)警戒灯亮时下面哪个说法正确"
     },
@@ -17584,7 +17686,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "全球定位系统（GPS）指示灯在什么位置？",
       "options": [
@@ -17608,13 +17711,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（在后顶板上）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "全球定位系统(gps)指示灯在什么位置"
     },
@@ -17692,7 +17795,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "IRS方式选择电门在姿态（ATT）位，当姿态信息可用，起始磁航向被输入，航向信息可用时，白色校准灯：",
       "options": [
@@ -17716,13 +17820,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（灭）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "irs方式选择电门在姿态(att)位当姿态信息可用起始磁航向被输入航向信息可用时白色校准灯"
     },
@@ -17743,7 +17847,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "737-800应答机的高度报告由什么控制？",
       "options": [
@@ -17767,13 +17872,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（由应答机方式选择电门来控制）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "737-800应答机的高度报告由什么控制"
     },
@@ -17794,7 +17899,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "气象雷达在什么方式工作时，可使用面板上的增益控制旋钮设置接收机灵敏度？",
       "options": [
@@ -17823,13 +17929,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（除了测试（TEST）位以外的其它方式都可以）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "气象雷达在什么方式工作时可使用面板上的增益控制旋钮设置接收机灵敏度"
     },
@@ -17964,7 +18070,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "全球定位系统经纬度位置显示在哪个页面？",
       "options": [
@@ -17993,13 +18100,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（位置基准页2/3）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "全球定位系统经纬度位置显示在哪个页面"
     },
@@ -18077,7 +18184,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "怎样解除对全球定位系统（GPS）信息的选择？",
       "options": [
@@ -18106,13 +18214,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（通过导航选项页2/2）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "怎样解除对全球定位系统(gps)信息的选择"
     },
@@ -18133,7 +18241,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "主飞行显示器、导航显示器上的航向信息来自于：",
       "options": [
@@ -18162,13 +18271,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（IRS）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "主飞行显示器导航显示器上的航向信息来自于"
     },
@@ -18189,7 +18298,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "737-800的IRS校准根据飞机所在纬度的不同，校准时间变化为多少？",
       "options": [
@@ -18218,13 +18328,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（5～17分）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "737-800的irs校准根据飞机所在纬度的不同校准时间变化为多少"
     },
@@ -18246,7 +18356,8 @@ window.B737_QUESTION_BANK = {
       "category": "飞行管理系统",
       "tags": [
         "FMC和导航",
-        "答案冲突"
+        "答案冲突",
+        "手册已核对"
       ],
       "question": "在IRS校准期间，CDU草稿行显示“VERIFYPOSITION”核实位置信息，表示输入的位置与起飞机场之间误差已超过多少？",
       "options": [
@@ -18275,13 +18386,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（输入的位置与起飞机场之间误差已超过4海里）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在irs校准期间cdu草稿行显示verifyposition核实位置信息表示输入的位置与起飞机场之间误差已超过多少"
     },
@@ -18303,7 +18414,8 @@ window.B737_QUESTION_BANK = {
       "category": "飞行管理系统",
       "tags": [
         "FMC和导航",
-        "答案冲突"
+        "答案冲突",
+        "手册已核对"
       ],
       "question": "若要抑制某一DME台对FMC进行的位置更新，应在CDU的哪个页面上实现？",
       "options": [
@@ -18332,13 +18444,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（导航选项页（NAVOPTION））。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "若要抑制某一dme台对fmc进行的位置更新应在cdu的哪个页面上实现"
     },
@@ -18359,7 +18471,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "在飞行管理系统中，关于巡航阶段的定义哪项是正确的？",
       "options": [
@@ -18388,13 +18501,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（巡航阶段始于爬升定点，结束于起始下降点）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在飞行管理系统中关于巡航阶段的定义哪项是正确的"
     },
@@ -18524,7 +18637,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "在无线电高度2000英尺以下，按压TO/GA电门，FMC页面会显示一个自动指定的新的巡航高度。新的高度为：",
       "options": [
@@ -18553,13 +18667,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（其它三项者中的最高者）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在无线电高度2000英尺以下按压to/ga电门fmc页面会显示一个自动指定的新的巡航高度新的高度为"
     },
@@ -18580,7 +18694,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "CDU的草稿行显示“CHECKFMCFUELQUANTITY”信息，表示：",
       "options": [
@@ -18602,13 +18717,13 @@ window.B737_QUESTION_BANK = {
       ],
       "answer": [],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为[]（）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "cdu的草稿行显示checkfmcfuelquantity信息表示"
     },
@@ -18629,7 +18744,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "FMC推动电源后，以下哪种情况必须重新输入所有的数据",
       "options": [
@@ -18653,13 +18769,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（在地面失去电源超过10秒）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "fmc推动电源后以下哪种情况必须重新输入所有的数据"
     },
@@ -18680,7 +18796,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "IRS工作在姿态方式时，通过CDU的哪个页面来输入/更新磁航向？",
       "options": [
@@ -18704,13 +18821,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（位置起始页面）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "irs工作在姿态方式时通过cdu的哪个页面来输入/更新磁航向"
     },
@@ -18731,7 +18848,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "成本指数越大，",
       "options": [
@@ -18755,13 +18873,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（经济速度越大、飞行时间越短）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "成本指数越大"
     },
@@ -18834,7 +18952,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "输入预报的巡航风可以使FMC进行最佳计算。除了通过性能起始页面输入，还可以在哪个页面上输入？",
       "options": [
@@ -18863,13 +18982,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（航路数据页面（RTEDATE））。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "输入预报的巡航风可以使fmc进行最佳计算除了通过性能起始页面输入还可以在哪个页面上输入"
     },
@@ -18890,7 +19009,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "CLB1提供减少多少N1的爬升限制？",
       "options": [
@@ -18919,13 +19039,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（0.03）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "clb1提供减少多少n1的爬升限制"
     },
@@ -19060,7 +19180,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "在起飞基准1/2页输入V速度（V1、VR和V2）后，下面哪种数据发生变化时，会引起“VERIFYTAKEOFFSPEEDS”核实起飞速度",
       "options": [
@@ -19089,13 +19210,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（任何影响到性能计算的重量输入改变都会）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在起飞基准1/2页输入v速度(v1vr和v2)后下面哪种数据发生变化时会引起verifytakeoffspeeds核实起飞速度"
     },
@@ -19335,7 +19456,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "用高度层改变方式爬升期间，若想取消减推力爬升，使用全推力爬升，怎样实现？",
       "options": [
@@ -19364,13 +19486,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（通过RA15000英尺，飞机自动恢复全马力（CLB）爬升）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "用高度层改变方式爬升期间若想取消减推力爬升使用全推力爬升怎样实现"
     },
@@ -19443,7 +19565,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "飞行中如果FMC的位置不准了，经核实无线电位置是准的。若将FMC的位置更新到无线电位置，应通过哪个页面实现？",
       "options": [
@@ -19467,13 +19590,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（位置偏移页面）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中如果fmc的位置不准了经核实无线电位置是准的若将fmc的位置更新到无线电位置应通过哪个页面实现"
     },
@@ -19494,7 +19617,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "VNAV下降时，FMC使用一种叫能量补偿的特殊程序，以下说法正确的是：",
       "options": [
@@ -19523,13 +19647,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（在航径下降时，当方式控制面板临时设置一个高于计划下降航径的高度时，此程序才可能生效）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "vnav下降时fmc使用一种叫能量补偿的特殊程序以下说法正确的是"
     },
@@ -19551,7 +19675,8 @@ window.B737_QUESTION_BANK = {
       "category": "飞行管理系统",
       "tags": [
         "FMC和导航",
-        "答案冲突"
+        "答案冲突",
+        "手册已核对"
       ],
       "question": "将惯性显示组件上的系统显示（SYSDSPL）选择到“L”位的作用是什么？",
       "options": [
@@ -19575,13 +19700,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['C']（选择左IRS给惯性显示组件（ISDU)提供显示数据）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "将惯性显示组件上的系统显示(sysdspl)选择到l位的作用是什么"
     },
@@ -19654,7 +19779,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "如何理解在单发巡航页面左二行显示的目标速度（TGTSPD）",
       "options": [
@@ -19683,13 +19809,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（它是根据最小阻力计算的最佳速度）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如何理解在单发巡航页面左二行显示的目标速度(tgtspd)"
     },
@@ -19762,7 +19888,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "飞机下降时出现单发，机组应该：",
       "options": [
@@ -19786,13 +19913,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（使用正常的下降计划功能和页面）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞机下降时出现单发机组应该"
     },
@@ -19870,7 +19997,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "等待页面右四行显示的可用等待时间（HOLDAVAIL）是指：",
       "options": [
@@ -19899,13 +20027,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（飞机当前油量减去到达目的地的耗油及备份燃油后，所能在等待航线上以目标速度（TGTSPD）飞行的时间）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "等待页面右四行显示的可用等待时间(holdavail)是指"
     },
@@ -19926,7 +20054,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "飞行管理系统",
       "tags": [
-        "FMC和导航"
+        "FMC和导航",
+        "手册已核对"
       ],
       "question": "关于辅助导航数据库，以下正确的是：",
       "options": [
@@ -19950,13 +20079,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['C']（该数据库中的数据按照“先来先用”的原则。）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于辅助导航数据库以下正确的是"
     },
@@ -21441,7 +21570,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机"
+        "APU和发动机",
+        "手册已核对"
       ],
       "question": "燃油流量表显示的是什么位置的燃油流量？",
       "options": [
@@ -21470,13 +21600,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（流经发动机燃油关断活门后的）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "燃油流量表显示的是什么位置的燃油流量"
     },
@@ -21498,7 +21628,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "APU和发动机",
-        "答案冲突"
+        "答案冲突",
+        "手册已核对"
       ],
       "question": "将发动机起动电门扳到“GRD”位起动发动机期间，何时可以将发动机起动手柄提到慢车位？",
       "options": [
@@ -21527,13 +21658,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（N2达到25%或最大冷转时N2转速20%以）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "将发动机起动电门扳到grd位起动发动机期间何时可以将发动机起动手柄提到慢车位"
     },
@@ -21554,7 +21685,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机"
+        "APU和发动机",
+        "手册已核对"
       ],
       "question": "起动发动机期间，发动机起动电门何时会自动跳到“OFF”位？",
       "options": [
@@ -21583,13 +21715,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（N2达到大约56%时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起动发动机期间发动机起动电门何时会自动跳到off位"
     },
@@ -21610,7 +21742,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机"
+        "APU和发动机",
+        "手册已核对"
       ],
       "question": "在地面起动发动机期间，发动机电子控制可以提供什么保护？",
       "options": [
@@ -21639,13 +21772,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（热起动、起动超温和湿起动保护）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在地面起动发动机期间发动机电子控制可以提供什么保护"
     },
@@ -21666,7 +21799,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机"
+        "APU和发动机",
+        "手册已核对"
       ],
       "question": "在地面起动发动机期间，如果排气温度超过起动限制，下面哪句话错？",
       "options": [
@@ -21695,13 +21829,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（EGT数字读数方框闪亮）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在地面起动发动机期间如果排气温度超过起动限制下面哪句话错"
     },
@@ -21722,7 +21856,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机"
+        "APU和发动机",
+        "手册已核对"
       ],
       "question": "发动机起动系统控测到湿起动的情况下，发动机电子控制何时关闭点火和发动机燃油？",
       "options": [
@@ -21751,13 +21886,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['B']（起动手柄提到慢车位15秒后）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机起动系统控测到湿起动的情况下发动机电子控制何时关闭点火和发动机燃油"
     },
@@ -21778,7 +21913,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机"
+        "APU和发动机",
+        "手册已核对"
       ],
       "question": "发动机自动再点火功能提供的是什么保护？",
       "options": [
@@ -21807,13 +21943,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（熄火保护）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机自动再点火功能提供的是什么保护"
     },
@@ -21834,7 +21970,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机"
+        "APU和发动机",
+        "手册已核对"
       ],
       "question": "什么情况下，发动机点火器自动再点火？",
       "options": [
@@ -21863,13 +22000,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（N2非指令快速减小或低于慢车转速时）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "什么情况下发动机点火器自动再点火"
     },
@@ -21890,7 +22027,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机"
+        "APU和发动机",
+        "手册已核对"
       ],
       "question": "压下反推手柄指令反推收回时，反摊手柄在1号位停顿大约多长时间会导致反推套筒无法继续移动？",
       "options": [
@@ -21919,13 +22057,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（18秒）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "压下反推手柄指令反推收回时反摊手柄在1号位停顿大约多长时间会导致反推套筒无法继续移动"
     },
@@ -21946,7 +22084,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机"
+        "APU和发动机",
+        "手册已核对"
       ],
       "question": "什以情况会导致反推自动回收电路工作？",
       "options": [
@@ -21975,13 +22114,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（收上不完全或反推套筒非指令打开）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "什以情况会导致反推自动回收电路工作"
     },
@@ -22116,7 +22255,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机"
+        "APU和发动机",
+        "手册已核对"
       ],
       "question": "飞行期间液压B系统失效。预计着陆后：",
       "options": [
@@ -22145,13 +22285,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（右发反推放出的速度比左发的慢。）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行期间液压b系统失效预计着陆后"
     },
@@ -22173,7 +22313,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "APU和发动机",
-        "答案冲突"
+        "答案冲突",
+        "手册已核对"
       ],
       "question": "判断发动机漏油的依据有哪些：",
       "options": [
@@ -22202,13 +22343,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（发动机燃油流量过大，总油量以不正常的速率在减少且出现USINGRSVFUEL信息）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "判断发动机漏油的依据有哪些"
     },
@@ -22286,7 +22427,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "发动机系统",
       "tags": [
-        "APU和发动机"
+        "APU和发动机",
+        "手册已核对"
       ],
       "question": "在APU工作期间，什么情况下，APU自动关车？",
       "options": [
@@ -22315,13 +22457,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（其它各项都可以）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在apu工作期间什么情况下apu自动关车"
     },
@@ -22343,7 +22485,8 @@ window.B737_QUESTION_BANK = {
       "category": "发动机系统",
       "tags": [
         "APU和发动机",
-        "答案冲突"
+        "答案冲突",
+        "手册已核对"
       ],
       "question": "APU关车后，APU排气温度表保持供电多长时间？",
       "options": [
@@ -22372,13 +22515,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（5分钟）。请查阅该章节原文确认。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "apu关车后apu排气温度表保持供电多长时间"
     },
@@ -24372,7 +24515,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24885,7 +25028,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25396,7 +25539,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25438,7 +25581,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25480,7 +25623,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26378,7 +26521,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26420,7 +26563,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26462,7 +26605,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27522,7 +27665,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27564,7 +27707,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29463,7 +29606,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30141,7 +30284,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30184,7 +30327,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32059,7 +32202,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32101,7 +32244,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32143,7 +32286,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32185,7 +32328,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33202,7 +33345,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33244,7 +33387,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33286,7 +33429,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33328,7 +33471,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33370,7 +33513,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33412,7 +33555,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33454,7 +33597,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33496,7 +33639,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33538,7 +33681,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34595,7 +34738,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34681,7 +34824,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34766,7 +34909,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36288,7 +36431,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37351,7 +37494,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38745,7 +38888,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38787,7 +38930,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38829,7 +38972,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38871,7 +39014,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38957,7 +39100,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38999,7 +39142,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39041,7 +39184,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39891,7 +40034,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39933,7 +40076,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40018,7 +40161,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40102,7 +40245,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40144,7 +40287,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40186,7 +40329,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40228,7 +40371,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40270,7 +40413,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40312,7 +40455,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42301,7 +42444,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42428,7 +42571,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43111,7 +43254,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45285,7 +45428,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45327,7 +45470,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45369,7 +45512,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45411,7 +45554,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45453,7 +45596,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45495,7 +45638,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45537,7 +45680,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45579,7 +45722,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45621,7 +45764,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45663,7 +45806,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45920,7 +46063,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45962,7 +46105,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46048,7 +46191,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46174,7 +46317,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46216,7 +46359,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46947,7 +47090,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46989,7 +47132,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47033,7 +47176,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47075,7 +47218,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47117,7 +47260,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47159,7 +47302,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47203,7 +47346,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47288,7 +47431,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47330,7 +47473,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48777,7 +48920,7 @@ window.B737_QUESTION_BANK = {
         "manual": "",
         "section": "",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
