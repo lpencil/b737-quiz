@@ -34,9 +34,9 @@ window.B737_QUESTION_BANK = {
         "通讯": 9
       },
       "referenceStatusCounts": {
-        "verified": 218,
-        "partial": 199,
-        "insufficient": 610
+        "verified": 240,
+        "partial": 186,
+        "insufficient": 601
       }
     }
   },
@@ -8283,7 +8283,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。原文说明：有三个灭火瓶的释放电路连续性。 故障/不工作（FAULT/INOP）和过热/火警（OVHT/FIRE） 测试（TEST）电门 （弹簧保持在中间位） FAULT/INOP－测试两台发动机和APU 故障探测电路。 OVHT/FIRE－测试两台发动机过热和火警探测环路，并且测试APU 的 火警探测环路，以及轮舱火警探测器。 注：参阅第20 节“火警和过热探测系统故障测试”。 1 2 3 4。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：故障/不工作和过热/火警测试电门，FAULT/INOP 位测试两台发动机和 APU 故障探测电路。故将测试电门扳到 FAULT/INOP 位是测试故障探测电路，正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -8306,7 +8306,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "将火警保护面板上的火警测试电门扳倒过热/火警（OVHT/FIRE）位进行测试时，发现故（FAULT）灯亮了，说明什么？",
       "options": [
@@ -8333,13 +8334,13 @@ window.B737_QUESTION_BANK = {
       ],
       "answer": [],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：过热/火警（OVHT/FIRE）位测试两台发动机过热和火警探测环路。测试时若 FAULT 灯亮，根据系统说明——过热探测电门在正常位时 FAULT 灯亮表示一台发动机的两个探测环路已失效。故正确答案为 C（任意一个或多个发动机的火警探测环路故障）。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "将火警保护面板上的火警测试电门扳倒过热/火警(ovht/fire)位进行测试时发现故(fault)灯亮了说明什么"
     },
@@ -8360,7 +8361,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "将火警保护面板上的“OVHTDET”电门放到“NORMAL”位时，哪个探测环路工作？",
       "options": [
@@ -8389,13 +8391,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：过热探测（OVHT DET）电门 NORMAL 位时 A 和 B 探测环路同时工作。故正确答案为 D（A 和 B 环路同时工作）。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "将火警保护面板上的ovhtdet电门放到normal位时哪个探测环路工作"
     },
@@ -8450,7 +8452,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。原文说明：........................................................................................... 8.10.7 APU 地面控制面板 .......................................................................... 8.10.8 卫生间防火 ..。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：拉出 APU 火警电门会预位灭火瓶电路、关闭燃油关断活门/引气活门/进气门、跳开发电机控制继电器，但释放灭火瓶需要旋转灭火手柄才会执行，拉出仅预位。故释放 APU 灭火瓶不会在拉出时发生，正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -8473,7 +8475,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "厕所灭火瓶的热敏喷嘴为什么颜色表明灭火瓶已经释放？",
       "options": [
@@ -8502,13 +8505,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：卫生间灭火瓶的热敏喷嘴，浅黑色为正常，浅灰色表示灭火瓶已释放。故正确答案为 D（浅灰色）。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "厕所灭火瓶的热敏喷嘴为什么颜色表明灭火瓶已经释放"
     },
@@ -8563,7 +8566,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。原文说明：舱 发动机还安装过热探测系统。 主轮舱安装火警探测系统，但未安装灭火系统。 货舱有烟雾探测和灭火系统。 发动机防火 发动机防火系统的组成： ·电瓶汇流条供电的发动机过热和火警探测系统 ·热电瓶汇流条供电的发动机灭火系统 发动机过热和火警探测 每台发动机包括两个过热/火警探测环路。每个环路均可提供火警和过 热探测。探测器温度升至预定限制值时，探测器感应过热情况。温度 继续升高，探测器感应火警。正常情。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：发动机灭火系统由热电瓶汇流条供电。故正确答案为 D（热电瓶汇流条）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -8620,7 +8623,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。原文说明：火系统 发动机过热和火警探测 每台发动机包括两个过热/火警探测环路。每个环路均可提供火警和过 热探测。探测器温度升至预定限制值时，探测器感应过热情况。温度 继续升高，探测器感应火警。正常情况下，两个探测环路必须都感应 到过热或火警时，才会触发发动机过热或火警警告。发动机过热指示 灯或发动机火警电门保持亮直到温度降至限制值以下。 每台发动机的过热探测电门均标有A、B 和正常位，允许选择A 或B 环路。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：每台发动机包括两个过热/火警探测环路，每个环路均可提供火警和过热探测。故正确答案为 A（有2个探测环路，都可以探测过热和火警）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -8643,7 +8646,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "发动机的一个过热/火警探测环路探测到过热，另一个环路探测到火警，正常情况下，应发出什么警告？",
       "options": [
@@ -8672,13 +8676,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：探测器温度升至预定限制值时感应过热，继续升高才感应火警。一个环路探测过热、另一个探测火警时，系统按较低级别的过热发出警告。故正确答案为 B（过热）。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机的一个过热/火警探测环路探测到过热另一个环路探测到火警正常情况下应发出什么警告"
     },
@@ -8733,7 +8737,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。原文说明：位时一个环路 失效，该环路自动解除选择，其余环路保持单环路探测功能。驾驶舱 未设计单环路失效指示。如一台发动机的两个环路失效，故障指示灯 亮且该系统不工作。 如过热探测电门放在A 或B 位，系统以单环路工作，未选择的环路不 受监控。如选择的环路失效，故障指示灯亮且系统不工作。。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：系统包括故障监控电路。过热探测电门在正常位时，如一个环路失效，该环路自动解除选择，其余环路保持单环路探测功能。故 A 环路失效时自动转换到 B 环路工作，正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -8790,7 +8794,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。原文说明：： ·发动机 ·APU ·卫生间 ·货舱 发动机还安装过热探测系统。 主轮舱安装火警探测系统，但未安装灭火系统。 货舱有烟雾探测和灭火系统。 发动机防火 发动机防火系统的组成： ·电瓶汇流条供电的发动机过热和火警探测系统 ·热电瓶汇流条供电的发动机灭火系统 发动机过热和火警探测 每台发动机包括两个过热/火警探测环路。每个环路均可提供火警和过 热探测。探测器温度升至预定限制值时，探测器感应过热情况。。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：发动机过热和火警探测系统由电瓶汇流条供电。故正确答案为 C（电瓶汇流条）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -8813,7 +8817,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "发动机灭火手柄什么时候会开锁？",
       "options": [
@@ -8842,13 +8847,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：发动机火警电门通常压下锁定；发动机火警电门或发动机过热指示灯亮时电门开锁；也可人工超控开锁。故出现过热或火警警告以及人工超控都能使其开锁，正确答案为 D。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机灭火手柄什么时候会开锁"
     },
@@ -8869,7 +8874,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "将发动机灭火手柄提起来会导致：",
       "options": [
@@ -8898,13 +8904,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：提起发动机火警电门会关闭液压油关断活门，同时发动机驱动液压泵压力低指示灯不工作。故液压泵关断活门关闭但低压灯不亮，正确答案为 B。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "将发动机灭火手柄提起来会导致"
     },
@@ -8925,7 +8931,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "转动灭火手柄后，如何证实相应的灭火瓶己经释放？",
       "options": [
@@ -8954,13 +8961,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：灭火瓶已释放（BOTTLE DISCHARGED）灯亮（琥珀色）指示相应的灭火瓶已释放或压力低。故转动灭火手柄后看到相应灭火瓶释放灯亮证实已释放，正确答案为 D。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "转动灭火手柄后如何证实相应的灭火瓶己经释放"
     },
@@ -8981,7 +8988,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "APU火警探测系统有几个环路?工作电源由谁提供？",
       "options": [
@@ -9010,13 +9018,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：APU 安装火警探测单环路，由电瓶汇流条供电。故 APU 火警探测系统有 1 个环路、由电瓶汇流条供电，正确答案为 A。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "apu火警探测系统有几个环路工作电源由谁提供"
     },
@@ -9037,7 +9045,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "APU火警后，APU灭火手柄灯什么时候灭？",
       "options": [
@@ -9066,13 +9075,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：APU 火警电门保持亮直至探测器温度降到预设温度以下。故 APU 火警后灭火手柄灯在探测器温度降到预设温度以下时熄灭，正确答案为 A。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "apu火警后apu灭火手柄灯什么时候灭"
     },
@@ -9127,7 +9136,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。原文说明：NORMAL－A 和B 探测环路工作。 A－A 探测环路工作。 B－B 探测环路工作。 火警铃切断（BELL CUTOUT）电门 按压－ ·熄灭两个主火警灯 ·抑制火警铃 ·抑制机外APU 火警喇叭（仅地面） ·复位系统以用于其它警告。 灭火瓶测试（EXT TEST）电门 （弹簧保持在中间位） 1 或2－测试所有三个灭火瓶的释放电路连续性。 故障/不工作（FAULT/INOP）和过热/火警（OVH。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：APU 探测器不工作（DET INOP）灯亮（琥珀色）指示 APU 探测环路失效。故 APU DET INOP 灯亮说明 APU 火警探测系统失效，正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9150,7 +9159,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "下面哪句话正确？",
       "options": [
@@ -9179,13 +9189,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：主轮舱安装火警探测系统但未安装灭火系统；前轮舱无火警探测系统和灭火系统。故正确答案为 D。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面哪句话正确"
     },
@@ -9206,7 +9216,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "主轮舱有几个火警探测环路？使用什么电？",
       "options": [
@@ -9235,13 +9246,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：主轮舱防火系统包括由 2 号交流转换汇流条和电瓶汇流条供电的火警探测器。主轮舱安装单个火警探测环路，使用交流电。故正确答案为 C（1个，使用交流电）。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "主轮舱有几个火警探测环路使用什么电"
     },
@@ -9262,7 +9273,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "厕所灭火瓶释放是如何控制的？",
       "options": [
@@ -9291,13 +9303,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：卫生间灭火瓶系统位于每个卫生间水槽下方，探测到火警时灭火瓶自动工作。故厕所灭火瓶释放根据温度自动控制，正确答案为 D。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "厕所灭火瓶释放是如何控制的"
     },
@@ -9318,7 +9330,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "火警保护",
       "tags": [
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "货舱火警测试结束后，货舱火警探测系统大约何时进入正常工作？",
       "options": [
@@ -9347,13 +9360,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：货舱火警测试结束时，可能延迟 4 秒钟后所有相应指示同时熄灭。故测试结束后约 4 秒进入正常工作，正确答案为 B。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "货舱火警测试结束后货舱火警探测系统大约何时进入正常工作"
     },
@@ -24342,7 +24355,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "火警保护",
         "气源系统",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "APU正在供气, 隔离活门电门在开位, 如果右翼身过热灯亮, 说明:",
       "options": [
@@ -24356,13 +24370,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）及第2章（空气系统）。FCOM 说明：右翼身过热（WING-BODY OVERHEAT）灯指示右发吊架、右翼内侧前缘或右空调设备舱引气管道泄漏过热，即右侧气源管道漏气。正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "apu正在供气隔离活门电门在开位如果右翼身过热灯亮说明"
     },
@@ -25277,7 +25291,8 @@ window.B737_QUESTION_BANK = {
       "category": "火警保护",
       "tags": [
         "机考900仅答案",
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "下面哪些设备安装有火警/过热探测和灭火系统？",
       "options": [
@@ -25291,13 +25306,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：发动机、APU、卫生间、货舱均安装火警探测和灭火瓶系统。故正确答案为 A（发动机）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面哪些设备安装有火警/过热探测和灭火系统"
     },
@@ -29890,7 +29905,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "火警保护",
         "非正常程序与 QRH",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "对发动机的火警探测环路进行测试时，如果测试电门放在A位，将测试电门放在过热/火警位后，该发动机的故障灯亮且发动机过热灯和火警电门灯仍不亮，表明：",
       "options": [
@@ -29904,13 +29920,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：测试电门放在 A 位时仅 A 环路工作。将测试电门放在过热/火警位后，该发动机故障灯亮且过热灯和火警电门灯仍不亮，说明所选 A 环路有故障，无法正常触发过热/火警指示。故正确答案为 A（A环路有故障）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "对发动机的火警探测环路进行测试时如果测试电门放在a位将测试电门放在过热/火警位后该发动机的故障灯亮且发动机过热灯和火警电门灯仍不亮表明"
     },
@@ -30440,7 +30456,8 @@ window.B737_QUESTION_BANK = {
       "category": "火警保护",
       "tags": [
         "机考900仅答案",
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "关于可燃液体起火说法正确的是:",
       "options": [
@@ -30454,13 +30471,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于可燃液体起火说法正确的是"
     },
@@ -31885,7 +31902,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "火警保护",
-        "非正常程序与 QRH"
+        "非正常程序与 QRH",
+        "手册已核对"
       ],
       "question": "火警保护面板上的\"故障/不工作\"测试电门可以测试货舱的探测环路吗？",
       "options": [
@@ -31899,13 +31917,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：故障/不工作测试电门的 FAULT/INOP 位仅测试两台发动机和 APU 的故障探测电路，未涉及货舱探测环路。货舱火警测试使用单独的货舱火警测试电门。故不可以测试货舱探测环路，正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "火警保护面板上的故障/不工作测试电门可以测试货舱的探测环路吗"
     },
@@ -31928,7 +31946,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "火警保护",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "飞行期间，火警保护面板上的\"FAULT\"灯亮了:",
       "options": [
@@ -31942,13 +31961,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：FAULT 灯亮（琥珀色）时，注明确注明主注意灯和过热/探测系统信号牌不亮。故飞行期间 FAULT 灯亮时主警告灯和过热/探测系统信号牌都不会亮，正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行期间火警保护面板上的fault灯亮了"
     },
@@ -38605,7 +38624,8 @@ window.B737_QUESTION_BANK = {
       "category": "火警保护",
       "tags": [
         "机考900仅答案",
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "提起APU灭火手柄，下面哪一个不会发生？",
       "options": [
@@ -38619,13 +38639,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：提起 APU 火警电门关闭燃油关断活门、APU 引气活门和 APU 进气门，跳开发电机控制继电器和跳开关，但未涉及液压关断活门（仅发动机火警电门有此项）。故关闭液压关断活门不会发生，正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "提起apu灭火手柄下面哪一个不会发生"
     },
@@ -42752,7 +42772,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "火警保护",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "发生火警后，按压主火警警告灯有什么作用？",
       "options": [
@@ -42766,13 +42787,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：主火警灯亮（红色）指示发动机、APU、主轮舱或货舱火警。按压后两个主火警灯灭、抑制火警铃、抑制机外 APU 火警喇叭、复位系统以用于其它警告。故按压主火警警告灯切断火警铃声并使系统复位，正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发生火警后按压主火警警告灯有什么作用"
     },
@@ -45129,7 +45150,8 @@ window.B737_QUESTION_BANK = {
       "category": "火警保护",
       "tags": [
         "机考900仅答案",
-        "火警保护"
+        "火警保护",
+        "手册已核对"
       ],
       "question": "转动灭火手柄后，如何证实相应的灭火瓶已经释放？",
       "options": [
@@ -45143,13 +45165,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第8章(防火)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 说明：灭火瓶已释放（BOTTLE DISCHARGED）灯亮（琥珀色）指示相应的灭火瓶已释放或压力低。故转动灭火手柄后看到相应灭火瓶释放灯亮证实已释放，正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "转动灭火手柄后如何证实相应的灭火瓶已经释放"
     },
