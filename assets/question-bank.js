@@ -4116,7 +4116,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（高度层改变方式接通）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['D']（高度层改变方式接通）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4168,7 +4168,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（接通VNAV方式爬升）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['B']（接通VNAV方式爬升）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4220,7 +4220,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（保持慢车推力，但当地速低得难以维持FMC垂直航径时，则转变为FMCSPD方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['C']（保持慢车推力，但当地速低得难以维持FMC垂直航径时，则转变为FMCSPD方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4334,7 +4334,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（高度保持方式接通时，自动油门保持MCP速度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（高度保持方式接通时，自动油门保持MCP速度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4391,7 +4391,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（MCP高度之下的最低FMC高度限制被删除）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（MCP高度之下的最低FMC高度限制被删除）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4443,7 +4443,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（第二部甚高频导航接收机）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['B']（第二部甚高频导航接收机）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4500,7 +4500,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（第一部飞行控制计算机（FCCA））。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（第一部飞行控制计算机（FCCA））。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4614,7 +4614,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（按压APP电门）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['D']（按压APP电门）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4671,7 +4671,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（高度层改变）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['D']（高度层改变）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4728,7 +4728,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（俯仰显示高度截获(ALTACQ)）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['B']（俯仰显示高度截获(ALTACQ)）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4785,7 +4785,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（先显示ALTACQ，回到选择的高度后显示ALTHOLD）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['B']（先显示ALTACQ，回到选择的高度后显示ALTHOLD）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4956,7 +4956,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（按压驾驶盘上的A/P脱开电门脱开自动驾驶时）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（按压驾驶盘上的A/P脱开电门脱开自动驾驶时）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5013,7 +5013,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（复飞方式接通，无线电高度400英尺以下）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['D']（复飞方式接通，无线电高度400英尺以下）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5070,7 +5070,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（起飞方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（起飞方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5127,7 +5127,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（进近方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['D']（进近方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5179,7 +5179,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（在任何航向上并且距有效航段3海里以内）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（在任何航向上并且距有效航段3海里以内）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5236,7 +5236,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（推力保持）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（推力保持）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5293,7 +5293,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（接地后两秒）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['B']（接地后两秒）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5350,7 +5350,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（速度80海里/小时后，并且离地150秒内）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['D']（速度80海里/小时后，并且离地150秒内）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5407,7 +5407,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（起飞/复飞）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['B']（起飞/复飞）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5464,7 +5464,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（推力保持）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['C']（推力保持）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5521,7 +5521,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（800英尺）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['B']（800英尺）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5578,7 +5578,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（800英尺）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['B']（800英尺）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5630,7 +5630,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（航向道和下滑道截获后）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['C']（航向道和下滑道截获后）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5687,7 +5687,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（切入角和接近率）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['D']（切入角和接近率）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5801,7 +5801,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（1500英尺）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['B']（1500英尺）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5858,7 +5858,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（拉平预位时）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（拉平预位时）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5915,7 +5915,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（在推力方式指示上显示CRZ）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['C']（在推力方式指示上显示CRZ）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5972,7 +5972,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（2/5个点）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['C']（2/5个点）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6029,7 +6029,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（单通道）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（单通道）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6086,7 +6086,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（两部自动驾驶自动脱开）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['B']（两部自动驾驶自动脱开）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6143,7 +6143,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（单通道）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（单通道）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6200,7 +6200,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（接通两部自动驾驶）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['D']（接通两部自动驾驶）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6257,7 +6257,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（在自动油门达到减推力复飞推力后按压）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['B']（在自动油门达到减推力复飞推力后按压）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6314,7 +6314,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（脱开自动驾驶和飞行指引仪）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['D']（脱开自动驾驶和飞行指引仪）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6372,7 +6372,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（V2+20）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['C']（V2+20）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6429,7 +6429,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（15度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['C']（15度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6533,7 +6533,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（若自动油门已预位，则自动油门都接通在N1方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['C']（若自动油门已预位，则自动油门都接通在N1方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6590,7 +6590,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（自动油门将推力保持在选定的N1限制值）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['B']（自动油门将推力保持在选定的N1限制值）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17877,7 +17877,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（由应答机方式选择电门来控制）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（由应答机方式选择电门来控制）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17934,7 +17934,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（除了测试（TEST）位以外的其它方式都可以）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['D']（除了测试（TEST）位以外的其它方式都可以）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17991,7 +17991,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（FMS、GPS、ADIRS、无线电导航系统、应答机和气象雷达）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['D']（FMS、GPS、ADIRS、无线电导航系统、应答机和气象雷达）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18048,7 +18048,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（其它各项都会控制FMS）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['D']（其它各项都会控制FMS）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18105,7 +18105,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（位置基准页2/3）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['B']（位置基准页2/3）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18219,7 +18219,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（通过导航选项页2/2）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['B']（通过导航选项页2/2）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18276,7 +18276,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（IRS）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['B']（IRS）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18333,7 +18333,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（5～17分）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（5～17分）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18391,7 +18391,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（输入的位置与起飞机场之间误差已超过4海里）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['B']（输入的位置与起飞机场之间误差已超过4海里）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18449,7 +18449,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（导航选项页（NAVOPTION））。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['B']（导航选项页（NAVOPTION））。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18506,7 +18506,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（巡航阶段始于爬升定点，结束于起始下降点）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（巡航阶段始于爬升定点，结束于起始下降点）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18672,7 +18672,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（其它三项者中的最高者）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['D']（其它三项者中的最高者）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18722,7 +18722,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为[]（）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为[]（）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18774,7 +18774,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（在地面失去电源超过10秒）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['B']（在地面失去电源超过10秒）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18826,7 +18826,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（位置起始页面）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['B']（位置起始页面）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18878,7 +18878,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（经济速度越大、飞行时间越短）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['B']（经济速度越大、飞行时间越短）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -18987,7 +18987,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（航路数据页面（RTEDATE））。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（航路数据页面（RTEDATE））。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -19044,7 +19044,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（0.03）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（0.03）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -19215,7 +19215,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（任何影响到性能计算的重量输入改变都会）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['D']（任何影响到性能计算的重量输入改变都会）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -19491,7 +19491,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（通过RA15000英尺，飞机自动恢复全马力（CLB）爬升）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['D']（通过RA15000英尺，飞机自动恢复全马力（CLB）爬升）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -19595,7 +19595,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（位置偏移页面）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['B']（位置偏移页面）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -19652,7 +19652,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（在航径下降时，当方式控制面板临时设置一个高于计划下降航径的高度时，此程序才可能生效）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['D']（在航径下降时，当方式控制面板临时设置一个高于计划下降航径的高度时，此程序才可能生效）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -19705,7 +19705,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['C']（选择左IRS给惯性显示组件（ISDU)提供显示数据）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['C']（选择左IRS给惯性显示组件（ISDU)提供显示数据）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -19814,7 +19814,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（它是根据最小阻力计算的最佳速度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（它是根据最小阻力计算的最佳速度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -19918,7 +19918,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（使用正常的下降计划功能和页面）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['B']（使用正常的下降计划功能和页面）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20032,7 +20032,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（飞机当前油量减去到达目的地的耗油及备份燃油后，所能在等待航线上以目标速度（TGTSPD）飞行的时间）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（飞机当前油量减去到达目的地的耗油及备份燃油后，所能在等待航线上以目标速度（TGTSPD）飞行的时间）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -20084,7 +20084,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['C']（该数据库中的数据按照“先来先用”的原则。）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['C']（该数据库中的数据按照“先来先用”的原则。）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24172,7 +24172,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（接通状态）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（接通状态）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24215,7 +24215,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（只要机组将ND显示方式换成扩展的地图方式就可以看到了）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（只要机组将ND显示方式换成扩展的地图方式就可以看到了）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24302,7 +24302,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（该灯从起飞到落地后30内受到抑制）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.8。PSEU 灯亮指示起落架位置/状态电子组件系统故障。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24345,7 +24345,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（表示飞机在起飞时，无线电高度1200英尺以下，气象雷达探测到正前方附近有风切变存在）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.22。WINDSHEAR AHEAD 警告由预测式风切变系统触发，指示前方有风切变。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24431,7 +24431,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（机身下部; 飞机水线方向; 任何速度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.17.11。着陆灯可收放安装在机翼/机身，起落架放下时可放出。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24821,7 +24821,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（自动油门预位电门在预位（ARM）位置）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（自动油门预位电门在预位（ARM）位置）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24864,7 +24864,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（自动油门接通在预位（ARM）方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（自动油门接通在预位（ARM）方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24909,7 +24909,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（所显示的高度是高度警戒和自动改平的基准）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（所显示的高度是高度警戒和自动改平的基准）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24953,7 +24953,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（垂直速度方式（V/S）自动接通）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（垂直速度方式（V/S）自动接通）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25039,7 +25039,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（所有飞行阶段）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（所有飞行阶段）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25126,7 +25126,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（单通道）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（单通道）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25169,7 +25169,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（航向选择）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（航向选择）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25212,7 +25212,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（13度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（13度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25256,7 +25256,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（能选择大于Vmo/Mmo的速度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（能选择大于Vmo/Mmo的速度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25299,7 +25299,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（从拉平预位显示后至自动驾驶感觉到接地前）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（从拉平预位显示后至自动驾驶感觉到接地前）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26166,7 +26166,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（发动机方式控制面板上的速度基准电门在游标5位时）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.10。游标5在速度基准选钮在位且所选值大于60节时显示。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26209,7 +26209,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（大气数据惯性基准系统）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.26。垂直速率指示器显示 ADIRS 的瞬时垂直速度。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26254,7 +26254,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（航向数据失效）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.60。PFD 显示航向故障旗表示航向数据失效。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26340,7 +26340,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（MAP）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.53。PLAN 方式以真北向上显示，不显示当前航向。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26734,7 +26734,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（15分）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（15分）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26777,7 +26777,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（在主飞行显示器上显示）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.18。指点标信号 OM 青绿色、MM 琥珀色、IM 白色。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26863,7 +26863,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（5~17分）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（5~17分）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26906,7 +26906,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（30秒）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（30秒）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26950,7 +26950,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（WPT01）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（WPT01）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26993,7 +26993,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（对）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（对）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27036,7 +27036,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（航路数据页面）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（航路数据页面）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27122,7 +27122,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（导航摘要页）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（导航摘要页）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27210,7 +27210,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（显示警戒并且在该发动机非显示位置显示琥珀色实心框; 三个框闪亮10秒钟, 然后警戒保持稳定亮且实心框消失）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.1。MAP 方式以航迹向上格式显示航路信息。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28121,7 +28121,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（核实“现用航路点正确”）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（核实“现用航路点正确”）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29412,7 +29412,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（4）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（4）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29973,7 +29973,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（滑行前，CDU的输入可以由机长或副驾驶进行，另一名机组成员必须核实所有输入。）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（滑行前，CDU的输入可以由机长或副驾驶进行，另一名机组成员必须核实所有输入。）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30016,7 +30016,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（CDU飞行前程序。）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.53。PLAN 方式不显示气象雷达、TCAS 和 TERRAIN。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30146,7 +30146,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（先脱开VOR LOC方式，选择新的LOC频率，然后重新接通VOR LOC方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（先脱开VOR LOC方式，选择新的LOC频率，然后重新接通VOR LOC方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30189,7 +30189,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（50）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（50）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30322,7 +30322,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。FCOM 原文：ember 30, 2022  显示系统信号显示  当DEU 显示系统出现问题，在PFD 左下角会出现以下指示之一：  CDS MAINT（共用显示系统维护）（白色）－出现可放行的CDS 故障。 仅在地面第二台发动机起动前显示。  CDS FAULT（共用显示系统故障）（琥珀色）－出现不可放行的CDS 故障。仅在地面第二台发动机起动前显示。  B-5446  (SB 改装B-5339 - B-54。正确答案为['A']（60英尺）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.2。中心进近方式不显示气象雷达和 TCAS。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30539,7 +30539,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（当飞机飞进风切变区域后，预警式风切变系统仍然能够提供风切变警戒）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.32。DSPLY SOURCE 信号表示 DEU 失效显示已转换。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30582,7 +30582,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（表示飞机在进近时，无线电高度1200英尺以下，气象雷达探测到飞机正前方1.5海里内有风切变）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.3。BOTH ON 2 位时右 EFIS 面板控制双发显示。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30625,7 +30625,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（近地警告系统）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.4。外侧 DU 失效时 PFD 自动移到内侧 DU。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31060,7 +31060,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（说明冲压空气系统有故障）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.15。ISFD 显示姿态/空速/高度/航道/下滑道和磁航向。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31276,7 +31276,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（LVL CHG方式接通）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（LVL CHG方式接通）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31319,7 +31319,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（飞机到了MCP的限制高度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（飞机到了MCP的限制高度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31362,7 +31362,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（第二部甚高频导航接收机）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（第二部甚高频导航接收机）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31405,7 +31405,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（修改了现用航路，但未执行）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（修改了现用航路，但未执行）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31448,7 +31448,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（截获了所选择的无线电航道）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（截获了所选择的无线电航道）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31491,7 +31491,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（只有在航向选择方式才能截获航向道）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（只有在航向选择方式才能截获航向道）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31534,7 +31534,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（脱开自动驾驶，并出现自动驾驶脱开警告）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（脱开自动驾驶，并出现自动驾驶脱开警告）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31621,7 +31621,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（自动驾驶飞行指引系统和自动油门）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（自动驾驶飞行指引系统和自动油门）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31664,7 +31664,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（MCP 速度方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（MCP 速度方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31707,7 +31707,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（空白）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.16。ISFD 姿态复位需约 10 秒平飞，起始程序约 90 秒。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31795,7 +31795,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（自动油门加到减推力的复飞N1，以产生２０００英尺／分钟以上的爬升率。）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（自动油门加到减推力的复飞N1，以产生２０００英尺／分钟以上的爬升率。）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31883,7 +31883,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（若襟翼小于12.5，会转换为高度层改变方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（若襟翼小于12.5，会转换为高度层改变方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31926,7 +31926,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（按压LVL CHG电门可接通高度层改变方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（按压LVL CHG电门可接通高度层改变方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31969,7 +31969,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（垂直导航速度下降）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（垂直导航速度下降）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32012,7 +32012,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（飞机下降到2000英尺无线电高度以下时它就预位）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（飞机下降到2000英尺无线电高度以下时它就预位）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32055,7 +32055,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（400英尺以上，当先选择一个俯仰方式时，横滚方式都自动接通在航向选择方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（400英尺以上，当先选择一个俯仰方式时，横滚方式都自动接通在航向选择方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33094,7 +33094,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（电子飞行仪表系统控制面板所选范围与气象雷达显示范围不一致）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.15。ISFD 起始过程中飞机明显移动时起始将终止。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33137,7 +33137,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（遮光板上）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.24。最低气压高度指针通过 EFIS 控制面板 BARO 选钮设置。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33180,7 +33180,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（FMC数据库高高度导航设备）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.1。大多数飞行阶段建议使用地图方式。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33223,7 +33223,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（POS）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（POS）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33310,7 +33310,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（头顶板）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.5。显示源控制面板位于机长前顶板 P5 上方。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33440,7 +33440,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（20海里）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。FCOM 原文说明：位置趋势线选择范围10海里显示2段。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33483,7 +33483,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（80海里）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。FCOM 原文说明：程序转弯范围大于一定距离显示固定大小。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33526,7 +33526,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（如果飞机坡度角大于或等于35度，即使侧滑指针没有全刻度偏转，侧滑指针外框也会变为琥珀色）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。FCOM 原文说明：侧滑指示由偏航阻尼器提供。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33957,7 +33957,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（两部）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（两部）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34000,7 +34000,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（右IRS不再工作）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（右IRS不再工作）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34043,7 +34043,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（将IRS方式选择器搬到ALIGN（校准）位后再搬到导航位（NAV））。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（将IRS方式选择器搬到ALIGN（校准）位后再搬到导航位（NAV））。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34086,7 +34086,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（D252X）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（D252X）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34129,7 +34129,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（通过选择进离场程序自动输入）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（通过选择进离场程序自动输入）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34172,7 +34172,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（航径下降阶段）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（航径下降阶段）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34259,7 +34259,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（在地面失去电源超过10秒）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（在地面失去电源超过10秒）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34302,7 +34302,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（位置基准页面）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（位置基准页面）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34345,7 +34345,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（INDEX索引提示符）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。FCOM 原文说明：起飞基准页底部显示 TAKEOFF。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34388,7 +34388,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（0.25）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（0.25）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34431,7 +34431,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（1145.5）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（1145.5）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34474,7 +34474,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（巡航目标速度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（巡航目标速度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34517,7 +34517,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（在空速到达或低于空速限制值前，垂直导航不允许飞机下降到高度限制以下）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（在空速到达或低于空速限制值前，垂直导航不允许飞机下降到高度限制以下）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -35432,7 +35432,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（FAF高度→MDA(H)高度→复飞高度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（FAF高度→MDA(H)高度→复飞高度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36466,7 +36466,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（0.95）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（0.95）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36597,7 +36597,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（飞行方式信号显示上出现了改变）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（飞行方式信号显示上出现了改变）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36947,7 +36947,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（垂直速度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（垂直速度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36990,7 +36990,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（必须经运行批准后才可以）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（必须经运行批准后才可以）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37941,7 +37941,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（MCP 高度或VNAV高度，以先到为准）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（MCP 高度或VNAV高度，以先到为准）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37984,7 +37984,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（不需任何动作，飞机到达下降顶点时会自动下降）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（不需任何动作，飞机到达下降顶点时会自动下降）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38027,7 +38027,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（保持慢车推力,但当飞机实际速度小于下降目标速度且差值达到数据库决定的临界值时，则转变为FMC SPD方式。）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（保持慢车推力,但当飞机实际速度小于下降目标速度且差值达到数据库决定的临界值时，则转变为FMC SPD）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38114,7 +38114,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（800）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（800）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38157,7 +38157,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（琥珀色闪亮）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（琥珀色闪亮）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38200,7 +38200,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（琥珀色闪亮）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（琥珀色闪亮）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38243,7 +38243,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（相应的发动机电子控制）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（相应的发动机电子控制）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38286,7 +38286,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（在空中，无线电高度低于2000英尺，不在起飞方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（在空中，无线电高度低于2000英尺，不在起飞方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38329,7 +38329,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（相同）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（相同）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38372,7 +38372,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（在推力方式指示上显示CRZ）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（在推力方式指示上显示CRZ）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38415,7 +38415,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（收油门）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（收油门）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38459,7 +38459,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（复飞方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（复飞方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38502,7 +38502,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（关断两个飞行指引仪电门）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（关断两个飞行指引仪电门）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38545,7 +38545,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（高度层改变）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（高度层改变）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38674,7 +38674,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（VNAV不会接通）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（VNAV不会接通）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38717,7 +38717,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（使用航径下降时，飞机速度可能低于或高于FMC目标速度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（使用航径下降时，飞机速度可能低于或高于FMC目标速度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38760,7 +38760,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（FMC指令自动飞行系统俯仰和自动油门按照FMC CDU所选择的剖面飞行）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（FMC指令自动飞行系统俯仰和自动油门按照FMC CDU所选择的剖面飞行）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38846,7 +38846,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（飞机正在下降时，可能会显示VNAV SPD，也可能会显示VNAV PTH）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（飞机正在下降时，可能会显示VNAV SPD，也可能会显示VNAV PTH）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40145,7 +40145,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（MAP）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（MAP）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40878,7 +40878,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（前顶板上）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（前顶板上）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40921,7 +40921,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（按下位置（POS）电门）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（按下位置（POS）电门）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40964,7 +40964,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（从选择起飞/复飞电门，直到减推力高度（通常在此选择爬升推力））。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（从选择起飞/复飞电门，直到减推力高度（通常在此选择爬升推力））。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41007,7 +41007,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（预计到达目的地机场时剩下的燃油少于900公斤）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（预计到达目的地机场时剩下的燃油少于900公斤）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41093,7 +41093,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（IRS进入了导航方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（IRS进入了导航方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41136,7 +41136,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（30秒，性能限制页2/2）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（30秒，性能限制页2/2）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41179,7 +41179,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（用删除键，删除左1行RTA航路点，再按执行键）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（用删除键，删除左1行RTA航路点，再按执行键）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41266,7 +41266,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（如果是切入，在草稿行输入被修改的现用航路点的切入航道，按压右6INTCCRS(切入航道)行选键。）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（如果是切入，在草稿行输入被修改的现用航路点的切入航道，按压右6INTCCRS(切入航道)行选键。）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41309,7 +41309,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（可以在巡航页面左一行输入一新高度，然后按“执行”键，飞机即会以爬升推力和巡航目标速度爬升至新高度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（可以在巡航页面左一行输入一新高度，然后按“执行”键，飞机即会以爬升推力和巡航目标速度爬升至新高度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41352,7 +41352,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（位置偏移页面POS SHIFT）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（位置偏移页面POS SHIFT）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41395,7 +41395,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（跑道不能储存在补充导航数据库）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（跑道不能储存在补充导航数据库）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41482,7 +41482,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（FMC不向自动油门系统提供N1限制值, 自动油门使用相应发动机电子控制的减推力N1限制值）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（FMC不向自动油门系统提供N1限制值, 自动油门使用相应发动机电子控制的减推力N1限制值）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43042,7 +43042,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（校准指示灯由稳定地亮变为熄灭后）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（校准指示灯由稳定地亮变为熄灭后）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43172,7 +43172,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（是PF的职责范围，但是在人工飞行期间，由监控飞机的飞行员在操纵飞机的飞行员的指令下完成方式改变。）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（是PF的职责范围，但是在人工飞行期间，由监控飞机的飞行员在操纵飞机的飞行员的指令下完成方式改变。）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43302,7 +43302,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（他应把方式电门放到关断位等校准灯灭，然后再进行全校准程序）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（他应把方式电门放到关断位等校准灯灭，然后再进行全校准程序）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44521,7 +44521,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（400英尺）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（400英尺）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44566,7 +44566,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（首次接通垂直速率方式时，垂直速度显示窗的显示为零）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（首次接通垂直速率方式时，垂直速度显示窗的显示为零）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44609,7 +44609,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（水平导航、航向选择和CWS R方式都可以）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（水平导航、航向选择和CWS R方式都可以）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44652,7 +44652,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（按压进近（APP）电门后）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（按压进近（APP）电门后）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44695,7 +44695,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（按压APP电门）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（按压APP电门）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44738,7 +44738,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（在CWS方式工作时，飞行指引仪的俯仰和横滚方式接不通）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（在CWS方式工作时，飞行指引仪的俯仰和横滚方式接不通）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44781,7 +44781,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（自动驾驶脱开，A/P脱开灯红色闪亮，警告声响）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（自动驾驶脱开，A/P脱开灯红色闪亮，警告声响）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44825,7 +44825,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（按压MCP上的“高度保持”电门不能脱开“高度保持”方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（按压MCP上的“高度保持”电门不能脱开“高度保持”方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44868,7 +44868,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（速度80海里/小时后，并且离地150秒内）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（速度80海里/小时后，并且离地150秒内）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44912,7 +44912,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（关断两部飞行指引仪电门）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（关断两部飞行指引仪电门）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44955,7 +44955,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（其它各项都可以）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（其它各项都可以）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44998,7 +44998,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（安定面不会自动增加上仰配平）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（安定面不会自动增加上仰配平）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45041,7 +45041,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（其它各项都正确）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（其它各项都正确）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45085,7 +45085,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（驾驶盘操纵方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（驾驶盘操纵方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45128,7 +45128,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（其它各项都正确）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（其它各项都正确）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45171,7 +45171,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（其它各项都正确）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（其它各项都正确）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45258,7 +45258,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（若MCP上选择的速度大于标牌速度，自动飞行系统将允许加速至接近限制速度，然后指令保持该标牌限制速度。）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（若MCP上选择的速度大于标牌速度，自动飞行系统将允许加速至接近限制速度，然后指令保持该标牌限制速度。）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45303,7 +45303,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（只要相应的FD（飞行指引仪）电门接通，FMA上将会显示绿色的FD指示）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（只要相应的FD（飞行指引仪）电门接通，FMA上将会显示绿色的FD指示）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48039,7 +48039,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（其它各项都正确）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（其它各项都正确）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48082,7 +48082,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（当一部GPS传感器组件失效且复位系统信号显示牌时或两部GPS传感器组件失效时）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（当一部GPS传感器组件失效且复位系统信号显示牌时或两部GPS传感器组件失效时）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48125,7 +48125,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（IRS方式选择组件上的直流接通灯（ON DC）会亮且前轮舱地面呼叫喇叭响）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（IRS方式选择组件上的直流接通灯（ON DC）会亮且前轮舱地面呼叫喇叭响）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48211,7 +48211,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（FMS、GPS、ADIRS、无线电导航系统、应答机和气象雷达）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（FMS、GPS、ADIRS、无线电导航系统、应答机和气象雷达）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48254,7 +48254,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（飞行管理计算机、自动驾驶/飞行指引仪、自动油门、惯性基准系统、全球定位系统）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（飞行管理计算机、自动驾驶/飞行指引仪、自动油门、惯性基准系统、全球定位系统）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48297,7 +48297,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（其它各项都控制）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（其它各项都控制）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48340,7 +48340,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（方式控制面板的输入）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（方式控制面板的输入）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48383,7 +48383,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（其它各项都是）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（其它各项都是）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48426,7 +48426,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（必须接通LNAV方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（必须接通LNAV方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48512,7 +48512,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（其它各项都是考虑因素）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（其它各项都是考虑因素）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48643,7 +48643,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['A']（其它各项都对）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。正确答案为['A']（其它各项都对）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -49604,7 +49604,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（以上全部）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（以上全部）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -49647,7 +49647,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（FAF高度→SDF高度→MDA(H)高度→复飞高度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。正确答案为['A']（FAF高度→SDF高度→MDA(H)高度→复飞高度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
