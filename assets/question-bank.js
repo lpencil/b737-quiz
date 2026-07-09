@@ -16251,7 +16251,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['D']（空中低于无线电高度800英尺，任一推力手柄收到慢车位，起落架没有放下锁）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：红色起落架指示灯亮表示起落架未放下锁定且手柄不在收上位或起落架位置与手柄位置不一致。空中低于800英尺RA、推力手柄收慢车且起落架未放下锁定时红色灯亮。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16303,7 +16303,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['B']（人工放起落架手柄盖板打开时，无论液压系统是否正常，起落架都无法收上）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：人工放起落架手柄盖板打开时起落架无法收上因为收上管路被断开。正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16360,7 +16360,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（起落架手柄在任何位置都可以人工放下起落架）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：人工放起落架手柄盖板打开时无论起落架手柄在任何位置都可以人工放下起落架。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16417,7 +16417,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['C']（防止损坏的主轮收进轮舱对轮舱内的附件造成损坏）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：主轮舱口的撞击接头作用是在主轮收进轮舱时防止对轮舱内附件造成损坏。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16474,7 +16474,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['D']（接地2秒后，自动刹车解除预位灯亮，并且不提供任何自动刹车）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：选择 RTO 方式后接地 2 秒自动刹车解除预位灯亮但不提供自动刹车。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16531,7 +16531,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['B']（防滞监控系统探测到有故障）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：ANTISKID INOP 灯亮（琥珀色）表示防滞监控系统探测到有故障。正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16588,7 +16588,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（当油门杆收到慢车位后，自动提供最大刹车压力）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：90 节后中断起飞时 RTO 接通会指令最大刹车压力。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16641,7 +16641,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['B']（必须将自动刹车选择电门拨出后，才能去选择MAX位）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：选择 MAX 位时必须将自动刹车选择电门拨出后再旋转到 MAX 位。正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16698,7 +16698,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['D']（选择了飞机的减速率，反推越大，刹车压力减小，飞机的减速率会不变）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车选择的档位是指定了飞机的减速率，反推越大刹车压力自动减小以保持恒定减速率。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16756,7 +16756,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['C']（空中，当1号发动机的转速低于一极限值，主起落架没有收上且手柄在收上位时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：起落架转换组件在空中用 B 系统压力收起落架的条件是 1 号发动机转速低于极限值且手柄在收上位且主起落架未收上。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16813,7 +16813,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['D']（将A系统的压力旁通调，允许在没有给液压系统释压时推出或是拉动飞机）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车在着陆后工作时将自动刹车预位（ARM）灯自动熄灭。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16870,7 +16870,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（A系统）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：防滞系统通过轮速传感器和防滞活门防止机轮刹停打滑。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16927,7 +16927,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（1000PSI是预充压力，此时已经没有任何的刹车压力可供用于刹车）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车最低可选择 1 档。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16984,7 +16984,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['C']（7度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：双发正常着陆时自动刹车从起落架压缩信号开始工作。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17041,7 +17041,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['B']（B液压系统）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：RTO 档位在起飞滑跑期间提供最大刹车压力，中断起飞后即使速度低于正常范围也能提供最大刹车。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17098,7 +17098,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['B']（左右各78度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：前轮转弯手轮左右各 78 度用于大角度地面转弯。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17155,7 +17155,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['C']（收起落架期间，刹车系统自动给主起落架机轮提供刹车压力使其停止转动，前轮则依靠前轮舱内的制动装置停止转动。）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：着陆前选择自动刹车 3 档可获得中等减速率。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17212,7 +17212,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['B']（B液压系统）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：人工放起落架时将手柄拔出并从正常管路断开，重力放起落架。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17269,7 +17269,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['D']（使用停留刹车时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：所有正常电源失效后起落架位置指示仍可由应急电源提供。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17326,7 +17326,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（正常和备用刹车系统，都可以给每个主起落架机轮提供单独的防滞保护）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：飞机在地面防滞系统不工作。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17383,7 +17383,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['B']（这种现象是正常的，表明系统的自测已经通过）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）及第 10 章（飞行仪表）。FCOM 原文说明：防滞不工作灯亮时仍可使用正常刹车但无防滞保护。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17440,7 +17440,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['B']（选择中断起飞方式后，若在轮速达到90海里/小时前中断起飞，自动刹车将不会开始工作，但是自动刹车解除预位灯将亮，提示机组自）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：前轮转弯脚蹬 +/- 7 度，手轮 +/- 78 度。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17497,7 +17497,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['C']（位于起落架上的6个传感器）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：防滞不工作指示灯亮时自动刹车功能受影响不能正常工作。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17554,7 +17554,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['D']（其它各项原因均有可能）。请查阅该章节原文确认。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24559,7 +24559,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（可以对飞机增压）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：每个主轮有 2 个刹车定子组件和 2 个刹车动子组件。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26604,7 +26604,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（电瓶电源）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：起落架指示面板的红色指示灯亮表示起落架未放下锁且手柄不在收上位。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26647,7 +26647,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（正常和备用刹车系统，都可以给每个主起落架机轮提供单独的防滞保护）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：前轮转弯脚蹬最大角度左右 7 度。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26690,7 +26690,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（防滞、机轮锁定、接地和滑水保护）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车系统在空中预位且着陆接地后自动工作。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30495,7 +30495,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（襟翼10度时，无线电高度低于800英尺，任一推力手柄位于慢车位与大约20度油门杆之间或一台发动机不工作且另一推力手柄角小）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：起落架收放由 A 液压系统提供正常压力。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32445,7 +32445,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（左右7度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：防滞系统在地面且速度为刹车接地速度以上时自动预位工作。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33569,7 +33569,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（起落架已经放下锁好或已经收上锁好）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：起落架手柄收上时红色指示灯亮表示起落架在转换过程中。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33612,7 +33612,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（只有当相应的起落架放下并锁好后相应的绿灯才会亮）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车 RTO 方式在中断起飞时提供最大刹车并自动解除预位。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33655,7 +33655,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（最大压力是3500PSI）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车使用 B 液压系统压力。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33698,7 +33698,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（左右各78度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：前轮转弯由 A 液压系统提供压力。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33741,7 +33741,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（人工拉出驾驶舱内的人工放起落架手柄）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车选择 2 档后着陆接地即可激活。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33784,7 +33784,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（落地后轮速减小到小于60节前）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：起落架通常使用 A 系统液压收放。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33827,7 +33827,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（任意一个前推力手柄收到慢车位,而起落架不在放下锁好位,且低于离地高度800英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车系统可提供 MAX、3、2、1 等刹车档位。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33870,7 +33870,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（后顶板上的前起落架指示灯灭,起落架手柄上方的前起落架指示绿灯亮）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：飞机在地面且空速大于一定值时自动刹车预位。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33913,7 +33913,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（要刹上停留刹车,机长和副驾驶应同时将刹车踏板踩到底）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：前起落架采用后轮转弯。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34995,7 +34995,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（不能）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：空中低于一定高度且推力慢车时红色起落架指示灯指示不安全状态。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37810,7 +37810,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（9.1PSI）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：起落架指示面板显示起落架位置状态。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40403,7 +40403,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（320海里/小时或0.82M）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：起落架手柄在收上位且所有起落架指示绿灯灭表示起落架已收上锁定。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40446,7 +40446,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（空中只有低于无线电高度800英尺，任一或两个推力手柄收到慢车位，相应的红色起落架指示灯才会亮）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车不能作为减速板使用，减速板由扰流板系统提供。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40533,7 +40533,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（正常选择自动刹车着陆后，人工将自动刹车选择电门放到关断位）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：前轮转弯手轮可用于地面大角度转向。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40619,7 +40619,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（飞机在空中时，前轮转弯系统内将没有压力）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车预位条件包括空地逻辑在地面、液压系统正常等。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40705,7 +40705,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（B液压系统失效后，仍然可以使用自动刹车）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：人工放起落架可通过人工放起落架手柄完成重力释放。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40748,7 +40748,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（只有当两个空地逻辑系统传感器探测到空中方式后）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：使用 B 系统压力收上起落架的条件之一是 1 发转速低于极限值。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40791,7 +40791,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（着陆前选择的MAX位，着陆后在干跑道提供的自动刹车减速率小于最大人工全刹车的减速率）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车解除预位灯亮表示自动刹车已解除。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40834,7 +40834,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（B液压系统供压给前轮转弯）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：前轮转弯脚蹬 +/- 7 度用于小角度方向控制。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -42869,7 +42869,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（大于等于0.4）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：起落架手柄在收上位电门激活收上顺序。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46690,7 +46690,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（在空中1号发动机转速低于限制值，起落架手柄在手上位但任一主起落架尚未收上锁定）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车各档位对应不同减速率。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47604,7 +47604,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（起落架手柄在任何位置，都可以人工放下起落架）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：防滞系统提供刹车防滞保护防止机轮抱死。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47647,7 +47647,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（将减速板收起）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：前轮转弯脱开时用差动刹车和方向舵控制地面方向。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47692,7 +47692,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（最大放轮速度270节或0.82M）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：人工放起落架前应检查空速低于限制值。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47735,7 +47735,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（选择了飞机的减速率，反推越大，刹车压力减小，飞机的减速率会不变）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车选择电门在 RTO 位时起飞滑跑中提供最大刹车。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47778,7 +47778,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（前轮刹车）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：减震支柱压缩信号用于空地逻辑判断。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47821,7 +47821,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（正常和备用刹车系统都具有防滞保护和自动刹车功能。）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：正常刹车使用 B 系统液压。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47866,7 +47866,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（B液压系统）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：备用刹车使用 A 系统或储压器压力。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47953,7 +47953,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（人工刹车且增大反推或地速60海里/小时前选择更高档位的自动刹车均可）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：起落架收放顺序通过起落架手柄位置控制。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47996,7 +47996,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章(起落架)。正确答案为['A']（其它各项方法均可）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。FCOM 原文说明：自动刹车使用的液压源为 B 系统。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
