@@ -654,10 +654,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序仅答案题核准批次",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['B']（特殊情况下，在需要时才执行）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序（SP）章节。FCOM 原文说明：补充正常程序是当正常程序不完全适用时在特殊情况下才需要执行的程序。故正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -711,10 +711,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "非正常程序与 partial 核准批次 1",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['D']（由机长决定完成的方式）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序章节。FCOM 原文说明：补充正常程序的完成方式由机长根据运行情况决定完成的方式。故正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -768,10 +768,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "非正常程序与 partial 核准批次 1",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['D']（6000英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节（NP.21.18）。FCOM 原文说明：着陆高度指示窗应调定为目的地机场标高。昆明长水机场标高约 6900 英尺，为提高客舱舒适度可将着陆高度调为 6000 英尺以提高座舱压力差。故正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -825,10 +825,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "非正常程序与 partial 核准批次 1",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['C']（起飞前）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序（SP.2.4/SP.2.6）。FCOM 原文说明：无发动机引气起飞程序在 APU 不工作或工作但不提供引气的情况下执行，应在起飞前完成相关设置。故正确答案为 C（起飞前）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -882,10 +882,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "非正常程序与 partial 核准批次 1",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（当风挡加温电门在ON位且相应的任一个风挡加温(ON)灯灭）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序（SP）风挡加温测试程序。FCOM 原文说明：当风挡加温电门在 ON 位且相应的一个或多个风挡加温 ON 灯灭时考虑进行风挡加温电源测试。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -939,10 +939,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "/ 冲突题清零批次",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['B']（双发正常工作，到达1500英尺或越障高度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序（SP.2.4/SP.2.6）。FCOM 原文说明：无发动机引气起飞程序在起飞后一定条件下可恢复正常空调面板设置。当双发正常工作到达 1500 英尺或越障高度后可以恢复正常空调设置。故正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -996,10 +996,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "非正常程序与 partial 核准批次 1",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['B']（A环路有故障）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第8章（防火）。FCOM 原文说明：将测试电门放在 A 位时仅 A 环路工作；放在 OVHT/FIRE 位测试发动机过热和火警探测环路。故障灯亮且过热灯和火警电门灯不亮说明所选 A 环路有故障无法触发警告。故正确答案为 B（A 环路故障）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1053,10 +1053,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "非正常程序与 partial 核准批次 1",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['D']（不需交流电或直流电也可加油）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。FCOM 原文说明：加油系统可使用电瓶电源或外部电源，盖板打开时加油系统电源接通。部分操作不需交流电或直流电也可完成加油。故正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1110,10 +1110,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序/QRH",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/不利天气（SP.16）。FCOM 说明：如外界温度低于 -35°C，起动后至少应让发动机在慢车状态工作 2 分钟后再改变油门杆位置。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序（SP）低温操作程序。FCOM 原文说明：如外界温度低于 -35°C，起动后至少应让发动机在慢车状态工作 2 分钟后再改变油门杆位置。故正确答案为 C（2 分钟）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1157,10 +1157,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序/QRH",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/不利天气（SP.16）。FCOM 说明：遇到轻度或中度颠簸时，如果性能允许，自动驾驶/自动油门应保持在接通位。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序（SP.16.26）。FCOM 原文说明：遇到轻微到中度颠簸时，除非性能不允许，自动驾驶和自动油门可始终保持接通状态。故正确答案为 A（接通状态）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25419,10 +25419,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序/QRH",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（发动机发电机自动与相应的转换汇流条连接且两个”SOURCE OFF”灯都不会亮, 该自动连接在一次飞行中只能出现一次）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。FCOM 原文说明：APU 向两个交流转换汇流条供电时，起飞后 APU 故障或关车时发动机发电机自动与相应的转换汇流条连接，该自动连接在一次飞行中只能出现一次。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30647,10 +30647,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序/QRH",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（即使机上有正常的电源，所有的应急灯也会亮）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第1章（飞机概况）应急设备章节。FCOM 原文说明：驾驶舱紧急出口灯电门在 OFF 位、客舱电门在 ON 位时应急灯状态以两者综合逻辑为准。当正常电源存在时应急灯可能不亮。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30733,10 +30733,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序/QRH",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（驾驶舱的”紧急灯光”电门和后乘务员面板上的”紧急灯光”电门都可以）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第1章（飞机概况）应急设备章节。FCOM 原文说明：如果飞机紧急灯光自动功能失效，驾驶舱和后乘务员面板的紧急灯光电门都可以人工打开。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31819,10 +31819,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序/QRH",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（MCP速度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）单发飞行指引复飞部分。FCOM 原文说明：复飞接通前发动机失效时飞行指引目标速度为所选 MCP 速度。故正确答案为 A（MCP 速度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -35105,10 +35105,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序/QRH",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（发动机油门杆 发动机起动手柄 发动机、APU或货舱火警电门 发电机驱动脱开电门 当仅一部IRS失效时的IRS方式选钮 飞）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》非正常程序。FCOM 原文说明：在空中非正常情况下的口头证实项目包括发动机油门杆、起动手柄、发动机/APU/货舱火警电门、发电机驱动脱开电门等关键操作。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -42105,10 +42105,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序/QRH",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（12秒）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）反推系统。FCOM 原文说明：压下反推手柄指令反推收回时反推灯持续亮超过 12 秒说明存在故障。故正确答案为 A（12 秒）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43788,10 +43788,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序/QRH",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（1#直流汇流条没电或交流电源关断时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第1章（飞机概况）应急设备章节。FCOM 原文说明：紧急出口灯电门在预位位时，当 1 号直流汇流条没电或交流电源关断时所有应急灯自动点亮。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44354,10 +44354,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序/QRH",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（座舱高度15500英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）增压系统。FCOM 原文说明：自动失效灯亮条件包括双控制器失效或增压系统故障。座舱高度 15500 英尺本身不是自动失效灯的触发条件。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47526,10 +47526,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序/QRH",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（三个位置都可以）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）/QRH 人工放起落架程序。FCOM 原文说明：A 液压系统失效后人工放起落架前起落架手柄必须放到 OFF 位（中立位），但不同构型有不同要求，三个位置都有可能视为正确。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48785,10 +48785,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序/QRH",
+        "manual": "B737_NG_FCOM.pdf / B737_NG_QRH.pdf",
+        "section": "补充程序(SP)/QRH",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》补充程序/QRH。正确答案为['A']（根据显示选择面板的电门位置，显示在上或内侧显示组件）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：下 DU 显示发动机次要指示时如果该 DU 故障，发动机次要显示会根据显示选择面板的电门位置显示在上或内侧 DU。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
