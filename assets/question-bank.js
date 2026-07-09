@@ -1217,7 +1217,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（表示飞行控制计算机单通道已经失效，但是速度配平系统仍然可以正常工作）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1274,7 +1274,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（在到达所选高度200英尺到900英尺之间时，高度窗外的白框变粗）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1331,7 +1331,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（只要机组将ND显示方式换成扩展的地图方式就可以看到了）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1389,7 +1389,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（天气数据和地形数据不可能在同一时间在同一个DU上显示出来）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1446,7 +1446,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（使火警警铃音响警告停止并使两个主火警警告灯熄灭，同时复位火警警告系统）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1503,7 +1503,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（在机组正常视线范围外出现注意级警告时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1560,7 +1560,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（无线电高度、气压高度、飞机的空速以及下滑道偏离和飞机形态）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1617,7 +1617,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（无线电高度表、推力手柄位置、襟翼位置和起落架的实际位置）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1674,7 +1674,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（无线电高度表）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1731,7 +1731,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（在地面将推力手柄前推至起飞推力或空中至落地后30秒之内）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1788,7 +1788,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（盲降进近截获了下滑道或后缘襟翼位置不小于25）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1845,7 +1845,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（EGPWS系统提供的地形警告不可以和气象雷达探测到的数据同时在同一个ND上显示）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1902,7 +1902,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（预计40到60秒后将撞到地型）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1959,7 +1959,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（起飞；1200；警告区域）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2011,7 +2011,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（表示飞机在起飞或进近时，无线电高度1200英尺以下，气象雷达探测到飞机前方3海里的注意区域内有风切变）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2068,7 +2068,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（在地面当起飞推力调定后或空中无线电高度低于2300英尺时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2125,7 +2125,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（在起飞和着击阶段，当速度超过100海里/小时以后到无线电高度50英尺之间，新的预警式风切变警告信息将会受到抑制）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2182,7 +2182,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（机工EFIS面板上最低标准选择电门设定的高度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2239,7 +2239,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（TCAS能够为飞机提供横侧的机动指引）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2296,7 +2296,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（在无线电1100英尺以下，所有的RA警告降被抑制）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6705,7 +6705,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（通常由此面板调谐的无线电台正由另一面板调谐或正用该面板调谐通常与其无关的无线电台）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6762,7 +6762,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（“AM”电门）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6819,7 +6819,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（这是正常的，接收机已经接通，可以收听；）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6876,7 +6876,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（“V”位和\"B\"位）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6933,7 +6933,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（后顶板上的服务内话电门）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6990,7 +6990,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（测试没有探测到故障）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7047,7 +7047,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（耳机和扬声器音量都是预调的，机组无法调节；）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7104,7 +7104,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（都不能关掉）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7161,7 +7161,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（一部调频无线电用于发射时，另一部可用于接收）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7218,7 +7218,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（4120）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13556,7 +13556,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（10秒内预达空速）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13613,7 +13613,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（琥珀色）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13665,7 +13665,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（Vmo/Mmo、起落架标牌速度和襟翼标牌速度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13722,7 +13722,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（所指示的空速可向高速抖振提供0.3g的机动裕度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13779,7 +13779,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（当空速大于或等于0.4马赫时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13836,7 +13836,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（起飞期间，以襟翼1起飞）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13893,7 +13893,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（起始收襟翼或机组在CDU上输入VREF后）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13950,7 +13950,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（襟翼放到30时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14002,7 +14002,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（当襟翼放出或速度接近抖杆时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14059,7 +14059,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（当所指示的坡度角为35度或35度以上时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14116,7 +14116,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（现在距中心2.5点范围内）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14173,7 +14173,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（离地1000英尺以下）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14230,7 +14230,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（1/2个点）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14288,7 +14288,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（无线电高度低于2500英尺且航向道信号可用，指针可）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14345,7 +14345,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（2500英尺离地高度(AGL)以下时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14403,7 +14403,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（数值己调定并且飞机爬升到过渡高度以上或标准气压已调好并且飞机下降到过渡高度层以下时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14460,7 +14460,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（起飞与目的地机场的距离为500海里，当飞机已飞行了260海里时，显示起飞机场的跑道或起飞机场的着陆高度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14517,7 +14517,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（高于着陆高度0至500英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14575,7 +14575,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（当垂直速率大于400英）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14632,7 +14632,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（抖杆器警告失效或最大使用速度失效）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14689,7 +14689,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（航向数据失效）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14741,7 +14741,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（副驾驶的电子飞行仪表系统控制面板失效）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14798,7 +14798,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（机长和副驾驶的空速指示连续5秒钟相差5海里/小时以上）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14855,7 +14855,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（MAP）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14912,7 +14912,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（PLAN）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14969,7 +14969,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（所输入的地图信息量过多而无法显示）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15021,7 +15021,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（VOR频率调谐后选择APP方式）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15078,7 +15078,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（气象雷达不能保持天线姿态稳定性）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15135,7 +15135,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（CTRMAP）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15192,7 +15192,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（MAP）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15249,7 +15249,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（320海里）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15306,7 +15306,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（DATA）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15363,7 +15363,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（2号）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15477,7 +15477,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（空白）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15534,7 +15534,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（人工调定的着陆基准速度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15591,7 +15591,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（10秒）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15648,7 +15648,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（只要一台发动机工作）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15706,7 +15706,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（自动显不在机长的内侧显示组件上）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15810,7 +15810,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（正确）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15857,7 +15857,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（需要）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15971,7 +15971,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（热电瓶汇流条）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16023,7 +16023,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（只要有交流电就可以）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16081,7 +16081,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（在地图方式下，风量为7节）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16138,7 +16138,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（MAP）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16195,7 +16195,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（设置重量时，一定要输入飞机全重，而不输入无燃油重量）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24040,7 +24040,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（达到或高于10000英尺MSL。）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24259,7 +24259,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（机长EFIS面板上MINS旋钮设定的高度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24302,7 +24302,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（该灯从起飞到落地后30内受到抑制）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24345,7 +24345,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（表示飞机在起飞时，无线电高度1200英尺以下，气象雷达探测到正前方附近有风切变存在）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24431,7 +24431,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（机身下部; 飞机水线方向; 任何速度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26166,7 +26166,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（发动机方式控制面板上的速度基准电门在游标5位时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26209,7 +26209,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（大气数据惯性基准系统）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26254,7 +26254,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（航向数据失效）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26340,7 +26340,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（MAP）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26777,7 +26777,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（在主飞行显示器上显示）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27210,7 +27210,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（显示警戒并且在该发动机非显示位置显示琥珀色实心框; 三个框闪亮10秒钟, 然后警戒保持稳定亮且实心框消失）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30015,7 +30015,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（CDU飞行前程序。）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30321,7 +30321,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（60英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30538,7 +30538,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（当飞机飞进风切变区域后，预警式风切变系统仍然能够提供风切变警戒）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30581,7 +30581,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（表示飞机在进近时，无线电高度1200英尺以下，气象雷达探测到飞机正前方1.5海里内有风切变）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30624,7 +30624,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（近地警告系统）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31059,7 +31059,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（说明冲压空气系统有故障）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31706,7 +31706,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（空白）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33093,7 +33093,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（电子飞行仪表系统控制面板所选范围与气象雷达显示范围不一致）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33136,7 +33136,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（遮光板上）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33179,7 +33179,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（FMC数据库高高度导航设备）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33309,7 +33309,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（头顶板）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33439,7 +33439,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（20海里）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33482,7 +33482,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（80海里）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33525,7 +33525,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（如果飞机坡度角大于或等于35度，即使侧滑指针没有全刻度偏转，侧滑指针外框也会变为琥珀色）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34344,7 +34344,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（INDEX索引提示符）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34602,7 +34602,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（整流罩防冰活门不在相应的发动机防冰电门所指令的位置）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -34776,7 +34776,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（超过APU转速限制或正常关车时超速保护功能自检失败）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -35300,7 +35300,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（琥珀色）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37161,7 +37161,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（从前推推力手柄起飞到落地后30秒之间）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37204,7 +37204,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（只有在低于无线电高度表1000英尺，且低于下滑道警告生效，使该灯亮后）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37247,7 +37247,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（减速板手柄不在下卡位，或虽在下卡位但扰流板没有收好）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37334,7 +37334,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（坡度超过35、40和45 度时都会出现警告）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37377,7 +37377,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（表示飞机在起飞或进近时，无线电高度1200英尺以下，气象雷达探测到飞机正前方3海里内有风切变）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37420,7 +37420,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（TCAS能够为飞机提供横侧的机动指引）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37463,7 +37463,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（MONITOR RADAR DISPLAY）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37506,7 +37506,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（有直流电源时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38587,7 +38587,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（15度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39796,7 +39796,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（高高度，飞机总重较大且襟翼收上时，或襟翼放出时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39840,7 +39840,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（离地1000英尺以下）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39927,7 +39927,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（QFE工作时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -39971,7 +39971,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（起飞与目的地机场的距离为500海里，当飞机已飞行了260海里时，显示起飞机场的跑道或起飞机场的着陆高度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40057,7 +40057,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（附近飞机）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40100,7 +40100,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（80NM）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40274,7 +40274,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（3 6）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40360,7 +40360,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（60秒）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40489,7 +40489,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（通过位于驾驶舱内后顶板上的起落架指示绿灯来确定）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41049,7 +41049,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（不显示）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41438,7 +41438,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（如PFD和ND上的显示始终为所调谐的频率或错误的识别码，机组应证实调谐的导航台的音频摩尔斯代码是否正确）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41525,7 +41525,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（发动机关车后，在相应的EGT指示上显示红框）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41569,7 +41569,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（当N2转速小于65%时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -41658,7 +41658,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（出现高振动状态）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -42005,7 +42005,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（白色的EGT数字读数方框闪亮）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43475,7 +43475,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（以上都正确）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43562,7 +43562,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（飞行控制计算机）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43605,7 +43605,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（地形低于飞机当前高度 500英尺（起落架放下时为250英尺）到高出飞机当前高度2000英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43737,7 +43737,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（预计撞到地型前40到60秒）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43780,7 +43780,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（以上全部）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43866,7 +43866,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（相应的翼上出口未关闭锁定或指令锁定时,相应的飞行锁却无法接通）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44433,7 +44433,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（FL260）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44477,7 +44477,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（高度层改变方式接通）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45517,7 +45517,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（1#变压整流器失效或2#和3#变压整流器都失效）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47036,7 +47036,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（MCP上人工选择的空速或FMC计算的空速）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47169,7 +47169,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（抖杆器警告失效或最大使用速度失效）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -47471,7 +47471,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（空中低于800英尺AGL，任一个或两个推力手柄收到慢车位，起落架没有放下锁好）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48468,7 +48468,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（任何影响到性能计算的重量输入改变都会）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48555,7 +48555,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（在离起始下降点100海里之内或在所需到达时间（RTA）方式）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48599,7 +48599,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（其它各项都对）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48729,7 +48729,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（显示警戒并且在该发动机非显示位置显示琥珀色实心框; 三个框稳定亮, 10秒钟后实心框消失）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48774,7 +48774,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（显示警戒并且在该发动机非显示位置显示琥珀色实心框; 三个框稳定亮, 10秒钟后实心框消失）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -48949,7 +48949,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（其它各项都可以）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -49037,7 +49037,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（N1、N2、滑油量和发动机振动）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
