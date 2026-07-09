@@ -34,8 +34,7 @@ window.B737_QUESTION_BANK = {
         "通讯": 9
       },
       "referenceStatusCounts": {
-        "partial": 372,
-        "conflict": 27,
+        "partial": 399,
         "insufficient": 628
       }
     }
@@ -89,9 +88,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第2.1节",
-        "page": "原题库参考编号 NP.2.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）2.1节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)2.1",
+        "page": "原题库参考编号 第NP章(正常程序)第2.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）2.1。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -145,9 +144,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第1.2节",
-        "page": "原题库参考编号 NP.1.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）1.2节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)1.2",
+        "page": "原题库参考编号 第NP章(正常程序)第1.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）1.2。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -201,9 +200,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第1.2节",
-        "page": "原题库参考编号 NP.1.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）1.2节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)1.2",
+        "page": "原题库参考编号 第NP章(正常程序)第1.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）1.2。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -257,9 +256,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第14.8节",
-        "page": "原题库参考编号 NP.14.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）14.8节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)14.8",
+        "page": "原题库参考编号 第NP章(正常程序)第14.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）14.8。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -313,9 +312,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第14.7节",
-        "page": "原题库参考编号 NP.14.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）14.7节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)14.7",
+        "page": "原题库参考编号 第NP章(正常程序)第14.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）14.7。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -369,9 +368,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第15.2节",
-        "page": "原题库参考编号 NP.15.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）15.2节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)15.2",
+        "page": "原题库参考编号 第NP章(正常程序)第15.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）15.2。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -425,9 +424,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第28.4节",
-        "page": "原题库参考编号 NP.28.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）28.4节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)28.4",
+        "page": "原题库参考编号 第NP章(正常程序)第28.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）28.4。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -481,9 +480,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第2.5节",
-        "page": "原题库参考编号 NP.2.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）2.5节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)2.5",
+        "page": "原题库参考编号 第NP章(正常程序)第2.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）2.5。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -537,9 +536,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第1.2节",
-        "page": "原题库参考编号 NP.1.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）1.2节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)1.2",
+        "page": "原题库参考编号 第NP章(正常程序)第1.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）1.2。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -593,9 +592,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第21.6节",
-        "page": "原题库参考编号 NP.21.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）21.6节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)21.6",
+        "page": "原题库参考编号 第NP章(正常程序)第21.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）21.6。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -643,13 +642,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "NP.05.1",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第NP章(正常程序)第05.1节",
+        "page": "原题库参考编号 NP.05.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）05.1节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么情况下需要使用补充正常程序"
     },
@@ -701,9 +700,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第05.1节",
-        "page": "原题库参考编号 NP.05.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）05.1节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)05.1",
+        "page": "原题库参考编号 第NP章(正常程序)第05.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）05.1。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -757,9 +756,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第2.4节",
-        "page": "原题库参考编号 NP.2.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）2.4节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)2.4",
+        "page": "原题库参考编号 第NP章(正常程序)第2.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）2.4。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -813,9 +812,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第2.5节",
-        "page": "原题库参考编号 NP.2.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）2.5节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)2.5",
+        "page": "原题库参考编号 第NP章(正常程序)第2.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）2.5。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -869,9 +868,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第NP章(正常程序)第3.5节",
-        "page": "原题库参考编号 NP.3.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）3.5节。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第NP章(正常程序)3.5",
+        "page": "原题库参考编号 第NP章(正常程序)第3.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第NP章（正常程序）3.5。本题考点涉及正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -925,9 +924,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第SP章(补充程序)第2.5节",
-        "page": "原题库参考编号 SP.2.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）2.5节。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第SP章(补充程序)2.5",
+        "page": "原题库参考编号 第SP章(补充程序)第2.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）2.5。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -981,9 +980,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第SP章(补充程序)第8.1节",
-        "page": "原题库参考编号 SP.8.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）8.1节。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第SP章(补充程序)8.1",
+        "page": "原题库参考编号 第SP章(补充程序)第8.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）8.1。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1037,9 +1036,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第SP章(补充程序)第12.4节",
-        "page": "原题库参考编号 SP.12.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）12.4节。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第SP章(补充程序)12.4",
+        "page": "原题库参考编号 第SP章(补充程序)第12.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）12.4。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1093,9 +1092,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第SP章(补充程序)第16.12节",
-        "page": "原题库参考编号 SP.16.12",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）16.12节。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第SP章(补充程序)16.12",
+        "page": "原题库参考编号 第SP章(补充程序)第16.12节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）16.12。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1139,9 +1138,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第SP章(补充程序)第16.32节",
-        "page": "原题库参考编号 SP.16.32",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）16.32节。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第SP章(补充程序)16.32",
+        "page": "原题库参考编号 第SP章(补充程序)第16.32节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第SP章（补充程序）16.32。本题考点涉及补充程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1195,9 +1194,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第10.2节",
-        "page": "原题库参考编号 15.10.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）10.2节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)10.2",
+        "page": "原题库参考编号 第15章(警告系统)第10.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）10.2。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1251,9 +1250,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第10.7节",
-        "page": "原题库参考编号 15.10.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）10.7节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)10.7",
+        "page": "原题库参考编号 第15章(警告系统)第10.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）10.7。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1307,9 +1306,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第10.11节",
-        "page": "原题库参考编号 15.10.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）10.11节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)10.11",
+        "page": "原题库参考编号 第15章(警告系统)第10.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）10.11。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1362,13 +1361,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "15.10.11",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第15章(警告系统)第10.11节",
+        "page": "原题库参考编号 15.10.11",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）10.11节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "关于增强型近地警告系统和气象雷达显示的说法哪项说法正确"
     },
@@ -1420,9 +1419,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.2节",
-        "page": "原题库参考编号 15.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.2节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.2",
+        "page": "原题库参考编号 第15章(警告系统)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.2。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1476,9 +1475,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.2节",
-        "page": "原题库参考编号 15.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.2节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.2",
+        "page": "原题库参考编号 第15章(警告系统)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.2。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1532,9 +1531,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.11节",
-        "page": "原题库参考编号 15.20.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.11节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.11",
+        "page": "原题库参考编号 第15章(警告系统)第20.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.11。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1588,9 +1587,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.7节",
-        "page": "原题库参考编号 15.20.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.7节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.7",
+        "page": "原题库参考编号 第15章(警告系统)第20.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.7。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1644,9 +1643,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.8节",
-        "page": "原题库参考编号 15.20.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.8节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.8",
+        "page": "原题库参考编号 第15章(警告系统)第20.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.8。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1700,9 +1699,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.8节",
-        "page": "原题库参考编号 15.20.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.8节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.8",
+        "page": "原题库参考编号 第15章(警告系统)第20.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.8。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1756,9 +1755,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.10节",
-        "page": "原题库参考编号 15.20.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.10节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.10",
+        "page": "原题库参考编号 第15章(警告系统)第20.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.10。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1812,9 +1811,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.9节",
-        "page": "原题库参考编号 15.20.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.9节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.9",
+        "page": "原题库参考编号 第15章(警告系统)第20.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.9。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1868,9 +1867,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.15节",
-        "page": "原题库参考编号 15.20.15",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.15节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.15",
+        "page": "原题库参考编号 第15章(警告系统)第20.15节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.15。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1924,9 +1923,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.22节",
-        "page": "原题库参考编号 15.20.22",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.22节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.22",
+        "page": "原题库参考编号 第15章(警告系统)第20.22节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.22。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -1975,9 +1974,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.22节",
-        "page": "原题库参考编号 15.20.22",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.22节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.22",
+        "page": "原题库参考编号 第15章(警告系统)第20.22节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.22。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2031,9 +2030,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.22节",
-        "page": "原题库参考编号 15.20.22",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.22节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.22",
+        "page": "原题库参考编号 第15章(警告系统)第20.22节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.22。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2087,9 +2086,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.24节",
-        "page": "原题库参考编号 15.20.24",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.24节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.24",
+        "page": "原题库参考编号 第15章(警告系统)第20.24节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.24。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2143,9 +2142,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.26节",
-        "page": "原题库参考编号 15.20.26",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.26节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.26",
+        "page": "原题库参考编号 第15章(警告系统)第20.26节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.26。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2199,9 +2198,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.27节",
-        "page": "原题库参考编号 15.20.27",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.27节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.27",
+        "page": "原题库参考编号 第15章(警告系统)第20.27节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.27。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2255,9 +2254,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第15章(警告系统)第20.28节",
-        "page": "原题库参考编号 15.20.28",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.28节。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第15章(警告系统)20.28",
+        "page": "原题库参考编号 第15章(警告系统)第20.28节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第15章（警告系统）20.28。本题考点涉及警告系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2311,9 +2310,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概述)第30.22节",
-        "page": "原题库参考编号 1.30.22",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.22节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第1章(飞机概述)30.22",
+        "page": "原题库参考编号 第1章(飞机概述)第30.22节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.22。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2367,9 +2366,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概述)第30.26节",
-        "page": "原题库参考编号 1.30.26",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.26节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第1章(飞机概述)30.26",
+        "page": "原题库参考编号 第1章(飞机概述)第30.26节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.26。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2423,9 +2422,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概述)第30.28节",
-        "page": "原题库参考编号 1.30.28",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.28节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第1章(飞机概述)30.28",
+        "page": "原题库参考编号 第1章(飞机概述)第30.28节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.28。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2479,9 +2478,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概述)第30.28节",
-        "page": "原题库参考编号 1.30.28",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.28节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第1章(飞机概述)30.28",
+        "page": "原题库参考编号 第1章(飞机概述)第30.28节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）30.28。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2535,9 +2534,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概述)第40.59节",
-        "page": "原题库参考编号 1.40.59",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）40.59节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第1章(飞机概述)40.59",
+        "page": "原题库参考编号 第1章(飞机概述)第40.59节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）40.59。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2591,9 +2590,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概述)第40.5节",
-        "page": "原题库参考编号 1.40.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）40.5节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第1章(飞机概述)40.5",
+        "page": "原题库参考编号 第1章(飞机概述)第40.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）40.5。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2647,9 +2646,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第1章(飞机概述)第40.59节",
-        "page": "原题库参考编号 1.40.59",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）40.59节。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第1章(飞机概述)40.59",
+        "page": "原题库参考编号 第1章(飞机概述)第40.59节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第1章（飞机概述）40.59。本题考点涉及飞机概述相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2703,9 +2702,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第10.3节",
-        "page": "原题库参考编号 2.10.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）10.3节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)10.3",
+        "page": "原题库参考编号 第2章(空气系统)第10.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）10.3。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2759,9 +2758,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第10.12节",
-        "page": "原题库参考编号 2.10.12",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）10.12节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)10.12",
+        "page": "原题库参考编号 第2章(空气系统)第10.12节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）10.12。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2815,9 +2814,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第10.15节",
-        "page": "原题库参考编号 2.10.15",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）10.15节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)10.15",
+        "page": "原题库参考编号 第2章(空气系统)第10.15节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）10.15。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2871,9 +2870,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第10.15节",
-        "page": "原题库参考编号 2.10.15",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）10.15节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)10.15",
+        "page": "原题库参考编号 第2章(空气系统)第10.15节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）10.15。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2927,9 +2926,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第20.1节",
-        "page": "原题库参考编号 2.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）20.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)20.1",
+        "page": "原题库参考编号 第2章(空气系统)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）20.1。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -2983,9 +2982,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第31.1节",
-        "page": "原题库参考编号 2.31.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)31.1",
+        "page": "原题库参考编号 第2章(空气系统)第31.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3039,9 +3038,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第31.1节",
-        "page": "原题库参考编号 2.31.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)31.1",
+        "page": "原题库参考编号 第2章(空气系统)第31.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3095,9 +3094,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第31.1节",
-        "page": "原题库参考编号 2.31.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)31.1",
+        "page": "原题库参考编号 第2章(空气系统)第31.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3151,9 +3150,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第31.1节",
-        "page": "原题库参考编号 2.31.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)31.1",
+        "page": "原题库参考编号 第2章(空气系统)第31.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3207,9 +3206,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第31.1节",
-        "page": "原题库参考编号 2.31.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)31.1",
+        "page": "原题库参考编号 第2章(空气系统)第31.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.1。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3263,9 +3262,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第31.2节",
-        "page": "原题库参考编号 2.31.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.2节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)31.2",
+        "page": "原题库参考编号 第2章(空气系统)第31.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.2。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3319,9 +3318,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第31.2节",
-        "page": "原题库参考编号 2.31.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.2节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)31.2",
+        "page": "原题库参考编号 第2章(空气系统)第31.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.2。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3375,9 +3374,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第31.2节",
-        "page": "原题库参考编号 2.31.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.2节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)31.2",
+        "page": "原题库参考编号 第2章(空气系统)第31.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.2。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3431,9 +3430,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第31.4节",
-        "page": "原题库参考编号 2.31.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.4节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)31.4",
+        "page": "原题库参考编号 第2章(空气系统)第31.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.4。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3487,9 +3486,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第31.4节",
-        "page": "原题库参考编号 2.31.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.4节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)31.4",
+        "page": "原题库参考编号 第2章(空气系统)第31.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.4。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3543,9 +3542,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第31.5节",
-        "page": "原题库参考编号 2.31.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.5节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)31.5",
+        "page": "原题库参考编号 第2章(空气系统)第31.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）31.5。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3599,9 +3598,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第40.1节",
-        "page": "原题库参考编号 2.40.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.1节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)40.1",
+        "page": "原题库参考编号 第2章(空气系统)第40.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.1。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3655,9 +3654,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第40.3节",
-        "page": "原题库参考编号 2.40.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.3节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)40.3",
+        "page": "原题库参考编号 第2章(空气系统)第40.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.3。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3711,9 +3710,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第40.3节",
-        "page": "原题库参考编号 2.40.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.3节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)40.3",
+        "page": "原题库参考编号 第2章(空气系统)第40.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.3。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3767,9 +3766,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第40.5节",
-        "page": "原题库参考编号 2.40.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.5节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)40.5",
+        "page": "原题库参考编号 第2章(空气系统)第40.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.5。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3822,13 +3821,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "2.40.5",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)第40.5节",
+        "page": "原题库参考编号 2.40.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.5节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "增压的巡航方式何时开始工作"
     },
@@ -3880,9 +3879,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第40.5节",
-        "page": "原题库参考编号 2.40.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.5节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)40.5",
+        "page": "原题库参考编号 第2章(空气系统)第40.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.5。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3936,9 +3935,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第2章(空气系统)第40.6节",
-        "page": "原题库参考编号 2.40.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.6节。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第2章(空气系统)40.6",
+        "page": "原题库参考编号 第2章(空气系统)第40.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第2章（空气系统）40.6。本题考点涉及空气系统相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -3987,9 +3986,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_QRH.pdf",
-        "section": "第DRH2章(QRH非正常程序)第1节",
-        "page": "原题库参考编号 DRH2.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_QRH.pdf》第DRH2章（QRH非正常程序）1节。本题考点涉及QRH非正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第DRH2章(QRH非正常程序)1",
+        "page": "原题库参考编号 第DRH2章(QRH非正常程序)第1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_QRH.pdf》第DRH2章（QRH非正常程序）1。本题考点涉及QRH非正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4043,9 +4042,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.9节",
-        "page": "原题库参考编号 4.10.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.9节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.9",
+        "page": "原题库参考编号 第4章(自动飞行)第10.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.9。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4094,9 +4093,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.7节",
-        "page": "原题库参考编号 4.10.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.7节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.7",
+        "page": "原题库参考编号 第4章(自动飞行)第10.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.7。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4145,9 +4144,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.8节",
-        "page": "原题库参考编号 4.10.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.8节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.8",
+        "page": "原题库参考编号 第4章(自动飞行)第10.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.8。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4201,9 +4200,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.8节",
-        "page": "原题库参考编号 4.10.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.8节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.8",
+        "page": "原题库参考编号 第4章(自动飞行)第10.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.8。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4257,9 +4256,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.9节",
-        "page": "原题库参考编号 4.10.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.9节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.9",
+        "page": "原题库参考编号 第4章(自动飞行)第10.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.9。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4313,9 +4312,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.11节",
-        "page": "原题库参考编号 4.10.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.11节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.11",
+        "page": "原题库参考编号 第4章(自动飞行)第10.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.11。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4364,9 +4363,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.15节",
-        "page": "原题库参考编号 4.10.15",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.15节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.15",
+        "page": "原题库参考编号 第4章(自动飞行)第10.15节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.15。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4420,9 +4419,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.16节",
-        "page": "原题库参考编号 4.10.16",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.16节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.16",
+        "page": "原题库参考编号 第4章(自动飞行)第10.16节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.16。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4476,9 +4475,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.16节",
-        "page": "原题库参考编号 4.10.16",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.16节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.16",
+        "page": "原题库参考编号 第4章(自动飞行)第10.16节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.16。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4532,9 +4531,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.17节",
-        "page": "原题库参考编号 4.10.17",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.17节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.17",
+        "page": "原题库参考编号 第4章(自动飞行)第10.17节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.17。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4589,8 +4588,8 @@ window.B737_QUESTION_BANK = {
         "status": "partial",
         "manual": "B737 CBT 训练教材",
         "section": "CBT 训练材料",
-        "page": "原题库参考编号 CBT",
-        "summary": "答案参考说明：原题库参考定位至 B737 CBT 训练材料（编号 CBT）。该材料为计算机辅助训练课件，非 FCOM/FCTM/QRH 手册。尚未完成与 FCOM 原文的逐字核对。"
+        "page": "原题库参考编号 CBT 训练材料",
+        "summary": "答案参考说明：原题库参考定位至 B737 CBT 训练材料（编号 CBT 训练材料）。该材料为计算机辅助训练课件，非 FCOM/FCTM/QRH 手册。尚未完成与 FCOM 原文的逐字核对。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4644,9 +4643,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.19节",
-        "page": "原题库参考编号 4.10.19",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.19节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.19",
+        "page": "原题库参考编号 第4章(自动飞行)第10.19节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.19。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4700,9 +4699,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.20节",
-        "page": "原题库参考编号 4.20.20",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.20节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.20",
+        "page": "原题库参考编号 第4章(自动飞行)第20.20节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.20。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4756,9 +4755,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.21节",
-        "page": "原题库参考编号 4.10.21",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.21节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.21",
+        "page": "原题库参考编号 第4章(自动飞行)第10.21节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.21。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4812,9 +4811,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.22节",
-        "page": "原题库参考编号 4.10.22",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.22节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.22",
+        "page": "原题库参考编号 第4章(自动飞行)第10.22节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.22。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4924,9 +4923,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.4节",
-        "page": "原题库参考编号 4.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.4节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.4",
+        "page": "原题库参考编号 第4章(自动飞行)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.4。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -4980,9 +4979,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.6节",
-        "page": "原题库参考编号 4.20.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.6节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.6",
+        "page": "原题库参考编号 第4章(自动飞行)第20.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.6。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5036,9 +5035,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.6节",
-        "page": "原题库参考编号 4.20.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.6节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.6",
+        "page": "原题库参考编号 第4章(自动飞行)第20.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.6。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5087,9 +5086,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.8节",
-        "page": "原题库参考编号 4.20.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.8节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.8",
+        "page": "原题库参考编号 第4章(自动飞行)第20.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.8。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5143,9 +5142,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.10节",
-        "page": "原题库参考编号 4.20.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.10节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.10",
+        "page": "原题库参考编号 第4章(自动飞行)第20.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.10。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5199,9 +5198,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.10节",
-        "page": "原题库参考编号 4.20.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.10节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.10",
+        "page": "原题库参考编号 第4章(自动飞行)第20.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.10。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5255,9 +5254,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.11节",
-        "page": "原题库参考编号 4.20.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.11节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.11",
+        "page": "原题库参考编号 第4章(自动飞行)第20.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.11。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5311,9 +5310,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.12节",
-        "page": "原题库参考编号 4.20.12",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.12节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.12",
+        "page": "原题库参考编号 第4章(自动飞行)第20.12节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.12。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5367,9 +5366,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.12节",
-        "page": "原题库参考编号 4.20.12",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.12节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.12",
+        "page": "原题库参考编号 第4章(自动飞行)第20.12节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.12。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5423,9 +5422,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.13节",
-        "page": "原题库参考编号 4.20.13",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.13节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.13",
+        "page": "原题库参考编号 第4章(自动飞行)第20.13节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.13。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5479,9 +5478,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.17节",
-        "page": "原题库参考编号 4.20.17",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.17节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.17",
+        "page": "原题库参考编号 第4章(自动飞行)第20.17节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.17。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5530,9 +5529,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.18节",
-        "page": "原题库参考编号 4.20.18",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.18",
+        "page": "原题库参考编号 第4章(自动飞行)第20.18节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5586,9 +5585,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.18节",
-        "page": "原题库参考编号 4.20.18",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.18",
+        "page": "原题库参考编号 第4章(自动飞行)第20.18节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5642,9 +5641,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.18节",
-        "page": "原题库参考编号 4.20.18",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.18",
+        "page": "原题库参考编号 第4章(自动飞行)第20.18节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5698,9 +5697,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.18节",
-        "page": "原题库参考编号 4.20.18",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.18",
+        "page": "原题库参考编号 第4章(自动飞行)第20.18节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5754,9 +5753,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.18节",
-        "page": "原题库参考编号 4.20.18",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.18",
+        "page": "原题库参考编号 第4章(自动飞行)第20.18节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5810,9 +5809,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.18节",
-        "page": "原题库参考编号 4.20.18",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.18",
+        "page": "原题库参考编号 第4章(自动飞行)第20.18节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5866,9 +5865,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.18节",
-        "page": "原题库参考编号 4.20.18",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.18",
+        "page": "原题库参考编号 第4章(自动飞行)第20.18节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5922,9 +5921,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.18节",
-        "page": "原题库参考编号 4.20.18",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.18",
+        "page": "原题库参考编号 第4章(自动飞行)第20.18节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.18。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -5978,9 +5977,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.19节",
-        "page": "原题库参考编号 4.20.19",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.19节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.19",
+        "page": "原题库参考编号 第4章(自动飞行)第20.19节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.19。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6034,9 +6033,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.20节",
-        "page": "原题库参考编号 4.20.20",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.20节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.20",
+        "page": "原题库参考编号 第4章(自动飞行)第20.20节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.20。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6090,9 +6089,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.26节",
-        "page": "原题库参考编号 4.20.26",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.26节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.26",
+        "page": "原题库参考编号 第4章(自动飞行)第20.26节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.26。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6146,9 +6145,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.28节",
-        "page": "原题库参考编号 4.20.28",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.28节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.28",
+        "page": "原题库参考编号 第4章(自动飞行)第20.28节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.28。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6202,9 +6201,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.28节",
-        "page": "原题库参考编号 4.20.28",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.28节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.28",
+        "page": "原题库参考编号 第4章(自动飞行)第20.28节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.28。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6257,13 +6256,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "4.20.33",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第4章(自动飞行)第20.33节",
+        "page": "原题库参考编号 4.20.33",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.33节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "若在飞行指引起飞或复飞阶段遭遇了风切变在垂直速率下降至约+600英尺/分钟之前飞行指引俯仰指令杆发出指令以保持多大的速度"
     },
@@ -6315,9 +6314,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.33节",
-        "page": "原题库参考编号 4.20.33",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.33节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.33",
+        "page": "原题库参考编号 第4章(自动飞行)第20.33节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.33。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6366,9 +6365,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.7节",
-        "page": "原题库参考编号 4.10.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.7节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)10.7",
+        "page": "原题库参考编号 第4章(自动飞行)第10.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.7。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6417,9 +6416,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第10.7-9节",
-        "page": "原题库参考编号 4.10.7-9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）10.7-9节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)第4章(自动飞行)第10.7-9节",
+        "page": "原题库参考编号 第4章(自动飞行)第10.7-9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）第4章(自动飞行)第10.7-9节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6473,9 +6472,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.47.10.4节",
-        "page": "原题库参考编号 4.20.47.10.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.47.10.4节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.47.10.4",
+        "page": "原题库参考编号 第4章(自动飞行)第20.47.10.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.47.10.4。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6529,9 +6528,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第4章(自动飞行)第20.35节",
-        "page": "原题库参考编号 4.20.35",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.35节。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第4章(自动飞行)20.35",
+        "page": "原题库参考编号 第4章(自动飞行)第20.35节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第4章（自动飞行）20.35。本题考点涉及自动飞行相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6584,13 +6583,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "5.10.3",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第5章(通讯)第10.3节",
+        "page": "原题库参考编号 5.10.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.3节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么情况会导致无线电调谐面板上的对侧调谐灯亮"
     },
@@ -6642,9 +6641,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通讯)第10.4节",
-        "page": "原题库参考编号 5.10.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.4节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第5章(通讯)10.4",
+        "page": "原题库参考编号 第5章(通讯)第10.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.4。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6698,9 +6697,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通讯)第10.9节",
-        "page": "原题库参考编号 5.10.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.9节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第5章(通讯)10.9",
+        "page": "原题库参考编号 第5章(通讯)第10.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.9。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6754,9 +6753,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通讯)第10.10节",
-        "page": "原题库参考编号 5.10.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.10节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第5章(通讯)10.10",
+        "page": "原题库参考编号 第5章(通讯)第10.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.10。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6810,9 +6809,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通讯)第10.18节",
-        "page": "原题库参考编号 5.10.18",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.18节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第5章(通讯)10.18",
+        "page": "原题库参考编号 第5章(通讯)第10.18节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.18。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6866,9 +6865,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通讯)第10.20节",
-        "page": "原题库参考编号 5.10.20",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.20节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第5章(通讯)10.20",
+        "page": "原题库参考编号 第5章(通讯)第10.20节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）10.20。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6922,9 +6921,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通讯)第20.1节",
-        "page": "原题库参考编号 5.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）20.1节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第5章(通讯)20.1",
+        "page": "原题库参考编号 第5章(通讯)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）20.1。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -6978,9 +6977,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通讯)第20.1节",
-        "page": "原题库参考编号 5.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）20.1节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第5章(通讯)20.1",
+        "page": "原题库参考编号 第5章(通讯)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）20.1。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7034,9 +7033,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通讯)第20.7节",
-        "page": "原题库参考编号 5.20.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）20.7节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第5章(通讯)20.7",
+        "page": "原题库参考编号 第5章(通讯)第20.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）20.7。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7090,9 +7089,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通讯)第20.8节",
-        "page": "原题库参考编号 5.20.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）20.8节。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第5章(通讯)20.8",
+        "page": "原题库参考编号 第5章(通讯)第20.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第5章（通讯）20.8。本题考点涉及通讯相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7141,9 +7140,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第10.7节",
-        "page": "原题库参考编号 6.10.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.7节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)10.7",
+        "page": "原题库参考编号 第6章(电气)第10.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.7。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7197,9 +7196,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第10.9节",
-        "page": "原题库参考编号 6.10.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.9节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)10.9",
+        "page": "原题库参考编号 第6章(电气)第10.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.9。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7253,9 +7252,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第10.9节",
-        "page": "原题库参考编号 6.10.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.9节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)10.9",
+        "page": "原题库参考编号 第6章(电气)第10.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.9。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7308,13 +7307,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "6.10.10",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第6章(电气)第10.10节",
+        "page": "原题库参考编号 6.10.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.10节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在飞机电气系统有正常电源的情况下将备用电源电门放到bat位则备用交流汇流条由谁供电"
     },
@@ -7366,9 +7365,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第10.12节",
-        "page": "原题库参考编号 6.10.12",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.12节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)10.12",
+        "page": "原题库参考编号 第6章(电气)第10.12节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.12。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7422,9 +7421,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第10.12节",
-        "page": "原题库参考编号 6.10.12",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.12节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)10.12",
+        "page": "原题库参考编号 第6章(电气)第10.12节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.12。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7478,9 +7477,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第20.1节",
-        "page": "原题库参考编号 6.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.1节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)20.1",
+        "page": "原题库参考编号 第6章(电气)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.1。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7534,9 +7533,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第20.1节",
-        "page": "原题库参考编号 6.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.1节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)20.1",
+        "page": "原题库参考编号 第6章(电气)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.1。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7590,9 +7589,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第20.7-8节",
-        "page": "原题库参考编号 6.20.7-8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.7-8节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)第6章(电气)第20.7-8节",
+        "page": "原题库参考编号 第6章(电气)第20.7-8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）第6章(电气)第20.7-8节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7646,9 +7645,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第10.7节",
-        "page": "原题库参考编号 6.10.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.7节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)10.7",
+        "page": "原题库参考编号 第6章(电气)第10.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.7。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7702,9 +7701,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第20.11节",
-        "page": "原题库参考编号 6.20.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.11节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)20.11",
+        "page": "原题库参考编号 第6章(电气)第20.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.11。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7758,9 +7757,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第20.11节",
-        "page": "原题库参考编号 6.20.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.11节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)20.11",
+        "page": "原题库参考编号 第6章(电气)第20.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.11。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7814,9 +7813,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第20.12节",
-        "page": "原题库参考编号 6.20.12",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.12节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)20.12",
+        "page": "原题库参考编号 第6章(电气)第20.12节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.12。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7870,9 +7869,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第20.11节",
-        "page": "原题库参考编号 6.20.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.11节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)20.11",
+        "page": "原题库参考编号 第6章(电气)第20.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.11。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7926,9 +7925,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第20.12节",
-        "page": "原题库参考编号 6.20.12",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.12节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)20.12",
+        "page": "原题库参考编号 第6章(电气)第20.12节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.12。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -7982,9 +7981,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第10.7 6.10.10节",
-        "page": "原题库参考编号 6.10.7 6.10.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.7 6.10.10节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)第6章(电气)第10.7 6.10.10节",
+        "page": "原题库参考编号 第6章(电气)第10.7 6.10.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）第6章(电气)第10.7 6.10.10节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8038,9 +8037,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第20.11节",
-        "page": "原题库参考编号 6.20.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.11节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)20.11",
+        "page": "原题库参考编号 第6章(电气)第20.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.11。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8094,9 +8093,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第10.7 6.10.10节",
-        "page": "原题库参考编号 6.10.7 6.10.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）10.7 6.10.10节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)第6章(电气)第10.7 6.10.10节",
+        "page": "原题库参考编号 第6章(电气)第10.7 6.10.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）第6章(电气)第10.7 6.10.10节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8150,9 +8149,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第6章(电气)第20.11节",
-        "page": "原题库参考编号 6.20.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.11节。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第6章(电气)20.11",
+        "page": "原题库参考编号 第6章(电气)第20.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第6章（电气）20.11。本题考点涉及电气相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8206,9 +8205,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第10.1节",
-        "page": "原题库参考编号 8.10.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）10.1节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)10.1",
+        "page": "原题库参考编号 第8章(防火)第10.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）10.1。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8260,9 +8259,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.8节",
-        "page": "原题库参考编号 8.20.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.8节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.8",
+        "page": "原题库参考编号 第8章(防火)第20.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.8。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8316,9 +8315,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第10.1节",
-        "page": "原题库参考编号 8.10.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）10.1节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)10.1",
+        "page": "原题库参考编号 第8章(防火)第10.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）10.1。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8372,9 +8371,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第10.2节",
-        "page": "原题库参考编号 8.10.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）10.2节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)10.2",
+        "page": "原题库参考编号 第8章(防火)第10.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）10.2。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8428,9 +8427,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第10.9节",
-        "page": "原题库参考编号 8.10.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）10.9节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)10.9",
+        "page": "原题库参考编号 第8章(防火)第10.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）10.9。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8484,9 +8483,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.1节",
-        "page": "原题库参考编号 8.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.1",
+        "page": "原题库参考编号 第8章(防火)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8540,9 +8539,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.1节",
-        "page": "原题库参考编号 8.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.1",
+        "page": "原题库参考编号 第8章(防火)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8596,9 +8595,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.1节",
-        "page": "原题库参考编号 8.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.1",
+        "page": "原题库参考编号 第8章(防火)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8652,9 +8651,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.1节",
-        "page": "原题库参考编号 8.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.1",
+        "page": "原题库参考编号 第8章(防火)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8708,9 +8707,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.1节",
-        "page": "原题库参考编号 8.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.1",
+        "page": "原题库参考编号 第8章(防火)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.1。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8764,9 +8763,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.2节",
-        "page": "原题库参考编号 8.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.2节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.2",
+        "page": "原题库参考编号 第8章(防火)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.2。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8820,9 +8819,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.2节",
-        "page": "原题库参考编号 8.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.2节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.2",
+        "page": "原题库参考编号 第8章(防火)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.2。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8876,9 +8875,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.2节",
-        "page": "原题库参考编号 8.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.2节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.2",
+        "page": "原题库参考编号 第8章(防火)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.2。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8932,9 +8931,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.4节",
-        "page": "原题库参考编号 8.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.4节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.4",
+        "page": "原题库参考编号 第8章(防火)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.4。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -8988,9 +8987,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.4节",
-        "page": "原题库参考编号 8.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.4节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.4",
+        "page": "原题库参考编号 第8章(防火)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.4。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9044,9 +9043,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.4节",
-        "page": "原题库参考编号 8.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.4节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.4",
+        "page": "原题库参考编号 第8章(防火)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.4。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9100,9 +9099,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.5节",
-        "page": "原题库参考编号 8.20.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.5节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.5",
+        "page": "原题库参考编号 第8章(防火)第20.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.5。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9156,9 +9155,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.5节",
-        "page": "原题库参考编号 8.20.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.5节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.5",
+        "page": "原题库参考编号 第8章(防火)第20.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.5。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9212,9 +9211,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.6节",
-        "page": "原题库参考编号 8.20.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.6节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.6",
+        "page": "原题库参考编号 第8章(防火)第20.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.6。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9268,9 +9267,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第8章(防火)第20.8节",
-        "page": "原题库参考编号 8.20.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.8节。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第8章(防火)20.8",
+        "page": "原题库参考编号 第8章(防火)第20.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第8章（防火）20.8。本题考点涉及防火相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9324,9 +9323,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第10.2节",
-        "page": "原题库参考编号 9.10.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.2节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)10.2",
+        "page": "原题库参考编号 第9章(飞行操纵)第10.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.2。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9380,9 +9379,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第10.3节",
-        "page": "原题库参考编号 9.10.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.3节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)10.3",
+        "page": "原题库参考编号 第9章(飞行操纵)第10.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.3。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9436,9 +9435,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第10.3节",
-        "page": "原题库参考编号 9.10.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.3节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)10.3",
+        "page": "原题库参考编号 第9章(飞行操纵)第10.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.3。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9492,9 +9491,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第10.3节",
-        "page": "原题库参考编号 9.10.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.3节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)10.3",
+        "page": "原题库参考编号 第9章(飞行操纵)第10.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.3。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9548,9 +9547,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第10.6节",
-        "page": "原题库参考编号 9.10.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.6节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)10.6",
+        "page": "原题库参考编号 第9章(飞行操纵)第10.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.6。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9604,9 +9603,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第10.8节",
-        "page": "原题库参考编号 9.10.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.8节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)10.8",
+        "page": "原题库参考编号 第9章(飞行操纵)第10.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.8。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9660,9 +9659,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第10.12节",
-        "page": "原题库参考编号 9.10.12",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.12节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)10.12",
+        "page": "原题库参考编号 第9章(飞行操纵)第10.12节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.12。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9716,9 +9715,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第10.15 9.20.26节",
-        "page": "原题库参考编号 9.10.15 9.20.26",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）10.15 9.20.26节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)第9章(飞行操纵)第10.15 9.20.26节",
+        "page": "原题库参考编号 第9章(飞行操纵)第10.15 9.20.26节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）第9章(飞行操纵)第10.15 9.20.26节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9772,9 +9771,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.1节",
-        "page": "原题库参考编号 9.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.1节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.1",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.1。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9827,13 +9826,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "9.20.1",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)第20.1节",
+        "page": "原题库参考编号 9.20.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.1节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "左右驾驶盘和驾驶杆如何连接"
     },
@@ -9885,9 +9884,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.2节",
-        "page": "原题库参考编号 9.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.2节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.2",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.2。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9936,9 +9935,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.4节",
-        "page": "原题库参考编号 9.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.4节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.4",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.4。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -9992,9 +9991,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.4节",
-        "page": "原题库参考编号 9.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.4节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.4",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.4。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10048,9 +10047,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.4节",
-        "page": "原题库参考编号 9.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.4节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.4",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.4。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10104,9 +10103,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.5节",
-        "page": "原题库参考编号 9.20.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.5节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.5",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.5。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10160,9 +10159,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.8节",
-        "page": "原题库参考编号 9.20.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.8节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.8",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.8。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10216,9 +10215,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.8节",
-        "page": "原题库参考编号 9.20.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.8节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.8",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.8。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10272,9 +10271,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.12节",
-        "page": "原题库参考编号 9.20.12",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.12节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.12",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.12节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.12。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10328,9 +10327,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.13节",
-        "page": "原题库参考编号 9.20.13",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.13节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.13",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.13节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.13。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10384,9 +10383,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.13节",
-        "page": "原题库参考编号 9.20.13",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.13节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.13",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.13节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.13。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10439,13 +10438,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "9.20.14",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第9章(飞行操纵)第20.14节",
+        "page": "原题库参考编号 9.20.14",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.14节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "偏航阻尼器有哪些功能"
     },
@@ -10497,9 +10496,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.17节",
-        "page": "原题库参考编号 9.20.17",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.17节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.17",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.17节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.17。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10553,9 +10552,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.18节",
-        "page": "原题库参考编号 9.20.18",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.18节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.18",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.18节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.18。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10609,9 +10608,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第9章(飞行操纵)第20.9节",
-        "page": "原题库参考编号 9.20.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.9节。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第9章(飞行操纵)20.9",
+        "page": "原题库参考编号 第9章(飞行操纵)第20.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第9章（飞行操纵）20.9。本题考点涉及飞行操纵相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10665,9 +10664,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第10.2节",
-        "page": "原题库参考编号 12.10.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）10.2节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)10.2",
+        "page": "原题库参考编号 第12章(燃油)第10.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）10.2。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10721,9 +10720,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第10.3节",
-        "page": "原题库参考编号 12.10.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）10.3节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)10.3",
+        "page": "原题库参考编号 第12章(燃油)第10.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）10.3。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10777,9 +10776,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第10.5节",
-        "page": "原题库参考编号 12.10.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）10.5节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)10.5",
+        "page": "原题库参考编号 第12章(燃油)第10.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）10.5。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10833,9 +10832,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第10.6节",
-        "page": "原题库参考编号 12.10.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）10.6节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)10.6",
+        "page": "原题库参考编号 第12章(燃油)第10.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）10.6。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10879,9 +10878,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第10.10节",
-        "page": "原题库参考编号 12.10.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）10.10节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)10.10",
+        "page": "原题库参考编号 第12章(燃油)第10.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）10.10。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10935,9 +10934,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第20.2节",
-        "page": "原题库参考编号 12.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.2节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)20.2",
+        "page": "原题库参考编号 第12章(燃油)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.2。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -10991,9 +10990,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第20.2节",
-        "page": "原题库参考编号 12.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.2节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)20.2",
+        "page": "原题库参考编号 第12章(燃油)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.2。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11047,9 +11046,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第20.2节",
-        "page": "原题库参考编号 12.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.2节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)20.2",
+        "page": "原题库参考编号 第12章(燃油)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.2。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11103,9 +11102,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第20.2节",
-        "page": "原题库参考编号 12.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.2节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)20.2",
+        "page": "原题库参考编号 第12章(燃油)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.2。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11159,9 +11158,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第20.3节",
-        "page": "原题库参考编号 12.20.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.3节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)20.3",
+        "page": "原题库参考编号 第12章(燃油)第20.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.3。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11215,9 +11214,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第20.3节",
-        "page": "原题库参考编号 12.20.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.3节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)20.3",
+        "page": "原题库参考编号 第12章(燃油)第20.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.3。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11266,9 +11265,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第20.3节",
-        "page": "原题库参考编号 12.20.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.3节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)20.3",
+        "page": "原题库参考编号 第12章(燃油)第20.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.3。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11317,9 +11316,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第10.6节",
-        "page": "原题库参考编号 12.10.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）10.6节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)10.6",
+        "page": "原题库参考编号 第12章(燃油)第10.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）10.6。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11373,9 +11372,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)第20.2节",
-        "page": "原题库参考编号 12.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.2节。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第12章(燃油)20.2",
+        "page": "原题库参考编号 第12章(燃油)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第12章（燃油）20.2。本题考点涉及燃油相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11429,9 +11428,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第10.1节",
-        "page": "原题库参考编号 13.10.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）10.1节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)10.1",
+        "page": "原题库参考编号 第13章(液压)第10.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）10.1。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11485,9 +11484,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第10.3节",
-        "page": "原题库参考编号 13.10.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）10.3节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)10.3",
+        "page": "原题库参考编号 第13章(液压)第10.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）10.3。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11540,13 +11539,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "13.10.3",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)第10.3节",
+        "page": "原题库参考编号 13.10.3",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）10.3节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在b系统液压油量指示数值后面如果出现了rf的符号说明"
     },
@@ -11598,9 +11597,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第10.5节",
-        "page": "原题库参考编号 13.10.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）10.5节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)10.5",
+        "page": "原题库参考编号 第13章(液压)第10.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）10.5。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11654,9 +11653,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第10.5节",
-        "page": "原题库参考编号 13.10.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）10.5节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)10.5",
+        "page": "原题库参考编号 第13章(液压)第10.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）10.5。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11710,9 +11709,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.1节",
-        "page": "原题库参考编号 13.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.1节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.1",
+        "page": "原题库参考编号 第13章(液压)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.1。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11766,9 +11765,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.4节",
-        "page": "原题库参考编号 13.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.4节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.4",
+        "page": "原题库参考编号 第13章(液压)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.4。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11822,9 +11821,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.2节",
-        "page": "原题库参考编号 13.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.2节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.2",
+        "page": "原题库参考编号 第13章(液压)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.2。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11873,9 +11872,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.3节",
-        "page": "原题库参考编号 13.20.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.3节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.3",
+        "page": "原题库参考编号 第13章(液压)第20.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.3。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11929,9 +11928,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.3节",
-        "page": "原题库参考编号 13.20.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.3节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.3",
+        "page": "原题库参考编号 第13章(液压)第20.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.3。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -11985,9 +11984,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.3节",
-        "page": "原题库参考编号 13.20.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.3节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.3",
+        "page": "原题库参考编号 第13章(液压)第20.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.3。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12041,9 +12040,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.7节",
-        "page": "原题库参考编号 13.20.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.7节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.7",
+        "page": "原题库参考编号 第13章(液压)第20.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.7。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12097,9 +12096,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.3节",
-        "page": "原题库参考编号 13.20.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.3节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.3",
+        "page": "原题库参考编号 第13章(液压)第20.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.3。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12153,9 +12152,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.3节",
-        "page": "原题库参考编号 13.20.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.3节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.3",
+        "page": "原题库参考编号 第13章(液压)第20.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.3。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12209,9 +12208,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.4节",
-        "page": "原题库参考编号 13.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.4节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.4",
+        "page": "原题库参考编号 第13章(液压)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.4。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12265,9 +12264,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.4节",
-        "page": "原题库参考编号 13.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.4节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.4",
+        "page": "原题库参考编号 第13章(液压)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.4。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12321,9 +12320,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.7节",
-        "page": "原题库参考编号 13.20.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.7节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.7",
+        "page": "原题库参考编号 第13章(液压)第20.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.7。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12376,13 +12375,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "13.20.2",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)第20.2节",
+        "page": "原题库参考编号 13.20.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.2节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下面哪个部件由液压b系统提供动力"
     },
@@ -12433,13 +12432,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "13.20.2",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第13章(液压)第20.2节",
+        "page": "原题库参考编号 13.20.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.2节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "下面哪个部件由液压a系统提供动力"
     },
@@ -12491,9 +12490,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第13章(液压)第20.4节",
-        "page": "原题库参考编号 13.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.4节。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第13章(液压)20.4",
+        "page": "原题库参考编号 第13章(液压)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第13章（液压）20.4。本题考点涉及液压相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12547,9 +12546,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_QRH.pdf",
-        "section": "第QRH13章(QRH非正常程序)第10节",
-        "page": "原题库参考编号 QRH13.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_QRH.pdf》第QRH13章（QRH非正常程序）10节。本题考点涉及QRH非正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第QRH13章(QRH非正常程序)10",
+        "page": "原题库参考编号 第QRH13章(QRH非正常程序)第10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_QRH.pdf》第QRH13章（QRH非正常程序）10。本题考点涉及QRH非正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12603,9 +12602,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第10.2SP3.1节",
-        "page": "原题库参考编号 3.10.2SP3.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.2SP3.1节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)第3章(防冰排雨)第10.2SP3.1节",
+        "page": "原题库参考编号 第3章(防冰排雨)第10.2SP3.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）第3章(防冰排雨)第10.2SP3.1节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12659,9 +12658,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第10.3节",
-        "page": "原题库参考编号 3.10.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.3节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)10.3",
+        "page": "原题库参考编号 第3章(防冰排雨)第10.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.3。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12715,9 +12714,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第10.5节",
-        "page": "原题库参考编号 3.10.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.5节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)10.5",
+        "page": "原题库参考编号 第3章(防冰排雨)第10.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.5。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12771,9 +12770,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第10.6节",
-        "page": "原题库参考编号 3.10.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.6节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)10.6",
+        "page": "原题库参考编号 第3章(防冰排雨)第10.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.6。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12827,9 +12826,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第10.7节",
-        "page": "原题库参考编号 3.10.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.7节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)10.7",
+        "page": "原题库参考编号 第3章(防冰排雨)第10.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.7。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12883,9 +12882,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第10.7节",
-        "page": "原题库参考编号 3.10.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.7节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)10.7",
+        "page": "原题库参考编号 第3章(防冰排雨)第10.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）10.7。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12939,9 +12938,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第20.6节",
-        "page": "原题库参考编号 3.20.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.6节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)20.6",
+        "page": "原题库参考编号 第3章(防冰排雨)第20.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.6。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -12995,9 +12994,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第20.10节",
-        "page": "原题库参考编号 3.20.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.10节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)20.10",
+        "page": "原题库参考编号 第3章(防冰排雨)第20.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.10。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13051,9 +13050,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第20.10节",
-        "page": "原题库参考编号 3.20.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.10节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)20.10",
+        "page": "原题库参考编号 第3章(防冰排雨)第20.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.10。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13102,9 +13101,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第20.9节",
-        "page": "原题库参考编号 3.20.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.9节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)20.9",
+        "page": "原题库参考编号 第3章(防冰排雨)第20.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.9。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13153,9 +13152,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第20.11节",
-        "page": "原题库参考编号 3.20.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.11节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)20.11",
+        "page": "原题库参考编号 第3章(防冰排雨)第20.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.11。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13204,9 +13203,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第20.11节",
-        "page": "原题库参考编号 3.20.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.11节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)20.11",
+        "page": "原题库参考编号 第3章(防冰排雨)第20.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.11。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13260,9 +13259,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第3章(防冰排雨)第20.10-12节",
-        "page": "原题库参考编号 3.20.10-12",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）20.10-12节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第3章(防冰排雨)第3章(防冰排雨)第20.10-12节",
+        "page": "原题库参考编号 第3章(防冰排雨)第20.10-12节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第3章（防冰排雨）第3章(防冰排雨)第20.10-12节。本题考点涉及防冰排雨相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13316,9 +13315,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.7节",
-        "page": "原题库参考编号 10.11.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.7节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.7",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.7。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13372,9 +13371,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.7节",
-        "page": "原题库参考编号 10.11.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.7节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.7",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.7。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13423,9 +13422,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.8节",
-        "page": "原题库参考编号 10.11.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.8节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.8",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.8。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13479,9 +13478,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.8节",
-        "page": "原题库参考编号 10.11.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.8节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.8",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.8。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13535,9 +13534,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.8节",
-        "page": "原题库参考编号 10.11.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.8节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.8",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.8。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13591,9 +13590,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.11节",
-        "page": "原题库参考编号 10.11.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.11节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.11",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.11。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13647,9 +13646,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.11节",
-        "page": "原题库参考编号 10.11.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.11节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.11",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.11。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13703,9 +13702,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.11节",
-        "page": "原题库参考编号 10.11.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.11节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.11",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.11。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13754,9 +13753,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.15节",
-        "page": "原题库参考编号 10.11.15",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.15节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.15",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.15节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.15。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13810,9 +13809,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.15节",
-        "page": "原题库参考编号 10.11.15",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.15节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.15",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.15节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.15。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13866,9 +13865,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.21节",
-        "page": "原题库参考编号 10.11.21",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.21节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.21",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.21节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.21。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13922,9 +13921,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.21节",
-        "page": "原题库参考编号 10.11.21",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.21节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.21",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.21节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.21。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -13978,9 +13977,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.22节",
-        "page": "原题库参考编号 10.11.22",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.22节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.22",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.22节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.22。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14033,13 +14032,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "10.11.22",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第11.22节",
+        "page": "原题库参考编号 10.11.22",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.22节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么情况下会显示跑道的符号"
     },
@@ -14091,9 +14090,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.22节",
-        "page": "原题库参考编号 10.11.22",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.22节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.22",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.22节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.22。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14146,13 +14145,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "10.11.27",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第11.27节",
+        "page": "原题库参考编号 10.11.27",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.27节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么时候主飞行显示上的气压调定值显示琥珀色框"
     },
@@ -14204,9 +14203,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.28节",
-        "page": "原题库参考编号 10.11.28",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.28节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.28",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.28节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.28。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14260,9 +14259,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.28节",
-        "page": "原题库参考编号 10.11.28",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.28节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.28",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.28节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.28。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14315,13 +14314,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "10.11.30",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第11.30节",
+        "page": "原题库参考编号 10.11.30",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.30节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在垂直速率指示器的上方或下方什么时候会显示白色数字式的垂直速率"
     },
@@ -14373,9 +14372,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.34节",
-        "page": "原题库参考编号 10.11.34",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.34节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.34",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.34节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.34。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14429,9 +14428,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.35节",
-        "page": "原题库参考编号 10.11.35",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.35节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.35",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.35节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.35。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14480,9 +14479,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.38节",
-        "page": "原题库参考编号 10.11.38",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.38节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.38",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.38节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.38。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14536,9 +14535,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.39节",
-        "page": "原题库参考编号 10.11.39",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.39节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.39",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.39节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.39。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14592,9 +14591,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.41节",
-        "page": "原题库参考编号 10.11.41",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.41节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.41",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.41节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.41。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14648,9 +14647,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.60节",
-        "page": "原题库参考编号 10.11.60",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.60节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.60",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.60节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.60。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14704,9 +14703,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.62节",
-        "page": "原题库参考编号 10.11.62",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.62节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.62",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.62节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.62。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14755,9 +14754,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.63节",
-        "page": "原题库参考编号 10.11.63",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.63节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.63",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.63节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.63。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14811,9 +14810,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.68节",
-        "page": "原题库参考编号 10.11.68",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.68节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.68",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.68节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.68。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14867,9 +14866,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.41节",
-        "page": "原题库参考编号 10.11.41",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.41节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.41",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.41节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.41。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14923,9 +14922,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第11.41节",
-        "page": "原题库参考编号 10.11.41",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.41节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)11.41",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第11.41节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）11.41。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -14979,9 +14978,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第16.4节",
-        "page": "原题库参考编号 10.16.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.4节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)16.4",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第16.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.4。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15035,9 +15034,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第16.5节",
-        "page": "原题库参考编号 10.16.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.5节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)16.5",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第16.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.5。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15091,9 +15090,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第16.6节",
-        "page": "原题库参考编号 10.16.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.6节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)16.6",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第16.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.6。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15147,9 +15146,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第16.6节",
-        "page": "原题库参考编号 10.16.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.6节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)16.6",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第16.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.6。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15203,9 +15202,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第16.8节",
-        "page": "原题库参考编号 10.16.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.8节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)16.8",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第16.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.8。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15259,9 +15258,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第16.9节",
-        "page": "原题库参考编号 10.16.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.9节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)16.9",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第16.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.9。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15315,9 +15314,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第16.18节",
-        "page": "原题库参考编号 10.16.18",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.18节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)16.18",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第16.18节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.18。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15371,9 +15370,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第16.26节",
-        "page": "原题库参考编号 10.16.26",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.26节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)16.26",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第16.26节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.26。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15426,13 +15425,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "10.21.5",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第21.5节",
+        "page": "原题库参考编号 10.21.5",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.5节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "机长的主面板显示组件选择电门在正常位若机长的外侧显示组件失效则机长这边的主飞行显示会"
     },
@@ -15484,9 +15483,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第21.14节",
-        "page": "原题库参考编号 10.21.14",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.14节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)21.14",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第21.14节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.14。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15530,9 +15529,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第21.14节",
-        "page": "原题库参考编号 10.21.14",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.14节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)21.14",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第21.14节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.14。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15576,9 +15575,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第21.14节",
-        "page": "原题库参考编号 10.21.14",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.14节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)21.14",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第21.14节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.14。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15632,9 +15631,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第21.16节",
-        "page": "原题库参考编号 10.21.16",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.16节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)21.16",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第21.16节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.16。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15688,9 +15687,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第21.17节",
-        "page": "原题库参考编号 10.21.17",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.17节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)21.17",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第21.17节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）21.17。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15739,9 +15738,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第16.26节",
-        "page": "原题库参考编号 10.16.26",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.26节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)16.26",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第16.26节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）16.26。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15794,13 +15793,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "10.42.6",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第10章(飞行仪表、显示)第42.6节",
+        "page": "原题库参考编号 10.42.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）42.6节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "风向/风速和风向箭头在以下哪种情况下可能显示出来"
     },
@@ -15852,9 +15851,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表、显示)第41.1节",
-        "page": "原题库参考编号 10.41.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）41.1节。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第10章(飞行仪表、显示)41.1",
+        "page": "原题库参考编号 第10章(飞行仪表、显示)第41.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第10章（飞行仪表、显示）41.1。本题考点涉及飞行仪表、显示相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15909,8 +15908,8 @@ window.B737_QUESTION_BANK = {
         "status": "partial",
         "manual": "B737 CBT 训练教材",
         "section": "CBT 训练材料",
-        "page": "原题库参考编号 CBT",
-        "summary": "答案参考说明：原题库参考定位至 B737 CBT 训练材料（编号 CBT）。该材料为计算机辅助训练课件，非 FCOM/FCTM/QRH 手册。尚未完成与 FCOM 原文的逐字核对。"
+        "page": "原题库参考编号 CBT 训练材料",
+        "summary": "答案参考说明：原题库参考定位至 B737 CBT 训练材料（编号 CBT 训练材料）。该材料为计算机辅助训练课件，非 FCOM/FCTM/QRH 手册。尚未完成与 FCOM 原文的逐字核对。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -15964,9 +15963,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第10.1节",
-        "page": "原题库参考编号 14.10.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.1节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)10.1",
+        "page": "原题库参考编号 第14章(起落架)第10.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.1。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16015,9 +16014,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第10.3节",
-        "page": "原题库参考编号 14.10.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.3节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)10.3",
+        "page": "原题库参考编号 第14章(起落架)第10.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.3。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16071,9 +16070,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第10.3节",
-        "page": "原题库参考编号 14.10.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.3节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)10.3",
+        "page": "原题库参考编号 第14章(起落架)第10.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.3。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16127,9 +16126,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第20.1节",
-        "page": "原题库参考编号 14.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.1节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)20.1",
+        "page": "原题库参考编号 第14章(起落架)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.1。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16183,9 +16182,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第20.4节",
-        "page": "原题库参考编号 14.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)20.4",
+        "page": "原题库参考编号 第14章(起落架)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16239,9 +16238,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第10.5节",
-        "page": "原题库参考编号 14.10.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.5节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)10.5",
+        "page": "原题库参考编号 第14章(起落架)第10.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.5。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16295,9 +16294,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第20.4节",
-        "page": "原题库参考编号 14.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)20.4",
+        "page": "原题库参考编号 第14章(起落架)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16345,13 +16344,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "14.10.4",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)第10.4节",
+        "page": "原题库参考编号 14.10.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "如何选择最大刹车减速率档位max位"
     },
@@ -16403,9 +16402,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第10.4节",
-        "page": "原题库参考编号 14.10.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)10.4",
+        "page": "原题库参考编号 第14章(起落架)第10.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.4。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16458,13 +16457,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "14.20.2",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第14章(起落架)第20.2节",
+        "page": "原题库参考编号 14.20.2",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.2节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "什么情况下可以使用b系统的压力来收起起落架"
     },
@@ -16516,9 +16515,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第20.3节",
-        "page": "原题库参考编号 14.20.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.3节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)20.3",
+        "page": "原题库参考编号 第14章(起落架)第20.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.3。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16572,9 +16571,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第10.9节",
-        "page": "原题库参考编号 14.10.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.9节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)10.9",
+        "page": "原题库参考编号 第14章(起落架)第10.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.9。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16628,9 +16627,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第10.7节",
-        "page": "原题库参考编号 14.10.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.7节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)10.7",
+        "page": "原题库参考编号 第14章(起落架)第10.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.7。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16684,9 +16683,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第10.8节",
-        "page": "原题库参考编号 14.10.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.8节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)10.8",
+        "page": "原题库参考编号 第14章(起落架)第10.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.8。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16740,9 +16739,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第10.9节",
-        "page": "原题库参考编号 14.10.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.9节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)10.9",
+        "page": "原题库参考编号 第14章(起落架)第10.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.9。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16796,9 +16795,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第10.10节",
-        "page": "原题库参考编号 14.10.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.10节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)10.10",
+        "page": "原题库参考编号 第14章(起落架)第10.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）10.10。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16852,9 +16851,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第20.1节",
-        "page": "原题库参考编号 14.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.1节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)20.1",
+        "page": "原题库参考编号 第14章(起落架)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.1。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16908,9 +16907,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第20.3节",
-        "page": "原题库参考编号 14.20.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.3节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)20.3",
+        "page": "原题库参考编号 第14章(起落架)第20.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.3。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -16964,9 +16963,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第20.4节",
-        "page": "原题库参考编号 14.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)20.4",
+        "page": "原题库参考编号 第14章(起落架)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17020,9 +17019,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第20.4节",
-        "page": "原题库参考编号 14.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)20.4",
+        "page": "原题库参考编号 第14章(起落架)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17076,9 +17075,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第20.4节",
-        "page": "原题库参考编号 14.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)20.4",
+        "page": "原题库参考编号 第14章(起落架)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17132,9 +17131,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第20.4节",
-        "page": "原题库参考编号 14.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)20.4",
+        "page": "原题库参考编号 第14章(起落架)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.4。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17188,9 +17187,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第14章(起落架)第20.6节",
-        "page": "原题库参考编号 14.20.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.6节。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第14章(起落架)20.6",
+        "page": "原题库参考编号 第14章(起落架)第20.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第14章（起落架）20.6。本题考点涉及起落架相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17244,9 +17243,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_QRH.pdf",
-        "section": "第QRH14章(QRH非正常程序)第16节",
-        "page": "原题库参考编号 QRH14.16",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_QRH.pdf》第QRH14章（QRH非正常程序）16节。本题考点涉及QRH非正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第QRH14章(QRH非正常程序)16",
+        "page": "原题库参考编号 第QRH14章(QRH非正常程序)第16节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_QRH.pdf》第QRH14章（QRH非正常程序）16。本题考点涉及QRH非正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17295,9 +17294,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第10.9节",
-        "page": "原题库参考编号 11.10.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.9节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)10.9",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第10.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.9。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17351,9 +17350,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第10.15 11.32.6节",
-        "page": "原题库参考编号 11.10.15 11.32.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.15 11.32.6节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)第11章(飞行管理、导航)第10.15 11.32.6节",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第10.15 11.32.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）第11章(飞行管理、导航)第10.15 11.32.6节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17402,9 +17401,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第10.17节",
-        "page": "原题库参考编号 11.10.17",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.17节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)10.17",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第10.17节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.17。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17458,9 +17457,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第10.22-23节",
-        "page": "原题库参考编号 11.10.22-23",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.22-23节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)第11章(飞行管理、导航)第10.22-23节",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第10.22-23节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）第11章(飞行管理、导航)第10.22-23节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17509,9 +17508,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第10.22-23节",
-        "page": "原题库参考编号 11.10.22-23",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.22-23节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)第11章(飞行管理、导航)第10.22-23节",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第10.22-23节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）第11章(飞行管理、导航)第10.22-23节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17560,9 +17559,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第10.33节",
-        "page": "原题库参考编号 11.10.33",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.33节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)10.33",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第10.33节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.33。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17616,9 +17615,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第10.37节",
-        "page": "原题库参考编号 11.10.37",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.37节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)10.37",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第10.37节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.37。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17672,9 +17671,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第20.1节",
-        "page": "原题库参考编号 11.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.1节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)20.1",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.1。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17728,9 +17727,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第20.1节",
-        "page": "原题库参考编号 11.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.1节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)20.1",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.1。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17784,9 +17783,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第20.2节",
-        "page": "原题库参考编号 11.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.2节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)20.2",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.2。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17840,9 +17839,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第20.2节",
-        "page": "原题库参考编号 11.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.2节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)20.2",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.2。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17896,9 +17895,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第20.2节",
-        "page": "原题库参考编号 11.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.2节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)20.2",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.2。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -17952,9 +17951,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第20.4节",
-        "page": "原题库参考编号 11.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.4节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)20.4",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.4。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18008,9 +18007,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第20.4节",
-        "page": "原题库参考编号 11.20.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.4节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)20.4",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第20.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.4。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18063,13 +18062,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "11.20.4",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第20.4节",
+        "page": "原题库参考编号 11.20.4",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.4节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在irs校准期间cdu草稿行显示verifyposition核实位置信息表示输入的位置与起飞机场之间误差已超过多少"
     },
@@ -18120,13 +18119,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "11.20.8",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第20.8节",
+        "page": "原题库参考编号 11.20.8",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）20.8节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "若要抑制某一dme台对fmc进行的位置更新应在cdu的哪个页面上实现"
     },
@@ -18178,9 +18177,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第31.2节",
-        "page": "原题库参考编号 11.31.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.2节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)31.2",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第31.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.2。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18229,9 +18228,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第31.15节",
-        "page": "原题库参考编号 11.31.15",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.15节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)31.15",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第31.15节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.15。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18285,9 +18284,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第31.26节",
-        "page": "原题库参考编号 11.31.26",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.26节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)31.26",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第31.26节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.26。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18341,9 +18340,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第31.37节",
-        "page": "原题库参考编号 11.31.37",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.37节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)31.37",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第31.37节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.37。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18390,9 +18389,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第32.4节",
-        "page": "原题库参考编号 11.32.4",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）32.4节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)32.4",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第32.4节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）32.4。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18441,9 +18440,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第32.5节",
-        "page": "原题库参考编号 11.32.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）32.5节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)32.5",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第32.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）32.5。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18492,9 +18491,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第40.12节",
-        "page": "原题库参考编号 11.40.12",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.12节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)40.12",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第40.12节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.12。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18543,9 +18542,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第40.35节",
-        "page": "原题库参考编号 11.40.35",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.35节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)40.35",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第40.35节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.35。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18594,9 +18593,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第40.36节",
-        "page": "原题库参考编号 11.40.36",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.36节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)40.36",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第40.36节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.36。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18650,9 +18649,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第40.36节",
-        "page": "原题库参考编号 11.40.36",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.36节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)40.36",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第40.36节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.36。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18706,9 +18705,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第40.43节",
-        "page": "原题库参考编号 11.40.43",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.43节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)40.43",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第40.43节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.43。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18762,9 +18761,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第40.57/41节",
-        "page": "原题库参考编号 11.40.57/41",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.57/41节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)第11章(飞行管理、导航)第40.57/41节",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第40.57/41节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）第11章(飞行管理、导航)第40.57/41节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18818,9 +18817,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第40.42节",
-        "page": "原题库参考编号 11.40.42",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.42节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)40.42",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第40.42节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.42。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18874,9 +18873,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第40.50节",
-        "page": "原题库参考编号 11.40.50",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.50节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)40.50",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第40.50节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.50。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18925,9 +18924,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第40.48节",
-        "page": "原题库参考编号 11.40.48",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.48节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)40.48",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第40.48节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.48。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -18980,13 +18979,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "11.40.58",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第40.58节",
+        "page": "原题库参考编号 11.40.58",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）40.58节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "在哪里转换qfe和qnh高度表基准"
     },
@@ -19033,9 +19032,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第41.25节",
-        "page": "原题库参考编号 11.41.25",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）41.25节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)41.25",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第41.25节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）41.25。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19089,9 +19088,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第41.11节",
-        "page": "原题库参考编号 11.41.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）41.11节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)41.11",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第41.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）41.11。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19145,9 +19144,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第41.22节",
-        "page": "原题库参考编号 11.41.22",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）41.22节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)41.22",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第41.22节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）41.22。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19196,9 +19195,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第42.33节",
-        "page": "原题库参考编号 11.42.33",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.33节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)42.33",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第42.33节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.33。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19247,9 +19246,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第42.44节",
-        "page": "原题库参考编号 11.42.44",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.44节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)42.44",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第42.44节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.44。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19303,9 +19302,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第31.27节",
-        "page": "原题库参考编号 11.31.27",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.27节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)31.27",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第31.27节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）31.27。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19353,13 +19352,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "11.10.19",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理、导航)第10.19节",
+        "page": "原题库参考编号 11.10.19",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）10.19节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "将惯性显示组件上的系统显示(sysdspl)选择到l位的作用是什么"
     },
@@ -19406,9 +19405,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第42.32节",
-        "page": "原题库参考编号 11.42.32",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.32节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)42.32",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第42.32节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.32。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19462,9 +19461,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第42.37节",
-        "page": "原题库参考编号 11.42.37",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.37节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)42.37",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第42.37节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.37。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19513,9 +19512,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第43.9节",
-        "page": "原题库参考编号 11.43.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）43.9节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)43.9",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第43.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）43.9。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19564,9 +19563,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第43.8节",
-        "page": "原题库参考编号 11.43.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）43.8节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)43.8",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第43.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）43.8。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19620,9 +19619,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第60.2节",
-        "page": "原题库参考编号 11.60.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）60.2节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)60.2",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第60.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）60.2。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19676,9 +19675,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第43.37节",
-        "page": "原题库参考编号 11.43.37",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）43.37节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)43.37",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第43.37节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）43.37。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19727,9 +19726,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第32.1节",
-        "page": "原题库参考编号 11.32.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）32.1节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)32.1",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第32.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）32.1。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19778,9 +19777,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第11章(飞行管理、导航)第42.58节",
-        "page": "原题库参考编号 11.42.58",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.58节。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第11章(飞行管理、导航)42.58",
+        "page": "原题库参考编号 第11章(飞行管理、导航)第42.58节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第11章（飞行管理、导航）42.58。本题考点涉及飞行管理、导航相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19834,9 +19833,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第11.7节",
-        "page": "原题库参考编号 7.11.7",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.7节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)11.7",
+        "page": "原题库参考编号 第7章(发动机、APU)第11.7节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.7。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19890,9 +19889,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第11.5节",
-        "page": "原题库参考编号 7.11.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)11.5",
+        "page": "原题库参考编号 第7章(发动机、APU)第11.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.5。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -19946,9 +19945,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第11.8节",
-        "page": "原题库参考编号 7.11.8",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.8节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)11.8",
+        "page": "原题库参考编号 第7章(发动机、APU)第11.8节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.8。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20001,13 +20000,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "7.11.10",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第11.10节",
+        "page": "原题库参考编号 7.11.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.10节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "飞行中在egt指示上出现engfail(发动机失效)警告什么情况下该警告消失"
     },
@@ -20059,9 +20058,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第11.14节",
-        "page": "原题库参考编号 7.11.14",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.14节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)11.14",
+        "page": "原题库参考编号 第7章(发动机、APU)第11.14节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.14。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20115,9 +20114,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第11.17节",
-        "page": "原题库参考编号 7.11.17",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.17节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)11.17",
+        "page": "原题库参考编号 第7章(发动机、APU)第11.17节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.17。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20171,9 +20170,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第11.17节",
-        "page": "原题库参考编号 7.11.17",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.17节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)11.17",
+        "page": "原题库参考编号 第7章(发动机、APU)第11.17节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.17。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20227,9 +20226,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第11.21节",
-        "page": "原题库参考编号 7.11.21",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.21节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)11.21",
+        "page": "原题库参考编号 第7章(发动机、APU)第11.21节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）11.21。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20277,13 +20276,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "7.15.1",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第15.1节",
+        "page": "原题库参考编号 7.15.1",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.1节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "要进行发动机空中起动将起动电门扳到grd位有什么作用"
     },
@@ -20330,9 +20329,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第15.2节",
-        "page": "原题库参考编号 7.15.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.2节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)15.2",
+        "page": "原题库参考编号 第7章(发动机、APU)第15.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.2。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20386,9 +20385,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第15.5节",
-        "page": "原题库参考编号 7.15.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)15.5",
+        "page": "原题库参考编号 第7章(发动机、APU)第15.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.5。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20442,9 +20441,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第15.5节",
-        "page": "原题库参考编号 7.15.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)15.5",
+        "page": "原题库参考编号 第7章(发动机、APU)第15.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.5。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20498,9 +20497,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第15.5节",
-        "page": "原题库参考编号 7.15.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)15.5",
+        "page": "原题库参考编号 第7章(发动机、APU)第15.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.5。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20554,9 +20553,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.5节",
-        "page": "原题库参考编号 7.20.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.5",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20605,9 +20604,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第15.6节",
-        "page": "原题库参考编号 7.15.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.6节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)15.6",
+        "page": "原题库参考编号 第7章(发动机、APU)第15.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.6。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20661,9 +20660,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第15.6节",
-        "page": "原题库参考编号 7.15.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.6节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)15.6",
+        "page": "原题库参考编号 第7章(发动机、APU)第15.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.6。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20717,9 +20716,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.1节",
-        "page": "原题库参考编号 7.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.1节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.1",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.1。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20773,9 +20772,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.1节",
-        "page": "原题库参考编号 7.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.1节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.1",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.1。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20829,9 +20828,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.1节",
-        "page": "原题库参考编号 7.20.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.1节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.1",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.1。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20885,9 +20884,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.2节",
-        "page": "原题库参考编号 7.20.2",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.2节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.2",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.2节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.2。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20941,9 +20940,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.5节",
-        "page": "原题库参考编号 7.20.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.5",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -20997,9 +20996,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.5节",
-        "page": "原题库参考编号 7.20.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.5",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21053,9 +21052,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.6节",
-        "page": "原题库参考编号 7.20.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.6节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.6",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.6。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21109,9 +21108,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.6节",
-        "page": "原题库参考编号 7.20.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.6节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.6",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.6。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21165,9 +21164,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.6节",
-        "page": "原题库参考编号 7.20.6",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.6节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.6",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.6节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.6。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21221,9 +21220,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.8-9节",
-        "page": "原题库参考编号 7.20.8-9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.8-9节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)第7章(发动机、APU)第20.8-9节",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.8-9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）第7章(发动机、APU)第20.8-9节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21276,13 +21275,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "7.20.10",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第20.10节",
+        "page": "原题库参考编号 7.20.10",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "将发动机起动电门扳到grd位起动发动机期间何时可以将发动机起动手柄提到慢车位"
     },
@@ -21334,9 +21333,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.10节",
-        "page": "原题库参考编号 7.20.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.10",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21390,9 +21389,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.10节",
-        "page": "原题库参考编号 7.20.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.10",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21446,9 +21445,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.10节",
-        "page": "原题库参考编号 7.20.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.10",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21502,9 +21501,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.10节",
-        "page": "原题库参考编号 7.20.10",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.10",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.10节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.10。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21558,9 +21557,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.11节",
-        "page": "原题库参考编号 7.20.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.11节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.11",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.11。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21614,9 +21613,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.11节",
-        "page": "原题库参考编号 7.20.11",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.11节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.11",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.11节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.11。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21670,9 +21669,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.15节",
-        "page": "原题库参考编号 7.20.15",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.15节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.15",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.15节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.15。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21726,9 +21725,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.16节",
-        "page": "原题库参考编号 7.20.16",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.16节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.16",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.16节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.16。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21782,9 +21781,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.5节",
-        "page": "原题库参考编号 7.20.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.5",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21838,9 +21837,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.5节",
-        "page": "原题库参考编号 7.20.5",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.5",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.5节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.5。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21894,9 +21893,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第20.14节",
-        "page": "原题库参考编号 7.20.14",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.14节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)20.14",
+        "page": "原题库参考编号 第7章(发动机、APU)第20.14节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）20.14。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -21949,13 +21948,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "QRH12.6",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_QRH.pdf",
+        "section": "第QRH12章(QRH非正常程序)第6节",
+        "page": "原题库参考编号 QRH12.6",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_QRH.pdf》第QRH12章（QRH非正常程序）6节。本题考点涉及QRH非正常程序相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "判断发动机漏油的依据有哪些"
     },
@@ -22007,9 +22006,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第30.1节",
-        "page": "原题库参考编号 7.30.1",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）30.1节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)30.1",
+        "page": "原题库参考编号 第7章(发动机、APU)第30.1节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）30.1。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -22063,9 +22062,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第30.3节",
-        "page": "原题库参考编号 7.30.3",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）30.3节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)30.3",
+        "page": "原题库参考编号 第7章(发动机、APU)第30.3节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）30.3。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
@@ -22118,13 +22117,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "conflict",
-        "manual": "",
-        "section": "7.15.9",
-        "page": "",
-        "summary": "答案参考说明：本题在 400 总与 900 题之间发现答案字段冲突，尚未完成手册原文核对。进入正式练习前应先核对原题选项、答案字母与 FCOM/FCTM/QRH/运行手册依据。"
+        "status": "partial",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机、APU)第15.9节",
+        "page": "原题库参考编号 7.15.9",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.9节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "classified",
       "notes": "",
       "normalizedQuestion": "apu关车后apu排气温度表保持供电多长时间"
     },
@@ -22176,9 +22175,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "partial",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机、APU)第15.9节",
-        "page": "原题库参考编号 7.15.9",
-        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.9节。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
+        "section": "第7章(发动机、APU)15.9",
+        "page": "原题库参考编号 第7章(发动机、APU)第15.9节",
+        "summary": "答案参考说明：原题库参考定位至《B737_NG_FCOM.pdf》第7章（发动机、APU）15.9。本题考点涉及发动机、APU相关内容，该章节编号为原题库内置参考线索，尚未完成逐字核对手册原文确认，建议查阅该章节原文验证。"
       },
       "reviewStatus": "classified",
       "notes": "",
