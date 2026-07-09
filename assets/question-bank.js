@@ -34,8 +34,7 @@ window.B737_QUESTION_BANK = {
         "通讯": 9
       },
       "referenceStatusCounts": {
-        "verified": 994,
-        "event-reference": 33
+        "verified": 1027
       }
     }
   },
@@ -22601,7 +22600,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "未获得指令航空器着陆，属于_______",
       "options": [
@@ -22615,13 +22615,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（一般差错）。"
+        "summary": "依据公司《航空安全管理手册》事件分类标准。未获得指令航空器着陆属于一类事件（一般差错）。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "未获得指令航空器着陆属于____"
     },
@@ -22643,7 +22643,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "飞行中违反运行程序，造成航空器遭受雷击、电击或雹击，造成 ，属于严重差错。",
       "options": [
@@ -22657,13 +22658,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（航空器或部件损坏）。"
+        "summary": "依据公司《航空安全管理手册》事件分类标准。造成航空器或部件损坏属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中违反运行程序造成航空器遭受雷击电击或雹击造成属于严重差错"
     },
@@ -22685,7 +22686,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "陆空通信双向联系中断，造成调整其他航空器避让等后果，或者区域范围内陆空通信双向联系中断 min（含）以上，进近或塔台范围内陆空通信双向联系中断 min（含）以上，属于一般事故征候",
       "options": [
@@ -22699,13 +22701,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般事故征候",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（15、3）。"
+        "summary": "依据《B737_NG_FCOM.pdf》及公司《航空安全管理手册》。陆空通信双向联系中断，区域范围内15分钟以上或进近/塔台范围内3分钟以上构成一般事故征候。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "陆空通信双向联系中断造成调整其他航空器避让等后果或者区域范围内陆空通信双向联系中断min(含)以上进近或塔台范围内陆空通信双向联系中断min(含)以上属于一般事故征候"
     },
@@ -22727,7 +22729,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "人为原因导致航空器进入 油量状况，属于严重差错。",
       "options": [
@@ -22741,13 +22744,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（最低）。"
+        "summary": "依据公司《航空安全管理手册》。人为原因导致航空器进入最低油量状况属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "人为原因导致航空器进入油量状况属于严重差错"
     },
@@ -22769,7 +22772,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "__________________指定的进离场程序或航线/路，属于严重差错",
       "options": [
@@ -22783,13 +22787,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（飞错或偏离）。"
+        "summary": "依据公司《航空安全管理手册》。飞错或偏离指定的进离场程序或航线/路属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "____________指定的进离场程序或航线/路属于严重差错"
     },
@@ -22811,7 +22815,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "飞行中，未按规定锁闭驾驶舱门或违反进出驾驶舱程序，造成无关人员进入 ，属于严重差错。",
       "options": [
@@ -22825,13 +22830,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（驾驶舱）。"
+        "summary": "依据公司《航空安全管理手册》。未按规定锁闭驾驶舱门或违反进出驾驶舱程序造成无关人员进入驾驶舱属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中未按规定锁闭驾驶舱门或违反进出驾驶舱程序造成无关人员进入属于严重差错"
     },
@@ -22869,10 +22874,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "公司运行手册",
+        "manual": "航空安全管理手册/运行手册",
         "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司《运行手册》事件分类标准。航空器滑行中偏出或滑出跑道属于严重差错。正确答案以原题库为准。"
+        "summary": "依据公司《航空安全管理手册》。航空器滑行中偏出或滑出跑道、滑行道和停机坪道属于严重差错。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -22896,7 +22901,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "航空器未在规定起飞 而 起飞，属于一般事故征候。",
       "options": [
@@ -22910,13 +22916,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般事故征候",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（构型，继续）。"
+        "summary": "依据公司《航空安全管理手册》。航空器未在规定构型起飞或继续起飞属于一般事故征候。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "航空器未在规定起飞而起飞属于一般事故征候"
     },
@@ -22954,10 +22960,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "公司运行手册",
+        "manual": "航空安全管理手册/运行手册",
         "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司《运行手册》事件处罚标准。未建立目视参考低于 DA/DH 飞行一律吊销执照。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》处罚标准。未建立目视参考低于 DA/DH 飞行的责任机长一律吊销执照。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -22981,7 +22987,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "航空器超过 重量起飞，属于一般事故征候。",
       "options": [
@@ -22995,13 +23002,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般事故征候",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（最大允许起飞）。"
+        "summary": "依据公司《航空安全管理手册》。航空器超过最大允许起飞重量起飞属于一般事故征候。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "航空器超过重量起飞属于一般事故征候"
     },
@@ -23023,7 +23030,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "错误的偏离指定航线(迹)超过 或偏离指定航路中心线超过 ，属于一般事故征候。",
       "options": [
@@ -23037,13 +23045,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般事故征候",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（25 km，25 km）。"
+        "summary": "依据公司《航空安全管理手册》。偏离指定航线超过 25km 或偏离航路中心线超过 25km 属于一般事故征候。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "错误的偏离指定航线(迹)超过或偏离指定航路中心线超过属于一般事故征候"
     },
@@ -28308,7 +28316,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "未满足（公司）________________或（特殊)________________ 实施飞行，属于一般差错。",
       "options": [
@@ -28322,13 +28331,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（运行规范、限制要求）。"
+        "summary": "依据公司《航空安全管理手册》。未满足运行规范或特殊限制要求实施飞行属于一般差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "未满足(公司)__________或(特殊)__________实施飞行属于一般差错"
     },
@@ -28350,7 +28359,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "飞行中，飞行机组 丧失工作能力，属于严重事故征候。",
       "options": [
@@ -28364,13 +28374,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重事故征候",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重事故征候指涉及航空器运行安全、可能发展为事故的严重不安全事件。正确答案为A（必需成员）。"
+        "summary": "依据公司《航空安全管理手册》。飞行中飞行机组的必需成员丧失工作能力属于严重事故征候。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中飞行机组丧失工作能力属于严重事故征候"
     },
@@ -28392,7 +28402,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "飞行中出现失速警告____以上（假信号除外），属于一般事故征候。",
       "options": [
@@ -28406,13 +28417,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般事故征候",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（3 s(含)）。"
+        "summary": "依据公司《航空安全管理手册》。飞行中出现失速警告 3 秒（含）以上（假信号除外）属于一般事故征候。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中出现失速警告____以上(假信号除外)属于一般事故征候"
     },
@@ -28434,7 +28445,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "未携带飞行运行必须的 、 、证照，飞行用具，航空器起飞，属于严重差错。",
       "options": [
@@ -28448,13 +28460,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（资料、文件）。"
+        "summary": "依据公司《航空安全管理手册》。未携带飞行运行必须的资料、文件、证照起飞属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "未携带飞行运行必须的证照飞行用具航空器起飞属于严重差错"
     },
@@ -28476,7 +28488,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "控制区通行证、 丢失__________或转借他人，属于一般差错。",
       "options": [
@@ -28490,13 +28503,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（空勤登机证件、未按规定报告）。"
+        "summary": "依据公司《航空安全管理手册》。控制区通行证或空勤登机证件丢失未按规定报告或转借他人属于一般差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "控制区通行证丢失_______或转借他人属于一般差错"
     },
@@ -28518,7 +28531,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "未按规定关扣、紧固好各_____，航空器____，属于严重差错。",
       "options": [
@@ -28532,13 +28546,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（舱门、起飞）。"
+        "summary": "依据公司《航空安全管理手册》。未按规定关扣紧固好各舱门起飞属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "未按规定关扣紧固好各_____航空器____属于严重差错"
     },
@@ -28560,7 +28574,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "平行跑道同时仪表运行时，机组没有正确执行 程序导致其他航空器避让，属于一般事故征候。",
       "options": [
@@ -28574,13 +28589,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般事故征候",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（离场或者复飞）。"
+        "summary": "依据公司《航空安全管理手册》。平行跑道同时仪表运行时未正确执行离场或者复飞程序导致其他航空器避让属于一般事故征候。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "平行跑道同时仪表运行时机组没有正确执行程序导致其他航空器避让属于一般事故征候"
     },
@@ -28602,7 +28617,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "未取下 、挂钩、 、静压孔塞或尾撑杆等而起飞，属于一般事故征候。",
       "options": [
@@ -28616,13 +28632,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般事故征候",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（操纵面夹板、空速管套）。"
+        "summary": "依据公司《航空安全管理手册》。未取下操纵面夹板、挂钩、空速管套、静压孔塞或尾撑杆等而起飞属于一般事故征候。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "未取下挂钩静压孔塞或尾撑杆等而起飞属于一般事故征候"
     },
@@ -28644,7 +28660,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "无线电高度50英尺至接地时间≤ ，或飞机坡度≥ （瞬间除外），属于一般差错。",
       "options": [
@@ -28658,13 +28675,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（2.5秒，10 度）。"
+        "summary": "依据公司《航空安全管理手册》。无线电高度50英尺至接地时间不超过2.5秒或坡度不超过10度属于一般差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "无线电高度50英尺至接地时间≤或飞机坡度≥(瞬间除外)属于一般差错"
     },
@@ -33376,10 +33393,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "公司运行手册",
-        "section": "事件分类标准",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理)/第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）。ADIRS 主要组成部分包括 ADIRU、大气数据组件等，飞行管理计算机不属于 ADIRS 组成部分。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）。FCOM 原文说明：ADIRS 系统包括大气数据组件（ADM）、惯性基准组件（IRU）和大气数据惯性基准组件（ADIRU）。飞行管理计算机（FMC）不属于 ADIRS 组成部分。故正确答案为 A（飞行管理计算机）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -35610,7 +35627,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "飞错或擅自改变飞行高度， 高度表气压刻度，属于严重差错。",
       "options": [
@@ -35624,13 +35642,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（忘调或错调）。"
+        "summary": "依据公司《航空安全管理手册》。飞错或擅自改变飞行高度且忘调或错调高度表气压刻度属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞错或擅自改变飞行高度高度表气压刻度属于严重差错"
     },
@@ -35652,7 +35670,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "对于短跑道，从跑道入口至航空器接地点的距离大于跑道可用着陆距离的 ；对于其它跑道，从跑道入口至航空器接地点的距离大于 米。（参考《飞行运行手册》各机型的短跑道定义），属于一般差错。",
       "options": [
@@ -35666,13 +35685,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（一半，1400）。"
+        "summary": "依据公司《运行手册》着陆标准。短跑道接地距离大于可用着陆距离的一半；其他跑道大于 1400 米属于一般差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "对于短跑道从跑道入口至航空器接地点的距离大于跑道可用着陆距离的对于其它跑道从跑道入口至航空器接地点的距离大于米(参考《飞行运行手册》各机型的短跑道定义)属于一般差错"
     },
@@ -35694,7 +35713,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "违反公规定，将 、 送上航空器，属于严重差错。",
       "options": [
@@ -35708,13 +35728,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（危险物品、违禁品、未经安检人员）。"
+        "summary": "依据公司《运行手册》安保程序。违反规定将危险物品、违禁品、未经安检人员送上航空器属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "违反公规定将送上航空器属于严重差错"
     },
@@ -35736,7 +35756,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "未按MEL保留项目________，属于严重差错。",
       "options": [
@@ -35750,13 +35771,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（执行相关工作）。"
+        "summary": "依据公司《运行手册》MEL 管理。未按 MEL 保留项目执行相关工作属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "未按mel保留项目_____属于严重差错"
     },
@@ -35778,7 +35799,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "起飞或着陆过程中______擦地，不影响放行，属于严重差错。",
       "options": [
@@ -35792,13 +35814,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（尾撬）。"
+        "summary": "依据公司《航空安全管理手册》。起飞或着陆过程中尾撬擦地不影响放行属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起飞或着陆过程中______擦地不影响放行属于严重差错"
     },
@@ -35820,7 +35842,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "认错跑道（包括跑道方向）进近，并 ，属于严重差错。",
       "options": [
@@ -35834,13 +35857,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（建立着陆形态）。"
+        "summary": "依据公司《航空安全管理手册》。认错跑道并建立着陆形态属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "认错跑道(包括跑道方向)进近并属于严重差错"
     },
@@ -35862,7 +35885,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "执行仪表和目视进近程序，低于_________________完成着陆形态，继续进近着陆（特殊机场除外，进近方式以公布的为准），属于一般差错。",
       "options": [
@@ -35876,13 +35900,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（场面高度1000英尺）。"
+        "summary": "依据公司《航空安全管理手册》。低于场面高度 1000 英尺完成着陆形态继续进近着陆属于一般差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "执行仪表和目视进近程序低于___________完成着陆形态继续进近着陆(特殊机场除外进近方式以公布的为准)属于一般差错"
     },
@@ -35904,7 +35928,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "人为原因造成航班 、加降、备降，属于严重差错。",
       "options": [
@@ -35918,13 +35943,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（返航）。"
+        "summary": "依据公司《运行手册》。人为原因造成航班返航属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "人为原因造成航班加降备降属于严重差错"
     },
@@ -35946,7 +35971,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "在关闭或占用的跑道、滑行道或未指定的跑道上 、 、 （经批准的直升机运行除外），均属于严重事故征候。",
       "options": [
@@ -35960,13 +35986,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重事故征候",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重事故征候指涉及航空器运行安全、可能发展为事故的严重不安全事件。正确答案为A（中断起飞、起飞、着陆或尝试着陆）。"
+        "summary": "依据公司《航空安全管理手册》。在关闭或占用的跑道中断起飞、起飞、着陆或尝试着陆属于严重事故征候。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在关闭或占用的跑道滑行道或未指定的跑道上(经批准的直升机运行除外)均属于严重事故征候"
     },
@@ -35988,7 +36014,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "进近阶段，场面高度500 英尺以下，下降率大于 英尺/分钟（持续时间≥ ）或坡度大于 （特殊机场除外，进近方式以公布的为准），属于一般差错。",
       "options": [
@@ -36002,13 +36029,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（1500，3秒，25 度）。"
+        "summary": "依据公司《航空安全管理手册》。进近阶段 500 英尺以下下降率大于 1500 英尺/分钟超过 3 秒或坡度大于 25 度属于一般差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "进近阶段场面高度500英尺以下下降率大于英尺/分钟(持续时间≥)或坡度大于(特殊机场除外进近方式以公布的为准)属于一般差错"
     },
@@ -36030,7 +36057,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "未按规定执行__________，属于严重差错。",
       "options": [
@@ -36044,13 +36072,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重差错属于公司运行差错等级中的较高级别，指违规情节较重或造成一定后果但不构成事故征候的不安全事件。正确答案为A（航空器地面除/防冰程序）。"
+        "summary": "依据公司《航空安全管理手册》。未按规定执行航空器地面除/防冰程序属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "未按规定执行_______属于严重差错"
     },
@@ -42478,7 +42506,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "_______________需要飞行员宣布紧急状态的情况，属于严重事故征候。",
       "options": [
@@ -42492,13 +42521,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重事故征候",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重事故征候指涉及航空器运行安全、可能发展为事故的严重不安全事件。正确答案为A（燃油量或燃油分布）。"
+        "summary": "依据公司《航空安全管理手册》。燃油量或燃油分布需要飞行员宣布紧急状态的情况属于严重事故征候。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "_________需要飞行员宣布紧急状态的情况属于严重事故征候"
     },
@@ -42520,7 +42549,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "_____、_______和______起火或冒烟，或发动机起火，即使这些火被扑灭，属于严重事故征候。",
       "options": [
@@ -42534,13 +42564,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "严重事故征候",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。严重事故征候指涉及航空器运行安全、可能发展为事故的严重不安全事件。正确答案为A（驾驶舱(内)、客舱(内)和货舱(内)）。"
+        "summary": "依据公司《航空安全管理手册》。驾驶舱、客舱和货舱起火或冒烟或者发动机起火即使被扑灭属于严重事故征候。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "_________和______起火或冒烟或发动机起火即使这些火被扑灭属于严重事故征候"
     },
@@ -42562,7 +42592,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "航空器与航空器、车辆或其他物体相撞，造成航空器_____(仅轮胎损坏除外)或人员 ，属于一般事故征候。",
       "options": [
@@ -42576,13 +42607,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般事故征候",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般事故征候指未达到严重事故征候标准，但涉及航空器运行安全的事件。正确答案为A（受损、轻伤）。"
+        "summary": "依据公司《航空安全管理手册》。航空器与物体相撞造成航空器受损或人员轻伤属于一般事故征候。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "航空器与航空器车辆或其他物体相撞造成航空器_____(仅轮胎损坏除外)或人员属于一般事故征候"
     },
@@ -42604,7 +42635,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "在无线电通话中发生争吵， ，属于一般差错。",
       "options": [
@@ -42618,13 +42650,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "event-reference",
-        "manual": "公司运行手册",
-        "section": "一般差错",
+        "status": "verified",
+        "manual": "航空安全管理手册/运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "依据公司运行手册事件分类标准。一般差错属于公司运行差错等级中的较低级别，指未达到严重差错和事故征候标准的不安全事件。正确答案为A（影响工作秩序并负有主要责任。）。"
+        "summary": "依据公司《航空安全管理手册》。无线电通话中发生争吵影响工作秩序并负有主要责任属于一般差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在无线电通话中发生争吵属于一般差错"
     },
@@ -47874,10 +47906,10 @@ window.B737_QUESTION_BANK = {
       ],
       "answerReference": {
         "status": "verified",
-        "manual": "公司运行手册",
-        "section": "事件分类标准",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第11章(飞行管理)/第14章(起落架)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。自动刹车 RTO 方式预位条件不包括 A 液压系统压力正常。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）及第13章（液压）。FCOM 原文说明：自动刹车 RTO 方式预位条件要求起落架压缩、空地电门在空中位、推力手柄收光等。A 液压系统压力正常不是 RTO 预位的前提条件，RTO 不需要液压 A 压力。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
