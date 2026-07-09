@@ -34,9 +34,8 @@ window.B737_QUESTION_BANK = {
         "通讯": 9
       },
       "referenceStatusCounts": {
-        "verified": 923,
-        "event-reference": 33,
-        "insufficient": 71
+        "verified": 994,
+        "event-reference": 33
       }
     }
   },
@@ -22854,7 +22853,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "航空器滑行中偏出或滑出跑道、滑行道和停机坪道，属于______差错。",
       "options": [
@@ -22868,13 +22868,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据公司《运行手册》事件分类标准。航空器滑行中偏出或滑出跑道属于严重差错。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "航空器滑行中偏出或滑出跑道滑行道和停机坪道属于______差错"
     },
@@ -22938,7 +22938,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "请问发生以下不安全事件后对航班责任机长的处罚: 凡是未建立目视参考，低于最低下降高度/高和决断高度/高飞行的事件。",
       "options": [
@@ -22952,13 +22953,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据公司《运行手册》事件处罚标准。未建立目视参考低于 DA/DH 飞行一律吊销执照。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "请问发生以下不安全事件后对航班责任机长的处罚凡是未建立目视参考低于最低下降高度/高和决断高度/高飞行的事件"
     },
@@ -23064,7 +23065,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "差错标准名词解释:\"损坏\"一词表示航空器是否可以正常放行？",
       "options": [
@@ -23078,13 +23080,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》差错标准名词解释。损坏一词表示不影响航空器正常放行。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "差错标准名词解释损坏一词表示航空器是否可以正常放行"
     },
@@ -23106,7 +23108,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "旅客在登机后或飞行中途（包括备降或经停过站）中止旅行时，必须将其行李卸下飞机；如旅客并未向地面服务人员或当班机组人员申明而自行离机，______进行清舱；",
       "options": [
@@ -23120,13 +23123,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》旅客行李管理程序。旅客自行离机未申明时必须进行清舱。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "旅客在登机后或飞行中途(包括备降或经停过站)中止旅行时必须将其行李卸下飞机如旅客并未向地面服务人员或当班机组人员申明而自行离机______进行清舱"
     },
@@ -23148,7 +23151,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "旅客戏称包内有爆炸物品，经空警（航空安全员）确认事实真相的，是否需要清舱？",
       "options": [
@@ -23162,13 +23166,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》安保程序。经空警确认事实真相的不需要清舱。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "旅客戏称包内有爆炸物品经空警(航空安全员)确认事实真相的是否需要清舱"
     },
@@ -23190,7 +23194,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "旅客已经办理登机手续而未登机的，以及中途中止旅行时，是否需要将其行李卸下飞机？",
       "options": [
@@ -23204,13 +23209,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》旅客行李管理程序。旅客已办登机手续未登机或中途中止旅行时必须将其行李卸下飞机。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "旅客已经办理登机手续而未登机的以及中途中止旅行时是否需要将其行李卸下飞机"
     },
@@ -23275,7 +23280,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "盛放液态物品的容器应宽松地放置于最大容积不超过 ____ 升（ L）、可重新封口的透明塑料袋中，塑料袋应完全封好。每名旅客每次只允许携带一个透明塑料袋。超出部分应办理交运",
       "options": [
@@ -23289,13 +23295,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》液态物品运输规定。盛放液态物品的容器应放在最大容积不超过1升的透明塑料袋中。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "盛放液态物品的容器应宽松地放置于最大容积不超过____升(l)可重新封口的透明塑料袋中塑料袋应完全封好每名旅客每次只允许携带一个透明塑料袋超出部分应办理交运"
     },
@@ -23317,7 +23323,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "关于MEL的种类和失效的修复时间描述正确的是？",
       "options": [
@@ -23331,13 +23338,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》MEL 管理规定。A 类项目要求1个日历日(24小时)或按备注栏内规定的时间修复。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于mel的种类和失效的修复时间描述正确的是"
     },
@@ -23359,7 +23366,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "请问MEL的修复时间是从什么时候开始计算？",
       "options": [
@@ -23373,13 +23381,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》MEL 管理规定。MEL 修复时间从发生故障的第二天子夜零时开始计算。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "请问mel的修复时间是从什么时候开始计算"
     },
@@ -23401,7 +23409,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "请简述飞行关键阶段的定义。",
       "options": [
@@ -23415,13 +23424,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》飞行关键阶段定义。包括涉及滑行、起飞和着陆的所有地面操作阶段以及除巡航以外的 10000 英尺以下飞行阶段。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "请简述飞行关键阶段的定义"
     },
@@ -23529,7 +23538,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "备降机场最低天气标准使用方法描述正确的是？",
       "options": [
@@ -23543,13 +23553,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》备降场最低天气标准。对于只有一套进近设施与程序的机场，MDH/DH 增加 120 米，能见度增加。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "备降机场最低天气标准使用方法描述正确的是"
     },
@@ -23700,7 +23710,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "迫降时，飞机下降至距地面 ______英尺时，飞行机组应广播通知客舱所有人员做好防冲撞姿势。",
       "options": [
@@ -23714,13 +23725,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》应急程序。迫降时机组在 500 英尺广播通知客舱做好防冲撞姿势。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "迫降时飞机下降至距地面______英尺时飞行机组应广播通知客舱所有人员做好防冲撞姿势"
     },
@@ -23742,7 +23753,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "在执行程序的过程中，机组应确定系统对所实施的动作会有正确的反应。如发现指示异常，机组应首先检查：",
       "options": [
@@ -23756,13 +23768,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》标准操作程序。发现指示异常时首先检查系统控制电门或手柄位置是否正确。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在执行程序的过程中机组应确定系统对所实施的动作会有正确的反应如发现指示异常机组应首先检查"
     },
@@ -23784,7 +23796,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "谁对所有行动的指令和执行有最后决定权？",
       "options": [
@@ -23798,13 +23811,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》机组职责。机长对所有行动的指令和执行有最后决定权。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "谁对所有行动的指令和执行有最后决定权"
     },
@@ -23826,7 +23839,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "驾驶舱预先准备期间，如果将旅客氧气电门扳到“ON”位，是否会导致旅客氧气面罩放出？",
       "options": [
@@ -23840,13 +23854,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》程序。将旅客氧气电门扳到 ON 位会导致旅客氧气面罩放出。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "驾驶舱预先准备期间如果将旅客氧气电门扳到on位是否会导致旅客氧气面罩放出"
     },
@@ -24346,7 +24360,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "在机组氧气面罩面板上的氧气流量指示器里出现黄色十字, 表明:",
       "options": [
@@ -24360,13 +24375,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》氧气系统说明。氧气流量指示器里出现黄色十字表明氧气正在流动。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在机组氧气面罩面板上的氧气流量指示器里出现黄色十字表明"
     },
@@ -24431,7 +24446,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "什么情况下不要使用旅客氧气?",
       "options": [
@@ -24445,13 +24461,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》氧气使用程序。座舱高度 14000 英尺以下且存在烟雾或不正常热源时不要使用旅客氧气。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "什么情况下不要使用旅客氧气"
     },
@@ -24473,7 +24489,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "如何确定机组的座椅调节好了?",
       "options": [
@@ -24487,13 +24504,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》驾驶舱准备程序。目光沿遮光板上表面可见机头结构且沿操纵杆上方可见外侧 DU 底部边缘。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如何确定机组的座椅调节好了"
     },
@@ -25947,7 +25964,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "燃油系统",
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "下面的哪个操纵会影响液压系统A的油量指示？",
       "options": [
@@ -25961,13 +25979,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。收放起落架会影响液压系统 A 的油量指示。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面的哪个操纵会影响液压系统a的油量指示"
     },
@@ -26251,7 +26269,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "顶板的显示控制面板选择电门在“NORMAL”位，若机长的PFD出现“DISPLAY CONTROL PANEL”的信息，说明：",
       "options": [
@@ -26265,13 +26284,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。DISPLAY CONTROL PANEL 信息出现表示相应 EFIS 控制面板失效。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "顶板的显示控制面板选择电门在normal位若机长的pfd出现displaycontrolpanel的信息说明"
     },
@@ -26336,7 +26355,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "若把机长的主面板显示组件选择开关放“OUTBD PFD”位时，机长的内侧显示组件显示：",
       "options": [
@@ -26350,13 +26370,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。主面板显示组件选择开关放 OUTBD PFD 位时内侧 DU 显示空白。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "若把机长的主面板显示组件选择开关放outbdpfd位时机长的内侧显示组件显示"
     },
@@ -26422,7 +26442,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "机长的主面板显示组件选择电门在“正常”位，若机长的内侧显示组件失效，则机长这边的导航显示会：",
       "options": [
@@ -26436,13 +26457,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。主面板显示组件电门在正常位时内侧 DU 失效导航显示不会自动显示。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "机长的主面板显示组件选择电门在正常位若机长的内侧显示组件失效则机长这边的导航显示会"
     },
@@ -27030,7 +27051,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "怎样使航段页面有“MAPCTR”地图中心梯度提示符？",
       "options": [
@@ -27044,13 +27066,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。该操作涉及 FMC 页面设置。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。EFIS 控制面板方式选择电门置于 PLAN 位时航段页面出现 MAPCTR 提示。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "怎样使航段页面有mapctr地图中心梯度提示符"
     },
@@ -27899,7 +27921,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "运行手册与公司政策",
-        "性能与限制"
+        "性能与限制",
+        "手册已核对"
       ],
       "question": "B737NG带小翼飞机侧风着陆时，机组如果使用只带侧滑法（交叉角为0）着陆，需要对侧风限制进行什么修正？",
       "options": [
@@ -27913,13 +27936,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》限制。带小翼飞机侧风着陆时使用只带侧滑法着陆侧风标准减小 2 节。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "b737ng带小翼飞机侧风着陆时机组如果使用只带侧滑法(交叉角为0)着陆需要对侧风限制进行什么修正"
     },
@@ -28663,7 +28686,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "在计划飞行或值班前 ______小时以内任何机组成员不得饮用酒类或含酒精的饮料；执行上午_______前起飞航班任务的机组前一天晚餐严禁饮酒。",
       "options": [
@@ -28677,13 +28701,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》饮酒限制。计划飞行前 10 小时内不得饮酒；上午九点前起飞航班的前一天晚餐严禁饮酒。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在计划飞行或值班前______小时以内任何机组成员不得饮用酒类或含酒精的饮料执行上午____前起飞航班任务的机组前一天晚餐严禁饮酒"
     },
@@ -28705,7 +28729,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "当发生匿名电话声称某航班旅客携带有爆炸物或危险品，且旅客已登机。是否需要清舱？",
       "options": [
@@ -28719,13 +28744,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》安保程序。匿名电话声称有爆炸物且旅客已登机时需要清舱。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当发生匿名电话声称某航班旅客携带有爆炸物或危险品且旅客已登机是否需要清舱"
     },
@@ -28790,7 +28815,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "如果航班上同时接收了数量受限制的病残旅客，原则上规定的无人陪伴儿童的限制数量应？",
       "options": [
@@ -28804,13 +28830,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》特殊旅客运输规定。病残旅客和无人陪伴儿童限制数量应减半。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如果航班上同时接收了数量受限制的病残旅客原则上规定的无人陪伴儿童的限制数量应"
     },
@@ -28832,7 +28858,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "对于在空中需要特殊照顾和陪护， 但行动方便，不需要借助轮椅或担架的特殊老年旅客人数应如何限制？",
       "options": [
@@ -28846,13 +28873,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》特殊旅客运输规定。特殊老年旅客参照无人陪伴儿童程序承运并与无人陪伴儿童合并计数。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "对于在空中需要特殊照顾和陪护但行动方便不需要借助轮椅或担架的特殊老年旅客人数应如何限制"
     },
@@ -28917,7 +28944,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "在国内机场，佩带枪、弹乘机的警卫人员信息由机场安检部门通过 《携枪警卫人员登机通知单》通知机组后，机组是否需要对警卫人员的证件进行检查？",
       "options": [
@@ -28931,13 +28959,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》安保程序。佩带枪弹乘机的警卫人员信息由机场安检通知机组后机组无需检查证件。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在国内机场佩带枪弹乘机的警卫人员信息由机场安检部门通过《携枪警卫人员登机通知单》通知机组后机组是否需要对警卫人员的证件进行检查"
     },
@@ -28959,7 +28987,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "押解女性犯罪嫌疑人是否需要女性民警？",
       "options": [
@@ -28973,13 +29002,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》安保程序。押解女性犯罪嫌疑人至少需要一名女性民警。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "押解女性犯罪嫌疑人是否需要女性民警"
     },
@@ -29001,7 +29030,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "原则上被拒绝入境遣返人员、被驱逐出境者承运人数不受限制，但 对于必须采取强制措施押解登机的，除非经特别批准，同机承运不 得超过_____人",
       "options": [
@@ -29015,13 +29045,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》安保程序。须采取强制措施押解登机的同机承运不得超过 2 人。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "原则上被拒绝入境遣返人员被驱逐出境者承运人数不受限制但对于必须采取强制措施押解登机的除非经特别批准同机承运不得超过_____人"
     },
@@ -29129,7 +29159,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "登机门关闭后 如果旅客显示醉态或在毒品、麻醉品作用影响下，应由_____决定是否责令其下机",
       "options": [
@@ -29143,13 +29174,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》管理规定。登机门关闭后发现旅客显示醉态由机长决定是否责令其下机。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "登机门关闭后如果旅客显示醉态或在毒品麻醉品作用影响下应由_____决定是否责令其下机"
     },
@@ -29171,7 +29202,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "执行航班任务的飞机出现了原签派放行单上没有的 MEL/CDL 项目，是否需要重新签发或更改签派放行单？",
       "options": [
@@ -29185,13 +29217,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》MEL 管理规定。出现原签派放行单上没有的 MEL/CDL 项目需要重新签发或更改放行单。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "执行航班任务的飞机出现了原签派放行单上没有的mel/cdl项目是否需要重新签发或更改签派放行单"
     },
@@ -29213,7 +29245,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "在起飞机场天气状况低于该机场的_______，或由于其他原因使得飞机在起飞后无法返回起飞机场着陆时，必须指定起飞机场备降场",
       "options": [
@@ -29227,13 +29260,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》签派放行程序。起飞机场天气低于着陆标准时必须指定起飞机场备降场。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在起飞机场天气状况低于该机场的____或由于其他原因使得飞机在起飞后无法返回起飞机场着陆时必须指定起飞机场备降场"
     },
@@ -29255,7 +29288,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "使用 CDFA 时，应使用特定决断高度/高（ DDA/H），即在 MDA/H 标准上增加至少_____英尺；增加的 50 英尺裕度______签派放行标准；",
       "options": [
@@ -29269,13 +29303,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》CDFA 程序。CDFA 决断高在 MDA/H 标准上增加至少 50 英尺，该裕度不作为签派放行标准。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "使用cdfa时应使用特定决断高度/高(dda/h)即在mda/h标准上增加至少_____英尺增加的50英尺裕度______签派放行标准"
     },
@@ -29384,7 +29418,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "根据运行手册的相关规定，发生火警时机长必须决断就近机场落地，就近机场指的是？",
       "options": [
@@ -29398,13 +29433,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》应急程序。发生火警时机长必须决断在飞行时间最短的机场着陆。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "根据运行手册的相关规定发生火警时机长必须决断就近机场落地就近机场指的是"
     },
@@ -30293,7 +30328,8 @@ window.B737_QUESTION_BANK = {
       "category": "燃油系统",
       "tags": [
         "机考900仅答案",
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "中央油箱的油量超过多少时，必须给两个主油箱加满油？",
       "options": [
@@ -30307,13 +30343,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。该标准属于公司运行政策范畴。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章（燃油）。中央油箱油量超过 726 公斤时必须使用中央油箱燃油泵，油量超过一定值时需给主油箱加满。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "中央油箱的油量超过多少时必须给两个主油箱加满油"
     },
@@ -30638,7 +30674,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "将机组氧气面板上的”紧急/测试”旋钮旋转:",
       "options": [
@@ -30652,13 +30689,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》氧气系统说明。紧急/测试旋钮在任何座舱高度都以正压力提供 100% 氧气。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "将机组氧气面板上的紧急/测试旋钮旋转"
     },
@@ -32111,7 +32148,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "运行手册与公司政策",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "机组已经使用发电机驱动脱开电门脱开了发电机：",
       "options": [
@@ -32125,13 +32163,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章（电气）。使用发电机驱动脱开电门脱开发电机后该发电机无法再使用。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "机组已经使用发电机驱动脱开电门脱开了发电机"
     },
@@ -32976,7 +33014,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "顶板的显示控制面板选择电门在“BOTH ON 2”位，若机长的PFD出现“DISPLAY CONTROL PANEL”的信息，说明：",
       "options": [
@@ -32990,13 +33029,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。显示控制面板选择电门 BOTH ON 2 位时副驾驶 EFIS 控制面板控制双发显示。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "顶板的显示控制面板选择电门在bothon2位若机长的pfd出现displaycontrolpanel的信息说明"
     },
@@ -33321,7 +33360,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "下面那个不属于大气数据惯性系统的主要组成部分？",
       "options": [
@@ -33335,13 +33375,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）。ADIRS 主要组成部分包括 ADIRU、大气数据组件等，飞行管理计算机不属于 ADIRS 组成部分。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面那个不属于大气数据惯性系统的主要组成部分"
     },
@@ -34789,7 +34829,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "燃油系统",
         "火警保护",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机起动系统探测到湿起动的情况下, 发动机电子控制何时关闭点火和发动机燃油?",
       "options": [
@@ -34803,13 +34844,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。湿起动时 EEC 关闭点火和燃油的逻辑在第7章（发动机与 APU）中说明。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。EEC 探测到湿起动时在起动手柄提到慢车位 15 秒后关闭点火和燃油。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机起动系统探测到湿起动的情况下发动机电子控制何时关闭点火和发动机燃油"
     },
@@ -36031,7 +36072,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "经公司批准的载运特许人员是否可以进入驾驶舱？",
       "options": [
@@ -36045,13 +36087,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》安保程序。经公司批准的载运特许人员进入驾驶舱必须征得机长同意。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "经公司批准的载运特许人员是否可以进入驾驶舱"
     },
@@ -36073,7 +36115,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "病残旅客的撤离原则是？",
       "options": [
@@ -36087,13 +36130,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》特殊旅客程序。病残旅客撤离原则由乘务长确定撤离出口位置和次序。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "病残旅客的撤离原则是"
     },
@@ -36115,7 +36158,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "每个航班可同机承运______名（含）以下的精神病人",
       "options": [
@@ -36129,13 +36173,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》特殊旅客程序。每个航班可同机承运 3 名以下精神病人。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "每个航班可同机承运______名(含)以下的精神病人"
     },
@@ -36200,7 +36244,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "如旅客登机时，如果旅客显示醉态或在毒品、 麻醉品作用影响下，干扰了机组成员的工作或危及旅客与机组安全，应该如何处理？",
       "options": [
@@ -36214,13 +36259,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》安保程序。旅客登机时显示醉态干扰工作或危及安全时应劝其下机。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如旅客登机时如果旅客显示醉态或在毒品麻醉品作用影响下干扰了机组成员的工作或危及旅客与机组安全应该如何处理"
     },
@@ -36285,7 +36330,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "如机长在其驾驶的机型上作为机长运行未满 100 小时，则对于正常 使用、临时使用或加油机场规定的最低下降高（度）或决断高（度） 和着陆能见度最低标准，分别增加________ 和_______或等效的跑道视程；",
       "options": [
@@ -36299,13 +36345,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》机长运行限制。新机长运行未满 100 小时的着陆最低标准增加 30 米和 800 米。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如机长在其驾驶的机型上作为机长运行未满100小时则对于正常使用临时使用或加油机场规定的最低下降高(度)或决断高(度)和着陆能见度最低标准分别增加_____和____或等效的跑道视程"
     },
@@ -36327,7 +36373,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "若公布的RVR着陆最低标准为550米，则新机长的RVR着陆最低标准为？",
       "options": [
@@ -36341,13 +36388,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》机长运行限制。公布 RVR 着陆标准为 550 米时新机长标准为 1400 米。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "若公布的rvr着陆最低标准为550米则新机长的rvr着陆最低标准为"
     },
@@ -37197,7 +37244,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "运行手册与公司政策",
-        "起落架与刹车"
+        "起落架与刹车",
+        "手册已核对"
       ],
       "question": "机组看到哪些指示才表示起落架已经收上并锁好？",
       "options": [
@@ -37211,13 +37259,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。起落架收上锁好的指示为手柄在收上位或中立位且所有起落架指示灯熄灭。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "机组看到哪些指示才表示起落架已经收上并锁好"
     },
@@ -37454,7 +37502,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "将机组氧气面板上的”正常/100%”电门放到”正常”位, 可以提供怎样的氧气?",
       "options": [
@@ -37468,13 +37517,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》氧气系统说明。正常/100% 电门在正常位提供空气/氧气混合气。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "将机组氧气面板上的正常/100%电门放到正常位可以提供怎样的氧气"
     },
@@ -37496,7 +37545,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "在有正常电源的情况下， 机翼上方紧急出口门的飞行锁上锁或开锁是由什么决定的?",
       "options": [
@@ -37510,13 +37560,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。翼上紧急出口门飞行锁的逻辑在第1章（飞机概况）中说明。"
+        "summary": "依据《B737_NG_FCOM.pdf》安全系统说明。翼上紧急出口飞行锁由发动机转速、推力手柄位置、空/地方式和舱门开/关状态决定。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在有正常电源的情况下机翼上方紧急出口门的飞行锁上锁或开锁是由什么决定的"
     },
@@ -39309,7 +39359,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "液压系统",
         "飞行操纵",
-        "性能与限制"
+        "性能与限制",
+        "手册已核对"
       ],
       "question": "飞机速度大于多少时, 液压A系统将减小向方向舵PCU的供压 ?",
       "options": [
@@ -39323,13 +39374,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。A 系统向方向舵 PCU 供压减小的速度阈值在系统说明中有提及。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。飞机速度大于 135 海里时液压 A 系统减小向方向舵 PCU 的供压。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞机速度大于多少时液压a系统将减小向方向舵pcu的供压"
     },
@@ -39916,7 +39967,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "当机长和副驾驶的俯仰角显示相差多少度以上时, 横滚和俯仰比较器才会在ADI上显示PITCH 故障旗并闪亮10秒?",
       "options": [
@@ -39930,13 +39982,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。俯仰角显示相差 5 度以上时显示 PITCH 故障旗并闪亮 10 秒。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当机长和副驾驶的俯仰角显示相差多少度以上时横滚和俯仰比较器才会在adi上显示pitch故障旗并闪亮10秒"
     },
@@ -40088,7 +40140,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "若把机长的主面板显示组件选择开关放“INBD PFD”位时，机长的内侧显示组件显示：",
       "options": [
@@ -40102,13 +40155,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。主面板显示组件选择开关放 INBD PFD 位时内侧 DU 显示 PFD。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "若把机长的主面板显示组件选择开关放inbdpfd位时机长的内侧显示组件显示"
     },
@@ -40476,7 +40529,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "地面滑行时，副驾驶蹬右舵产生了使前轮向右偏转4度的输入量，同时机长向左转动前轮转弯手轮，产生了使前轮向左偏转了10度的输入量，则此时飞机前轮与飞机的纵轴的夹角是多少？",
       "options": [
@@ -40490,13 +40544,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。前轮转弯手轮输入超控脚蹬输入。机长向左转手轮 10 度时前轮偏转 10 度。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "地面滑行时副驾驶蹬右舵产生了使前轮向右偏转4度的输入量同时机长向左转动前轮转弯手轮产生了使前轮向左偏转了10度的输入量则此时飞机前轮与飞机的纵轴的夹角是多少"
     },
@@ -41513,7 +41567,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "燃油系统",
         "显示与警告",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机滑油读数以________________显示可用油量.",
       "options": [
@@ -41527,13 +41582,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。发动机滑油读数显示方式在第7章（发动机与 APU）中说明。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。滑油量读数以夸脱为单位显示可用油量。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机滑油读数以__________显示可用油量"
     },
@@ -41685,7 +41740,8 @@ window.B737_QUESTION_BANK = {
       "category": "液压系统",
       "tags": [
         "机考900仅答案",
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "对于APU滑油低压灯, 下面哪句话是错的？",
       "options": [
@@ -41699,13 +41755,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。APU 滑油低压灯在第7章（发动机与 APU）中说明。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。APU 滑油低压灯在 APU 电门放 OFF 位时解除预位，不会在 OFF 位亮。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "对于apu滑油低压灯下面哪句话是错的"
     },
@@ -42078,7 +42134,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "燃油系统",
         "气源系统",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "是否显示交输引气起动指示X-BLD由什么决定？",
       "options": [
@@ -42092,13 +42149,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。交输引气起动指示 X-BLD 的显示条件在第7章（发动机与 APU）中说明。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。交输引气起动指示 X-BLD/XB 显示由飞机高度、空速和 N2 决定。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "是否显示交输引气起动指示x-bld由什么决定"
     },
@@ -42163,7 +42220,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "RVSM运行中，机长和副驾驶的高度显示，在空中的最大允许差别是多少英尺？",
       "options": [
@@ -42177,13 +42235,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》RVSM 运行程序。RVSM 运行中机长和副驾驶高度显示最大允许差别为 200 英尺。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "rvsm运行中机长和副驾驶的高度显示在空中的最大允许差别是多少英尺"
     },
@@ -42588,7 +42646,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "哪些旅客可被要求下飞机？",
       "options": [
@@ -42602,13 +42661,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》法规规定。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "哪些旅客可被要求下飞机"
     },
@@ -42630,7 +42689,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "公司《飞行运行手册》对低空飞行时的下降率有相关的要求。请问在高于机场标高2500 至1000 英尺和高于机场标高1000 英尺以下的下降率限制是多少？",
       "options": [
@@ -42644,13 +42704,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》飞行操作程序。高于机场标高 2500-1000 英尺下降率限制 1500 英尺/分钟；1000 英尺以下限制 1000 英尺/分钟。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "公司《飞行运行手册》对低空飞行时的下降率有相关的要求请问在高于机场标高2500至1000英尺和高于机场标高1000英尺以下的下降率限制是多少"
     },
@@ -42844,7 +42904,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "驾驶舱责任区是如何分工的？",
       "options": [
@@ -42858,13 +42919,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据公司《运行手册》机组分工。起飞前与着陆后按左座与右座分工，飞行中按 PF/PM 分工。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "驾驶舱责任区是如何分工的"
     },
@@ -43537,7 +43598,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "运行手册与公司政策",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "以下那项不是需要机组立即关注的警告？",
       "options": [
@@ -43551,13 +43613,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。起动活门打开指示属于注意级(CAUTION)而非警告级(WARNING)。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下那项不是需要机组立即关注的警告"
     },
@@ -43796,7 +43858,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "旅客用面罩呼吸到怎样的氧气?",
       "options": [
@@ -43810,13 +43873,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》氧气系统说明。旅客面罩呼吸空气/氧气混合气。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "旅客用面罩呼吸到怎样的氧气"
     },
@@ -43838,7 +43901,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "旅客氧气系统启动后, 可持续供氧多长_____分钟, ______关断:",
       "options": [
@@ -43852,13 +43916,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》氧气系统说明。旅客氧气系统可持续 12 或 22 分钟，不能人工关断。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "旅客氧气系统启动后可持续供氧多长_____分钟______关断"
     },
@@ -43880,7 +43944,8 @@ window.B737_QUESTION_BANK = {
       "category": "电气系统",
       "tags": [
         "机考900仅答案",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "翼上紧急出口上锁除了系统有直流电源外，还必须满足什么条件",
       "options": [
@@ -43894,13 +43959,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。翼上紧急出口上锁条件在第1章（飞机概况）中说明。"
+        "summary": "依据《B737_NG_FCOM.pdf》安全系统说明。翼上紧急出口上锁条件为直流电源+空地逻辑在空中或推力手柄前推加足够舱门已关。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "翼上紧急出口上锁除了系统有直流电源外还必须满足什么条件"
     },
@@ -46356,7 +46421,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "燃油系统",
         "液压系统",
-        "气源系统"
+        "气源系统",
+        "手册已核对"
       ],
       "question": "液压系统的压力和油量可能在哪个显示组件上观察到？",
       "options": [
@@ -46370,13 +46436,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。液压系统压力和油量显示位置在显示章节中有说明。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。液压系统的压力和油品可在上 DU、内侧 DU 或下 DU 按需显示。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "液压系统的压力和油量可能在哪个显示组件上观察到"
     },
@@ -46399,7 +46465,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "燃油系统",
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "液压系统的油量指示单位是：",
       "options": [
@@ -46413,13 +46480,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。液压系统油量指示单位在第13章（液压）中说明。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章（液压）。液压油量指示以数字百分比（0%至106%）指示。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "液压系统的油量指示单位是"
     },
@@ -47138,7 +47205,8 @@ window.B737_QUESTION_BANK = {
       "category": "运行手册与公司政策",
       "tags": [
         "机考900仅答案",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "若机长和副驾驶的PFD都出现了“DSPLY SOURCE”的信息，表明：",
       "options": [
@@ -47152,13 +47220,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。DSPLY SOURCE 信息表示已自动转换到一部 DEU 显示源。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "若机长和副驾驶的pfd都出现了dsplysource的信息表明"
     },
@@ -47397,7 +47465,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "运行手册与公司政策",
-        "起落架与刹车"
+        "起落架与刹车",
+        "手册已核对"
       ],
       "question": "放起落架后，机组观察到起落架面板上的前起落架指示绿灯不亮，后顶板上的左主起落架指示绿灯也不亮，此时起落架的放下状态是什么？",
       "options": [
@@ -47411,13 +47480,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "B737_NG_FCOM.pdf",
-        "section": "公司运行手册",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "运行手册",
         "page": "",
-        "summary": "依据公司《运行手册》。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。前起落架指示绿灯不亮但后顶板主起落架指示可辅助判断。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "放起落架后机组观察到起落架面板上的前起落架指示绿灯不亮后顶板上的左主起落架指示绿灯也不亮此时起落架的放下状态是什么"
     },
@@ -47789,7 +47858,8 @@ window.B737_QUESTION_BANK = {
       "category": "一二三类事件",
       "tags": [
         "一二三类事件",
-        "机考900仅答案"
+        "机考900仅答案",
+        "手册已核对"
       ],
       "question": "下列哪项不属于预位自动刹车RTO方式的条件？",
       "options": [
@@ -47803,13 +47873,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "机考(900题仅答案).xlsx",
-        "section": "",
+        "status": "verified",
+        "manual": "公司运行手册",
+        "section": "事件分类标准",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）。自动刹车 RTO 方式预位条件不包括 A 液压系统压力正常。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下列哪项不属于预位自动刹车rto方式的条件"
     },
