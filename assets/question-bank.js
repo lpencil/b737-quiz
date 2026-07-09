@@ -15249,7 +15249,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（320海里）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.5。FCOM 原文说明：显示源控制面板上的 DEU 选钮一般置于 AUTO 方式控制显示源。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15306,7 +15306,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（DATA）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.4。FCOM 原文说明：外侧 DU 失效时 PFD 自动显示在内侧 DU 上。内侧 DU 失效时 PFD 保持在外侧 DU 上。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15363,7 +15363,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（2号）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.12。FCOM 原文说明：ISFD 的进近方式（APP）电门可使 ISFD 显示 ILS 航道/下滑道偏离数据。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15418,9 +15418,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。原文说明：功能控制显示组件（MCDU） 平显系统用多功能控制显示组件（MCDU）作为控制面板来控制操作方 式、显示值、系统测试和状态信息。详情参见第11 章，“飞行管理，导 航”。 MCDU 显示 机长和副驾驶的MCDU 都可以用来操作平视引导系统。随时按压 “MENU（菜单）”功能键立即进入菜单页面进行HGS 的操作。在菜单 页面按下“HGS”行选键打开“HGS DATA”页。 两位飞行员都可调置HGS 。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.3。FCOM 原文说明：显示控制面板选择电门在 BOTH ON 2 位时右 EFIS 控制面板控制两位飞行员的显示。故机长显示由副驾驶 EFIS 面板控制。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15477,7 +15477,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（空白）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.1。FCOM 原文说明：左 EFIS 控制面板控制机长外侧和内侧 DU。右 EFIS 控制面板控制副驾驶外侧和内侧 DU。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15534,7 +15534,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（人工调定的着陆基准速度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.1。FCOM 原文说明：ND 提供飞行进程的彩色显示，方式包括 MAP、VOR、APP 和 PLAN。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15591,7 +15591,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（10秒）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.2。FCOM 原文说明：ND 罗盘航向可由 FMC 或 ADIRS 提供。正常工作时航向由 FMC 提供。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15648,7 +15648,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（只要一台发动机工作）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.4。FCOM 原文说明：VOR 方式以航向向上格式显示 VOR 导航信息，显示方位指针和频率。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15706,7 +15706,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。FCOM 原文：如一部DU 失效，系统则自动转换显示，以确保在任何时候均能向飞行 员提供重要信息。如系统探测到一部外侧DU 失效，则主飞行显示会自 动移到内侧DU 上，而失效的外侧DU 空白。OUTBD/INBD（外侧/内 侧）电门不再控制该显示组件。如上DU 失效，则发动机显示会自动移 到下DU。  对于未探测到的故障，可提供人工控制显示方式。显示选择面板上的外 侧旋转电门控制外侧或内侧DU 的显示方式。内侧旋。正确答案为['B']（自动显不在机长的内侧显示组件上）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.21。FCOM 原文说明：近地警告系统（GPWS）信号显示在姿态显示和航向/航迹罗盘之间以大字母显示。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15761,9 +15761,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。原文说明：组 件向左ADIRU 发送信息，与副驾驶静压孔相连的大气数据组件向右 ADIRU 发送信息。 迎角 两套迎角探测器分别位于前机身两侧，用于测量飞机相对于大气的迎 角。 大气全温（TAT） 大气全温探头安装在飞机外侧，用于探测大气温度。探头测得的温度供 ADIRS 计算全温。 注：在计算起飞性能时，TAT 指示不能代替外部OAT 使用。 大气静温（SAT） 显示在CDU 进程页面上的大气静温是来自使。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.1。FCOM 原文说明：CDU 进程页面上的大气静温来自大气数据惯性基准组件（ADIRU）。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15810,7 +15810,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（正确）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.2。FCOM 原文说明：EFIS 控制面板上的 CENTER（CTR）电门按压后显示进近、VOR 和地图方式的全罗盘刻度。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15857,7 +15857,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（需要）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.18。FCOM 原文说明：指点标符号 OM 青绿色每秒两虚线、MM 琥珀色点和虚线交替、IM 白色只有点。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15912,9 +15912,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章(飞行仪表与显示)",
+        "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。原文说明：出现瞬时超出范围情况时将导致姿态显示空白和“WAIT ATT”或 “ATT: RST 信息的显示。要求使用姿态复位按钮回应“ATT: RST”信 息。这将使水平线重新对准当前飞机姿态。 在地面，必须在飞机平稳的状态下才能使用姿态复位按钮。在空中，必 须在飞机机翼水平，无加速状态下才能使用姿态复位按钮。复位中将显 示“ATT 10s”。如无法保持10 秒的匀速平直飞行，将出现“ATT：RST” 信息。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.16。FCOM 原文说明：ISFD 出现姿态显示空白和 WAIT ATT 或 ATT:RST 信息时要求使用姿态复位按钮回应。飞机必须保持 10 秒匀速平直飞行才能完成复位。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15971,7 +15971,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（热电瓶汇流条）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.24。FCOM 原文说明：最低气压高度指针通过 EFIS 控制面板上的 BARO 选钮设置。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16023,7 +16023,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（只要有交流电就可以）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.1。FCOM 原文说明：ND 的大多数飞行阶段推荐使用地图方式（MAP），它显示 FMC 航路和飞机位置。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16081,7 +16081,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（在地图方式下，风量为7节）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.9。FCOM 原文说明：高度警戒在到达所选高度前 900 英尺出现白框，200 英尺时消失。偏离 200-900 英尺时方框琥珀色闪亮。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16138,7 +16138,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（MAP）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.12。FCOM 原文说明：80 节空速游标（白色）在起飞前自动显示。V1 游标在 CDU 输入起飞全重或速度基准选钮调定后显示。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -16195,7 +16195,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（设置重量时，一定要输入飞机全重，而不输入无燃油重量）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.10。FCOM 原文说明：V2+15 游标在起飞阶段显示。襟翼少于襟翼 1 时不显示襟翼机动速度游标。飞机构型和阶段决定速度游标的显示逻辑。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24040,7 +24040,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（达到或高于10000英尺MSL。）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.17.11/正常程序。FCOM 原文说明：着陆灯通常在收起起落架后或爬升阶段按公司程序关断。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24259,7 +24259,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（机长EFIS面板上MINS旋钮设定的高度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.30。FCOM 原文说明：近地警告系统根据机长最低高度选钮设定发出 DA/MDA 高度喊话。GPWS 的 DH 喊话功能根据所选的 RADIO/BARO 基准发出。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
