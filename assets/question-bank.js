@@ -9492,7 +9492,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（当飞行操纵A和B电门都在备用方向舵（STBYRUD）位时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：偏航阻尼器电门 ON 位时如飞行操纵 B 系统电门在 ON 位主偏航阻尼器与主方向舵 PCU 接通；如飞行操纵 A 和 B 电门都在 STBY RUD 位，备用偏航阻尼器与备用方向舵 PCU 接通。题目问备用偏航阻尼器与备用方向舵 PCU 接通的必要条件——需要 A 和 B 两个电门都在 STBY RUD 位。故正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9549,7 +9549,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（当备用襟翼主电门放到“预位”位时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：备用襟翼（ALTERNATE FLAPS）主电门在 ARM 位时关闭后缘襟翼旁通活门、启动备用泵、并预位备用襟翼位置电门。备用襟翼位置电门仅当备用襟翼主电门预位时作用。故正确答案为 C（当备用襟翼主电门放到预位位时）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9606,7 +9606,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['D']（电动收上后缘襟翼）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：备用襟翼（ALTERNATE FLAPS）位置电门 UP 位电动收起后缘襟翼，前缘装置保持在放出位置。故将备用襟翼位置电门放到 UP 位可电动收上后缘襟翼，正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9720,7 +9720,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['C']（将安定面配平超控电门扳到“超控”位）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：安定面配平超控（STAB TRIM OVERRIDE）电门在 OVERRIDE 位时旁通操纵杆作动的安定面配平切断电门，恢复电动配平电门电源。升降舵卡阻时操纵杆反向移动会触发电门中止配平，将超控电门扳到超控位可恢复配平能力，在带杆情况下打出低头配平。故正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -9777,7 +9777,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['B']（左右7度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：前轮转弯由方向舵脚蹬控制时最大角度左右 7 度。故使用方向舵脚蹬控制前轮转弯的最大角度为左右 7 度，正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
