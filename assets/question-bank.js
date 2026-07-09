@@ -17607,7 +17607,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['C']（方格）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）。FCOM 原文说明：FMC 根据导航数据库和飞行计划计算飞机位置沿航路引导。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17664,7 +17664,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['D']（其它各项都正确）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）。FCOM 原文说明：IRS 校准方式包括 NAV、ATT 和 ALIGN 方式。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17716,7 +17716,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（在后顶板上）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）。FCOM 原文说明：CDU 是 FMC 的飞行员界面，用于输入飞行计划和性能数据。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17773,7 +17773,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理与导航）。原文说明：-86J/86N FCOM 飞行管理、导航 March 3, 2022 D6-27370-81B-GUN 11.10.21 校准（ALIGN）灯 亮（白色）－ ·稳定－相应的IRS 在校准方式、初始姿态方式或关车循环方式 ·闪亮－由于IRS 探测到以下情况而无法完成校准 ·前后输入的位置存在明显差异或输入的当前位置不合理 ·未输入当前位置 灭－ ·IRS 不在校准方式 ·方式选钮在导航位，校准完成。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）。FCOM 原文说明：GPS 向 FMC 提供精确三维位置数据增强导航精度。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -17825,7 +17825,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第11章(飞行管理与导航)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第11章(飞行管理与导航)。正确答案为['B']（灭）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第11章（飞行管理、导航）。FCOM 原文说明：FMC 在爬升、巡航和下降阶段计算经济速度以优化燃油效率。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21891,7 +21891,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['B']（起动手柄提到慢车位15秒后）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：N1 转速表上数字读数以百分比显示 N1 转速。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -21948,7 +21948,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（熄火保护）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：反推装置——反推套筒向后移动使折流门将风扇空气折转向前产生反推力。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -22005,7 +22005,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['C']（N2非指令快速减小或低于慢车转速时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：发动机次要指示在密集方式下合并显示。N1 和 EGT 与正常方式相同，其他指示只显示数字读数。超限时数字变红色或琥珀色。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -22062,7 +22062,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（18秒）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：APU 超速灯亮时 ECU 通过电子燃油控制器自动控制 APU 速度。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -22119,7 +22119,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['A']（收上不完全或反推套筒非指令打开）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：推力方式显示信号显示现用 N1 限制基准方式。N1 外圈调置旋钮在 AUTO 位时由 FMC 根据 N1 限制页面和起飞基准页面调定。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -22174,9 +22174,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。原文说明：B2/-81B/-81Q/-83N/-8K5/-86J/-86N FCOM 发动机、APU September 2, 2021 D6-27370-81B-GUN 7.11.7 排气温度（EGT）指示 排气温度（EGT）红线 显示（红色）－ ·最大起飞EGT 限制。 ·起动限制线未显示时最大空中起动EGT 限制。 排气温度（EGT）琥珀色区 显示（琥珀色）－琥珀色区下端显示最大连续EGT 限制。 排。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：EEC 电门在 ON 位可见（白色）指示选择的正常控制方式。不显示 ON 时 EEC 已被人工选择备用方式。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -22231,9 +22231,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。原文说明：-27370-81B-GUN 7.15.5 ALTN－可见（琥珀色） ·指示EEC 已自动变为备用操纵方式或已人工选择 ·EEC 提供额定或更大推力。 注：如EEC 已自动变为软备用方式，则ON 和ALTN 均可见。 注：在正常和备用控制方式下，必须遵守排气温度（EGT）限制值。 发动机控制 B-1520, B-1525, B-1700 - B-1980, B-2169 - B-6067 油门杆 。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：APU 只能在地面提供引气+电气负载。空中 APU 引气+电气负载最大高度 10,000 英尺。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -22290,7 +22290,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（右发反推放出的速度比左发的慢。）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：发动机密集显示——在密集方式下 N1 和 EGT 以圆形刻度盘显示，其他以数字显示。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -22348,7 +22348,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章(发动机与APU)。正确答案为['D']（发动机燃油流量过大，总油量以不正常的速率在减少且出现USINGRSVFUEL信息）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：发动机在空中有两种起动方法：风转起动和交输引气起动。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -22403,9 +22403,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第7章(发动机与 APU)",
+        "section": "第7章(发动机与APU)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。原文说明：交流发电机提供备 用交流电源。 APU 位置 APU 工作 APU 可在飞机最大验证高度起动和工作。 在地面，APU 向两个空调组件提供引气，飞行中向一个组件供气，在 地面或飞行中都可向两个转换汇流条供电。 APU 燃油供给 交流燃油泵工作时，左侧燃油总管提供APU 起动和工作的燃油。如交 流燃油泵不工作，从1 号油箱吸油。APU 工作期间，燃油自动加温以 防止结冰。。本题正确答案与此一致。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：N1 内圈调置旋钮在 N1 外圈调置旋钮设定在 BOTH 位、1 位或 2 位时调定基准 N1 游标和读数。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
