@@ -1215,9 +1215,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章/第15章(显示与警告)",
+        "section": "第9章(飞行操纵)/第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（表示飞行控制计算机单通道已经失效，但是速度配平系统仍然可以正常工作）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）9.10.3。FCOM 原文说明：速度配平失效（SPEED TRIM FAIL）灯亮（琥珀色）指示速度配平系统失效；主注意灯重现时表明飞行操纵计算机（FCC）单通道失效，主注意系统复位时该灯熄灭。题目中机组按压系统信号牌后灯亮、复位主警告灯后熄灭，对应第二种情况——FCC 单通道失效时速度配平功能由另一通道继续工作，因此并非速度配平系统完全失效。故正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1272,9 +1272,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章/第15章(显示与警告)",
+        "section": "第9章(飞行操纵)/第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（在到达所选高度200英尺到900英尺之间时，高度窗外的白框变粗）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.9。FCOM 原文说明：到达所选高度之前的 900 英尺到 200 英尺之间所选高度周围会出现白框，当前高度框变粗并伴有瞬时声音；偏离所选高度 200 到 900 英尺时方框变为琥珀色并闪亮。高度警戒在接近或离开 MCP 所选高度时触发，后缘襟翼放到 25 或更大或下滑道截获时被抑制。故正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1444,9 +1444,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第10章/第15章(显示与警告)",
+        "section": "第9章(飞行操纵)/第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.10.1。FCOM 原文说明：按压主火警灯可熄灭两个主火警灯、抑制火警铃、抑制机外 APU 火警喇叭、复位系统以用于其它警告。火警铃切断电门也可起相同作用。故按压主火警灯使火警铃停止、灯熄灭并复位系统。故正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.10.1。FCOM 原文说明：按压主火警灯可熄灭两个主火警指示灯、停止火警铃声、停止机外 APU 火警喇叭声、复位系统以备其它警告使用。注：按压过热/防火面板上的火警铃声切断电门可具有同样效果。故出现发动机火警警告时机组按压主火警灯的作用是使火警铃停止、灯熄灭并复位系统。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1503,7 +1503,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.2。FCOM 原文说明：在飞行机组正常视线以外出现任何需要注意的情况时两个主注意灯会亮，只要情况存在就保持亮或直到复位才会熄灭。按压可熄灭并复位系统。故正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.24。FCOM 原文说明：QFE 工作时，高度带显示绿色阴影；选择 QNH 时绿色阴影消失。故高度带显示绿色阴影表示已选择 QFE 高度基准。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1560,7 +1560,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.10/15.20.11。FCOM 原文说明：GPWS 根据无线电高度和气压高度、空速、下滑道偏离和飞机形态等综合信息提供警戒。这些参数组合用于判断飞机是否处于危险的地形接近状态。故正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第14章（起落架）及第10章（飞行仪表与显示）。FCOM 原文说明：起落架红色指示灯亮表示起落架未放下锁定且手柄不在收上位，或起落架位置与手柄位置不一致。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1617,7 +1617,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.6/第14章（起落架）。FCOM 原文说明：起落架警告喇叭需要无线电高度表、推力手柄位置、襟翼位置和起落架实际位置等信息输入。这些信号综合判断飞机是否在着陆构型下起落架未放下。故正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.15。FCOM 原文说明：ISFD（集成备用飞行显示）显示姿态、空速、高度、航道/下滑道偏离和磁航向。电瓶汇流条向 ISFD 供电，电瓶电门放至接通位后即开始供电。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1674,7 +1674,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.8。FCOM 原文说明：PSEU 及其传感器和输入信号均受到监控以探测内部故障。无线电高度表属于 GPWS/RA 系统，不属于 PSEU 的监控范围。故正确答案为 A（无线电高度表）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.6/10.21.4。FCOM 原文说明：主面板显示组件选钮选择外侧和内侧 DU 显示内容。NORM 位在外侧 DU 显示 PFD、内侧 DU 显示 ND。OUTBD PFD 位在外侧 DU 显示 PFD、内侧 DU 空白。INBD ENG PRI 位内侧 DU 显示发动机主要仪表。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1731,7 +1731,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 原文说明：PSEU 指示灯在推力手柄前推至起飞推力或空中至落地后 30 秒内受到抑制。这是为了在起飞和着陆关键阶段避免虚假警告干扰机组。故正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.33。FCOM 原文说明：显示控制面板（DISPLAYS CONTROL PANEL）信号显示（琥珀色）指示受影响一侧的 EFIS 控制面板失效。当显示屏右下角出现此信息时，高度信息消失。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1788,7 +1788,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（盲降进近截获了下滑道或后缘襟翼位置不小于25）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.26。FCOM 原文说明：PFD 垂直速度指示显示 ADIRS 的瞬时垂直速度，正常工作时由 IRS 提供垂直速度数据。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1845,7 +1845,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.12。FCOM 原文说明：地形与气象雷达无法共同显示，如需显示系统通过交替刷新更新。EGPWS 地形警告不可以和气象雷达数据同时在同一个 ND 上显示。故正确答案为 B。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.53。FCOM 原文说明：导航显示计划（PLAN）方式以真北向上格式显示，不显示气象雷达、TCAS 和 TERRAIN 信息。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1902,7 +1902,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（预计40到60秒后将撞到地型）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.1。FCOM 原文说明：ND 提供飞行进程的彩色显示，方式包括地图（MAP）、VOR、进近（APP）和计划（PLAN）。地图方式以航迹向上格式显示 FMC 生成的航路和地图信息。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -1959,7 +1959,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（起飞；1200；警告区域）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.4。FCOM 原文说明：VOR 方式以航向向上的形式显示 VOR 导航信息，包括方位指针和频率/识别码。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2011,7 +2011,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.20 风切变警戒。FCOM 原文说明：MONITOR RADAR DISPLAY 警告表明气象雷达探测到前方 3 海里内有风切变，适用于起飞和进近期间低于 1200 英尺 RA 的情况。故正确答案为 C。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.32。FCOM 原文说明：DSPLY SOURCE（显示源）琥珀色显示表示一部 DEU 已失效，显示已自动转换到单 DEU 源。DSPLY SOURCE 1 或 2 表示 DEU 1 或 DEU 2 已失效。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2068,7 +2068,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.22。FCOM 原文说明：气象雷达自动扫描风切变的触发条件为起飞推力调定或空中低于 2300 英尺 RA。故正确答案为 D（在地面当起飞推力调定后或空中无线电高度低于 2300 英尺时）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.4。FCOM 原文说明：如一部外侧 DU 失效则 PFD 自动显示在内侧 DU 上，外侧 DU 空白。如一部内侧 DU 失效则 PFD 仍保持在外侧 DU 上，内侧 DU 空白。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2125,7 +2125,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（在起飞和着击阶段，当速度超过100海里/小时以后到无线电高度50英尺之间，新的预警式风切变警告信息将会受到抑制）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.4。FCOM 原文说明：如系统探测到一部外侧 DU 失效，则 PFD 会自动移到内侧 DU 上，失效的外侧 DU 空白。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2182,7 +2182,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（机工EFIS面板上最低标准选择电门设定的高度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.14-10.16.15。FCOM 原文说明：ISFD 启动后约需 90 秒完成起始程序。姿态信息根据内部惯性传感器数据计算。当 ISFD 出现超出范围情况时将导致姿态显示空白，要求使用姿态复位按钮回应该信息。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2239,7 +2239,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.31-15.20.32。FCOM 原文说明：TCAS 提供交通咨询（TA）和决断咨询（RA），RA 提供垂直机动（俯仰）指引而非横向机动指引。TCAS 不提供横向机动引导。故正确答案为 C。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.16。FCOM 原文说明：当前空速下降至琥珀色最小机动速度指示杆时，空速读数框变为琥珀色并闪亮十秒钟，并伴有音频警戒告示 Airspeed low。最小机动速度基于襟翼位置和飞机构型由失速管理计算机计算。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2296,7 +2296,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（在无线电1100英尺以下，所有的RA警告降被抑制）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.57/10.31.5。FCOM 原文说明：TCAS 决断咨询（RA）需要机组采取正面行动，用双线方框表示修正咨询。RA 指令在姿态指示器上显示俯仰指令信息，同时在空速带上显示红色垂直速度带。TA（交通咨询）不要求采取行动仅指示不安全区域。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14173,7 +14173,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（离地1000英尺以下）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.18。FCOM 原文说明：低于 1,000 英尺 AGL 且 LNAV 接通、LOC 预位时如未截获航道则航道刻度变为琥珀色且指针闪亮，指示航道偏离过大或未截获。故低于 1,000 英尺时航道刻度变琥珀色闪亮，正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14230,7 +14230,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（1/2个点）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.18。FCOM 原文说明：航道接通且偏离略大于半个点时刻度扩展。故当偏离略大于 1/2 个点时航向道刻度变为扩展式，正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14288,7 +14288,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（无线电高度低于2500英尺且航向道信号可用，指针可）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：低于 1,000 英尺 AGL、LNAV 接通、LOC 预位且未截获航道时航道刻度琥珀色指针闪亮。要消除该指示需截获 LOC 或选择其他横滚方式。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14345,7 +14345,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（2500英尺离地高度(AGL)以下时）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：PFD 速度带上超过 Vmo/Mmo 时会出现超速警告符号——速度数字变为琥珀色或红色。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14403,7 +14403,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（数值己调定并且飞机爬升到过渡高度以上或标准气压已调好并且飞机下降到过渡高度层以下时）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：备用姿态指示器（ISFD）由电瓶汇流条供电。ISFD 在电瓶电门放至接通位后开始供电，90 秒起始程序后显示姿态。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14460,7 +14460,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（起飞与目的地机场的距离为500海里，当飞机已飞行了260海里时，显示起飞机场的跑道或起飞机场的着陆高度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：EFIS 控制面板方式选择电门可选择 MAP（地图）、VOR、APP（进近）和 PLAN（计划）方式。在地图（MAP）方式下显示 FMC 航路、导航点等信息。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14517,7 +14517,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（高于着陆高度0至500英尺）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：GPS 指示灯在 GPS 数据可用时亮，指示 FMC 正在使用 GPS 数据。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14575,7 +14575,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（当垂直速率大于400英）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：DSPLY SOURCE 信息表示 DEU（显示电子组件）已失效，显示转换到单一 DEU 源。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14632,7 +14632,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（抖杆器警告失效或最大使用速度失效）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。FCOM 原文：September 30, 2022  D6-27370-81B-GUN  10.TOC.1  飞行仪表、显示  第10 章  目录  第TOC 节  PFD/ND－显示 ....................................................................... 10.11  PFD/ND 显示系统－概况 .............................................................. 10.11.1。正确答案为['D']（抖杆器警告失效或最大使用速度失效）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14689,7 +14689,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（航向数据失效）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。FCOM 原文：September 30, 2022  D6-27370-81B-GUN  10.TOC.1  飞行仪表、显示  第10 章  目录  第TOC 节  PFD/ND－显示 ....................................................................... 10.11  PFD/ND 显示系统－概况 .............................................................. 10.11.1。正确答案为['A']（航向数据失效）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14741,7 +14741,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（副驾驶的电子飞行仪表系统控制面板失效）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['B']（副驾驶的电子飞行仪表系统控制面板失效）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14798,7 +14798,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（机长和副驾驶的空速指示连续5秒钟相差5海里/小时以上）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['D']（机长和副驾驶的空速指示连续5秒钟相差5海里/小时以上）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14855,7 +14855,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（MAP）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。FCOM 原文：D 导航性能刻度（NPS）指示    刻度ID 信号显示（白色）  ·在姿态指引仪（ADI）左上角显示  ·指明所示偏离刻度的信息源  ·当LNAV、VNAV、HDG SEL 或TO/GA 接通时显示  ·当前飞机水平位置在飞行计划航路1 海里或2 倍RNP 值范围内时显 示－若超出水平限制，会超出NPS  ·可能出现的信号显示包括：  ·LNAV/VNAV－（LNAV 和VNAV 偏离）  ·LOC/VNAV－（有VNAV 偏离的ILS 航道）  ·LNAV/G/S－（有下滑道的LNAV 偏离。正确答案为['A']（MAP）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14912,7 +14912,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（PLAN）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['C']（PLAN）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
