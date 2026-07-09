@@ -14116,7 +14116,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.41。FCOM 原文说明：地图（MAP）方式以航迹向上格式显示 FMC 生成的航路和地图信息。ND 显示方式包括 MAP、VOR、APP、PLAN。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14173,7 +14173,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.18。FCOM 原文说明：低于 1,000 英尺 AGL 且 LNAV 接通、LOC 预位时如未截获航道则航道刻度变为琥珀色且指针闪亮，指示航道偏离过大或未截获。故低于 1,000 英尺时航道刻度变琥珀色闪亮，正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.2。FCOM 原文说明：气象雷达信息可显示在 ND 上。有关气象雷达系统说明请参阅第11章飞行管理导航。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14230,7 +14230,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.18。FCOM 原文说明：航道接通且偏离略大于半个点时刻度扩展。故当偏离略大于 1/2 个点时航向道刻度变为扩展式，正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.8/10.21.1。FCOM 原文说明：显示亮度由光线传感器和亮度控制电门共同控制调节每部 DU 亮度。各 DU 有独立的亮度控制旋钮。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14288,7 +14288,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：低于 1,000 英尺 AGL、LNAV 接通、LOC 预位且未截获航道时航道刻度琥珀色指针闪亮。要消除该指示需截获 LOC 或选择其他横滚方式。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.4。FCOM 原文说明：显示组件（DU）提供 PFD/ND/发动机数据显示。外侧 DU 显示 PFD，内侧 DU 显示 ND，上 DU 显示发动机主要数据。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14345,7 +14345,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：PFD 速度带上超过 Vmo/Mmo 时会出现超速警告符号——速度数字变为琥珀色或红色。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.4。FCOM 原文说明：如一部外侧 DU 失效则 PFD 自动显示在内侧 DU 上。如一部内侧 DU 失效则 PFD 仍保持在外侧 DU 上。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14403,7 +14403,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：备用姿态指示器（ISFD）由电瓶汇流条供电。ISFD 在电瓶电门放至接通位后开始供电，90 秒起始程序后显示姿态。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.32。FCOM 原文说明：DH/MDA 加 80 英尺发 APPROACHING MINIMUMS 喊话。最低高度基准通过 EFIS 控制面板的 MINIMUMS 选钮选择 RADIO 或 BARO 方式。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14460,7 +14460,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：EFIS 控制面板方式选择电门可选择 MAP（地图）、VOR、APP（进近）和 PLAN（计划）方式。在地图（MAP）方式下显示 FMC 航路、导航点等信息。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.21.15。FCOM 原文说明：备用飞行仪表包括备用磁罗盘、集成备用飞行显示（ISFD）和备用无线电磁指示器。ISFD 显示姿态、空速、高度、航道/下滑道偏离和磁航向。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14517,7 +14517,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：GPS 指示灯在 GPS 数据可用时亮，指示 FMC 正在使用 GPS 数据。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.1。FCOM 原文说明：EFIS 控制面板控制 PFD 和 ND 显示。左 EFIS 控制面板控制机长外侧和内侧 DU，右 EFIS 控制面板控制副驾驶外侧和内侧 DU。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14575,7 +14575,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：DSPLY SOURCE 信息表示 DEU（显示电子组件）已失效，显示转换到单一 DEU 源。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.33。FCOM 原文说明：EFIS CP（显示控制面板）信号显示（琥珀色）指示受影响一侧的 EFIS 控制面板失效。当显示屏右下角出现该信息时高度信息消失。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14632,7 +14632,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。FCOM 原文：September 30, 2022  D6-27370-81B-GUN  10.TOC.1  飞行仪表、显示  第10 章  目录  第TOC 节  PFD/ND－显示 ....................................................................... 10.11  PFD/ND 显示系统－概况 .............................................................. 10.11.1。正确答案为['D']（抖杆器警告失效或最大使用速度失效）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.1。FCOM 原文说明：PFD（主飞行显示）显示姿态、空速、高度、航向和垂直速度等主要飞行参数。PFD 在外侧 DU 上显示。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
