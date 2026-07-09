@@ -2751,7 +2751,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（右侧气源管道漏气）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：右翼身过热（WING-BODY OVERHEAT）灯亮指示右发吊架、右翼内侧前缘或右空调设备舱引气管道泄漏过热，即右侧气源管道漏气。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2808,7 +2808,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['C']（相应的冷却风扇下游无气流）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：设备冷却电门下面的 OFF 灯亮表示相应的冷却风扇下游无气流，风扇不工作或管道堵塞。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2865,7 +2865,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（单个增压控制器故障，并自动转换到备用方式工作）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：自动失效（AUTO FAIL）灯和备用（ALTN）灯都亮时指示单个增压控制器失效并自动转换到备用方式。故正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2922,7 +2922,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（两个增压控制器都失效）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：自动失效灯单独亮时指示双控制器失效。故正确答案为 A（两个增压控制器都失效）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -2979,7 +2979,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（大翼油箱增压）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：气源系统的引气供应给空调增压、防冰、发动机起动、水箱增压等系统。大翼油箱增压使用燃油泵而非气源系统空气。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3036,7 +3036,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['C']（地面2个，空中1个，）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）及第2章（空气系统）。FCOM 原文说明：APU 在地面时可向两个空调组件供气，空中只能向一个组件供气。故正确答案为 C（地面2个，空中1个）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3093,7 +3093,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（任何时候都不允许）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：引气系统正常工作通过左右隔离活门分隔，任何情况下不应使用一台发动机引气同时为两个空调组件供气。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3150,7 +3150,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（另一个组件自动转换到高流量）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：巡航期间两个组件电门在 AUTO 位时如果一个组件故障不工作，另一个组件自动转换到高流量。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3207,7 +3207,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['B']（另一个组件仍保持正常流量）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：着陆期间两个组件电门都在 AUTO 位时如果一个组件故障不工作，另一个组件仍保持正常流量（地面不需要高流量）。正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3264,7 +3264,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（不论空中地面、襟翼位置及几个组件工作，始终提供高流量）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：两个发动机引气电门关且 APU 引气电门开、空调组件电门在 AUTO 位时组件始终提供高流量。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3321,7 +3321,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（在地面，或空中襟翼放下时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：冲压空气系统 RAM DOOR FULL OPEN 灯亮时表明冲压进气门全开，在地面或空中襟翼放下时移向全开位以增加冷却气流。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3378,7 +3378,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（防止在起飞、着陆期间吸入泥浆）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：冲压空气系统折流门的作用是防止在起飞、着陆期间吸入泥浆。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3435,7 +3435,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（由空地逻辑控制放出和收回）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：冲压空气系统折流门由空地逻辑控制放出和收回。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3492,7 +3492,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['C']（由驾驶舱、前和后客舱三个温度选钮中的最低值决定）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：空调组件的输出温度由驾驶舱、前和后客舱三个温度选钮中的最低值决定。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3549,7 +3549,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（任何舱区只要存在失去调节空气的情况时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：任何舱区只要存在失去调节空气的情况时温度控制系统会分别独立地控制两个空调组件。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3606,7 +3606,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['C']（三个舱的温度都是前后客舱温度选钮调置的平均值）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：如果所有的区域控制和组件主控制都失效，备用控制组件会调定驾驶舱和客舱温度为前后客舱温度选钮调置的平均值。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3663,7 +3663,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（自动直流马达，备用直流马达，人工直流马达）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：自动方式使用自动直流马达、备用方式使用备用直流马达、人工方式使用人工直流马达控制排气活门。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3720,7 +3720,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['C']（空中压差较大时排到前货舱，空中低压差和地面排到机外）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：设备冷却空气在压差较大时排到前货舱，低压差和地面时排到机外。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3777,7 +3777,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['B']（将一个空调组件电门放到高流量位，且再循环风扇被关断时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：巡航期间将一个空调组件电门放到高流量位并关断再循环风扇时设备冷却空气会排到机外以增加排烟通风。正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3834,7 +3834,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['B']（起飞机场标高）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：非计划下降（OFF SCHED DESCENT）灯亮时自动增压控制器以适应起飞机场标高为目标进行增压控制。正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3892,7 +3892,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['C']（爬到巡航高度O.25PSI范围内时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：增压的巡航方式在飞机爬到巡航高度 0.25 PSI 范围内时开始工作。正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -3949,7 +3949,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（飞机下降到低于所选飞行高度0.25PSI时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：增压的下降方式在飞机下降到低于所选飞行高度 0.25 PSI 时开始工作。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4006,7 +4006,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['D']（20秒）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：人工方式调节排气活门全程移动大约需要 20 秒。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4058,7 +4058,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（载上氧气面罩，选择100%供氧）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）及第 15 章（警告系统）。FCOM 原文说明：座舱高度警告或失压时首先应该戴上氧气面罩选择 100% 供氧。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24128,7 +24128,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（1号）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章/第7章。FCOM 原文说明：用地面气源起动发动机时应先起动 1 号（左）发动机，使 A 系统液压尽快建立。正确答案为 A（1号）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24647,7 +24647,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（防止在起飞、着陆期间吸入泥浆）。请查阅该章节原文确认。"
+        "summary": "同 BLEED-0012。冲压空气系统折流门防止起飞着陆期间吸入泥浆。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -24690,7 +24690,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（驾驶舱温度选钮所选的温度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：如果失去驾驶舱的调节空气，驾驶舱的温度由驾驶舱温度选钮所选的温度决定（失去调节空气时使用备用控制逻辑）。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26426,7 +26426,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（空白）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：下 DU 电门放 ENG PRI 位时发动机显示移到下 DU，上 DU 显示空白。正确答案为 A（空白）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26514,7 +26514,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（空白）。请查阅该章节原文确认。"
+        "summary": "同 BLEED-0028。副驾驶下 DU 选择在发动机主显示位时上 DU 显示空白。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27341,7 +27341,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（电瓶）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：在地面起动发动机时发动机起动电门使用电瓶电源关闭发动机引气活门并打开起动活门。故正确答案为 A（电瓶）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27730,7 +27730,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（这句话是对的，但是防火、排烟等非正常程序有更高优先权。当检查单要求时，为了增加通风排烟，组件电门必须置于高位。）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/非正常程序。FCOM 原文说明：正常情况下起飞进近着陆时组件不得使用高流量，但防火排烟等非正常程序有更高优先权，检查单要求时可使用高流量增加通风排烟。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -30102,7 +30102,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（造成起动机损坏）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：起动机接通时扳动发动机引气电门会造成起动机损坏。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31016,7 +31016,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（发动机引气超压或超温）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：引气跳开（BLEED TRIP OFF）灯亮指示发动机引气超压或超温，引气活门自动关闭。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31102,7 +31102,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（控制冷、热空气的流量）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：空气混合活门通过控制冷热空气的流量来调节输出温度。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31189,7 +31189,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（前客舱和后客舱温度选钮调置的平均值）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：如果失去前客舱调节空气，前客舱的温度为前客舱和后客舱温度选钮调置的平均值。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -31232,7 +31232,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（将一个空调组件电门放到高流量位, 并关掉再循环风扇时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：巡航期间将一个空调组件电门放到高流量位并关掉再循环风扇时 E/E 舱设备冷却空气会排到机外。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -33266,7 +33266,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（2号）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：显示源选择电门在 AUTO 位时下 DU 由 2 号 DEU 控制。正确答案为 A（2号）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -35344,7 +35344,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（17000）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 限制章节说明：APU 引气最大高度为 17000 英尺。正确答案为 A（17000）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36813,7 +36813,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（1500英尺或越障高度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序无增压起飞章节。FCOM 原文说明：使用无增压起飞程序时发动机失效后在超过 1500 英尺或越障高度才允许接通发动机引气。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36858,7 +36858,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（起飞前）。请查阅该章节原文确认。"
+        "summary": "同 QRH-0004。无发动机引气起飞程序应在起飞前执行。正确答案为 A（起飞前）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37724,7 +37724,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（直流电控制并由压力驱动）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：发动机引气活门由直流电控制并由压力驱动。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37767,7 +37767,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（驱动到全冷位）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：组件活门关闭时混合活门驱动到全冷位。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -37897,7 +37897,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（起飞,爬升和大多数巡航条件下）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：在起飞爬升和大多数巡航条件下低压引气基本足够使用，高压级活门保持关。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -40231,7 +40231,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（由光线传感器和亮度控制电门共同控制）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 原文说明：每部显示组件（DU）的亮度由光线传感器和亮度控制电门共同控制。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43214,7 +43214,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（利用APU给左组件供气，外部气源只给右组件供气。）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）第7章（APU）。FCOM 原文说明：使用外部气源车起动期间管道压力低于 20 PSI 且 APU 在工作时应利用 APU 给左组件供气，外部气源只给右组件供气。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44126,7 +44126,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（5级和9级）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：发动机引气由压缩机的第 5 级和第 9 级提供。正确答案为 A（5级和9级）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44170,7 +44170,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（交流电）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：气源系统隔离活门由交流电控制。正确答案为 A（交流电）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44214,7 +44214,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（发动机的第9级引气活门可能会由于APU引气的反压而关闭）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：APU 和发动机引气活门都打开且发动机在慢车推力时发动机的第 9 级引气活门可能会由于 APU 引气的反压而关闭。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44257,7 +44257,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（在地面, 或空中襟翼放下时）。请查阅该章节原文确认。"
+        "summary": "同 BLEED-0011。冲压空气系统冲压进气门在地面或空中襟翼放下时移向全开位。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -44300,7 +44300,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（三个区域温度选钮所选温度的平均值）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 原文说明：单个空调组件工作且调节空气电门关断时组件输出温度为三个区域温度选钮所选温度的平均值。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -46339,7 +46339,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（偏航阻尼器、升降舵感觉偏移组件和速度配平系统）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：偏航阻尼器、升降舵感觉偏移组件和速度配平系统可用来增强失速识别和控制功能。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -49430,7 +49430,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第2章(空气系统)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第2章(空气系统)。正确答案为['A']（APU引气活门自动关闭，60秒后APU自动关车。）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 原文说明：APU 关车前如果不先关掉引气 60 秒直接关车，APU 引气活门自动关闭，60 秒后 APU 自动关车。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
