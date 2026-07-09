@@ -6705,7 +6705,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.18。FCOM 原文说明：指点标符号在飞越 OM（外指点标，青绿色，每秒两虚线）、MM（中指点标，琥珀色，点和虚线交替）和 IM（内指点标，白色，只有点）时闪亮并可听见。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6762,7 +6762,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.22。FCOM 原文说明：所选高度游标（洋红色）指示 MCP 高度窗中调定的高度。所选高度超出刻度时游标停在刻度带顶部或底部只显现半个游标。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6819,7 +6819,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.12.6。FCOM 原文说明：马赫速度在马赫数超过 0.400 时显示，马赫数低于 0.380 时消失。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6876,7 +6876,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.24。FCOM 原文说明：最低气压高度指针（绿色）指示 EFIS 控制面板上所选的气压最低高度，飞机降至所选最低高度以下时指针和直线变为琥珀色。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6933,7 +6933,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.31.4。FCOM 原文说明：垂直速度在高度带右侧通过刻度带和指针指示。垂直速度大于 400 英尺/分钟时以数字式显示在垂直速度显示器上方或下方。爬升在上方，下降在下方。在 V/S 俯仰方式下所选的垂直速度游标显示所选的垂直速度。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6990,7 +6990,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.2。FCOM 原文说明：ND 上可显示风向和风速信息。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7047,7 +7047,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.22.10 及第15章（警告系统）15.20.12。FCOM 原文说明：TCAS 决断咨询（RA）显示为预警符和修正符，修正咨询要求机组采取正面行动用双线方框表示。RA 指令在姿态指示器上显示俯仰指令。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7104,7 +7104,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.57。FCOM 原文说明：TCAS 交通咨询（TA）显示交通目标的位置，TA 为琥珀色，不要求机组采取行动。TA ONLY 表示仅 TCAS 交通咨询方式工作。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7161,7 +7161,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.14。FCOM 原文说明：GPWS 低于下滑道（GLIDE SLOPE）警告在低于下滑道一定偏差量时触发。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7218,7 +7218,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案以原题库为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.58/10.41.19。FCOM 原文说明：GPWS 预测式地形信息在 ND 上显示。TERR FAIL 表示预测式地形警戒和显示已失效。TERR 表示地形显示可用（人工或自动显示）。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
