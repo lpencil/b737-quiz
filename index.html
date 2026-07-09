@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>B737 理论练习题</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <button class="ghost-button icon-button" id="backButton" type="button" aria-label="返回">←</button>
+        <div class="brand-block">
+          <div class="brand-title">B737 理论练习题</div>
+          <div class="brand-subtitle" id="headerSubtitle">手册追溯型练习系统</div>
+        </div>
+        <button class="ghost-button" id="resetButton" type="button">重置进度</button>
+      </header>
+
+      <main>
+        <section class="view active" id="homeView" aria-labelledby="homeTitle">
+          <div class="hero-band">
+            <div>
+              <p class="eyebrow">B737 THEORY TRAINING</p>
+              <h1 id="homeTitle">B737 理论练习题</h1>
+              <p class="lead">按系统分类练习，作答后显示正确性与答案参考说明。当前版本为去重分类草稿，手册依据会继续逐题补强。</p>
+            </div>
+            <div class="stats-strip" id="homeStats"></div>
+          </div>
+
+          <div class="toolbar">
+            <label class="search-box">
+              <span>搜索</span>
+              <input id="searchInput" type="search" placeholder="题干、分类、标签、来源" autocomplete="off" />
+            </label>
+            <label class="toggle-line">
+              <input id="randomToggle" type="checkbox" />
+              <span>随机顺序</span>
+            </label>
+            <label class="toggle-line danger-toggle">
+              <input id="includeConflictToggle" type="checkbox" />
+              <span>显示冲突标注题</span>
+            </label>
+            <label class="select-box">
+              <span>状态</span>
+              <select id="statusFilter">
+                <option value="all">全部状态</option>
+                <option value="partial">partial</option>
+                <option value="insufficient">insufficient</option>
+                <option value="conflict">conflict</option>
+                <option value="event-reference">event-reference</option>
+                <option value="verified">verified</option>
+              </select>
+            </label>
+            <button class="primary-button" id="allQuestionsButton" type="button">全部题目</button>
+            <button class="secondary-button" id="wrongBookButton" type="button">错题本</button>
+            <button class="secondary-button" id="exportWrongButton" type="button">导出错题</button>
+          </div>
+
+          <div class="section-heading">
+            <h2>分类</h2>
+            <p id="categorySummary"></p>
+          </div>
+          <div class="category-grid" id="categoryGrid"></div>
+        </section>
+
+        <section class="view" id="categoryView" aria-labelledby="categoryTitle">
+          <div class="section-heading category-heading">
+            <div>
+              <p class="eyebrow">CATEGORY</p>
+              <h1 id="categoryTitle"></h1>
+              <p id="categoryMeta"></p>
+            </div>
+            <button class="primary-button" id="startCategoryButton" type="button">开始练习</button>
+          </div>
+          <div class="question-list" id="categoryQuestionList"></div>
+        </section>
+
+        <section class="view" id="quizView" aria-labelledby="quizTitle">
+          <div class="quiz-layout">
+            <aside class="quiz-panel">
+              <p class="eyebrow">SESSION</p>
+              <h2 id="quizTitle">练习</h2>
+              <div class="meter">
+                <div class="meter-bar" id="progressBar"></div>
+              </div>
+              <dl class="session-stats">
+                <div>
+                  <dt>进度</dt>
+                  <dd id="progressText">0 / 0</dd>
+                </div>
+                <div>
+                  <dt>正确</dt>
+                  <dd id="correctText">0</dd>
+                </div>
+                <div>
+                  <dt>错误</dt>
+                  <dd id="wrongText">0</dd>
+                </div>
+              </dl>
+              <div class="panel-actions">
+                <button class="secondary-button" id="prevButton" type="button">上一题</button>
+                <button class="primary-button" id="nextButton" type="button">下一题</button>
+              </div>
+            </aside>
+
+            <article class="question-surface">
+              <div class="question-kicker" id="questionKicker"></div>
+              <h2 class="question-text" id="questionText"></h2>
+              <div class="options" id="optionsList"></div>
+              <div class="feedback" id="feedbackBox" aria-live="polite"></div>
+              <div class="reference-box" id="referenceBox"></div>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./assets/question-bank.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
