@@ -1214,9 +1214,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "显示与警告 partial 核准批次 1",
+        "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》显示与警告 partial 核准批次 1。本题答案以该章节内容为准。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 说明：速度配准失效（SPEED TRIM FAIL）灯亮（琥珀色）指示速度配准系统失效；主注意灯重现时，表明飞行操纵计算机（FCC）单通道失效，主注意系统复位时该灯熄灭。本题中机组按压系统信号牌后灯亮、复位主警告灯后熄灭，对应第二种情况——FCC 单通道失效时速度配准功能由另一通道继续工作，因此并非速度配准系统完全失效，而是 FCC 单通道失效，系统仍可正常工作。故正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
