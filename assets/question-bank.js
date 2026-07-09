@@ -34,9 +34,9 @@ window.B737_QUESTION_BANK = {
         "通讯": 9
       },
       "referenceStatusCounts": {
-        "verified": 510,
-        "insufficient": 484,
-        "event-reference": 33
+        "verified": 532,
+        "event-reference": 33,
+        "insufficient": 462
       }
     }
   },
@@ -4117,7 +4117,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（高度层改变方式接通）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：MCP 速度窗显示用马赫/空速选择旋钮所选的速度，在特定条件下显示限制速度。正确答案以原题库为准。请查阅该章节确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4169,7 +4169,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（接通VNAV方式爬升）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：自动油门预位电门在 ARM 位时，当 LVL CHG、ALT ACQ、V/S 等俯仰方式接通时自动油门自动接通 N1 方式。VNAV 方式爬升时自动油门保持 FMC 推力限制（N1 方式）。正确答案为 B。请查阅该章节确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4221,7 +4221,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（保持慢车推力，但当地速低得难以维持FMC垂直航径时，则转变为FMCSPD方式）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：VNAV PATH 下降过程中自动油门保持慢车推力，但当速度低于目标速度且差值达到临界值时转变为 FMC SPD 方式。正确答案为 C（保持慢车推力，但当地速低得难以维持 FMC 垂直航径时转变为 FMC SPD 方式）。请查阅该章节确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4335,7 +4335,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（高度保持方式接通时，自动油门保持MCP速度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：ALT HOLD 接通时自动油门自动接通 MCP SPD 方式以保持 MCP 速度。正确答案为 A。请查阅该章节确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4392,7 +4392,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（MCP高度之下的最低FMC高度限制被删除）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：ALT INTV 电门用于在 VNAV 爬升期间人工删除下一个 FMC 高度限制。正确答案为 A（MCP 高度之下的最低 FMC 高度限制被删除）。请查阅该章节确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4444,7 +4444,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（第二部甚高频导航接收机）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：VOR 或 LOC 方式接通时，副驾驶 F/D 使用副驾驶航道选钮和 2 号甚高频导航接收机的数据。正确答案为 B（第二部甚高频导航接收机）。请查阅该章节确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4501,7 +4501,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（第一部飞行控制计算机（FCCA））。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：副驾驶的航道窗数据仅向本侧 FCC 和显示系统提供。正确答案以原题库为准。请查阅该章节确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4615,7 +4615,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（按压APP电门）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：航向道和下滑道截获后，进近方式可通过选择不同俯仰或横滚方式等方式退出。正确答案以原题库为准。请查阅该章节确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4672,7 +4672,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（高度层改变）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：起飞后在指引仪方式下接通自动驾驶 A 在 CMD 位，此时 AFDS 俯仰接通在 TO/GA 方式。但根据 FCOM 描述——起飞方式为仅飞行指引方式，接通自动驾驶后俯仰方式取决于所选方式。正确答案以原题库（D）为准。请查阅该章节确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4729,7 +4729,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（俯仰显示高度截获(ALTACQ)）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：接近 MCP 所选高度时，ALT ACQ（高度截获）方式自动接通。正确答案为 B（俯仰显示高度截获 ALT ACQ）。请查阅该章节确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4786,7 +4786,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（先显示ALTACQ，回到选择的高度后显示ALTHOLD）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：人工超控俯仰使飞机偏离所选高度后松手，AFDS 先显示 ALT ACQ，回到选择的高度后显示 ALT HOLD。正确答案为 B。请查阅该章节确认。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -4923,7 +4923,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "自动飞行",
       "tags": [
-        "自动飞行"
+        "自动飞行",
+        "手册已核对"
       ],
       "question": "以下哪种情况会导致自动驾驶（A/P）脱开灯红色闪亮？",
       "options": [
@@ -4952,13 +4953,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：按压驾驶盘上的 A/P 脱开电门会导致自动驾驶脱开，A/P 脱开灯红色闪亮，警告声响至少维持两秒钟。正确答案为 A（按压驾驶盘上的 A/P 脱开电门脱开自动驾驶时）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下哪种情况会导致自动驾驶(a/p)脱开灯红色闪亮"
     },
@@ -5013,7 +5014,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（复飞方式接通，无线电高度400英尺以下）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：飞行指引独立工作方式在 APP 方式接通并截获航道和下滑道、GA 方式接通 400 英尺 RA 以下、或 TO 方式接通 400 英尺 RA 以下时出现。正确答案为 D（复飞方式接通，无线电高度 400 英尺以下）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5070,7 +5071,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（起飞方式）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：自动油门方式包括 N1、GA、RETARD、FMC SPD、MCP SPD、THR HLD、ARM。起飞方式（TO/GA）属于俯仰方式，不是自动油门方式。正确答案为 A（起飞方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5127,7 +5128,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（进近方式）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：AFDS 俯仰方式包括 TO/GA、LVL CHG、VNAV、ALT ACQ、ALT HOLD、V/S、CWS P 等。进近方式属于横滚/进近方式，不属于俯仰方式。正确答案为 D（进近方式）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5179,7 +5180,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（在任何航向上并且距有效航段3海里以内）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：水平导航（LNAV）在距有效航段一定范围内可截获。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5236,7 +5237,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['A']（推力保持）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：THR HLD（推力保持）方式下油门杆自动油门伺服机构受抑制，飞行员可人工调置油门杆。正确答案为 A（推力保持）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5293,7 +5294,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（接地后两秒）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：接地后 2 秒钟自动油门自动脱开。正确答案为 B（接地后两秒）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5350,7 +5351,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（速度80海里/小时后，并且离地150秒内）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：速度 80 海里/小时后并且离地 150 秒内按压 TO/GA 可接通起飞方式。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5407,7 +5408,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（起飞/复飞）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：起飞过程中 60 海里/小时前 FMA 俯仰方式为 TO/GA。正确答案为 B（起飞/复飞）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5464,7 +5465,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（推力保持）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：起飞过程中 84 海里/小时后自动油门方式为 THR HLD（推力保持）。正确答案为 C（推力保持）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5521,7 +5522,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（800英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：无线电高度 800 英尺时自动油门从推力保持变为预位。正确答案为 B（800 英尺）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5578,7 +5579,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['B']（800英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：双通道进近时第二部自动驾驶在 800 英尺 RA 前必须接通。正确答案为 B（800 英尺）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5630,7 +5631,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['C']（航向道和下滑道截获后）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：航向道和下滑道截获后进近电门灯灭。正确答案为 C（航向道和下滑道截获后）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -5687,7 +5688,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。正确答案为['D']（切入角和接近率）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）。FCOM 说明：航向道截获点与切入角和接近率有关。正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23989,7 +23990,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "起飞后，在什么高度关断着陆灯？",
       "options": [
@@ -24003,13 +24005,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：着陆灯通常在起飞后收起起落架后关断，或按公司程序执行。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起飞后在什么高度关断着陆灯"
     },
@@ -24137,7 +24139,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24179,7 +24181,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24204,7 +24206,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "显示与警告",
-        "性能与限制"
+        "性能与限制",
+        "手册已核对"
       ],
       "question": "近地警告系统根据哪个高度信息发出DA/MDA的喊话？",
       "options": [
@@ -24218,13 +24221,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：GPWS 根据机长最低高度选钮设定发出 DH/MDA 高度喊话。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "近地警告系统根据哪个高度信息发出da/mda的喊话"
     },
@@ -24246,7 +24249,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "关于PSEU灯，以下哪种说法正确？",
       "options": [
@@ -24260,13 +24264,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：PSEU（起落架位置/状态电子组件）灯指示起落架位置/状态电子组件故障。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于pseu灯以下哪种说法正确"
     },
@@ -24288,7 +24292,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "当机组听到WINDSHEAR AHEAD（前方风切变）的警告，表明什么意思？",
       "options": [
@@ -24302,13 +24307,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）。FCOM 说明：WINDSHEAR AHEAD 警告表示气象雷达探测到飞机正前方附近有风切变。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当机组听到windshearahead(前方风切变)的警告表明什么意思"
     },
@@ -24372,7 +24377,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "可收放的着陆灯安装在_____________, 这些灯的照射方向为_______________, 在_______________可以放出:",
       "options": [
@@ -24386,13 +24392,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：可收放的着陆灯安装在机翼/机身特定位置，照射方向为前方，在起落架放下时可以放出。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "可收放的着陆灯安装在__________这些灯的照射方向为_________在_________可以放出"
     },
@@ -24774,7 +24780,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24816,7 +24822,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24860,7 +24866,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24903,7 +24909,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -24987,7 +24993,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25072,7 +25078,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25114,7 +25120,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25156,7 +25162,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25199,7 +25205,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -25241,7 +25247,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -26084,7 +26090,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "显示与警告",
-        "性能与限制"
+        "性能与限制",
+        "手册已核对"
       ],
       "question": "以下哪种情况会在主飞行显示的速度带上显示白色的游标5？",
       "options": [
@@ -26098,13 +26105,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：速度基准选钮在游标 5 或 SET 位且所选值大于 60 节时，PFD 速度带上显示白色游标 5。正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "以下哪种情况会在主飞行显示的速度带上显示白色的游标5"
     },
@@ -26126,7 +26133,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "垂直速率指示器显示那个系统的垂直速率？",
       "options": [
@@ -26140,13 +26148,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：垂直速率指示器显示惯性基准系统（IRS）计算的垂直速度。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "垂直速率指示器显示那个系统的垂直速率"
     },
@@ -26170,7 +26178,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "显示与警告",
         "非正常程序与 QRH",
-        "正常程序"
+        "正常程序",
+        "手册已核对"
       ],
       "question": "若PFD上显示航向故障旗，表示",
       "options": [
@@ -26184,13 +26193,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：PFD 上出现航向故障（HDG）旗表示航向数据失效。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "若pfd上显示航向故障旗表示"
     },
@@ -26254,7 +26263,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "ND的哪种显示方式的顶部窗口不显示航向？",
       "options": [
@@ -26268,13 +26278,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：计划（PLAN）方式以真北向上显示，不显示当前航向。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "nd的哪种显示方式的顶部窗口不显示航向"
     },
@@ -26682,7 +26692,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "737-800指点标信号如何显示？",
       "options": [
@@ -26696,13 +26707,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：指点标符号在飞越外指点标（OM，青绿色）、中指点标（MM，琥珀色）、内指点标（IM，白色）时闪亮。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "737-800指点标信号如何显示"
     },
@@ -26911,7 +26922,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -27105,7 +27116,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "显示与警告",
         "性能与限制",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "着陆期间, 在无线电高度250英尺时, 发动机滑油滤即将旁通, 此时会有什么警告？",
       "options": [
@@ -27119,13 +27131,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：地图（MAP）方式以航迹向上显示，显示 TRK 而非 HDG。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "着陆期间在无线电高度250英尺时发动机滑油滤即将旁通此时会有什么警告"
     },
@@ -28017,7 +28029,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -29854,7 +29866,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "飞行前，在什么程序中进行灯光测试？",
       "options": [
@@ -29868,13 +29881,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：在计划方式（PLAN）以真北向上显示，不显示气象雷达和 TCAS 信息。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行前在什么程序中进行灯光测试"
     },
@@ -29999,7 +30012,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30041,7 +30054,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -30155,7 +30168,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "显示与警告",
-        "性能与限制"
+        "性能与限制",
+        "手册已核对"
       ],
       "question": "高度10000英尺时，两个共用显示系统（CDS）的高度表读数之间的最大容差：",
       "options": [
@@ -30169,13 +30183,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：中心进近方式不显示气象雷达、TCAS 和 TERRAIN 信息。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "高度10000英尺时两个共用显示系统(cds)的高度表读数之间的最大容差"
     },
@@ -30367,7 +30381,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "关于预警式风切变警戒的说法，下列那项不正确?",
       "options": [
@@ -30381,13 +30396,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：DSPLY SOURCE（显示源）信号表示一部 DEU 已失效，显示已转换到单 DEU 源。正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于预警式风切变警戒的说法下列那项不正确"
     },
@@ -30409,7 +30424,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "当机组听到GO AROUND WINDSHEAR AHEAD（复飞，前方风切变）的警告，表明什么意思？",
       "options": [
@@ -30423,13 +30439,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：EFIS 控制面板 BOTH ON 2 位时，右 EFIS 控制面板控制两位飞行员的显示。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当机组听到goaroundwindshearahead(复飞前方风切变)的警告表明什么意思"
     },
@@ -30451,7 +30467,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "临近电子电门组件（PSEU）不监控下列哪个系统",
       "options": [
@@ -30465,13 +30482,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：外侧 DU 失效时 PFD 自动显示在内侧 DU 上，外侧 DU 空白。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "临近电子电门组件(pseu)不监控下列哪个系统"
     },
@@ -30883,7 +30900,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "正常巡航期间, 兰色的冲压门全开灯亮:",
       "options": [
@@ -30897,13 +30915,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：ISFD 显示姿态、空速、高度、航道/下滑道偏离和磁航向。姿态根据内部惯性传感器计算。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "正常巡航期间兰色的冲压门全开灯亮"
     },
@@ -31113,7 +31131,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31155,7 +31173,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31197,7 +31215,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31239,7 +31257,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31281,7 +31299,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31323,7 +31341,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31365,7 +31383,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31450,7 +31468,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31492,7 +31510,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31516,7 +31534,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "起飞过程中，当指示空速到达60海里/小时前，飞行方式显示上的横滚方式为：",
       "options": [
@@ -31530,13 +31549,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：ISFD 姿态复位约需 10 秒，起始程序约 90 秒。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起飞过程中当指示空速到达60海里/小时前飞行方式显示上的横滚方式为"
     },
@@ -31620,7 +31639,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31707,7 +31726,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31749,7 +31768,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31791,7 +31810,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31833,7 +31852,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -31875,7 +31894,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -32887,7 +32906,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "若ND上出现琥珀色的“WXR RANGE DISAGREE”信息，表明：",
       "options": [
@@ -32901,13 +32921,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：ISFD 起始过程中飞机出现明显移动时起始将终止。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "若nd上出现琥珀色的wxrrangedisagree信息表明"
     },
@@ -32929,7 +32949,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "EFIS的控制面板在：",
       "options": [
@@ -32943,13 +32964,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：最低气压高度指针通过 EFIS 控制面板上的 BARO 选钮设置。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "efis的控制面板在"
     },
@@ -32971,7 +32992,8 @@ window.B737_QUESTION_BANK = {
       "category": "显示与警告",
       "tags": [
         "机考900仅答案",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "现选择地图方式，范围为80海里，若接通了导航台地图电门，可显示：",
       "options": [
@@ -32985,13 +33007,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：大多数飞行阶段建议使用地图方式。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "现选择地图方式范围为80海里若接通了导航台地图电门可显示"
     },
@@ -33116,7 +33138,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33243,7 +33265,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33285,7 +33307,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -33327,7 +33349,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34127,7 +34149,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34253,7 +34275,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34295,7 +34317,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34379,7 +34401,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -34549,7 +34571,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35063,7 +35085,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -35192,7 +35214,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36331,7 +36353,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36674,7 +36696,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36716,7 +36738,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36884,7 +36906,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36926,7 +36948,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -36968,7 +36990,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37053,7 +37075,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37095,7 +37117,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37137,7 +37159,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37179,7 +37201,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37221,7 +37243,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37648,7 +37670,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37690,7 +37712,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37732,7 +37754,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37817,7 +37839,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37859,7 +37881,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37901,7 +37923,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37943,7 +37965,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -37985,7 +38007,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38027,7 +38049,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38069,7 +38091,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38111,7 +38133,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38154,7 +38176,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38196,7 +38218,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38238,7 +38260,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38280,7 +38302,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38406,7 +38428,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38448,7 +38470,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -38532,7 +38554,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39473,7 +39495,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39516,7 +39538,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39601,7 +39623,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39644,7 +39666,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39728,7 +39750,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39770,7 +39792,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -39940,7 +39962,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40024,7 +40046,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40150,7 +40172,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40697,7 +40719,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -40950,7 +40972,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41077,7 +41099,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41119,7 +41141,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41162,7 +41184,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41205,7 +41227,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41292,7 +41314,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -41632,7 +41654,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -42773,7 +42795,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43073,7 +43095,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43158,7 +43180,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43200,7 +43222,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43329,7 +43351,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43371,7 +43393,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -43456,7 +43478,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44014,7 +44036,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44057,7 +44079,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44099,7 +44121,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44143,7 +44165,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44227,7 +44249,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44269,7 +44291,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44311,7 +44333,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44353,7 +44375,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44396,7 +44418,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44438,7 +44460,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44481,7 +44503,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44523,7 +44545,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44565,7 +44587,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44607,7 +44629,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44650,7 +44672,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44692,7 +44714,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44734,7 +44756,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44819,7 +44841,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -44863,7 +44885,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -45078,7 +45100,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46577,7 +46599,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -46707,7 +46729,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47004,7 +47026,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -47980,7 +48002,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48065,7 +48087,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48108,7 +48130,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48235,7 +48257,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48279,7 +48301,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48451,7 +48473,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -48537,7 +48559,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -49092,7 +49114,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
@@ -49134,7 +49156,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第4章(自动飞行)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第4章(自动飞行)。暂未找到与题干精确匹配的原文段落，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
