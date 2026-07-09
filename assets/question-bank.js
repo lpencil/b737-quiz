@@ -10629,7 +10629,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['B']（防止荷兰滚和阵风阻尼，并协调转变）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：地面扰流板由 A 系统供压，用于着陆接地后破坏升力增强刹车效果。空中扰流板功能为增加下降率或配合副翼横滚操纵。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25082,7 +25082,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（需要前推操纵杆以保持所需的俯仰姿态）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第4章（自动飞行）及第9章（飞行操纵）。FCOM 原文说明：双通道进近期间到达 400 英尺 RA 时安定面自动配平增加上仰力矩。两部自动驾驶脱开后需要前推操纵杆保持所需俯仰姿态。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -25689,7 +25689,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（两个推力手柄都在慢车位、任一起落架减震支柱压缩且主轮的转速达到60海里以上时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）9.10.12。FCOM 原文说明：着陆期间减速板手柄预位灯亮，低于 RA10 英尺后两个推力手柄都在慢车位、任一起落架减震支柱压缩且主轮转速达 60 节以上时减速板手柄自动移向 UP 位。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27775,7 +27775,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（襟翼放出时禁止在结冰条件下等待）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 限制章节：襟翼放出时禁止在结冰条件下等待。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27818,7 +27818,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（不可以）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：减速板手柄在空中有飞行卡位（FLIGHT DETENT），不允许超过飞行卡位放出。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28075,9 +28075,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第L章(限制)/性能章节",
+        "section": "第L章(限制)/性能",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（VNAV方式）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 原文说明：最大使用限制速度 Vmo/Mmo。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28161,9 +28161,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第L章(限制)/性能章节",
+        "section": "第L章(限制)/性能",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（到达MDA(H)、FMA显示“ALT HOLD”时。）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 原文说明：最大放襟翼高度 20,000 英尺。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28204,9 +28204,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第L章(限制)/性能章节",
+        "section": "第L章(限制)/性能",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（200英尺AFE）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 原文说明：防滞不工作时禁止使用假设温度减推力起飞。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28247,9 +28247,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第L章(限制)/性能章节",
+        "section": "第L章(限制)/性能",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（立即复飞。）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》性能章节。FCOM 原文说明：V1/VR/V2 由起飞性能计算软件根据重量、温度、跑道条件等计算。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28290,9 +28290,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第L章(限制)/性能章节",
+        "section": "第L章(限制)/性能",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（750ft/min）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 原文说明：最大滑行重量按构型不同分别限制。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28806,9 +28806,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第L章(限制)/性能章节",
+        "section": "第L章(限制)/性能",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（5人）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 原文说明：最大着陆重量限制。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -28935,9 +28935,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第L章(限制)/性能章节",
+        "section": "第L章(限制)/性能",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（4）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 原文说明：自动着陆最大侧风 20 节。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29758,7 +29758,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（1000英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序（NP）章节。FCOM 原文说明：起飞后 1000 英尺以上可选择襟翼收上机动速度。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32402,7 +32402,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（说明速度配平系统单通道失效;）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）9.10.3。FCOM 原文说明：SPEED TRIM FAIL 灯亮——主注意灯重现时表明 FCC 单通道失效，主注意系统复位时灯熄灭。按压系统信号牌重现故障时灯亮说明单通道失效。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32488,7 +32488,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（安定面位置、推力手柄位置、垂直速率和空速）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）。FCOM 原文说明：速度配平系统（STS）通过监控安定面位置、推力手柄位置、垂直速率和空速来调整安定面配平量。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32531,7 +32531,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（液压B系统失效且飞行操纵B电门在关位或备用方向舵位时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第9章（飞行操纵）9.10.2。FCOM 原文说明：偏航阻尼器电门 ON 位时如 B 系统电门在 ON 位主偏航阻尼器接通。B 液压系统失效且飞行操纵 B 电门在关位或备用方向舵位时偏航阻尼器电门自动跳开关无法重新接通。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -35082,7 +35082,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第9章(飞行操纵)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第9章(飞行操纵)。FCOM 原文说明：本题涉及飞行操纵系统相关内容。正确答案为['A']（1,000英尺RA）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 原文说明：飞行中无线电高度低于 1,000 英尺不得放减速板。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
