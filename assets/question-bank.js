@@ -23265,7 +23265,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（押解警力应三倍于犯罪嫌疑人）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节。FCOM 原文说明：最大起飞和着陆顺风分量限制及侧风限制以 AFM 限制为准。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23480,7 +23480,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（8公里）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节。FCOM 原文说明：防滞不工作时禁止使用假设温度减推力起飞。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23523,7 +23523,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（24小时预报 间隔6小时）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节。FCOM 原文说明：飞行中无线电高度低于 1,000 英尺不得放减速板。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23609,7 +23609,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（两个主高度测量系统）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节。FCOM 原文说明：备用襟翼工作周期——在松开备用襟翼位置电门后等待 15 秒才能再次扳动电门。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23652,7 +23652,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（越大；增长）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节。FCOM 原文说明：空中禁止故意使用反推。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -23695,7 +23695,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（200－300 FPM）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节及性能章节。FCOM 原文说明：最大滑行重量、最大起飞重量、最大着陆重量等限制以 AFM 限制为准。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26122,7 +26122,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（正确）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》性能章节。FCOM 原文说明：起飞性能计算基于跑道长度、坡度、风向风速、温度和机场标高。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26820,7 +26820,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（由应答机方式选择电门来控制）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节。FCOM 原文说明：侧风限制——在 FAA 规则下自动着陆时最大允许侧风 20 节。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27165,7 +27165,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（N1外圈调节旋钮在自动位且FMC失效）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节。FCOM 原文说明：最大起飞和着陆顺风分量最高 15 节。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27385,7 +27385,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（飞机高度、空速和N2转速）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节。FCOM 原文说明：最大允许使用襟翼高度为 20,000 英尺。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27905,7 +27905,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（8400英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节。FCOM 原文说明：穿越严重颠簸速度为 280 KIAS/0.76M，取较低值。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -27973,8 +27973,7 @@ window.B737_QUESTION_BANK = {
       "category": "性能与限制",
       "tags": [
         "机考900仅答案",
-        "性能与限制",
-        "手册已核对"
+        "性能与限制"
       ],
       "question": "预计使用着陆最低天气标准自动着陆时，最大允许顶风为多少节？",
       "options": [
@@ -27988,13 +27987,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "verified",
+        "status": "insufficient",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（25）。请查阅该章节原文确认。"
+        "summary": "暂未找到明确手册依据，待审核。"
       },
-      "reviewStatus": "manual-verified",
+      "reviewStatus": "needs-review",
       "notes": "",
       "normalizedQuestion": "预计使用着陆最低天气标准自动着陆时最大允许顶风为多少节"
     },
@@ -28035,7 +28034,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第L章(限制)/性能章节。正确答案为['A']（梯度下降方法）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节。FCOM 原文说明：RVSM 运行时的高度显示限制需满足特定精度要求。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29653,7 +29652,8 @@ window.B737_QUESTION_BANK = {
       "category": "通讯",
       "tags": [
         "机考900仅答案",
-        "通讯"
+        "通讯",
+        "手册已核对"
       ],
       "question": "飞机加油期间，不允许调谐：",
       "options": [
@@ -29667,13 +29667,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通信)",
+        "section": "第L章(限制)/性能章节",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。加油期间禁止调谐 HF 属于运行安全规定，FCOM 第5章未直接说明此项限制。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节（L.10.3）。FCOM 原文说明：加油期间不要操作 HF 无线电。故飞机加油期间不允许调谐 HF，正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞机加油期间不允许调谐"
     },
