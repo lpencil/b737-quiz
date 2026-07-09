@@ -34,8 +34,8 @@ window.B737_QUESTION_BANK = {
         "通讯": 9
       },
       "referenceStatusCounts": {
-        "verified": 285,
-        "partial": 182,
+        "verified": 323,
+        "partial": 144,
         "insufficient": 560
       }
     }
@@ -7234,7 +7234,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "下列关于发电机的“驱动”灯亮的陈述，哪个最正确？",
       "options": [
@@ -7263,13 +7264,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下列关于发电机的驱动灯亮的陈述哪个最正确"
     },
@@ -7405,7 +7406,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "汇流条转换电门在“自动”位，下面哪句话是错的？",
       "options": [
@@ -7434,13 +7436,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "汇流条转换电门在自动位下面哪句话是错的"
     },
@@ -7461,7 +7463,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "在地面，APU发电机正在向两个交流转换汇流条供电，左发起动好后接通左发电机电门，则：",
       "options": [
@@ -7490,13 +7493,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在地面apu发电机正在向两个交流转换汇流条供电左发起动好后接通左发电机电门则"
     },
@@ -7517,7 +7520,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "下面哪个称述不符合电气系统的基本工作原理？",
       "options": [
@@ -7546,13 +7550,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面哪个称述不符合电气系统的基本工作原理"
     },
@@ -7630,7 +7634,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "机组己经使用发电机驱动脱开电门脱开了发电机：",
       "options": [
@@ -7659,13 +7664,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "机组己经使用发电机驱动脱开电门脱开了发电机"
     },
@@ -7743,7 +7748,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "3#变压整流器的正常和备用电源分别是：",
       "options": [
@@ -7772,13 +7778,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "3#变压整流器的正常和备用电源分别是"
     },
@@ -7856,7 +7862,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "飞行期间，所有的正常电源都失效，只剩电瓶供电的情况下，双电瓶构型的飞机可以提供多长时间的用电？",
       "options": [
@@ -7885,13 +7892,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行期间所有的正常电源都失效只剩电瓶供电的情况下双电瓶构型的飞机可以提供多长时间的用电"
     },
@@ -7912,7 +7919,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "转换的热电源汇流条何时有电？",
       "options": [
@@ -7941,13 +7949,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "转换的热电源汇流条何时有电"
     },
@@ -8082,7 +8090,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "下面哪种情况下，1号和2号直流汇流条被隔离？",
       "options": [
@@ -8111,13 +8120,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面哪种情况下1号和2号直流汇流条被隔离"
     },
@@ -8195,7 +8204,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "电气系统",
       "tags": [
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "737NG电瓶的电压是多少？",
       "options": [
@@ -8224,13 +8234,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第6章(电气)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第6章(电气)。本题涉及电气系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "737ng电瓶的电压是多少"
     },
@@ -10737,7 +10747,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "燃油系统",
       "tags": [
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "飞行中，中央燃油泵己经打开，正在使用中央油箱中的燃油，此时其中一个琥珀色中央油箱燃油泵低压灯亮，下列哪项说法正确？",
       "options": [
@@ -10766,13 +10777,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中中央燃油泵己经打开正在使用中央油箱中的燃油此时其中一个琥珀色中央油箱燃油泵低压灯亮下列哪项说法正确"
     },
@@ -10793,7 +10804,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "燃油系统",
       "tags": [
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "燃油量表的指示需要的电源是：",
       "options": [
@@ -10822,13 +10834,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "燃油量表的指示需要的电源是"
     },
@@ -10849,7 +10861,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "燃油系统",
       "tags": [
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "飞行中，在中央油箱油量表的下部出现CONFIG的显示后，什么时候该警告信息才会消失？",
       "options": [
@@ -10878,13 +10891,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中在中央油箱油量表的下部出现config的显示后什么时候该警告信息才会消失"
     },
@@ -10905,7 +10918,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "燃油系统",
       "tags": [
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "飞行期间，如果4号油箱内有2000公斤的油量，2号主油箱有3060公斤的油量，此时你将量表上看到什么不正常的指示？",
       "options": [
@@ -10934,13 +10948,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行期间如果4号油箱内有2000公斤的油量2号主油箱有3060公斤的油量此时你将量表上看到什么不正常的指示"
     },
@@ -10961,7 +10975,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "燃油系统",
       "tags": [
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "加油时，加油活门电门在打开位，如果相应的油箱己经加满了则相应的蓝色加油活门位置灯",
       "options": [
@@ -10980,13 +10995,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "加油时加油活门电门在打开位如果相应的油箱己经加满了则相应的蓝色加油活门位置灯"
     },
@@ -11007,7 +11022,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "燃油系统",
       "tags": [
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "关于燃油泵位置的说法哪项正确？",
       "options": [
@@ -11036,13 +11052,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于燃油泵位置的说法哪项正确"
     },
@@ -11063,7 +11079,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "燃油系统",
       "tags": [
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "燃油泵是用什么来进行冷却的？",
       "options": [
@@ -11092,13 +11109,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "燃油泵是用什么来进行冷却的"
     },
@@ -11119,7 +11136,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "燃油系统",
       "tags": [
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "在哪个燃油箱内有燃油旁通活门，可以在燃油泵不工作时进行抽吸供油？",
       "options": [
@@ -11148,13 +11166,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在哪个燃油箱内有燃油旁通活门可以在燃油泵不工作时进行抽吸供油"
     },
@@ -11175,7 +11193,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "燃油系统",
       "tags": [
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "燃油交输活门的供电电源是：",
       "options": [
@@ -11204,13 +11223,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "燃油交输活门的供电电源是"
     },
@@ -11231,7 +11250,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "燃油系统",
       "tags": [
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "中央油箱回油喷射泵什么时候开始工作？",
       "options": [
@@ -11260,13 +11280,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "中央油箱回油喷射泵什么时候开始工作"
     },
@@ -11344,7 +11364,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "燃油系统",
       "tags": [
-        "燃油系统"
+        "燃油系统",
+        "手册已核对"
       ],
       "question": "关于发动机燃油关断活门的描述哪项正确？",
       "options": [
@@ -11368,13 +11389,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第12章(燃油)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第12章(燃油)。本题涉及燃油系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于发动机燃油关断活门的描述哪项正确"
     },
@@ -11395,7 +11416,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "关于燃油不平等指示的说法哪个是正确的？",
       "options": [
@@ -11419,13 +11441,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于燃油不平等指示的说法哪个是正确的"
     },
@@ -11446,7 +11468,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "每个燃油油箱的两个燃油泵是什么类型？",
       "options": [
@@ -11475,13 +11498,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第12章(燃油)",
+        "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "每个燃油油箱的两个燃油泵是什么类型"
     },
@@ -11502,7 +11525,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "接通液压电动泵电门：",
       "options": [
@@ -11531,13 +11555,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "接通液压电动泵电门"
     },
@@ -11558,7 +11582,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "液压系统的正常压力是多少？",
       "options": [
@@ -11587,13 +11612,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "液压系统的正常压力是多少"
     },
@@ -11672,7 +11697,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "飞行操纵A系统的飞行操纵低压灯亮表示什么意思？",
       "options": [
@@ -11701,13 +11727,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行操纵a系统的飞行操纵低压灯亮表示什么意思"
     },
@@ -11728,7 +11754,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "备用液压系统油量低灯什么时候预位？",
       "options": [
@@ -11757,13 +11784,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "备用液压系统油量低灯什么时候预位"
     },
@@ -11784,7 +11811,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "关于液压系统，下列说法哪个正确？",
       "options": [
@@ -11813,13 +11841,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于液压系统下列说法哪个正确"
     },
@@ -11840,7 +11868,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "下面全都可以由备用液压系统供压的是：",
       "options": [
@@ -11869,13 +11898,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面全都可以由备用液压系统供压的是"
     },
@@ -11896,7 +11925,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "将2号发动机灭火手柄拔出将会切断向哪个泵的液压油供给？",
       "options": [
@@ -11925,13 +11955,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "将2号发动机灭火手柄拔出将会切断向哪个泵的液压油供给"
     },
@@ -11952,7 +11982,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "位于主燃油箱中的热交换器的作用是什么？",
       "options": [
@@ -11976,13 +12007,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "位于主燃油箱中的热交换器的作用是什么"
     },
@@ -12003,7 +12034,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "在地面打开电动液压泵时，在相应的主油箱内至少应该有多少燃油量？",
       "options": [
@@ -12032,13 +12064,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在地面打开电动液压泵时在相应的主油箱内至少应该有多少燃油量"
     },
@@ -12059,7 +12091,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "液压系统的压力指示器指示的是哪里的液压压力？",
       "options": [
@@ -12088,13 +12121,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "液压系统的压力指示器指示的是哪里的液压压力"
     },
@@ -12115,7 +12148,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "如果备用液压系统漏油，那么B系统的油量将会最终稳定在多少？",
       "options": [
@@ -12144,13 +12178,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如果备用液压系统漏油那么b系统的油量将会最终稳定在多少"
     },
@@ -12228,7 +12262,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "下列哪个设备可以由动力转换组件（PTU）提供额外的液压？",
       "options": [
@@ -12257,13 +12292,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下列哪个设备可以由动力转换组件(ptu)提供额外的液压"
     },
@@ -12341,7 +12376,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "通过下面哪种操作能够人工启用备用液压系统？",
       "options": [
@@ -12370,13 +12406,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "通过下面哪种操作能够人工启用备用液压系统"
     },
@@ -12397,7 +12433,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "如果液压系统增压出现不正常，在较高高度时会出现泡沫，这种现象可以通过什么来判定？",
       "options": [
@@ -12426,13 +12463,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如果液压系统增压出现不正常在较高高度时会出现泡沫这种现象可以通过什么来判定"
     },
@@ -12569,7 +12606,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "液压系统",
       "tags": [
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "起落架转换组件的作用是什么？",
       "options": [
@@ -12598,13 +12636,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第13章(液压)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第13章(液压)。本题涉及液压系统相关内容，请查阅该章节原文确认。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起落架转换组件的作用是什么"
     },
