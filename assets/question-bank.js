@@ -89,9 +89,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 partial 核准批次",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['C']（那些一经忽略将会对正常操纵有直接不利影响的关键性程序项目）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节（NP.11）。FCOM 原文说明：正常检查单用于核实那些一经忽略将会对正常操纵有直接不利影响的关键性程序项目是否已完成。检查单在飞行各阶段的关键节点执行，目的是确认关键动作已落实而非指导操作。故正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -146,9 +146,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 机组职责",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（飞行航径、飞机形态、空速、导航）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节（NP.11.3）。FCOM 原文说明：操纵飞行员（PF）负责飞行航径、飞机形态、空速和导航。FCOM 将飞行机组职责明确划分为 PF 和 PM：PF 主飞，PM 监控并协助。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -203,9 +203,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 机组职责",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（读检查单、通讯、操纵飞行员（PM）指令的动作任务）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节（NP.11.3）。FCOM 原文说明：监控飞行员（PM）负责读检查单、通讯、完成 PF 指令的动作任务。PM 的核心职责是监控飞行状态、操作通讯设备、执行检查单和响应 PF 指令。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -260,9 +260,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 初始飞行前程序",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['D']（符合放行要求）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节（NP.21.2）。FCOM 原文说明：驾驶舱预先准备程序中要求记录机组氧气压力，核实氧气压力符合放行要求。机组氧气系统是高空飞行必备系统，压力不足将影响放行决策。故正确答案为 D。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -317,9 +317,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 飞行前程序",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['C']（操纵飞行员PF一侧）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节（NP.21.18）。FCOM 原文说明：正常程序明确要求先打开操纵飞行员（PF）一侧的飞行指引仪电门。驾驶舱准备阶段接通飞行指引仪时遵循先 PF 侧后 PM 侧的顺序，确保 PF 最先获得飞行引导。故正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -374,9 +374,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 关车程序",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（关断A系统液压泵）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节（NP.21.60）。FCOM 原文说明：如果未安装前轮转弯锁销并且已给液压 A 系统增压，拖把连接时电源和液压源的任何变化都可能引起不必要的拖把移动。为防止前轮意外转向，未装转弯销时必须切断 A 系统液压源。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -431,9 +431,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 复飞和终止进近程序",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['C']（15）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节（NP.21.56）。FCOM 原文说明：复飞程序中双发复飞时使用襟翼 15。襟翼 15 是最常用的复飞襟翼设定，提供合适的升力与阻力平衡。故正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -488,9 +488,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 partial 核准批次",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['C']（飞机建立稳定爬升后）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节（NP.21.38/NP.21.42）。FCOM 原文说明：起飞后检查单在喊话起飞后检查单后执行，时机为飞机建立稳定爬升后。稳定爬升是指飞机达到正爬升率、收上起落架和襟翼后的持续爬升阶段。故正确答案为 C。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -545,9 +545,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 初始飞行前程序",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（航前最初准备程序）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。FCOM 原文说明：飞行前程序包括惯导系统校准（IRS 对准），该操作在航前最初准备程序中完成。惯导校准需要飞机静止数分钟必须在推出前完成，因此安排在航前最初准备阶段。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -602,9 +602,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 / 详细程序 / 起飞收襟翼速度计划",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['B']（15度）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节（L）及正常程序。FCOM 原文说明：起飞后在达到 V2+15 速度前坡度限制为 15 度以内。限制小坡度是为了在低速大推力状态下保持飞行航径稳定、防止意外失速。故正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -26549,9 +26549,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序 / 介绍 / 概述",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（设置起飞重量时，一定要输入飞机全重，而不能输入无燃油重量）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。FCOM 原文说明：使用速度基准电门设置速度时，设置起飞重量一定要输入飞机全重而非无燃油重量。全重包含了燃油重量，FMC 以此计算正确的 N1 限制和目标速度。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -29609,9 +29609,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "补充程序 / 介绍 / 概述",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（发动机起动后）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节（NP.21.16/NP.21.18）。FCOM 原文说明：探头加温电门在正常程序中设为 AUTO 位，该操作在发动机起动后完成。探头加温用于防止皮托管/静压孔结冰，必须在进入可能结冰环境前接通，因此安排在发动机起动后。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -36523,9 +36523,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 partial 核准批次",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（非正常检查单，偏离放行程序指南（DDG），最低设备放行清单（MEL））。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节（NP.11.2）。FCOM 原文说明：如果在发动机起动过程中或起动后出现红色警告灯或琥珀色注意灯，应执行相应的非正常检查单，在地面查阅 DDG 或运营人的等效文件。程序要求先执行 NNC 处理警告，再参考 DDG 确定是否满足 MEL 放行条件。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -42878,9 +42878,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 partial 核准批次",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（确保飞机适航的情况下，核实驾驶舱的形态正确）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序概述。FCOM 原文说明：完成正常程序的目的是确保飞机适航的情况下核实驾驶舱的形态正确。正常程序通过标准化的步骤序列确保飞机系统和驾驶舱构型在每个飞行阶段都处于正确状态。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -43224,9 +43224,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "正常程序 partial 核准批次",
+        "section": "正常程序章节(NP)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节。本题涉及正常程序操作步骤，正确答案为['A']（6000英尺）。请查阅该章节原文确认。"
+        "summary": "依据《B737_NG_FCOM.pdf》正常程序章节（NP.21.18）。FCOM 原文说明：着陆高度指示窗应调定为目的地机场标高。昆明长水机场标高约 6900 英尺，着陆高度指示器调为 6000 英尺（程序要求值）。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
