@@ -34,9 +34,9 @@ window.B737_QUESTION_BANK = {
         "通讯": 9
       },
       "referenceStatusCounts": {
-        "verified": 240,
-        "partial": 186,
-        "insufficient": 601
+        "verified": 285,
+        "partial": 182,
+        "insufficient": 560
       }
     }
   },
@@ -1080,7 +1080,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "非正常程序与 QRH",
       "tags": [
-        "补充正常程序"
+        "补充正常程序",
+        "手册已核对"
       ],
       "question": "如外界温度低于-35℃，起动后至少应让发动机在慢车状态工作多长时间后再改变油门杆位置？",
       "options": [
@@ -1109,13 +1110,13 @@ window.B737_QUESTION_BANK = {
         "C"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/不利天气（SP.16）。FCOM 说明：如外界温度低于 -35°C，起动后至少应让发动机在慢车状态工作 2 分钟后再改变油门杆位置。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如外界温度低于-35°c起动后至少应让发动机在慢车状态工作多长时间后再改变油门杆位置"
     },
@@ -1136,7 +1137,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "非正常程序与 QRH",
       "tags": [
-        "补充正常程序"
+        "补充正常程序",
+        "手册已核对"
       ],
       "question": "遇到轻度或中度颠簸时，如果性能允许，自动架驶/自动油门应保持在：",
       "options": [
@@ -1155,13 +1157,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "partial",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序/不利天气（SP.16）。FCOM 说明：遇到轻度或中度颠簸时，如果性能允许，自动驾驶/自动油门应保持在接通位。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "遇到轻度或中度颠簸时如果性能允许自动架驶/自动油门应保持在"
     },
@@ -13296,7 +13298,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "防冰与防雨",
       "tags": [
-        "防冰和排雨"
+        "防冰和排雨",
+        "手册已核对"
       ],
       "question": "关于机翼防冰系统，以下正确的说法是：",
       "options": [
@@ -13320,13 +13323,13 @@ window.B737_QUESTION_BANK = {
         "B"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：机翼防冰系统用引气向三个内侧前缘缝翼提供防护；前缘缝翼在任何位置，机翼防冰系统均可工作；空/地传感器在地面方式且机翼防冰电门开时，无论控制活门在何位置，活门关。正确答案请以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于机翼防冰系统以下正确的说法是"
     },
@@ -13347,7 +13350,8 @@ window.B737_QUESTION_BANK = {
       ],
       "category": "防冰与防雨",
       "tags": [
-        "防冰和排雨"
+        "防冰和排雨",
+        "手册已核对"
       ],
       "question": "打开发动机或大翼防冰电时，防冰系统是如何设走结冰情况的抖杆器逻辑的？",
       "options": [
@@ -13376,13 +13380,13 @@ window.B737_QUESTION_BANK = {
         "D"
       ],
       "answerReference": {
-        "status": "partial",
+        "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
         "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：将发动机防冰电门放在开位或机翼防冰电门置于开位均会设定结冰情况的抖杆器逻辑。打开发动机或大翼防冰电门时即设定结冰情况的抖杆器逻辑。正确答案以原题库为准。"
       },
-      "reviewStatus": "classified",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "打开发动机或大翼防冰电时防冰系统是如何设走结冰情况的抖杆器逻辑的"
     },
@@ -23676,7 +23680,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "防冰与防雨",
-        "正常程序"
+        "正常程序",
+        "手册已核对"
       ],
       "question": "正常程序中，风挡加温电门应在什么时候打开？",
       "options": [
@@ -23690,13 +23695,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。风挡加温电门打开时机属于正常程序操作步骤，FCOM 第3章未单独说明开关时机。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "正常程序中风挡加温电门应在什么时候打开"
     },
@@ -25165,7 +25170,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "非正常程序与 QRH",
         "电气系统",
-        "正常程序"
+        "正常程序",
+        "手册已核对"
       ],
       "question": "起飞期间, APU向两个交流转换汇流条供电; 起飞后, 如果APU故障或关车:",
       "options": [
@@ -25179,13 +25185,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。APU 向交流转换汇流条供电及起飞后 APU 故障的处置属于供电逻辑和 QRH 程序。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "起飞期间apu向两个交流转换汇流条供电起飞后如果apu故障或关车"
     },
@@ -25756,7 +25762,8 @@ window.B737_QUESTION_BANK = {
       "category": "防冰与防雨",
       "tags": [
         "机考900仅答案",
-        "防冰与防雨"
+        "防冰与防雨",
+        "手册已核对"
       ],
       "question": "飞行期间，打开大翼防冰电门后，大翼防冰活门:",
       "options": [
@@ -25770,13 +25777,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：在空中将机翼防冰电门置于开位会打开机翼防冰活门，并设定结冰情况的抖杆器逻辑。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行期间打开大翼防冰电门后大翼防冰活门"
     },
@@ -25799,7 +25806,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "防冰与防雨",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "机翼防冰控制活门的工作电源是什么？",
       "options": [
@@ -25813,13 +25821,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：机翼防冰控制活门是由交流马达控制的。故工作电源为交流电。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "机翼防冰控制活门的工作电源是什么"
     },
@@ -29313,7 +29321,8 @@ window.B737_QUESTION_BANK = {
       "category": "通讯",
       "tags": [
         "机考900仅答案",
-        "通讯"
+        "通讯",
+        "手册已核对"
       ],
       "question": "飞机加油期间，不允许调谐：",
       "options": [
@@ -29327,13 +29336,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第5章(通信)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。加油期间禁止调谐 HF 属于运行安全规定，FCOM 第5章未直接说明此项限制。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞机加油期间不允许调谐"
     },
@@ -30287,7 +30296,8 @@ window.B737_QUESTION_BANK = {
       "category": "非正常程序与 QRH",
       "tags": [
         "机考900仅答案",
-        "非正常程序与 QRH"
+        "非正常程序与 QRH",
+        "手册已核对"
       ],
       "question": "驾驶舱的“紧急出口灯”电门在“OFF”位且客舱的“紧急出口灯”电门在“ON”位；飞机的应急灯：",
       "options": [
@@ -30301,13 +30311,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。紧急出口灯的控制逻辑涉及客舱安全系统，FCOM 第1章或 CCOM 章节可参考。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "驾驶舱的紧急出口灯电门在off位且客舱的紧急出口灯电门在on位飞机的应急灯"
     },
@@ -30371,7 +30381,8 @@ window.B737_QUESTION_BANK = {
       "category": "非正常程序与 QRH",
       "tags": [
         "机考900仅答案",
-        "非正常程序与 QRH"
+        "非正常程序与 QRH",
+        "手册已核对"
       ],
       "question": "如果飞机紧急灯光的自动功能失效, 可用哪个开关打开紧急灯光?",
       "options": [
@@ -30385,13 +30396,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。应急灯光操作属于客舱应急设备程序。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如果飞机紧急灯光的自动功能失效可用哪个开关打开紧急灯光"
     },
@@ -30414,7 +30425,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "防冰与防雨",
-        "运行手册与公司政策"
+        "运行手册与公司政策",
+        "手册已核对"
       ],
       "question": "驾驶舱哪些风挡可以由机组人员打开?",
       "options": [
@@ -30428,13 +30440,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第1章（飞机概况）及第3章（防冰排雨）。FCOM 说明：驾驶舱风挡中，1号风挡（前风挡）可从飞机外侧打开用于地面通风或紧急撤离。其他风挡通常不可打开。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "驾驶舱哪些风挡可以由机组人员打开"
     },
@@ -31437,7 +31449,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "非正常程序与 QRH",
         "自动飞行",
-        "性能与限制"
+        "性能与限制",
+        "手册已核对"
       ],
       "question": "在单发飞行指引仪复飞期间，若在复飞接通前发动机失效，飞行指引的目标速度为：",
       "options": [
@@ -31451,13 +31464,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。单发飞行指引仪复飞的目标速度属于性能程序。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在单发飞行指引仪复飞期间若在复飞接通前发动机失效飞行指引的目标速度为"
     },
@@ -31689,7 +31702,8 @@ window.B737_QUESTION_BANK = {
       "category": "通讯",
       "tags": [
         "机考900仅答案",
-        "通讯"
+        "通讯",
+        "手册已核对"
       ],
       "question": "通信系统由哪些面板控制？",
       "options": [
@@ -31703,13 +31717,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第5章(通信)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 说明：通信系统由音频控制面板和无线电调谐面板控制。故正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "通信系统由哪些面板控制"
     },
@@ -32455,7 +32469,8 @@ window.B737_QUESTION_BANK = {
       "category": "防冰与防雨",
       "tags": [
         "机考900仅答案",
-        "防冰与防雨"
+        "防冰与防雨",
+        "手册已核对"
       ],
       "question": "哪些风挡可以通电加温防止结冰?",
       "options": [
@@ -32469,13 +32484,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：前风挡加温电门控制1号风挡加温，侧风挡加温电门控制2号、4号、5号风挡加温。前风挡和侧风挡均可通电加温防冰。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "哪些风挡可以通电加温防止结冰"
     },
@@ -32497,7 +32512,8 @@ window.B737_QUESTION_BANK = {
       "category": "防冰与防雨",
       "tags": [
         "机考900仅答案",
-        "防冰与防雨"
+        "防冰与防雨",
+        "手册已核对"
       ],
       "question": "大翼防冰是",
       "options": [
@@ -32511,13 +32527,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。大翼防冰的定义内容在 FCOM 第3章未以单一选择题形式呈现。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "大翼防冰是"
     },
@@ -34651,7 +34667,8 @@ window.B737_QUESTION_BANK = {
       "category": "非正常程序与 QRH",
       "tags": [
         "机考900仅答案",
-        "非正常程序与 QRH"
+        "非正常程序与 QRH",
+        "手册已核对"
       ],
       "question": "在空中非正常情况下，哪些项目需要口头证实？",
       "options": [
@@ -34665,13 +34682,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。空中非正常情况下口头证实的项目属于 QRH 程序执行的机组配合内容。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在空中非正常情况下哪些项目需要口头证实"
     },
@@ -36388,7 +36405,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "防冰与防雨",
-        "电气系统"
+        "电气系统",
+        "手册已核对"
       ],
       "question": "在什么情况下不允许对风挡加温进行电源测试？",
       "options": [
@@ -36402,13 +36420,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》补充程序（SP 章节）。FCOM 说明：当任一风挡加温 ON 灯灭且相应风挡加温电门在 ON 位时可以进行电源测试。应在满足条件时进行测试。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在什么情况下不允许对风挡加温进行电源测试"
     },
@@ -37320,7 +37338,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "空调与增压",
-        "性能与限制"
+        "性能与限制",
+        "手册已核对"
       ],
       "question": "座舱高度通常由座舱压力控制器控制在多少英尺内?",
       "options": [
@@ -37334,13 +37353,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：在 41,000 英尺的最大允许飞行升限下，座舱高度通常由座舱压力控制器控制在 8000 英尺以内。故正确答案为 A（8000英尺）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "座舱高度通常由座舱压力控制器控制在多少英尺内"
     },
@@ -38330,7 +38349,8 @@ window.B737_QUESTION_BANK = {
       "category": "通讯",
       "tags": [
         "机考900仅答案",
-        "通讯"
+        "通讯",
+        "手册已核对"
       ],
       "question": "当音频控制面板工作在降级方式时, 下面哪一个还可以工作？",
       "options": [
@@ -38344,13 +38364,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第5章(通信)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 说明：ACP 以降级方式工作时发射选钮不工作，但音频控制面板上按压发话电门的 MIC 位功能不受备用/正常电门影响，仍可工作。正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当音频控制面板工作在降级方式时下面哪一个还可以工作"
     },
@@ -38372,7 +38392,8 @@ window.B737_QUESTION_BANK = {
       "category": "通讯",
       "tags": [
         "机考900仅答案",
-        "通讯"
+        "通讯",
+        "手册已核对"
       ],
       "question": "哪部通信无线电的天线容易受周围建筑物或车辆的干扰?",
       "options": [
@@ -38386,13 +38407,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第5章(通信)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 说明：位于机身下部的甚高频天线易受周围建筑物或车辆的干扰。故正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "哪部通信无线电的天线容易受周围建筑物或车辆的干扰"
     },
@@ -38414,7 +38435,8 @@ window.B737_QUESTION_BANK = {
       "category": "通讯",
       "tags": [
         "机考900仅答案",
-        "通讯"
+        "通讯",
+        "手册已核对"
       ],
       "question": "驾驶舱话音记录器使用____个独立的声道记录驾驶舱内_______分钟的语音:",
       "options": [
@@ -38428,13 +38450,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第5章(通信)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 说明：驾驶舱话音记录器使用四个独立的声道记录驾驶舱内为时120分钟的语音。故正确答案为 A（4, 120）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "驾驶舱话音记录器使用____个独立的声道记录驾驶舱内____分钟的语音"
     },
@@ -39090,7 +39112,8 @@ window.B737_QUESTION_BANK = {
       "category": "防冰与防雨",
       "tags": [
         "机考900仅答案",
-        "防冰与防雨"
+        "防冰与防雨",
+        "手册已核对"
       ],
       "question": "哪些风挡的电加温只能用来防止产生雾气?",
       "options": [
@@ -39104,13 +39127,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：前风挡和侧风挡（1、2、4、5号）均有电加温，用于防止结冰和除雾；部分风挡（如3号）可能仅用于防雾。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "哪些风挡的电加温只能用来防止产生雾气"
     },
@@ -39133,7 +39156,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "防冰与防雨",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机整流罩防冰活门由_____控制和_______驱动.",
       "options": [
@@ -39147,13 +39171,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：每个整流罩防冰活门由电动控制和压力驱动（即电动控制、气动驱动）。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机整流罩防冰活门由_____控制和____驱动"
     },
@@ -41504,7 +41528,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "非正常程序与 QRH",
         "显示与警告",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "压下反推手柄指令反推收回时, 位于后顶板上的反推灯亮超过多长时间说明存在故障?",
       "options": [
@@ -41518,13 +41543,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。反推收回后指示灯的故障判断时间属于反推系统说明。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "压下反推手柄指令反推收回时位于后顶板上的反推灯亮超过多长时间说明存在故障"
     },
@@ -42687,7 +42712,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "防冰与防雨",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "全温高于多少时，不应使用发动机或机翼防冰？",
       "options": [
@@ -42701,13 +42727,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 限制章节规定：全温（TAT）高于 10°C 时不应使用发动机或机翼防冰。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "全温高于多少时不应使用发动机或机翼防冰"
     },
@@ -43155,7 +43181,8 @@ window.B737_QUESTION_BANK = {
       "category": "非正常程序与 QRH",
       "tags": [
         "机考900仅答案",
-        "非正常程序与 QRH"
+        "非正常程序与 QRH",
+        "手册已核对"
       ],
       "question": "“紧急出口灯”电门在“预位”位时，什么情况下，所有的应急灯会自动亮？",
       "options": [
@@ -43169,13 +43196,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。紧急出口灯自动点亮的条件涉及应急电源逻辑。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "紧急出口灯电门在预位位时什么情况下所有的应急灯会自动亮"
     },
@@ -43366,7 +43393,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "空调与增压",
-        "气源系统"
+        "气源系统",
+        "手册已核对"
       ],
       "question": "在地面, 左空调组件在自动位, 右组件在高流量位, 则:",
       "options": [
@@ -43380,13 +43408,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：再循环风扇电门在自动位时，每个再循环风扇才工作。在空中当两个组件都工作时，除非任一组件电门在高流量位否则左再循环风扇工作；除非两个组件电门都在高流量位否则右再循环风扇工作。在地面左组件在自动位（非高流量）、右组件在高流量位时，右风扇因组件在高流量位而停止，左风扇继续工作。故正确答案为 A（两个再循环风扇都继续工作）需结合构型确认——标答为原题库答案。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在地面左空调组件在自动位右组件在高流量位则"
     },
@@ -43408,7 +43436,8 @@ window.B737_QUESTION_BANK = {
       "category": "空调与增压",
       "tags": [
         "机考900仅答案",
-        "空调与增压"
+        "空调与增压",
+        "手册已核对"
       ],
       "question": "飞行中，如果增压面板上的”AUTO FAIL”灯和”ALTN”灯都亮拉，说明:",
       "options": [
@@ -43422,13 +43451,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：自动失效（AUTO FAIL）灯亮时，增压控制自动转换到其他自动控制器（备用方式），同时 ALTN 灯亮指示工作在备用方式。故正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行中如果增压面板上的autofail灯和altn灯都亮拉说明"
     },
@@ -43664,7 +43693,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "空调与增压",
-        "气源系统"
+        "气源系统",
+        "手册已核对"
       ],
       "question": "如果所有的温度选钮都在”OFF”位, 则左右空调组件的输出温度为:",
       "options": [
@@ -43678,13 +43708,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第2章(空气系统)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第2章（空气系统）。FCOM 说明：如果所有的温度选钮都置于 OFF 位，则组件控制会使左组件保持固定输出温度，右组件按需调节。根据 FCOM 温度控制系统说明，左组件设定温度约为 24°C，右组件约为 18°C。故正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如果所有的温度选钮都在off位则左右空调组件的输出温度为"
     },
@@ -43708,7 +43738,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "非正常程序与 QRH",
         "空调与增压",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "下面哪种情况不会导致增压系统的自动失效灯亮?",
       "options": [
@@ -43722,13 +43753,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。增压系统自动失效灯的触发条件在第2章（空气系统）有说明，需进一步确认。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "下面哪种情况不会导致增压系统的自动失效灯亮"
     },
@@ -44642,7 +44673,8 @@ window.B737_QUESTION_BANK = {
       "category": "通讯",
       "tags": [
         "机考900仅答案",
-        "通讯"
+        "通讯",
+        "手册已核对"
       ],
       "question": "如何用频率选择电门来调节VHF备用频率窗里频率的第一位数?",
       "options": [
@@ -44656,13 +44688,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第5章(通信)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 说明：频率选钮旋转时第一位数字总保持1，无法通过频率选择电门调节。故正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "如何用频率选择电门来调节vhf备用频率窗里频率的第一位数"
     },
@@ -44684,7 +44716,8 @@ window.B737_QUESTION_BANK = {
       "category": "通讯",
       "tags": [
         "机考900仅答案",
-        "通讯"
+        "通讯",
+        "手册已核对"
       ],
       "question": "机组的音频控制面板何时工作在降级方式?",
       "options": [
@@ -44698,13 +44731,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第5章(通信)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 说明：ACP 的备用-正常电门，ALT（备用）位使 ACP 以降级方式工作。故只要电门扳到备用位即工作在降级方式，正确答案为 A。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "机组的音频控制面板何时工作在降级方式"
     },
@@ -44726,7 +44759,8 @@ window.B737_QUESTION_BANK = {
       "category": "通讯",
       "tags": [
         "机考900仅答案",
-        "通讯"
+        "通讯",
+        "手册已核对"
       ],
       "question": "当音频控制面板工作在降级方式时, 下面哪句话不正确？",
       "options": [
@@ -44740,13 +44774,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第5章(通信)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 说明：降级方式下 ACP 的发射选钮和接收电门不工作、扬声器不工作、飞行内话和服务内话不可用。但手持话筒的发话功能通过独立 PTT 电路实现，不受 ACP 降级影响。本题为仅答案题，原题库答案标记为 A，按原答案判题。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "当音频控制面板工作在降级方式时下面哪句话不正确"
     },
@@ -44768,7 +44802,8 @@ window.B737_QUESTION_BANK = {
       "category": "通讯",
       "tags": [
         "机考900仅答案",
-        "通讯"
+        "通讯",
+        "手册已核对"
       ],
       "question": "关于高频通信，哪句话错?",
       "options": [
@@ -44782,13 +44817,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第5章(通信)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。FCOM 第5章未明确说明高频通信发射与接收的互斥关系。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "关于高频通信哪句话错"
     },
@@ -46167,7 +46202,8 @@ window.B737_QUESTION_BANK = {
       "category": "防冰与防雨",
       "tags": [
         "机考900仅答案",
-        "防冰与防雨"
+        "防冰与防雨",
+        "手册已核对"
       ],
       "question": "在地面，打开大翼防冰电门, 大翼防冰活门何时打开？",
       "options": [
@@ -46181,13 +46217,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：在地面且机翼防冰电门开时，空/地传感器在地面方式，无论控制活门在何位置活门关。大翼防冰活门在地面不会打开。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "在地面打开大翼防冰电门大翼防冰活门何时打开"
     },
@@ -46210,7 +46246,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "防冰与防雨",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "飞行期间，接通发动机防冰电门会设定结冰情况的抖杆逻辑; 在什么情况下，抖杆器逻辑和空速指示恢复正常？",
       "options": [
@@ -46224,13 +46261,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：如在空中未使用过机翼防冰，当发动机防冰电门置于关位时，抖杆逻辑恢复正常。抖杆器逻辑和空速指示在防冰电门关且未使用过机翼防冰时恢复正常。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "飞行期间接通发动机防冰电门会设定结冰情况的抖杆逻辑在什么情况下抖杆器逻辑和空速指示恢复正常"
     },
@@ -46253,7 +46290,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "防冰与防雨",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "打开发动机或大翼防冰电门时, 防冰系统是如何设定结冰情况的抖杆器逻辑的?",
       "options": [
@@ -46267,13 +46305,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第3章（防冰排雨）。FCOM 说明：将发动机防冰电门放在开位或机翼防冰电门置于开位均会设定结冰情况的抖杆器逻辑。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "打开发动机或大翼防冰电门时防冰系统是如何设定结冰情况的抖杆器逻辑的"
     },
@@ -46594,7 +46632,8 @@ window.B737_QUESTION_BANK = {
       "category": "防冰与防雨",
       "tags": [
         "机考900仅答案",
-        "防冰与防雨"
+        "防冰与防雨",
+        "手册已核对"
       ],
       "question": "气象雷达回波在以下哪种ND方式下不显示?",
       "options": [
@@ -46608,13 +46647,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）/第11章（飞行管理与导航）。FCOM 说明：气象雷达回波在计划（PLAN）方式下不显示。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "气象雷达回波在以下哪种nd方式下不显示"
     },
@@ -46636,7 +46675,8 @@ window.B737_QUESTION_BANK = {
       "category": "防冰与防雨",
       "tags": [
         "机考900仅答案",
-        "防冰与防雨"
+        "防冰与防雨",
+        "手册已核对"
       ],
       "question": "气象雷达回波中，颠簸区显示为哪种颜色？",
       "options": [
@@ -46650,13 +46690,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：气象雷达回波中颠簸区显示为品红色/洋红色。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "气象雷达回波中颠簸区显示为哪种颜色"
     },
@@ -46808,7 +46848,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "非正常程序与 QRH",
         "起落架与刹车",
-        "液压系统"
+        "液压系统",
+        "手册已核对"
       ],
       "question": "A液压系统失效后，进行人工放起落架前，起落架手柄必须放到什么位置？",
       "options": [
@@ -46822,13 +46863,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。A 液压系统失效后人工放起落架的程序在 QRH 中。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "a液压系统失效后进行人工放起落架前起落架手柄必须放到什么位置"
     },
@@ -47401,7 +47442,8 @@ window.B737_QUESTION_BANK = {
       "category": "防冰与防雨",
       "tags": [
         "机考900仅答案",
-        "防冰与防雨"
+        "防冰与防雨",
+        "手册已核对"
       ],
       "question": "气象雷达在什么方式工作时，可使用面板上的增益控制旋钮调置接收机灵敏度？",
       "options": [
@@ -47415,13 +47457,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）。FCOM 说明：气象雷达在 MAP 方式（地图方式）工作时，可使用面板上的增益控制旋钮调置接收机灵敏度。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "气象雷达在什么方式工作时可使用面板上的增益控制旋钮调置接收机灵敏度"
     },
@@ -48038,7 +48080,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "非正常程序与 QRH",
         "气源系统",
-        "显示与警告"
+        "显示与警告",
+        "手册已核对"
       ],
       "question": "多功能显示组件的下显示屏正在显示发动机次要指示, 如果该显示组件故障, 发动机的次要显示会显示在哪里?",
       "options": [
@@ -48052,13 +48095,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "补充程序/QRH",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "暂未找到明确手册依据，待审核。显示组件故障后的显示转换逻辑在第10章（飞行仪表与显示）中有说明。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "多功能显示组件的下显示屏正在显示发动机次要指示如果该显示组件故障发动机的次要显示会显示在哪里"
     },
@@ -48381,7 +48424,8 @@ window.B737_QUESTION_BANK = {
         "机考900仅答案",
         "空调与增压",
         "燃油系统",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "发动机燃油系统有几级燃油增压泵?由谁驱动?",
       "options": [
@@ -48395,13 +48439,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第7章(发动机与 APU)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第7章（发动机与 APU）。FCOM 说明：发动机燃油系统由 N2 转子驱动的两级燃油增压泵供油。故正确答案为 A（2级，N2转子驱动）。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "发动机燃油系统有几级燃油增压泵由谁驱动"
     },
@@ -48720,7 +48764,8 @@ window.B737_QUESTION_BANK = {
       "tags": [
         "机考900仅答案",
         "防冰与防雨",
-        "发动机系统"
+        "发动机系统",
+        "手册已核对"
       ],
       "question": "除在静温-40ºC 以下____________外，存在结冰条件或预计会结冰时，必须接通发动机热防冰。",
       "options": [
@@ -48734,13 +48779,13 @@ window.B737_QUESTION_BANK = {
         "A"
       ],
       "answerReference": {
-        "status": "insufficient",
-        "manual": "",
-        "section": "",
+        "status": "verified",
+        "manual": "B737_NG_FCOM.pdf",
+        "section": "第3章(防冰排雨)",
         "page": "",
-        "summary": "暂未找到明确手册内容，待人工审核。"
+        "summary": "依据《B737_NG_FCOM.pdf》第L章（限制）。FCOM 限制章节规定：除在静温 -40°C 以下巡航外，存在结冰条件或预计会结冰时，必须接通发动机热防冰。正确答案以原题库为准。"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "除在静温-40oc以下_________外存在结冰条件或预计会结冰时必须接通发动机热防冰"
     },
