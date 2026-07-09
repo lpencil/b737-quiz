@@ -14689,7 +14689,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。FCOM 原文：September 30, 2022  D6-27370-81B-GUN  10.TOC.1  飞行仪表、显示  第10 章  目录  第TOC 节  PFD/ND－显示 ....................................................................... 10.11  PFD/ND 显示系统－概况 .............................................................. 10.11.1。正确答案为['A']（航向数据失效）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.31。FCOM 原文说明：显示系统可显示 DSPLY SOURCE 信号指示 DEU 失效。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14741,7 +14741,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['B']（副驾驶的电子飞行仪表系统控制面板失效）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.2。FCOM 原文说明：EFIS 控制面板可调置地图方式、VOR 方式、进近方式和计划方式。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14798,7 +14798,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['D']（机长和副驾驶的空速指示连续5秒钟相差5海里/小时以上）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.14。FCOM 原文说明：地图源信号（MAP）指示 ND 显示的地图信息来源。故正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14855,7 +14855,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。FCOM 原文：D 导航性能刻度（NPS）指示    刻度ID 信号显示（白色）  ·在姿态指引仪（ADI）左上角显示  ·指明所示偏离刻度的信息源  ·当LNAV、VNAV、HDG SEL 或TO/GA 接通时显示  ·当前飞机水平位置在飞行计划航路1 海里或2 倍RNP 值范围内时显 示－若超出水平限制，会超出NPS  ·可能出现的信号显示包括：  ·LNAV/VNAV－（LNAV 和VNAV 偏离）  ·LOC/VNAV－（有VNAV 偏离的ILS 航道）  ·LNAV/G/S－（有下滑道的LNAV 偏离。正确答案为['A']（MAP）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.36。FCOM 原文说明：导航性能刻度（NPS）显示在姿态指引仪左上角，当 LNAV、VNAV、HDG SEL 或 TO/GA 接通时显示。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14912,7 +14912,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['C']（PLAN）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.38。FCOM 原文说明：横滚效能警戒（ROLL RATE）在姿态指示器上以箭头显示。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14969,7 +14969,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（所输入的地图信息量过多而无法显示）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第15章（警告系统）15.20.26/15.20.28。FCOM 原文说明：坡度音响警告在超过限制坡度时触发。侧滑指示在 PFD 上以梯形符号显示。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15021,7 +15021,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（VOR频率调谐后选择APP方式）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.42。FCOM 原文说明：位置趋势线显示飞机未来位置的预计。选择范围为 10 海里时显示 2 段。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15078,7 +15078,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（气象雷达不能保持天线姿态稳定性）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.41.10/10.41.16。FCOM 原文说明：地图方式中程序转弯在选择范围大于一定距离时只显示一个固定大小的符号。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15135,7 +15135,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（CTRMAP）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.11.40/10.42.4。FCOM 原文说明：侧滑指示由偏航阻尼器或侧滑传感器提供，以梯形符号在 PFD 上显示。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -15192,7 +15192,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（MAP）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章（飞行仪表与显示）10.16.6。FCOM 原文说明：主面板显示组件选钮决定内外侧 DU 显示内容。NORM 位外侧 PFD 内侧 ND。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
