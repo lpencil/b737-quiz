@@ -165,7 +165,6 @@
         question.question,
         question.tags.join(" "),
         question.sourceFiles.join(" "),
-        question.answerReference.summary,
       ]
         .join(" ")
         .toLowerCase();
@@ -295,12 +294,8 @@
       el.feedbackBox.textContent = `回答错误。正确答案：${correctAnswer}`;
     }
     const ref = question.answerReference || {};
-    el.referenceBox.className = "reference-box show";
-    el.referenceBox.innerHTML = `
-      <div class="reference-title">答案参考说明</div>
-      <div>${escapeHtml(ref.summary || "当前没有答案参考说明。")}</div>
-      ${ref.manual ? `<div class="reference-meta">依据定位：${escapeHtml(ref.manual)} ${escapeHtml(ref.section || "")} ${escapeHtml(ref.page || "")}</div>` : ""}
-    `;
+    el.referenceBox.className = "reference-box";
+    el.referenceBox.innerHTML = "";
   }
 
   function exportWrongMarkdown() {
@@ -329,7 +324,7 @@
       lines.push("");
       lines.push(`正确答案：${question.answer.join(", ")}`);
       lines.push("");
-      lines.push(question.answerReference.summary || "答案参考说明：当前没有答案参考说明。");
+      lines.push("答案参考说明：待后续核对手册后补充。");
       lines.push("");
     });
     const blob = new Blob([lines.join("\n")], { type: "text/markdown;charset=utf-8" });
