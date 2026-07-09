@@ -165,6 +165,7 @@
         question.question,
         question.tags.join(" "),
         question.sourceFiles.join(" "),
+        question.answerReference.summary,
       ]
         .join(" ")
         .toLowerCase();
@@ -294,8 +295,21 @@
       el.feedbackBox.textContent = `回答错误。正确答案：${correctAnswer}`;
     }
     const ref = question.answerReference || {};
-    el.referenceBox.className = "reference-box";
-    el.referenceBox.innerHTML = "";
+    // 显示答案参考说明
+    const summaryText = ref.summary || "";
+    if (summaryText && summaryText !== "暂未找到明确手册内容，待人工审核。") {
+      el.referenceBox.className = "reference-box show";
+      el.referenceBox.innerHTML = `
+        <div class="reference-title">答案参考说明</div>
+        <div>${escapeHtml(summaryText)}</div>
+      `;
+    } else {
+      el.referenceBox.className = "reference-box show";
+      el.referenceBox.innerHTML = `
+        <div class="reference-title">答案参考说明</div>
+        <div style="color: var(--muted);">暂未找到明确手册内容，待人工审核。</div>
+      `;
+    }
   }
 
   function exportWrongMarkdown() {
