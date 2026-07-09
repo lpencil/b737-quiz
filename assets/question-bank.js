@@ -6705,7 +6705,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（通常由此面板调谐的无线电台正由另一面板调谐或正用该面板调谐通常与其无关的无线电台）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['D']（通常由此面板调谐的无线电台正由另一面板调谐或正用该面板调谐通常与其无关的无线电台）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6762,7 +6762,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（“AM”电门）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['A']（“AM”电门）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6819,7 +6819,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。FCOM 原文：备用无线电磁指示器    航向警告旗  ADIRS 提供的罗盘信号丢失。  方位指针  ·窄指针使用1 号甚高频导航（VHF NAV）接收机或1 号ADF 接收机 的信号  ·宽指针使用2 号VHF NAV 接收机或2 号ADF 接收机的信号。  1 号方位指针警告旗  VOR 方式：  ·无线电磁指示器（RMI）电源失效  ·VHF NAV 信号不可靠。  ADF 方式：  ·RMI 电源失效 。正确答案为['B']（这是正常的，接收机已经接通，可以收听；）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['B']（这是正常的，接收机已经接通，可以收听；）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6876,7 +6876,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（“V”位和\"B\"位）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['B']（“V”位和\"B\"位）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -6933,7 +6933,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['A']（后顶板上的服务内话电门）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['A']（后顶板上的服务内话电门）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7047,7 +7047,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（耳机和扬声器音量都是预调的，机组无法调节；）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['D']（耳机和扬声器音量都是预调的，机组无法调节；）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7104,7 +7104,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。FCOM 原文：................................................. 10.11.20  近地警告系统（GPWS）信号显示 ........................................ 10.11.21  PFD－高度指示 ...............................................................。正确答案为['D']（都不能关掉）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['D']（都不能关掉）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7161,7 +7161,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['D']（一部调频无线电用于发射时，另一部可用于接收）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['D']（一部调频无线电用于发射时，另一部可用于接收）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -7218,7 +7218,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（4120）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['C']（4120）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13556,7 +13556,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（10秒内预达空速）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['C']（10秒内预达空速）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13613,7 +13613,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。FCOM 原文：预达空速。  当前空速（白色）  高于45 节时指示当前的校准空速。  当前空速下降至琥珀色最小机动速度指示杆时：  ·空速读数框变为琥珀色并闪亮十秒钟  B-1123 - B-206C, B-5275 - B-5291, B-5445, B-5446, B-5586 - B-7997  ·音频警戒告示“Airspeed low, Airspeed low（空速低、空速低）”一次  ·当空速大于最。正确答案为['C']（琥珀色）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['C']（琥珀色）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13665,7 +13665,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（Vmo/Mmo、起落架标牌速度和襟翼标牌速度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['C']（Vmo/Mmo、起落架标牌速度和襟翼标牌速度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13722,7 +13722,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。FCOM 原文：度限制的最大速度：  ·Vmo/Mmo  ·起落架标牌速度  ·襟翼标牌速度。  最大机动速度/高速抖振（琥珀色）  襟翼收上时，琥珀色杆底部表示最大机动速度。该空速为高速抖振提供 1.3g 机动能力（或在FMC 维护页面设置的备用经批准的机动能力）。 在高高度飞行且飞机总重较大时可能显示该杆。  注：1.3g 机动能力出现在平飞40 度坡度时。  空速游标（洋红色）  指向：  ·在指示IAS/。正确答案为['C']（所指示的空速可向高速抖振提供0.3g的机动裕度）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['C']（所指示的空速可向高速抖振提供0.3g的机动裕度）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13779,7 +13779,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（当空速大于或等于0.4马赫时）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['B']（当空速大于或等于0.4马赫时）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13836,7 +13836,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。FCOM 原文：或用速度基准选钮调定起飞全重以后显示  ·起飞阶段显示V2＋15 游标时，除非以襟翼1 起飞，否则不显示当前 襟翼调置的襟翼机动速度游标  ·襟翼手柄移至襟翼30 或40 时，标有数字的襟翼机动速度游标消失  ·如小于VREF＋4，襟翼游标被抑制  ·在大约20,000 英尺高度以上，不显示襟翼全收上（UP）游标。  V2＋15（白色）  起飞时显示。  发生以下情况之一时消失：  ·在第一次收襟。正确答案为['A']（起飞期间，以襟翼1起飞）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['A']（起飞期间，以襟翼1起飞）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13893,7 +13893,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。FCOM 原文：，箭头指示其后10 秒内的预达空速。  当前空速（白色）  高于45 节时指示当前的校准空速。  当前空速下降至琥珀色最小机动速度指示杆时：  ·空速读数框变为琥珀色并闪亮十秒钟  B-1123 - B-206C, B-5275 - B-5291, B-5445, B-5446, B-5586 - B-7997  ·音频警戒告示“Airspeed low, Airspeed low（空速低、空速低。正确答案为['D']（起始收襟翼或机组在CDU上输入VREF后）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['D']（起始收襟翼或机组在CDU上输入VREF后）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -13950,7 +13950,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。FCOM 原文：......................................... 10.17  多功能控制显示组件（MCDU） ..................................................10.17.1  MCDU 显示 ....................................................................。正确答案为['D']（襟翼放到30时）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['D']（襟翼放到30时）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14002,7 +14002,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['C']（当襟翼放出或速度接近抖杆时）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['C']（当襟翼放出或速度接近抖杆时）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14059,7 +14059,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。FCOM 原文：所选GLS 识别、通道、所选航道、GLS 进近距离和信息源信号显 示。  若所调谐的频率不一致（超过1 分钟），则频率会变成琥珀色并带有一 琥珀色水平线，直到调定一致。  若在MCP 输入的进近航道不一致（超过1 分钟），则航道会变成琥珀 色并有一琥珀色水平线横贯其中。  B-1123 - B-1413, B-1582 - B-1585, B-206A, B-206C, B-5586  若机长和副。正确答案为['B']（当所指示的坡度角为35度或35度以上时）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['B']（当所指示的坡度角为35度或35度以上时）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -14116,7 +14116,7 @@ window.B737_QUESTION_BANK = {
         "manual": "B737_NG_FCOM.pdf",
         "section": "第10章/第15章(显示与警告)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章(显示与警告)。正确答案为['B']（现在距中心2.5点范围内）。"
+        "summary": "依据《B737_NG_FCOM.pdf》第10章/第15章（显示与警告）。正确答案为['B']（现在距中心2.5点范围内）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
