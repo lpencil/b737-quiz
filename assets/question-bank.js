@@ -29670,9 +29670,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第L章(限制)/性能章节",
+        "section": "第5章(通信)/第L章(限制)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》限制章节（L.10.3）。FCOM 原文说明：加油期间不要操作 HF 无线电。故飞机加油期间不允许调谐 HF，正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》限制章节（L.10.3）。FCOM 原文说明：非 AFM 操作信息中明确注明加油期间不要操作 HF 无线电。HF 无线电发射时天线会进行调谐，加油期间产生电火花可能引燃燃油蒸气。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -32096,9 +32096,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通信)",
+        "section": "第5章(通信)/第L章(限制)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 原文说明：通信系统包括无线电通信系统、内话通信系统、驾驶舱语音记录系统、机组通信警戒系统。通信系统由音频控制面板和无线电调谐面板控制。故正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）5.20.1。FCOM 原文说明：通信系统由音频控制面板和无线电调谐面板控制。音频控制面板(ACP)控制各机组位置的音频系统，无线电调谐面板用于调谐通信频率。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38887,9 +38887,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通信)",
+        "section": "第5章(通信)/第L章(限制)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 原文说明：ACP 以降级方式工作时发射选钮不工作，但音频控制面板上按压发话电门的 MIC 位功能不受备用/正常电门影响，仍可工作。正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）5.20.2/5.20.4。FCOM 原文说明：降级方式下 ACP 的发射选钮和接收电门不工作，但驾驶盘或遮阳板上的 PTT 电门仍可通过飞行内话系统发话；手持话筒的 PTT 电路不受 ACP 降级影响。故降级方式下音频控制面板上按压发话电门的 MIC 位仍可工作。正确答案以原题库为准。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38930,9 +38930,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通信)",
+        "section": "第5章(通信)/第L章(限制)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 原文说明：位于机身下部的甚高频天线易受周围建筑物或车辆的干扰，机身上部的甚高频天线则不易受到这种干扰。故机身下部的甚高频天线容易受干扰，正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）5.20.7。FCOM 原文说明：位于机身下部的甚高频天线易受周围建筑物或车辆的干扰，由此可能影响甚高频通信。机身上部的甚高频天线则不易受到这种干扰。故容易受干扰的是位于机身下部的甚高频天线。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -38973,9 +38973,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通信)",
+        "section": "第5章(通信)/第L章(限制)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 原文说明：驾驶舱话音记录器使用四个独立的声道记录驾驶舱内为时 120 分钟的语音。故正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）5.20.8。FCOM 原文说明：驾驶舱话音记录器使用四个独立的声道记录驾驶舱内为时 120 分钟的语音。120 分钟前的录音信号自动抹除。故正确答案为 A（4个声道，120分钟）。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45344,9 +45344,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通信)",
+        "section": "第5章(通信)/第L章(限制)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 原文说明：频率选钮旋转时第一位数字总保持 1，无法通过频率选择电门调节。故正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）5.10.2/5.10.3。FCOM 原文说明：频率选钮旋转时在备用频率窗选择频率，第一位数字总保持 1。VHF 频率范围是 118.000~136.975MHz，第一位固定为 1，无法通过频率选择电门调节。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45387,9 +45387,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通信)",
+        "section": "第5章(通信)/第L章(限制)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 原文说明：ACP 的备用-正常（ALT-NORM）电门在 ALT（备用）位时 ACP 以降级方式工作。故只要电门扳到备用位即工作在降级方式，正确答案为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）5.10.9。FCOM 原文说明：ACP 的备用-正常（ALT-NORM）电门在 ALT（备用）位时 ACP 以降级方式工作；在 NORM（正常）位时以正常方式工作。故只要备用/正常电门扳到备用位就工作在降级方式。正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45430,9 +45430,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "verified",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通信)",
+        "section": "第5章(通信)/第L章(限制)",
         "page": "",
-        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）。FCOM 原文说明：降级方式下 ACP 的发射选钮和接收电门不工作、扬声器不工作、飞行内话和服务内话不可用。但手持话筒的发话功能通过独立 PTT 电路实现不受 ACP 降级影响。本题为仅答案题原题库答案标记为 A。"
+        "summary": "依据《B737_NG_FCOM.pdf》第5章（通信）5.20.2-5.20.4。FCOM 原文说明：降级方式下 ACP 的发射选钮和接收电门不工作、扬声器不工作、飞行内话和服务内话不可用。但手持话筒的发话功能通过独立 PTT 电路实现不受 ACP 降级影响。本题为仅答案题原题库答案标记为 A（手提话筒的工作不受影响），按原答案判题。"
       },
       "reviewStatus": "manual-verified",
       "notes": "",
@@ -45472,9 +45472,9 @@ window.B737_QUESTION_BANK = {
       "answerReference": {
         "status": "insufficient",
         "manual": "B737_NG_FCOM.pdf",
-        "section": "第5章(通信)",
+        "section": "第5章(通信)/第L章(限制)",
         "page": "",
-        "summary": "暂未找到明确手册依据，待审核。FCOM 第5章未明确说明高频通信发射与接收的互斥关系。"
+        "summary": "暂未找到明确手册依据，待审核。FCOM 第5章（通信）5.20.7 说明了 HF 通信的基本功能但未明确说明一部 HF 发射时另一部能否接收的互斥关系。"
       },
       "reviewStatus": "needs-review",
       "notes": "",
