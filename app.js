@@ -173,6 +173,42 @@
     });
   }
 
+  function getExplanationQuality(question) {
+    const ref = question.answerReference || {};
+    const summary = ref.summary || "";
+    const status = ref.status || "missing";
+    const checks = {
+      status: status !== "insufficient",
+      placeholder: summary && !/暂未找到明确手册内容|待人工审核/.test(summary),
+      generic: !/正确答案以原题库为准|依据公司运行手册。正确答案以原题库为准。|正确答案为\[['"][A-D]['"]\]/.test(summary),
+      source: /《[^》]+》|FCOM|FCTM|QRH|运行手册/.test(summary),
+      section: /第\s*\d+\s*章|\d+\.\d+(?:\.\d+)?/.test(summary),
+      original: /原文说明|原文/.test(summary),
+      mapping: /题目中|题干中|本题|对应|因此|所以|故/.test(summary),
+      conclusion: /正确答案|答案为|故.*答案/.test(summary),
+      clean: !/D6-\d+|March\s+\d{1,2},\s+\d{4}|\.{8,}/i.test(summary),
+    };
+    const labels = {
+      status: "状态不是 insufficient",
+      placeholder: "不是占位说明",
+      generic: "不是笼统“原题库为准”",
+      source: "有手册来源",
+      section: "有章节条款",
+      original: "有原文说明",
+      mapping: "有题干对应",
+      conclusion: "有答案结论",
+      clean: "无抽取噪声",
+    };
+    const missing = Object.entries(checks)
+      .filter(([, passed]) => !passed)
+      .map(([key]) => labels[key]);
+    return {
+      ok: missing.length === 0,
+      label: missing.length === 0 ? "DSP-0001 达标" : "DSP-0001 待补强",
+      missing,
+    };
+  }
+
   function renderCategory(category) {
     const categoryQuestions = questions.filter((question) => question.category === category);
     const filtered = filterQuestions(categoryQuestions);
@@ -295,18 +331,29 @@
       el.feedbackBox.textContent = `回答错误。正确答案：${correctAnswer}`;
     }
     const ref = question.answerReference || {};
+    const quality = getExplanationQuality(question);
+    const qualityClass = quality.ok ? "ok" : "needs-work";
+    const missingText = quality.missing.length ? `<div class="reference-quality-detail">缺口：${escapeHtml(quality.missing.join("、"))}</div>` : "";
     // 显示答案参考说明
     const summaryText = ref.summary || "";
     if (summaryText && summaryText !== "暂未找到明确手册内容，待人工审核。") {
       el.referenceBox.className = "reference-box show";
       el.referenceBox.innerHTML = `
-        <div class="reference-title">答案参考说明</div>
+        <div class="reference-heading">
+          <div class="reference-title">答案参考说明</div>
+          <div class="quality-chip ${qualityClass}">${escapeHtml(quality.label)}</div>
+        </div>
+        ${missingText}
         <div>${escapeHtml(summaryText)}</div>
       `;
     } else {
       el.referenceBox.className = "reference-box show";
       el.referenceBox.innerHTML = `
-        <div class="reference-title">答案参考说明</div>
+        <div class="reference-heading">
+          <div class="reference-title">答案参考说明</div>
+          <div class="quality-chip needs-work">${escapeHtml(quality.label)}</div>
+        </div>
+        ${missingText}
         <div style="color: var(--muted);">暂未找到明确手册内容，待人工审核。</div>
       `;
     }
