@@ -113,22 +113,11 @@
     el.categoryGrid.innerHTML = filteredCategories
       .map(([name, categoryQuestions]) => {
         const progress = categoryProgress(categoryQuestions);
-        const referenceCounts = countBy(categoryQuestions, (question) => question.answerReference.status);
-        const verified = referenceCounts.verified || 0;
-        const partial = referenceCounts.partial || 0;
-        const insufficient = referenceCounts.insufficient || 0;
-        const conflict = referenceCounts.conflict || 0;
         return `
           <button class="category-card" type="button" data-category="${escapeAttr(name)}">
             <div>
               <h3>${escapeHtml(name)}</h3>
               <p>${progress.done} 题已作答，${progress.wrong} 题在错题本。</p>
-            </div>
-            <div class="status-summary" aria-label="${escapeAttr(name)} 答案依据状态">
-              <span class="mini-status verified">V ${verified}</span>
-              <span class="mini-status partial">P ${partial}</span>
-              <span class="mini-status insufficient">I ${insufficient}</span>
-              <span class="mini-status conflict">C ${conflict}</span>
             </div>
             <div class="card-count">
               <span>${progress.total} 题</span>
@@ -173,42 +162,6 @@
     });
   }
 
-  function getExplanationQuality(question) {
-    const ref = question.answerReference || {};
-    const summary = ref.summary || "";
-    const status = ref.status || "missing";
-    const checks = {
-      status: status !== "insufficient",
-      placeholder: summary && !/暂未找到明确手册内容|待人工审核/.test(summary),
-      generic: !/正确答案以原题库为准|依据公司运行手册。正确答案以原题库为准。|正确答案为\[['"][A-D]['"]\]/.test(summary),
-      source: /《[^》]+》|FCOM|FCTM|QRH|运行手册/.test(summary),
-      section: /第\s*\d+\s*章|\d+\.\d+(?:\.\d+)?/.test(summary),
-      original: /原文说明|原文/.test(summary),
-      mapping: /题目中|题干中|本题|对应|因此|所以|故/.test(summary),
-      conclusion: /正确答案|答案为|故.*答案/.test(summary),
-      clean: !/D6-\d+|March\s+\d{1,2},\s+\d{4}|\.{8,}/i.test(summary),
-    };
-    const labels = {
-      status: "状态不是 insufficient",
-      placeholder: "不是占位说明",
-      generic: "不是笼统“原题库为准”",
-      source: "有手册来源",
-      section: "有章节条款",
-      original: "有原文说明",
-      mapping: "有题干对应",
-      conclusion: "有答案结论",
-      clean: "无抽取噪声",
-    };
-    const missing = Object.entries(checks)
-      .filter(([, passed]) => !passed)
-      .map(([key]) => labels[key]);
-    return {
-      ok: missing.length === 0,
-      label: missing.length === 0 ? "DSP-0001 达标" : "DSP-0001 待补强",
-      missing,
-    };
-  }
-
   function renderCategory(category) {
     const categoryQuestions = questions.filter((question) => question.category === category);
     const filtered = filterQuestions(categoryQuestions);
@@ -220,24 +173,23 @@
     el.categoryQuestionList.innerHTML = filtered.length
       ? filtered
           .map((question) => {
-            const status = question.answerReference.status || "insufficient";
             return `
-              <div class="question-row">
+              <button class="question-row" type="button" data-question-id="${escapeAttr(question.id)}">
                 <div class="question-row-id">${escapeHtml(question.id)}</div>
                 <div class="question-row-text">${escapeHtml(question.question)}</div>
-                <div class="status-chip ${escapeAttr(status)}">${escapeHtml(status)}</div>
-              </div>
+              </button>
             `;
           })
           .join("")
       : `<div class="empty-state">当前搜索条件下没有题目。</div>`;
   }
 
-  function startSession(title, list) {
+  function startSession(title, list, initialQuestionId = "") {
     const source = filterQuestions(list);
     state.sessionTitle = title;
-    state.sessionQuestions = state.random ? shuffle(source) : source.slice();
-    state.index = 0;
+    state.sessionQuestions = state.random && !initialQuestionId ? shuffle(source) : source.slice();
+    const initialIndex = initialQuestionId ? state.sessionQuestions.findIndex((question) => question.id === initialQuestionId) : -1;
+    state.index = initialIndex >= 0 ? initialIndex : 0;
     state.answered = new Map();
     switchView("quiz");
     renderQuiz();
@@ -331,29 +283,18 @@
       el.feedbackBox.textContent = `回答错误。正确答案：${correctAnswer}`;
     }
     const ref = question.answerReference || {};
-    const quality = getExplanationQuality(question);
-    const qualityClass = quality.ok ? "ok" : "needs-work";
-    const missingText = quality.missing.length ? `<div class="reference-quality-detail">缺口：${escapeHtml(quality.missing.join("、"))}</div>` : "";
     // 显示答案参考说明
     const summaryText = ref.summary || "";
     if (summaryText && summaryText !== "暂未找到明确手册内容，待人工审核。") {
       el.referenceBox.className = "reference-box show";
       el.referenceBox.innerHTML = `
-        <div class="reference-heading">
-          <div class="reference-title">答案参考说明</div>
-          <div class="quality-chip ${qualityClass}">${escapeHtml(quality.label)}</div>
-        </div>
-        ${missingText}
+        <div class="reference-title">答案参考说明</div>
         <div>${escapeHtml(summaryText)}</div>
       `;
     } else {
       el.referenceBox.className = "reference-box show";
       el.referenceBox.innerHTML = `
-        <div class="reference-heading">
-          <div class="reference-title">答案参考说明</div>
-          <div class="quality-chip needs-work">${escapeHtml(quality.label)}</div>
-        </div>
-        ${missingText}
+        <div class="reference-title">答案参考说明</div>
         <div style="color: var(--muted);">暂未找到明确手册内容，待人工审核。</div>
       `;
     }
@@ -422,14 +363,6 @@
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
-  function countBy(list, pick) {
-    return list.reduce((acc, item) => {
-      const key = pick(item);
-      acc[key] = (acc[key] || 0) + 1;
-      return acc;
-    }, {});
-  }
-
   function shuffle(list) {
     const copy = list.slice();
     for (let index = copy.length - 1; index > 0; index -= 1) {
@@ -462,6 +395,13 @@
   el.startCategoryButton.addEventListener("click", () => {
     const list = questions.filter((question) => question.category === state.category);
     startSession(state.category, list);
+  });
+
+  el.categoryQuestionList.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-question-id]");
+    if (!button) return;
+    const list = questions.filter((question) => question.category === state.category);
+    startSession(state.category, list, button.dataset.questionId);
   });
 
   el.allQuestionsButton.addEventListener("click", () => {
