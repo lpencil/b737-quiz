@@ -52146,17 +52146,17 @@ window.B737_QUESTION_BANK = {
         "三选一",
         "限制值(1).docx"
       ],
-      "question": "备用放襟翼0到15的完成时间约为多少？",
+      "question": "按QRH/FCTM说明，备用放襟翼到襟翼15大约需要多久？",
       "options": [
         {
           "key": "A",
           "text": "2 分钟",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "key": "B",
           "text": "5 分钟",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "key": "C",
@@ -52165,18 +52165,18 @@ window.B737_QUESTION_BANK = {
         }
       ],
       "answer": [
-        "B"
+        "A"
       ],
       "answerReference": {
         "status": "verified",
         "manual": "限制值(1).docx",
         "section": "限制值资料第1章（限制值）第39条",
         "page": "Word文档第1页；第39条",
-        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第39条（Word文档第1页；第39条）。原文说明：依据《限制值(1).docx》第39条，备用放襟翼0到15完成时间为5分钟。。题目中问“备用放襟翼0到15的完成时间约为多少？”，参考答案为 B（5 分钟）。故正确答案为 B。"
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第39条（Word文档第1页；第39条）。原文说明：依据《B737_NG_QRH.pdf》备用放襟翼程序（QRH第9章，PDF第229页；第13章，PDF第297页、第301页）和《B737_FCTM.pdf》附录A.1.378（PDF第834页），备用放襟翼到襟翼15大约需要2分钟。当前FCOM/QRH/FCTM未确认《限制值(1).docx》第39条中“0到15完成时间5分钟”的表述。。题目中问“按QRH/FCTM说明，备用放襟翼到襟翼15大约需要多久？”，参考答案为 A（2 分钟）。故正确答案为 A。"
       },
       "reviewStatus": "manual-verified",
       "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
-      "normalizedQuestion": "备用放襟翼0到15的完成时间约为多少"
+      "normalizedQuestion": "按qrh/fctm说明备用放襟翼到襟翼15大约需要多久"
     },
     {
       "id": "LIMIT-0047",
@@ -52199,37 +52199,37 @@ window.B737_QUESTION_BANK = {
         "三选一",
         "限制值(1).docx"
       ],
-      "question": "备用放襟翼大于15后的完成时间约为多少？",
+      "question": "备用放襟翼期间最大速度是多少？",
       "options": [
         {
           "key": "A",
-          "text": "15 分钟",
+          "text": "210 节",
           "isCorrect": false
         },
         {
           "key": "B",
-          "text": "20 分钟",
-          "isCorrect": false
+          "text": "230 节",
+          "isCorrect": true
         },
         {
           "key": "C",
-          "text": "25 分钟",
-          "isCorrect": true
+          "text": "250 节",
+          "isCorrect": false
         }
       ],
       "answer": [
-        "C"
+        "B"
       ],
       "answerReference": {
         "status": "verified",
         "manual": "限制值(1).docx",
         "section": "限制值资料第1章（限制值）第39条",
         "page": "Word文档第1页；第39条",
-        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第39条（Word文档第1页；第39条）。原文说明：依据《限制值(1).docx》第39条，备用放襟翼大于15后的完成时间为25分钟。。题目中问“备用放襟翼大于15后的完成时间约为多少？”，参考答案为 C（25 分钟）。故正确答案为 C。"
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第39条（Word文档第1页；第39条）。原文说明：依据《B737_NG_QRH.pdf》备用放襟翼程序（QRH第9章，PDF第230页；第13章，PDF第298页、第302页）和《B737_FCTM.pdf》附录A.1.386-A.1.387（PDF第842页至843页），备用放襟翼期间最大230节。当前FCOM/QRH/FCTM未确认《限制值(1).docx》第39条中“大于15完成时间25分钟”的表述。。题目中问“备用放襟翼期间最大速度是多少？”，参考答案为 B（230 节）。故正确答案为 B。"
       },
       "reviewStatus": "manual-verified",
       "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
-      "normalizedQuestion": "备用放襟翼大于15后的完成时间约为多少"
+      "normalizedQuestion": "备用放襟翼期间最大速度是多少"
     },
     {
       "id": "LIMIT-0048",
