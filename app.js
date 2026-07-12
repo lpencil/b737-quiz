@@ -282,6 +282,11 @@
       el.feedbackBox.className = "feedback show incorrect";
       el.feedbackBox.textContent = `回答错误。正确答案：${correctAnswer}`;
     }
+    if (question.category === "限制值") {
+      el.referenceBox.className = "reference-box";
+      el.referenceBox.innerHTML = "";
+      return;
+    }
     const ref = question.answerReference || {};
     // 显示答案参考说明
     const summaryText = ref.summary || "";
