@@ -8,7 +8,7 @@ window.B737_QUESTION_BANK = {
       "raw400": 400,
       "raw900": 911,
       "events": 67,
-      "retained": 1027,
+      "retained": 1092,
       "duplicates": 257,
       "conflicts": 27,
       "fuzzyDuplicates": 83,
@@ -31,10 +31,11 @@ window.B737_QUESTION_BANK = {
         "一二三类事件": 37,
         "性能与限制": 74,
         "空调与增压": 16,
-        "通讯": 9
+        "通讯": 9,
+        "限制值": 65
       },
       "referenceStatusCounts": {
-        "verified": 1027
+        "verified": 1092
       }
     }
   },
@@ -49738,6 +49739,3451 @@ window.B737_QUESTION_BANK = {
       "reviewStatus": "manual-verified",
       "notes": "",
       "normalizedQuestion": "非精密进近时进行寒冷温度高度修正的条件是什么"
+    },
+    {
+      "id": "LIMIT-0001",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 1
+        }
+      ],
+      "sourceRows": [
+        1
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "最大起飞和着陆顺风分量是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 海里/小时",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "10 海里/小时",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "15 海里/小时",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第1条",
+        "page": "Word文档第1页；第1条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第1条（Word文档第1页；第1条）。原文说明：依据《限制值(1).docx》第1条，最大起飞和着陆顺风分量为10海里/小时。。题目中问“最大起飞和着陆顺风分量是多少？”，参考答案为 B（10 海里/小时）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "最大起飞和着陆顺风分量是多少"
+    },
+    {
+      "id": "LIMIT-0002",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 2
+        }
+      ],
+      "sourceRows": [
+        2
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "最大速度应遵守哪一类限制速度？",
+      "options": [
+        {
+          "key": "A",
+          "text": "起落架/襟翼标牌限制速度",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "自动驾驶接通限制速度",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "最大巡航高度限制速度",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第2条",
+        "page": "Word文档第1页；第2条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第2条（Word文档第1页；第2条）。原文说明：依据《限制值(1).docx》第2条，最大速度必须遵守起落架/襟翼标牌限制速度。。题目中问“最大速度应遵守哪一类限制速度？”，参考答案为 A（起落架/襟翼标牌限制速度）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "最大速度应遵守哪一类限制速度"
+    },
+    {
+      "id": "LIMIT-0003",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 3
+        }
+      ],
+      "sourceRows": [
+        3
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "最大起飞和着陆高度是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "8,000 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "8,400 英尺",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "10,000 英尺",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第3条",
+        "page": "Word文档第1页；第3条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第3条（Word文档第1页；第3条）。原文说明：依据《限制值(1).docx》第3条，最大起飞和着陆高度为8,400英尺。。题目中问“最大起飞和着陆高度是多少？”，参考答案为 B（8,400 英尺）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "最大起飞和着陆高度是多少"
+    },
+    {
+      "id": "LIMIT-0004",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 4
+        }
+      ],
+      "sourceRows": [
+        4
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "最大升限是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "39,000 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "41,000 英尺",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "43,000 英尺",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第4条",
+        "page": "Word文档第1页；第4条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第4条（Word文档第1页；第4条）。原文说明：依据《限制值(1).docx》第4条，最大升限为41,000英尺。。题目中问“最大升限是多少？”，参考答案为 B（41,000 英尺）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "最大升限是多少"
+    },
+    {
+      "id": "LIMIT-0005",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 5
+        }
+      ],
+      "sourceRows": [
+        5
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "最大运行纬度是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "北纬78度、南纬78度",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "北纬82度、南纬82度",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "北纬85度、南纬85度",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第5条",
+        "page": "Word文档第1页；第5条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第5条（Word文档第1页；第5条）。原文说明：依据《限制值(1).docx》第5条，最大运行纬度为北纬82度、南纬82度。。题目中问“最大运行纬度是多少？”，参考答案为 B（北纬82度、南纬82度）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "最大运行纬度是多少"
+    },
+    {
+      "id": "LIMIT-0006",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 6
+        }
+      ],
+      "sourceRows": [
+        6
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "起飞和着陆最大示范侧风是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "25 海里/小时",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "30 海里/小时",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "35 海里/小时",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第6条",
+        "page": "Word文档第1页；第6条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第6条（Word文档第1页；第6条）。原文说明：依据《限制值(1).docx》第6条，起飞和着陆最大示范侧风为35海里/小时。。题目中问“起飞和着陆最大示范侧风是多少？”，参考答案为 C（35 海里/小时）。故正确答案为 C。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "起飞和着陆最大示范侧风是多少"
+    },
+    {
+      "id": "LIMIT-0007",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 7
+        }
+      ],
+      "sourceRows": [
+        7
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "RVSM运行中，机长和副驾驶高度显示在空中的最大允许误差是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "100 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "200 英尺",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "300 英尺",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第7条",
+        "page": "Word文档第1页；第7条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第7条（Word文档第1页；第7条）。原文说明：依据《限制值(1).docx》第7条，RVSM运行中，机长和副驾驶高度显示在空中的最大允许误差为200英尺。。题目中问“RVSM运行中，机长和副驾驶高度显示在空中的最大允许误差是多少？”，参考答案为 B（200 英尺）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "rvsm运行中机长和副驾驶高度显示在空中的最大允许误差是多少"
+    },
+    {
+      "id": "LIMIT-0008",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": "高度表误差表"
+        }
+      ],
+      "sourceRows": [
+        "高度表误差表"
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "RVSM运行中，机场标高海平面到5,000英尺时，机长与副驾驶高度表之间最大允许差值是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "50 英尺",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "60 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "75 英尺",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（RVSM高度表误差表）",
+        "page": "Word文档第1页；高度表误差表",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（RVSM高度表误差表）（Word文档第1页；高度表误差表）。原文说明：依据《限制值(1).docx》高度表误差表，机场标高海平面到5,000英尺时，机长与副驾驶高度表之间最大允许差值为50英尺。。题目中问“RVSM运行中，机场标高海平面到5,000英尺时，机长与副驾驶高度表之间最大允许差值是多少？”，参考答案为 A（50 英尺）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "rvsm运行中机场标高海平面到5000英尺时机长与副驾驶高度表之间最大允许差值是多少"
+    },
+    {
+      "id": "LIMIT-0009",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": "高度表误差表"
+        }
+      ],
+      "sourceRows": [
+        "高度表误差表"
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "RVSM运行中，机场标高5,001英尺到10,000英尺时，机长与副驾驶高度表之间最大允许差值是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "50 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "60 英尺",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "75 英尺",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（RVSM高度表误差表）",
+        "page": "Word文档第1页；高度表误差表",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（RVSM高度表误差表）（Word文档第1页；高度表误差表）。原文说明：依据《限制值(1).docx》高度表误差表，机场标高5,001英尺到10,000英尺时，机长与副驾驶高度表之间最大允许差值为60英尺。。题目中问“RVSM运行中，机场标高5,001英尺到10,000英尺时，机长与副驾驶高度表之间最大允许差值是多少？”，参考答案为 B（60 英尺）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "rvsm运行中机场标高5001英尺到10000英尺时机长与副驾驶高度表之间最大允许差值是多少"
+    },
+    {
+      "id": "LIMIT-0010",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": "高度表误差表"
+        }
+      ],
+      "sourceRows": [
+        "高度表误差表"
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "RVSM运行中，机场标高海平面到10,000英尺范围内，机长或副驾驶高度表与机场标高之间最大允许差值是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "50 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "60 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "75 英尺",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（RVSM高度表误差表）",
+        "page": "Word文档第1页；高度表误差表",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（RVSM高度表误差表）（Word文档第1页；高度表误差表）。原文说明：依据《限制值(1).docx》高度表误差表，机长或副驾驶高度表与机场标高之间最大允许差值为75英尺。。题目中问“RVSM运行中，机场标高海平面到10,000英尺范围内，机长或副驾驶高度表与机场标高之间最大允许差值是多少？”，参考答案为 C（75 英尺）。故正确答案为 C。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "rvsm运行中机场标高海平面到10000英尺范围内机长或副驾驶高度表与机场标高之间最大允许差值是多少"
+    },
+    {
+      "id": "LIMIT-0011",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 9
+        }
+      ],
+      "sourceRows": [
+        9
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "最大滑行重量是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "73,481 公斤",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "73,255 公斤",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "65,317 公斤",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第9条",
+        "page": "Word文档第1页；第9条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第9条（Word文档第1页；第9条）。原文说明：依据《限制值(1).docx》第9条，最大滑行重量为73,481公斤。。题目中问“最大滑行重量是多少？”，参考答案为 A（73,481 公斤）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "最大滑行重量是多少"
+    },
+    {
+      "id": "LIMIT-0012",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 10
+        }
+      ],
+      "sourceRows": [
+        10
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "最大起飞重量是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "73,481 公斤",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "73,255 公斤",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "61,688 公斤",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第10条",
+        "page": "Word文档第1页；第10条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第10条（Word文档第1页；第10条）。原文说明：依据《限制值(1).docx》第10条，最大起飞重量为73,255公斤。。题目中问“最大起飞重量是多少？”，参考答案为 B（73,255 公斤）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "最大起飞重量是多少"
+    },
+    {
+      "id": "LIMIT-0013",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 11
+        }
+      ],
+      "sourceRows": [
+        11
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "最大着陆重量是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "65,317 公斤",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "61,688 公斤",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "73,255 公斤",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第11条",
+        "page": "Word文档第1页；第11条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第11条（Word文档第1页；第11条）。原文说明：依据《限制值(1).docx》第11条，最大着陆重量为65,317公斤。。题目中问“最大着陆重量是多少？”，参考答案为 A（65,317 公斤）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "最大着陆重量是多少"
+    },
+    {
+      "id": "LIMIT-0014",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 12
+        }
+      ],
+      "sourceRows": [
+        12
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "最大零燃油重量是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "61,688 公斤",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "65,317 公斤",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "73,481 公斤",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第12条",
+        "page": "Word文档第1页；第12条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第12条（Word文档第1页；第12条）。原文说明：依据《限制值(1).docx》第12条，最大零燃油重量为61,688公斤。。题目中问“最大零燃油重量是多少？”，参考答案为 A（61,688 公斤）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "最大零燃油重量是多少"
+    },
+    {
+      "id": "LIMIT-0015",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 13
+        }
+      ],
+      "sourceRows": [
+        13
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "最大座舱压差是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "8.6 PSI",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "9.1 PSI",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "9.5 PSI",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第13条",
+        "page": "Word文档第1页；第13条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第13条（Word文档第1页；第13条）。原文说明：依据《限制值(1).docx》第13条，最大座舱压差为9.1 PSI。。题目中问“最大座舱压差是多少？”，参考答案为 B（9.1 PSI）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "最大座舱压差是多少"
+    },
+    {
+      "id": "LIMIT-0016",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 14
+        }
+      ],
+      "sourceRows": [
+        14
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "静温低于多少时，爬升和巡航即使有积冰条件也不需要打开发动机热防冰？",
+      "options": [
+        {
+          "key": "A",
+          "text": "-30摄氏度",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "-35摄氏度",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "-40摄氏度",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第14条",
+        "page": "Word文档第1页；第14条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第14条（Word文档第1页；第14条）。原文说明：依据《限制值(1).docx》第14条，在静温-40摄氏度以下爬升和巡航时，即使有积冰条件或预计会结冰，也不需要打开发动机热防冰。。题目中问“静温低于多少时，爬升和巡航即使有积冰条件也不需要打开发动机热防冰？”，参考答案为 C（-40摄氏度）。故正确答案为 C。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "静温低于多少时爬升和巡航即使有积冰条件也不需要打开发动机热防冰"
+    },
+    {
+      "id": "LIMIT-0017",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 15
+        }
+      ],
+      "sourceRows": [
+        15
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "起飞时，离地高度低于多少不得接通自动驾驶？",
+      "options": [
+        {
+          "key": "A",
+          "text": "200 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "400 英尺",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "800 英尺",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第15条",
+        "page": "Word文档第1页；第15条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第15条（Word文档第1页；第15条）。原文说明：依据《限制值(1).docx》第15条，起飞时离地高度低于400英尺不得接通自动驾驶。。题目中问“起飞时，离地高度低于多少不得接通自动驾驶？”，参考答案为 B（400 英尺）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "起飞时离地高度低于多少不得接通自动驾驶"
+    },
+    {
+      "id": "LIMIT-0018",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 16
+        }
+      ],
+      "sourceRows": [
+        16
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "使用单通道进近时，离地高度低于多少不得接通自动驾驶？",
+      "options": [
+        {
+          "key": "A",
+          "text": "50 英尺",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "100 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "400 英尺",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第16条",
+        "page": "Word文档第1页；第16条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第16条（Word文档第1页；第16条）。原文说明：依据《限制值(1).docx》第16条，使用单通道进近时，离地高度低于50英尺不得接通自动驾驶。。题目中问“使用单通道进近时，离地高度低于多少不得接通自动驾驶？”，参考答案为 A（50 英尺）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "使用单通道进近时离地高度低于多少不得接通自动驾驶"
+    },
+    {
+      "id": "LIMIT-0019",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 17
+        }
+      ],
+      "sourceRows": [
+        17
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "自动驾驶接通时，哪项操作被禁止？",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用方向舵配平",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "使用副翼配平",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "调定MCP高度",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第17条",
+        "page": "Word文档第1页；第17条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第17条（Word文档第1页；第17条）。原文说明：依据《限制值(1).docx》第17条，自动驾驶接通时禁止使用副翼配平。。题目中问“自动驾驶接通时，哪项操作被禁止？”，参考答案为 B（使用副翼配平）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "自动驾驶接通时哪项操作被禁止"
+    },
+    {
+      "id": "LIMIT-0020",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 18
+        }
+      ],
+      "sourceRows": [
+        18
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "按FAA规定，预计使用最低着陆天气标准时，最大允许顶风是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "20 海里/小时",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "25 海里/小时",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "30 海里/小时",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第18条",
+        "page": "Word文档第1页；第18条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第18条（Word文档第1页；第18条）。原文说明：依据《限制值(1).docx》第18条，预计使用最低着陆天气标准时，最大允许顶风为25海里/小时。。题目中问“按FAA规定，预计使用最低着陆天气标准时，最大允许顶风是多少？”，参考答案为 B（25 海里/小时）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "按faa规定预计使用最低着陆天气标准时最大允许顶风是多少"
+    },
+    {
+      "id": "LIMIT-0021",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 18
+        }
+      ],
+      "sourceRows": [
+        18
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "按FAA规定，预计使用最低着陆天气标准时，最大允许顺风是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 海里/小时",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "10 海里/小时",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "15 海里/小时",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第18条",
+        "page": "Word文档第1页；第18条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第18条（Word文档第1页；第18条）。原文说明：依据《限制值(1).docx》第18条，预计使用最低着陆天气标准时，最大允许顺风为10海里/小时。。题目中问“按FAA规定，预计使用最低着陆天气标准时，最大允许顺风是多少？”，参考答案为 B（10 海里/小时）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "按faa规定预计使用最低着陆天气标准时最大允许顺风是多少"
+    },
+    {
+      "id": "LIMIT-0022",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 19
+        }
+      ],
+      "sourceRows": [
+        19
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "自动着陆最大下滑道坡度是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "3.00 度",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "3.25 度",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "3.50 度",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第19条",
+        "page": "Word文档第1页；第19条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第19条（Word文档第1页；第19条）。原文说明：依据《限制值(1).docx》第19条，自动着陆最大下滑道坡度为3.25度。。题目中问“自动着陆最大下滑道坡度是多少？”，参考答案为 B（3.25 度）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "自动着陆最大下滑道坡度是多少"
+    },
+    {
+      "id": "LIMIT-0023",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 19
+        }
+      ],
+      "sourceRows": [
+        19
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "自动着陆最小下滑道坡度是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "2.0 度",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "2.5 度",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "3.0 度",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第19条",
+        "page": "Word文档第1页；第19条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第19条（Word文档第1页；第19条）。原文说明：依据《限制值(1).docx》第19条，自动着陆最小下滑道坡度为2.5度。。题目中问“自动着陆最小下滑道坡度是多少？”，参考答案为 B（2.5 度）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "自动着陆最小下滑道坡度是多少"
+    },
+    {
+      "id": "LIMIT-0024",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 20
+        }
+      ],
+      "sourceRows": [
+        20
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "何种构型下可以进行自动着陆？",
+      "options": [
+        {
+          "key": "A",
+          "text": "襟翼30或40，且双发工作正常",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "襟翼15或30，单发或双发均可",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "任意襟翼构型，只要自动驾驶接通",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第20条",
+        "page": "Word文档第1页；第20条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第20条（Word文档第1页；第20条）。原文说明：依据《限制值(1).docx》第20条，仅在襟翼30或40并且双发工作正常时，可以进行自动着陆。。题目中问“何种构型下可以进行自动着陆？”，参考答案为 A（襟翼30或40，且双发工作正常）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "何种构型下可以进行自动着陆"
+    },
+    {
+      "id": "LIMIT-0025",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 21
+        }
+      ],
+      "sourceRows": [
+        21
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "ACARS工作时，哪部VHF不应用于ATC通讯？",
+      "options": [
+        {
+          "key": "A",
+          "text": "VHF-1",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "VHF-2",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "VHF-3",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第21条",
+        "page": "Word文档第1页；第21条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第21条（Word文档第1页；第21条）。原文说明：依据《限制值(1).docx》第21条，ACARS工作时，不需要使用VHF-3进行ATC通讯。。题目中问“ACARS工作时，哪部VHF不应用于ATC通讯？”，参考答案为 C（VHF-3）。故正确答案为 C。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "acars工作时哪部vhf不应用于atc通讯"
+    },
+    {
+      "id": "LIMIT-0026",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 22
+        }
+      ],
+      "sourceRows": [
+        22
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "地面时，应使用哪一部甚高频天线作为主要ATC通讯工具？",
+      "options": [
+        {
+          "key": "A",
+          "text": "与机身顶部天线相连的甚高频天线",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "与机身底部天线相连的甚高频天线",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "任意一部甚高频天线",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第22条",
+        "page": "Word文档第1页；第22条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第22条（Word文档第1页；第22条）。原文说明：依据《限制值(1).docx》第22条，在地面时，应使用与机身顶部天线相连的甚高频天线作为主要的空中交通管制通讯工具。。题目中问“地面时，应使用哪一部甚高频天线作为主要ATC通讯工具？”，参考答案为 A（与机身顶部天线相连的甚高频天线）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "地面时应使用哪一部甚高频天线作为主要atc通讯工具"
+    },
+    {
+      "id": "LIMIT-0027",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 23
+        }
+      ],
+      "sourceRows": [
+        23
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "下列哪种情况下必须接通发动机连续点火？",
+      "options": [
+        {
+          "key": "A",
+          "text": "巡航中晴空颠簸",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "起飞、着陆、大雨中飞行或防冰工作",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "地面等待且襟翼收上",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第23条",
+        "page": "Word文档第1页；第23条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第23条（Word文档第1页；第23条）。原文说明：依据《限制值(1).docx》第23条，在起飞、着陆、在大雨中飞行或防冰工作的情况下，必须接通发动机连续点火。。题目中问“下列哪种情况下必须接通发动机连续点火？”，参考答案为 B（起飞、着陆、大雨中飞行或防冰工作）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "下列哪种情况下必须接通发动机连续点火"
+    },
+    {
+      "id": "LIMIT-0028",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 24
+        }
+      ],
+      "sourceRows": [
+        24
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "APU同时提供引气和电气负载时，最大高度是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "10,000 英尺",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "15,000 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "17,000 英尺",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第24条",
+        "page": "Word文档第1页；第24条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第24条（Word文档第1页；第24条）。原文说明：依据《限制值(1).docx》第24条，APU引气加电气负载最大高度为10,000英尺。。题目中问“APU同时提供引气和电气负载时，最大高度是多少？”，参考答案为 A（10,000 英尺）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "apu同时提供引气和电气负载时最大高度是多少"
+    },
+    {
+      "id": "LIMIT-0029",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 24
+        }
+      ],
+      "sourceRows": [
+        24
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "APU仅地面提供引气和电气负载时，最大高度是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "10,000 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "15,000 英尺",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "17,000 英尺",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第24条",
+        "page": "Word文档第1页；第24条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第24条（Word文档第1页；第24条）。原文说明：依据《限制值(1).docx》第24条，仅地面引气加电气负载最大高度为15,000英尺。。题目中问“APU仅地面提供引气和电气负载时，最大高度是多少？”，参考答案为 B（15,000 英尺）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "apu仅地面提供引气和电气负载时最大高度是多少"
+    },
+    {
+      "id": "LIMIT-0030",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 24
+        }
+      ],
+      "sourceRows": [
+        24
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "APU仅供引气时，最大高度限制是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "10,000 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "15,000 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "17,000 英尺",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第24条",
+        "page": "Word文档第1页；第24条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第24条（Word文档第1页；第24条）。原文说明：依据《限制值(1).docx》第24条，引气最大高度限制为17,000英尺。。题目中问“APU仅供引气时，最大高度限制是多少？”，参考答案为 C（17,000 英尺）。故正确答案为 C。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "apu仅供引气时最大高度限制是多少"
+    },
+    {
+      "id": "LIMIT-0031",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 24
+        }
+      ],
+      "sourceRows": [
+        24
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "APU仅供电气负载时，最大高度限制是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "17,000 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "25,000 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "41,000 英尺",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第24条",
+        "page": "Word文档第1页；第24条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第24条（Word文档第1页；第24条）。原文说明：依据《限制值(1).docx》第24条，电气最大高度限制为41,000英尺。。题目中问“APU仅供电气负载时，最大高度限制是多少？”，参考答案为 C（41,000 英尺）。故正确答案为 C。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "apu仅供电气负载时最大高度限制是多少"
+    },
+    {
+      "id": "LIMIT-0032",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 25
+        }
+      ],
+      "sourceRows": [
+        25
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "发动机起动时如APU引气可能打开，应避免发动机推力高于什么推力？",
+      "options": [
+        {
+          "key": "A",
+          "text": "慢车推力",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "起飞推力",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "最大连续推力",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第25条",
+        "page": "Word文档第1页；第25条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第25条（Word文档第1页；第25条）。原文说明：依据《限制值(1).docx》第25条，发动机发动时APU引气可能会打开，应避免发动机推力高于慢车推力。。题目中问“发动机起动时如APU引气可能打开，应避免发动机推力高于什么推力？”，参考答案为 A（慢车推力）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "发动机起动时如apu引气可能打开应避免发动机推力高于什么推力"
+    },
+    {
+      "id": "LIMIT-0033",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 26
+        }
+      ],
+      "sourceRows": [
+        26
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "襟翼放出时，禁止在什么条件下等待？",
+      "options": [
+        {
+          "key": "A",
+          "text": "结冰条件",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "目视气象条件",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "顺风条件",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第26条",
+        "page": "Word文档第1页；第26条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第26条（Word文档第1页；第26条）。原文说明：依据《限制值(1).docx》第26条，襟翼放出时禁止在结冰条件下等待。。题目中问“襟翼放出时，禁止在什么条件下等待？”，参考答案为 A（结冰条件）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "襟翼放出时禁止在什么条件下等待"
+    },
+    {
+      "id": "LIMIT-0034",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 27
+        }
+      ],
+      "sourceRows": [
+        27
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "飞行中无线电高度低于多少不得放减速板？",
+      "options": [
+        {
+          "key": "A",
+          "text": "500 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "1,000 英尺",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "1,500 英尺",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第27条",
+        "page": "Word文档第1页；第27条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第27条（Word文档第1页；第27条）。原文说明：依据《限制值(1).docx》第27条，飞行中无线电高度低于1,000英尺不得放减速板。。题目中问“飞行中无线电高度低于多少不得放减速板？”，参考答案为 B（1,000 英尺）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "飞行中无线电高度低于多少不得放减速板"
+    },
+    {
+      "id": "LIMIT-0035",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 28
+        }
+      ],
+      "sourceRows": [
+        28
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "在空中，减速板手柄不得放出超过什么位置？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ARM位",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "飞行卡位",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "UP位",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第28条",
+        "page": "Word文档第1页；第28条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第28条（Word文档第1页；第28条）。原文说明：依据《限制值(1).docx》第28条，在空中不得把减速板手柄放出超过飞行卡位。。题目中问“在空中，减速板手柄不得放出超过什么位置？”，参考答案为 B（飞行卡位）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "在空中减速板手柄不得放出超过什么位置"
+    },
+    {
+      "id": "LIMIT-0036",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 29
+        }
+      ],
+      "sourceRows": [
+        29
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "发动机注意限制通常显示为什么颜色？",
+      "options": [
+        {
+          "key": "A",
+          "text": "红色",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "琥珀色",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "绿色",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第29条",
+        "page": "Word文档第1页；第29条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第29条（Word文档第1页；第29条）。原文说明：依据《限制值(1).docx》第29条，发动机注意限制为琥珀色。。题目中问“发动机注意限制通常显示为什么颜色？”，参考答案为 B（琥珀色）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "发动机注意限制通常显示为什么颜色"
+    },
+    {
+      "id": "LIMIT-0037",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 30
+        }
+      ],
+      "sourceRows": [
+        30
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "如中央油箱油量超过多少，两主油箱必须加满？",
+      "options": [
+        {
+          "key": "A",
+          "text": "363 公斤",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "453 公斤",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "680 公斤",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第30条",
+        "page": "Word文档第1页；第30条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第30条（Word文档第1页；第30条）。原文说明：依据《限制值(1).docx》第30条，如中央油箱油量超过453公斤，两主油箱必须加满。。题目中问“如中央油箱油量超过多少，两主油箱必须加满？”，参考答案为 B（453 公斤）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "如中央油箱油量超过多少两主油箱必须加满"
+    },
+    {
+      "id": "LIMIT-0038",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 31
+        }
+      ],
+      "sourceRows": [
+        31
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "任何时候以场压代替海压时，FMS中必须选择什么为基准？",
+      "options": [
+        {
+          "key": "A",
+          "text": "PFD的场压高度",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "MCP选择高度",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "无线电高度",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第31条",
+        "page": "Word文档第1页；第31条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第31条（Word文档第1页；第31条）。原文说明：依据《限制值(1).docx》第31条，任何时候以场压代替海压时，必须在FMS中选择主飞行显示的场压高度为基准。。题目中问“任何时候以场压代替海压时，FMS中必须选择什么为基准？”，参考答案为 A（PFD的场压高度）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "任何时候以场压代替海压时fms中必须选择什么为基准"
+    },
+    {
+      "id": "LIMIT-0039",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 32
+        }
+      ],
+      "sourceRows": [
+        32
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "近地警告系统的哪项功能不得用于导航？",
+      "options": [
+        {
+          "key": "A",
+          "text": "地形显示功能",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "无线电高度显示",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "下滑道偏离显示",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第32条",
+        "page": "Word文档第1页；第32条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第32条（Word文档第1页；第32条）。原文说明：依据《限制值(1).docx》第32条，近地警告系统不得使用地形显示功能来导航。。题目中问“近地警告系统的哪项功能不得用于导航？”，参考答案为 A（地形显示功能）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "近地警告系统的哪项功能不得用于导航"
+    },
+    {
+      "id": "LIMIT-0040",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 33
+        }
+      ],
+      "sourceRows": [
+        33
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "地形数据库未存有机场周围多少海里内相关资料时，不得使用预测式地形警戒和地形显示功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "10 海里",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "15 海里",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "25 海里",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第33条",
+        "page": "Word文档第1页；第33条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第33条（Word文档第1页；第33条）。原文说明：依据《限制值(1).docx》第33条，在地形数据库未存有机场周围15海里以内相关资料时，不得使用预测式地形警戒和地形显示功能。。题目中问“地形数据库未存有机场周围多少海里内相关资料时，不得使用预测式地形警戒和地形显示功能？”，参考答案为 B（15 海里）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "地形数据库未存有机场周围多少海里内相关资料时不得使用预测式地形警戒和地形显示功能"
+    },
+    {
+      "id": "LIMIT-0041",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 34
+        }
+      ],
+      "sourceRows": [
+        34
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "加油时，在机库中或靠近溢油处、离人群多少范围内不得使用气象雷达？",
+      "options": [
+        {
+          "key": "A",
+          "text": "25 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "50 英尺",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "100 英尺",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第34条",
+        "page": "Word文档第1页；第34条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第34条（Word文档第1页；第34条）。原文说明：依据《限制值(1).docx》第34条，加油时在机库中或靠近溢油处、离人群50英尺范围内，不得使用气象雷达。。题目中问“加油时，在机库中或靠近溢油处、离人群多少范围内不得使用气象雷达？”，参考答案为 B（50 英尺）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "加油时在机库中或靠近溢油处离人群多少范围内不得使用气象雷达"
+    },
+    {
+      "id": "LIMIT-0042",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 35
+        }
+      ],
+      "sourceRows": [
+        35
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "按FAA规定，预计使用着陆最低天气标准时，最大允许侧风是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 海里/小时",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "20 海里/小时",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "25 海里/小时",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第35条",
+        "page": "Word文档第1页；第35条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第35条（Word文档第1页；第35条）。原文说明：依据《限制值(1).docx》第35条，预计使用着陆最低天气标准时，最大允许侧风为20海里/小时。。题目中问“按FAA规定，预计使用着陆最低天气标准时，最大允许侧风是多少？”，参考答案为 B（20 海里/小时）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "按faa规定预计使用着陆最低天气标准时最大允许侧风是多少"
+    },
+    {
+      "id": "LIMIT-0043",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 36
+        }
+      ],
+      "sourceRows": [
+        36
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "最大放襟翼高度是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "10,000 英尺",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "20,000 英尺",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "25,000 英尺",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第36条",
+        "page": "Word文档第1页；第36条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第36条（Word文档第1页；第36条）。原文说明：依据《限制值(1).docx》第36条，最大放襟翼高度为20,000英尺。。题目中问“最大放襟翼高度是多少？”，参考答案为 B（20,000 英尺）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "最大放襟翼高度是多少"
+    },
+    {
+      "id": "LIMIT-0044",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 37
+        }
+      ],
+      "sourceRows": [
+        37
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "滑行、起飞或空中偶然出现的两主油箱燃油不平衡不得超过多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "0 公斤",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "453 公斤",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "680 公斤",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第37条",
+        "page": "Word文档第1页；第37条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第37条（Word文档第1页；第37条）。原文说明：依据《限制值(1).docx》第37条，滑行、起飞或空中偶然出现的燃油不平衡不得超过453公斤。。题目中问“滑行、起飞或空中偶然出现的两主油箱燃油不平衡不得超过多少？”，参考答案为 B（453 公斤）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "滑行起飞或空中偶然出现的两主油箱燃油不平衡不得超过多少"
+    },
+    {
+      "id": "LIMIT-0045",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 38
+        }
+      ],
+      "sourceRows": [
+        38
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "选择QFE时，禁止使用哪些导航方式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "水平和垂直导航方式",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "航向选择和高度保持",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "VOR和ILS方式",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第38条",
+        "page": "Word文档第1页；第38条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第38条（Word文档第1页；第38条）。原文说明：依据《限制值(1).docx》第38条，选择QFE时，禁止使用水平和垂直导航方式。。题目中问“选择QFE时，禁止使用哪些导航方式？”，参考答案为 A（水平和垂直导航方式）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "选择qfe时禁止使用哪些导航方式"
+    },
+    {
+      "id": "LIMIT-0046",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 39
+        }
+      ],
+      "sourceRows": [
+        39
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "备用放襟翼0到15的完成时间约为多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 分钟",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "5 分钟",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "15 分钟",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第39条",
+        "page": "Word文档第1页；第39条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第39条（Word文档第1页；第39条）。原文说明：依据《限制值(1).docx》第39条，备用放襟翼0到15完成时间为5分钟。。题目中问“备用放襟翼0到15的完成时间约为多少？”，参考答案为 B（5 分钟）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "备用放襟翼0到15的完成时间约为多少"
+    },
+    {
+      "id": "LIMIT-0047",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 39
+        }
+      ],
+      "sourceRows": [
+        39
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "备用放襟翼大于15后的完成时间约为多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 分钟",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "20 分钟",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "25 分钟",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第39条",
+        "page": "Word文档第1页；第39条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第39条（Word文档第1页；第39条）。原文说明：依据《限制值(1).docx》第39条，备用放襟翼大于15后的完成时间为25分钟。。题目中问“备用放襟翼大于15后的完成时间约为多少？”，参考答案为 C（25 分钟）。故正确答案为 C。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "备用放襟翼大于15后的完成时间约为多少"
+    },
+    {
+      "id": "LIMIT-0048",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 40
+        }
+      ],
+      "sourceRows": [
+        40
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "油箱燃油最高温度是多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "43 摄氏度",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "49 摄氏度",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "55 摄氏度",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第40条",
+        "page": "Word文档第1页；第40条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第40条（Word文档第1页；第40条）。原文说明：依据《限制值(1).docx》第40条，油箱燃油最高温度为49摄氏度。。题目中问“油箱燃油最高温度是多少？”，参考答案为 B（49 摄氏度）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "油箱燃油最高温度是多少"
+    },
+    {
+      "id": "LIMIT-0049",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 41
+        }
+      ],
+      "sourceRows": [
+        41
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "飞行中油箱燃油最低温度应如何确定？",
+      "options": [
+        {
+          "key": "A",
+          "text": "所用燃油冰点以上3摄氏度或-43摄氏度，以较高者为准",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "所用燃油冰点以下3摄氏度或-43摄氏度，以较低者为准",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "固定为-40摄氏度",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第41条",
+        "page": "Word文档第1页；第41条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第41条（Word文档第1页；第41条）。原文说明：依据《限制值(1).docx》第41条，飞行中油箱燃油最低温度为所用燃油冰点以上3摄氏度或-43摄氏度，以高的一个为准。。题目中问“飞行中油箱燃油最低温度应如何确定？”，参考答案为 A（所用燃油冰点以上3摄氏度或-43摄氏度，以较高者为准）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "飞行中油箱燃油最低温度应如何确定"
+    },
+    {
+      "id": "LIMIT-0050",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 42
+        }
+      ],
+      "sourceRows": [
+        42
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "防滞不工作时，哪项起飞方式被禁止？",
+      "options": [
+        {
+          "key": "A",
+          "text": "全推力起飞",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "假设温度减推力起飞",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "襟翼5起飞",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第42条",
+        "page": "Word文档第1页；第42条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第42条（Word文档第1页；第42条）。原文说明：依据《限制值(1).docx》第42条，防滞不工作时禁止使用假设温度减推力起飞。。题目中问“防滞不工作时，哪项起飞方式被禁止？”，参考答案为 B（假设温度减推力起飞）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "防滞不工作时哪项起飞方式被禁止"
+    },
+    {
+      "id": "LIMIT-0051",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 43
+        }
+      ],
+      "sourceRows": [
+        43
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "下列哪类燃油被禁止使用？",
+      "options": [
+        {
+          "key": "A",
+          "text": "JET A-1",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "JP-4或JET B燃油",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "符合规范的民航煤油",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第43条",
+        "page": "Word文档第1页；第43条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第43条（Word文档第1页；第43条）。原文说明：依据《限制值(1).docx》第43条，禁止使用符合GE规范D50TF2的B级别宽馏份燃油、JP-4、JET B燃油。。题目中问“下列哪类燃油被禁止使用？”，参考答案为 B（JP-4或JET B燃油）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "下列哪类燃油被禁止使用"
+    },
+    {
+      "id": "LIMIT-0052",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 44
+        }
+      ],
+      "sourceRows": [
+        44
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "纬度高于多少时，不得校准大气数据惯性基准组件？",
+      "options": [
+        {
+          "key": "A",
+          "text": "78度15分",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "82度00分",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "85度00分",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第44条",
+        "page": "Word文档第1页；第44条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第44条（Word文档第1页；第44条）。原文说明：依据《限制值(1).docx》第44条，纬度高于78度15分不得校准大气数据惯性基准组件。。题目中问“纬度高于多少时，不得校准大气数据惯性基准组件？”，参考答案为 A（78度15分）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "纬度高于多少时不得校准大气数据惯性基准组件"
+    },
+    {
+      "id": "LIMIT-0053",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 45
+        }
+      ],
+      "sourceRows": [
+        45
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "什么时候不要使用刹车？",
+      "options": [
+        {
+          "key": "A",
+          "text": "接地前",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "接地后减速阶段",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "滑行转弯前",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第45条",
+        "page": "Word文档第1页；第45条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第45条（Word文档第1页；第45条）。原文说明：依据《限制值(1).docx》第45条，接地前不要使用刹车。。题目中问“什么时候不要使用刹车？”，参考答案为 A（接地前）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "什么时候不要使用刹车"
+    },
+    {
+      "id": "LIMIT-0054",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 46
+        }
+      ],
+      "sourceRows": [
+        46
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "空中关于反推使用的限制是什么？",
+      "options": [
+        {
+          "key": "A",
+          "text": "允许短时使用反推",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "禁止故意使用反推",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "只允许一台发动机使用反推",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第46条",
+        "page": "Word文档第1页；第46条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第46条（Word文档第1页；第46条）。原文说明：依据《限制值(1).docx》第46条，空中禁止故意使用反推。。题目中问“空中关于反推使用的限制是什么？”，参考答案为 B（禁止故意使用反推）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "空中关于反推使用的限制是什么"
+    },
+    {
+      "id": "LIMIT-0055",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 47
+        }
+      ],
+      "sourceRows": [
+        47
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "为避免结构性故障，应避免哪类操纵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "粗猛地改变操纵量，特别是伴随俯仰、横滚或偏航大幅变化",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "正常小幅修正航向",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "按程序使用自动驾驶",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第47条",
+        "page": "Word文档第1页；第47条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第47条（Word文档第1页；第47条）。原文说明：依据《限制值(1).docx》第47条，应避免粗猛地改变操纵量，特别是结合飞机在俯仰、横滚或偏航方向上的大幅度变化。。题目中问“为避免结构性故障，应避免哪类操纵？”，参考答案为 A（粗猛地改变操纵量，特别是伴随俯仰、横滚或偏航大幅变化）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "为避免结构性故障应避免哪类操纵"
+    },
+    {
+      "id": "LIMIT-0056",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 48
+        }
+      ],
+      "sourceRows": [
+        48
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "使用备用襟翼位置电门收放襟翼时，松开电门后应等待多久才能再次扳动？",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 秒",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "15 秒",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "30 秒",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第48条",
+        "page": "Word文档第1页；第48条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第48条（Word文档第1页；第48条）。原文说明：依据《限制值(1).docx》第48条，使用备用襟翼位置电门收放襟翼时，松开电门后等待15秒才能再次扳动。。题目中问“使用备用襟翼位置电门收放襟翼时，松开电门后应等待多久才能再次扳动？”，参考答案为 B（15 秒）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "使用备用襟翼位置电门收放襟翼时松开电门后应等待多久才能再次扳动"
+    },
+    {
+      "id": "LIMIT-0057",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 49
+        }
+      ],
+      "sourceRows": [
+        49
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "完成一个完整的备用襟翼放/收循环后，冷却多久才能进行下一次放襟翼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 秒",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "15 秒",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "5 分钟",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第49条",
+        "page": "Word文档第1页；第49条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第49条（Word文档第1页；第49条）。原文说明：依据《限制值(1).docx》第49条，完成一个完整的放/收襟翼循环后，冷却5秒才能进行下一次放襟翼。。题目中问“完成一个完整的备用襟翼放/收循环后，冷却多久才能进行下一次放襟翼？”，参考答案为 A（5 秒）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "完成一个完整的备用襟翼放/收循环后冷却多久才能进行下一次放襟翼"
+    },
+    {
+      "id": "LIMIT-0058",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 50
+        }
+      ],
+      "sourceRows": [
+        50
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "任意一个或两个发动机引气接通，起飞、进近或着陆时，空调组件不得使用什么流量？",
+      "options": [
+        {
+          "key": "A",
+          "text": "低流量",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "正常流量",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "高流量",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第50条",
+        "page": "Word文档第1页；第50条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第50条（Word文档第1页；第50条）。原文说明：依据《限制值(1).docx》第50条，任意一个发动机引气接通或两个发动机引气都接通，起飞、进近或着陆时，空调组件不得使用高流量。。题目中问“任意一个或两个发动机引气接通，起飞、进近或着陆时，空调组件不得使用什么流量？”，参考答案为 C（高流量）。故正确答案为 C。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "任意一个或两个发动机引气接通起飞进近或着陆时空调组件不得使用什么流量"
+    },
+    {
+      "id": "LIMIT-0059",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 51
+        }
+      ],
+      "sourceRows": [
+        51
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "最后进近低于多少高度时，不要使用高度层改变？",
+      "options": [
+        {
+          "key": "A",
+          "text": "500 英尺AFE",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "1,000 英尺AFE",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "text": "1,500 英尺AFE",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第51条",
+        "page": "Word文档第1页；第51条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第51条（Word文档第1页；第51条）。原文说明：依据《限制值(1).docx》第51条，在最后进近低于1,000英尺AFE时，不要使用高度层改变。。题目中问“最后进近低于多少高度时，不要使用高度层改变？”，参考答案为 B（1,000 英尺AFE）。故正确答案为 B。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "最后进近低于多少高度时不要使用高度层改变"
+    },
+    {
+      "id": "LIMIT-0060",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 52
+        }
+      ],
+      "sourceRows": [
+        52
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "出现地面气源连接且隔离活门打开等组合时，必须关闭哪个电门？",
+      "options": [
+        {
+          "key": "A",
+          "text": "APU引气电门",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "左组件电门",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "再循环风扇电门",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第52条",
+        "page": "Word文档第1页；第52条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第52条（Word文档第1页；第52条）。原文说明：依据《限制值(1).docx》第52条，出现连接地面气源且隔离活门打开、1号发动机引气活门打开、隔离活门和2号发动机引气活门打开等情况时，必须关闭APU引气电门。。题目中问“出现地面气源连接且隔离活门打开等组合时，必须关闭哪个电门？”，参考答案为 A（APU引气电门）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "出现地面气源连接且隔离活门打开等组合时必须关闭哪个电门"
+    },
+    {
+      "id": "LIMIT-0061",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 53
+        }
+      ],
+      "sourceRows": [
+        53
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "连续三次中断启动APU后，需要多长冷却时间？",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 分钟",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "text": "10 分钟",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "15 分钟",
+          "isCorrect": true
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第53条",
+        "page": "Word文档第1页；第53条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第53条（Word文档第1页；第53条）。原文说明：依据《限制值(1).docx》第53条，在尝试连续三次中断启动APU后，需要15分钟冷却时间。。题目中问“连续三次中断启动APU后，需要多长冷却时间？”，参考答案为 C（15 分钟）。故正确答案为 C。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "连续三次中断启动apu后需要多长冷却时间"
+    },
+    {
+      "id": "LIMIT-0062",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 54
+        }
+      ],
+      "sourceRows": [
+        54
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "什么情况下应避免使用气象雷达？",
+      "options": [
+        {
+          "key": "A",
+          "text": "机头整流罩通常覆盖范围内有人员时",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "飞机在巡航高度且前方有降水时",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "地面雷达选择在测试位时",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第54条",
+        "page": "Word文档第1页；第54条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第54条（Word文档第1页；第54条）。原文说明：依据《限制值(1).docx》第54条，在机头整流罩通常覆盖着的范围内有人员时，避免使用气象雷达。。题目中问“什么情况下应避免使用气象雷达？”，参考答案为 A（机头整流罩通常覆盖范围内有人员时）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "什么情况下应避免使用气象雷达"
+    },
+    {
+      "id": "LIMIT-0063",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": 55
+        }
+      ],
+      "sourceRows": [
+        55
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "中央油箱燃油泵低压灯亮时，关于中央油箱燃油泵有什么限制？",
+      "options": [
+        {
+          "key": "A",
+          "text": "禁止故意运转中央油箱燃油泵",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "必须持续运转中央油箱燃油泵",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "只允许左泵运转",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（限制值）第55条",
+        "page": "Word文档第1页；第55条",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（限制值）第55条（Word文档第1页；第55条）。原文说明：依据《限制值(1).docx》第55条，低压灯亮时禁止故意运转中央油箱燃油泵。。题目中问“中央油箱燃油泵低压灯亮时，关于中央油箱燃油泵有什么限制？”，参考答案为 A（禁止故意运转中央油箱燃油泵）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "中央油箱燃油泵低压灯亮时关于中央油箱燃油泵有什么限制"
+    },
+    {
+      "id": "LIMIT-0064",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": "问答题：截获航向道前确认事项"
+        }
+      ],
+      "sourceRows": [
+        "问答题：截获航向道前确认事项"
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "截获航向道之前，应确认ILS频率状态符合哪项要求？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ILS频率已调置并识别，且与接通的自动驾驶同侧",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "只要MCP航向正确即可",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "只需确认备用高度表正常",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（截获航向道前确认事项）",
+        "page": "Word文档问答题部分",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（截获航向道前确认事项）（Word文档问答题部分）。原文说明：依据《限制值(1).docx》问答题“在截获航向道之前，应该确认什么？”，应确认ILS频率已调置并且识别，且与接通的自动驾驶同侧。。题目中问“截获航向道之前，应确认ILS频率状态符合哪项要求？”，参考答案为 A（ILS频率已调置并识别，且与接通的自动驾驶同侧）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "截获航向道之前应确认ils频率状态符合哪项要求"
+    },
+    {
+      "id": "LIMIT-0065",
+      "sourceFiles": [
+        "限制值(1).docx"
+      ],
+      "sources": [
+        {
+          "file": "限制值(1).docx",
+          "sheet": "限制值",
+          "row": "问答题：截获航向道前确认事项"
+        }
+      ],
+      "sourceRows": [
+        "问答题：截获航向道前确认事项"
+      ],
+      "category": "限制值",
+      "tags": [
+        "限制值",
+        "三选一",
+        "限制值(1).docx"
+      ],
+      "question": "截获航向道之前，关于LOC和GS指针应确认什么？",
+      "options": [
+        {
+          "key": "A",
+          "text": "LOC和GS指针显示",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "text": "仅LOC指针显示",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "text": "仅GS指针显示",
+          "isCorrect": false
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "answerReference": {
+        "status": "verified",
+        "manual": "限制值(1).docx",
+        "section": "限制值资料第1章（截获航向道前确认事项）",
+        "page": "Word文档问答题部分",
+        "summary": "依据《限制值(1).docx》限制值资料第1章（截获航向道前确认事项）（Word文档问答题部分）。原文说明：依据《限制值(1).docx》问答题“在截获航向道之前，应该确认什么？”，应确认LOC和GS指针显示。。题目中问“截获航向道之前，关于LOC和GS指针应确认什么？”，参考答案为 A（LOC和GS指针显示）。故正确答案为 A。"
+      },
+      "reviewStatus": "manual-verified",
+      "notes": "由限制值(1).docx生成，后续可与FCOM/运行手册交叉核对。",
+      "normalizedQuestion": "截获航向道之前关于loc和gs指针应确认什么"
     }
   ]
 };
